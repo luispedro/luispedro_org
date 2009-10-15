@@ -1,19 +1,26 @@
 title: Luís Pedro Coelho
-url: /
+url: 
 categories: about-me
 ..
+
 Who am I?
 =========
+
+.. image:: /files/niagara-small.jpg
+   :alt: Luis Pedro Coelho
+   :class: float-right
+
 I am a Computational Biology student in the Joint Carnegie Mellon-U. of Pittsburgh Ph.D. Program in Pittsburgh.
+
 
 I work at the Murphy Lab in problems relating to interpreting fluorescent microscopy images.
 
 Recent Publications
 ===================
 
-  - Identifying Subcellular Locations from Images of Unknown Resolution Luís Pedro Coelho; Robert Murphy, Bioinformatics Research and Development, Springer, Volume 13, Vienna, Austria (2008)
-  - An Adaptive Multiresolution Approach to Fingerprint Recognition Amina Chebira; Luís Pedro Coelho; Aliaksei Sandryhaila; Stephen Lin; William G. Jenkinson; Jeremiah MacSleyne; Christopher Hoffman; Philipp Cuadra; Charles Jackson; Markus Püschel; Jelena Kovacevic , International Conference on Image Processing, (2007) 
-  - Dotted Suffix Trees: A Structure for Approximate Text Indexing Luís Pedro Coelho; Arlindo Oliveira , SPIRE: String Processing and Information Retrieval (2006)
+- Identifying Subcellular Locations from Images of Unknown Resolution Luís Pedro Coelho; Robert Murphy, Bioinformatics Research and Development, Springer, Volume 13, Vienna, Austria (2008)
+- An Adaptive Multiresolution Approach to Fingerprint Recognition Amina Chebira; Luís Pedro Coelho; Aliaksei Sandryhaila; Stephen Lin; William G. Jenkinson; Jeremiah MacSleyne; Christopher Hoffman; Philipp Cuadra; Charles Jackson; Markus Püschel; Jelena Kovacevic , International Conference on Image Processing, (2007) 
+- Dotted Suffix Trees: A Structure for Approximate Text Indexing Luís Pedro Coelho; Arlindo Oliveira , SPIRE: String Processing and Information Retrieval (2006)
 
 Teaching
 ========
