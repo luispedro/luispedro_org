@@ -34,4 +34,18 @@ Why is this worse than gitwiki?
 
 Because there is *no web front-end* to the history or even an edit button. It's git all the way.
 
-We just have different goals.
+For example, in this website, the `conferences </conferences/upcoming/>`_ is a django app whose data is a text file that looks like:
+
+::
+
+    name: International Symposium on Biomedical Imaging (ISBI)
+    short_name: ISBI
+    location: Rotterdam, The Netherlands
+    start: April 14 2010
+    end: April 17 2010
+    submission_deadline: November 2 2009
+
+Actually, the menus on this website are also saved as a `yaml <http://www.yaml.org>`_ file.
+
+This is not really comparable to wiki-git-like projects. We just have different goals.
+
