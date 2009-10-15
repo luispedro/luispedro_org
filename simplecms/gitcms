@@ -22,8 +22,16 @@ Github_, of course. The code is license Affero 3 (GPL for web applications).
 
 .. _Github: http://github.com/luispedro/django-gitcms
 
-Why is this better than gitwiki?
---------------------------------
+Why is this better than `gitwiki`_?
+-----------------------------------
+
+.. _`gitwiki`: http://github.com/al3x/git-wiki
 
 Because you can store any type of data, not only hyper-text files. Also, you can add as much structure as you'd like.
 
+Why is this worse than gitwiki?
+--------------------------------
+
+Because there is *no web front-end* to the history or even an edit button. It's git all the way.
+
+We just have different goals.
