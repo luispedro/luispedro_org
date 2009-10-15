@@ -1,0 +1,39 @@
+@inproceedings{ dotted,
+	title = {Dotted Suffix Trees: A Structure for Approximate Text Indexing},
+	volume = {4209},
+	year = {2006},
+	pages = {329--336},
+	publisher = {Springer},
+	address = {Glasgow, Scotland},
+	abstract = {The problem we address is text indexing for approximate matching. Given a text $T$ which undergoes some preprocessing to generate an index, we can later query this index to identify the places where a string occurs up to a certain number of errors $k$ (edition distance). The indexing structure occupies space $O(n \log^k n)$ in the average case, independent of alphabet size. This structure can be used to report the existence of a match with k errors in $O(3^k m^{k+1})$ and to report the occurrences in $O(3^k m^{k+1} + ed)$ time, where $m$ is the length of the pattern and ed and the number of matching edit scripts. The construction of the structure has time bound by $O(kNS)$, where $N$ is the number of nodes in the index and $S$ the alphabet size.},
+	keywords = {String indexing, approximate matching},
+	URL = {http://luispedro.org/files/dot-link.pdf},
+	author = {Luís Pedro Coelho and Arlindo Oliveira}
+}
+
+@inproceedings{adaptative,
+	title = {An Adaptive Multiresolution Approach to Fingerprint Recognition},
+	year = {2007},
+	note = {To appear.},
+	author = {Amina Chebira and Luis Pedro Coelho and Aliaksei Sandryhaila and Stephen Lin and William G. Jenkinson and Jeremiah MacSleyne and Christopher Hoffman and Philipp Cuadra and Charles Jackson and Markus Püschel and Jelena Kovacevic}
+}
+
+@inproceedings{bird,
+	title = {Identifying Subcellular Locations from Images of Unknown Resolution},
+	editor = {Elloumi, M.; Küng, J.; Linial, M.; Murphy, R.; Schneider, K.; Toma, C.},
+	volume = {13},
+	year = {2008},
+	month = {07/07/2008},
+	publisher = {Springer},
+	address = {Vienna, Austria},
+	abstract = {Our group has previously used machine learning techniques to develop computational systems to automatically analyse fluorescence microscope images and classify the location of the depicted protein. Based on this work, we developed a system, the Subcellular Location Image Finder (slif), which mines images from scientifioc journals for analysis.
+
+For some of the images in journals, the system is able to automatically compute the pixel resolution (the physical space represented by each pixel), by identifying a scale bar and processing the caption text. However, scale bars are not always included. For those images, the pixel resolution is unknown. Blindly feeding these images into the classification pipeline results in unacceptably low accuracy. We first describe methods that minimise the impact of this problem by training resolution-insensitive classifiers.
+
+We show that these techniques are of limited use as classifiers can only be made insensitive to resolutions which are similar to each other. We then approach the problem in a different way by trying to estimate the resolution automatically and processing the image based on this prediction. Testing on digitally down-sampled images shows that the combination of these two approaches gives classification results which are essentially as good as if the resolution had been known.
+},
+	keywords = {image processing; bioimaging},
+	ISBN = {978-3-540-70598-7},
+	author = {Luís Pedro Coelho and Robert Murphy}
+}
+
