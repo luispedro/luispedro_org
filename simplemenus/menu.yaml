@@ -1,8 +1,11 @@
 name: Main Menu
 children:
-    -   name: Curriculum Vitae
-        url: resume
-    -   name: Biography
-        url: biography
+    -   name: About Me
+        url: about/
+        children:
+        -   name: Curriculum Vitae
+            url: /resume
+        -   name: Biography
+            url: /biography
 
 
