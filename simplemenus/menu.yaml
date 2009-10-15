@@ -7,5 +7,11 @@ children:
             url: /resume
         -   name: Biography
             url: /biography
-
+    -   name: Software
+        url: software/
+        children:
+        -   name: Pymorph
+            url: /software/pymorph
+        -   name: git-cms
+            url: /software/git-cms
 
