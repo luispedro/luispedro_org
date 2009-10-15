@@ -4,3 +4,6 @@
 -
     name: Art
     slug: art
+-
+    name: Software
+    slug: software
