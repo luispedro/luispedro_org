@@ -37,3 +37,10 @@ Most of the documentation in the `original <http://www.mmorph.com/pymorph/morph/
 I also changed other small things, including removing some functions which were superfluous. See the CHANGES_SINCE_08 file in the distribution.
 
 A module called pymorph.compat contains old function names as well as all the functions that were removed. If you have code which depends on the old names, use this. Otherwise, I recommend you use the new names.
+
+TODO
+----
+- Write more tests.
+- Re-format the documentation. The previous documentation was a bit too verbose for my tastes and not in any standard format. I am slowly re-writing some of it in restructured text.
+
+Once these are done, I will release this as 1.0
