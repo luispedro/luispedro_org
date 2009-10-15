@@ -1,0 +1,26 @@
+title: Software
+url: software
+categories: work software
+..
+
+Software
+========
+
+I have written some open-source software, some to scratch an itch, and some as part of my research.
+
+Currently Active Projects
+-------------------------
+
+`Pymorph <software/pymorph>`_: Python Morphology Toolbox
+........................................................
+
+I did not write this, but I have been maintaining it now for a while.
+
+License: BSD.
+
+`gitcms <software/git-cms>`_
+............................
+
+This is the system behind this website. It is a `django` based content managed system, where all the content is stored on flat text files. I use git to manage those text files and publish on the website.
+
+License: Affero GPL.
