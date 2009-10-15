@@ -1,0 +1,39 @@
+title: Python Morphology Toolbox
+url: software/pymorph
+categories: work software
+..
+
+Python Morphology Toolbox
+=========================
+The open source `Python Morphology Toolbox <http://www.mmorph.com/pymorph/>`_ is a very nice piece of software, written by Roberto A. Lutofu and Rubens C. Machado. Unfortunately, the code has been allowed to rot and does not work with the more recent `numpy <http://www.numpy.org>`_ libraries.
+
+Since discovering their code, I have been using it with random patches to the functions I needed. Recently, I decided to perform a fuller code clean up and release it publicly in the hope that it would be useful to others.
+
+The license stays BSD and the code can be downloaded as a `source tar.gz </files/pymorph-0.91.1.tar.gz>`_ file. Installation follows the typical
+
+   python setup.py install
+
+Releases
+--------
+
+
+New Release: May 25 2009 (0.91.1)
+*********************************
+Mostly a lot of small bugfixes.
+
+New Release: Aug 14 2008 (0.90)
+*******************************
+Small improvements and bugfixes. I uploaded a version to PyPI too, so I decided to increase the version number before uploading.
+
+New Release: Aug 5 2008 (0.89)
+******************************
+This new release includes a bunch of minor fixes plus a pure Python implementation of watershed segmentation. I thought watershed was useful enough to warrant a new release. The interface has changed slightly, but I don't think that matters because the old code did not work.
+
+Documentation
+-------------
+
+Most of the documentation in the `original <http://www.mmorph.com/pymorph/morph/index.html>`_ documentation is still valid, except that I removed the *mm*  prefix from function names. Function name prefixes are needed in Matlab, which does not have namespaces, but they're un-Pythonic (given that Python has namespaces).
+
+I also changed other small things, including removing some functions which were superfluous. See the CHANGES_SINCE_08 file in the distribution.
+
+A module called pymorph.compat contains old function names as well as all the functions that were removed. If you have code which depends on the old names, use this. Otherwise, I recommend you use the new names.
