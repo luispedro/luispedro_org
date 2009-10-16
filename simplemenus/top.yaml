@@ -4,6 +4,8 @@ children:
         url: /
     -   name: About
         url: /about
+    -   name: Papers
+        url: /publications
     -   name: Software
         url: /software
     -   name: Contact
