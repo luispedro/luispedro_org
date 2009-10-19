@@ -22,17 +22,25 @@ Github_, of course. The code is license Affero 3 (GPL for web applications).
 
 .. _Github: http://github.com/luispedro/django-gitcms
 
-Why is this better than `gitwiki`_?
------------------------------------
+Alternative Projects
+--------------------
 
-.. _`gitwiki`: http://github.com/al3x/git-wiki
-
-Because you can store any type of data, not only hyper-text files. Also, you can add as much structure as you'd like.
+- `yst <http://github.com/jgm/yst>`_: Uses `Yaml <http://www.yaml.org>`_ as a language and a system of string templates.
+- `gitwiki`_: A Wiki with a git back-end. Several other similar projects exist.
 
 Why is this worse than gitwiki?
 --------------------------------
 
 Because there is *no web front-end* to the history or even an edit button. It's git all the way.
+
+Why is this better than `gitwiki`_?
+-----------------------------------
+
+.. _`gitwiki`: http://github.com/al3x/git-wiki
+
+Because you can store any type of data, not only hyper-text files.
+
+followed by many more examples.
 
 For example, in this website, the `conferences </conferences/upcoming/>`_ is a django app whose data is a text file that looks like:
 
@@ -49,3 +57,7 @@ Actually, the menus on this website are also saved as a `yaml <http://www.yaml.o
 
 This is not really comparable to wiki-git-like projects. We just have different goals.
 
+Why is this better than yst?
+----------------------------
+
+Because it uses django so you can do any Python processing you want. Also, the website does not have to be static, so you gain a lot of flexibility there.
