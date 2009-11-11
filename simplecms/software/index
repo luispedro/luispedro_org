@@ -25,6 +25,13 @@ This is the system behind this website. It is a `django` based content managed s
 
 License: Affero GPL.
 
+`Jug </software/jug>`_
+.......................
+
+`Jug </softare/jug>`_ is a task based framework for running embarassingly parallel code in Python.
+
+License: MIT.
+
 Dormant Projects
 ----------------
 
@@ -38,3 +45,15 @@ This improves on the speed of reduce-type operations in `numpy <http://www.numpy
 I learned a lot about numpy's internals while doing it and I developed this technique for writing fast clean C++ to work on numpy code.
 
 License: GPL.
+
+Bits & Pieces
+-------------
+
+These are little projects that are helpful, but not part of anything larger.
+
+`FASTA Python Reader </software/fasta>`_
+.........................................
+
+Parses FASTA files in Python. As a major feature, it correctly handles comments (which many programmes do not). As a major mis-feature, it was one of the first Python classes that I wrote and it shows.
+
+License: MIT
