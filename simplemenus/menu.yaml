@@ -4,14 +4,30 @@ children:
         url: about/
         children:
         -   name: Curriculum Vitae
+            title: My CV
             url: /resume
+        -   name: Publications
+            title: My Papers
+            url: /publications
         -   name: Biography
+            title: Short Biography
             url: /biography
     -   name: Software
         url: software/
         children:
         -   name: Pymorph
+            title: Python Morphology Toolbox
             url: /software/pymorph
         -   name: git-cms
+            title: Do a website with django and git
             url: /software/git-cms
+        -   name: Jug
+            title: Task based parallelization framework for Python
+            url: /software/jug
+    -   name: Other Stuff
+        url: other/
+        children:
+        -   name: Programming for Scientists
+            title: A course for scientists who write code
+            url: /pfs
 
