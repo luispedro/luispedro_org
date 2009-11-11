@@ -28,7 +28,7 @@ License: Affero GPL.
 `Jug </software/jug>`_
 .......................
 
-`Jug </softare/jug>`_ is a task based framework for running embarassingly parallel code in Python.
+Jug is a task based framework for running embarassingly parallel code in Python.
 
 License: MIT.
 
