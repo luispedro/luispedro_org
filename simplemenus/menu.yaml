@@ -30,4 +30,7 @@ children:
         -   name: Programming for Scientists
             title: A course for scientists who write code
             url: /pfs
+        -   name: Fim de Tarde
+            title: Award-winning short story (in Portuguese)
+            url: /fimdetarde
 
