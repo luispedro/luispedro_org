@@ -1,0 +1,23 @@
+title: Programming for Scientists
+url: projects/pfs
+categories: work
+..
+
+Programming for Scientists
+==========================
+
+Programming for Scientists is a course I designed for scientists who write code. The project grew out of informal discussions with others, but it crystalised around the observation that many scientists now write code as one of their primary activities (at least as defined on time spent) without a proper formal background for it.
+
+As I was looking for similar courses, I found `Software Carpentry` by Greg Wilson in Toronto whose aims are very similar. So, my course has a *software carpentry* section heavily inspired by Greg's work.
+
+The resulting course was taught at CMU in Spring 2009. Currently (November 2009), I have no concrete plans to teach the course again, but am hoping to be able to do it in Fall 2010 at CMU.
+
+Related Links
+-------------
+
+- `Spring 2009 </pfs>`_ website for the course
+- `Github repository <http://github.com/luispedro/Programming-for-Scientists>`_ for my course materials
+- `Software Carpentry`
+- `Software Carpentry Blog <http://softwarecarpentry.wordpress.com/>`_
+
+.. `Software Carpentry`: http://software-carpentry.org/
