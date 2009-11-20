@@ -35,6 +35,11 @@ Releases
 
 You can check the continuous release on `github <http://github.com/luispedro/pymorph/html/>`_.
 
+Support
+-------
+
+`Email me <mailto:lpc@cmu.edu>`_. If you report a bug, I will try to fix it. If it has a unit test, I **promise** to fix it.
+
 TODO
 ----
 - Write more tests.
