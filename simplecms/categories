@@ -10,3 +10,6 @@
 -
     name: Work
     slug: work
+-
+    name: Python
+    slug: python

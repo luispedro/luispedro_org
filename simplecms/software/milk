@@ -1,0 +1,22 @@
+title: Milk: Machine Learning Toolkit for Python
+url: software/mik
+categories: Software Work Python
+..
+
+Milk: Machine Learning Toolkit in Python
+========================================
+
+This is the code that I use for my research projects.
+
+Features
+--------
+
+- Pythonic interface to libSVM. I took their code and implemented a wrapper instead of using auto-generated ones.
+- Stepwise Discriminant Analysis for feature selection.
+- K-means clustering. A simple implementation but it works well with very large datasets.
+
+TODO
+----
+
+- Little documentation beyond the API docs.
+- It requires `scipy.weave` to be fast now. It should not.
