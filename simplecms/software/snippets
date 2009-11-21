@@ -1,0 +1,48 @@
+title: Python Snippets
+url: software/snippets
+categories: python software
+..
+
+Python Snippets
+===============
+
+Litte bits of code that are cute or otherwise helpful.
+
+
+Python Trie
+-----------
+
+Here's how to build a word-trie in a few lines of code:
+
+::
+    
+    from collections import defau
+    def recursive():
+        return defaultdict(recursive)
+    SUCCESS = object()
+    trie = recursive()
+    for p in phrases:
+        top = trie
+        for w in p:
+            top = top[w]
+        top[SUCCESS] = p
+
+Here's how to use it to parse a big text for matches:
+
+::
+
+    active = [] # Active hold the list of 
+    for w in text:
+        active.append(trie)
+        i = 0
+        while i < len(active):
+            if w in active[i]:
+                active[i] = active[i][w]
+                if SUCCESS in active[i]:
+                    print 'Match', active[i][SUCCESS]
+                i += 1
+            else:
+                del active[i]
+
+
+This isn't the fastest way to do things, but it's fast enough for what I wanted it for.
