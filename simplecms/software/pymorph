@@ -9,9 +9,14 @@ The open source `Python Morphology Toolbox <http://www.mmorph.com/pymorph/>`_ is
 
 Since discovering their code, I have been using it with random patches to the functions I needed. Recently, I decided to perform a fuller code clean up and release it publicly in the hope that it would be useful to others.
 
-The license stays BSD and the code can be downloaded as a `source tar.gz </files/pymorph-0.91.1.tar.gz>`_ file. Installation follows the typical
+The license stays BSD and the code can be downloaded as a `source tar.gz <http://pypi.python.org/pypi/pymorph>`_ file from pypi. Installation follows the typical
 
    python setup.py install
+
+You can also use `easy_install`:
+
+    easy_install pymorph
+
 
 Documentation
 -------------
