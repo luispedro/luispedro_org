@@ -24,6 +24,9 @@ children:
         -   name: Jug
             title: Task based parallelization framework for Python
             url: /software/jug
+        -   name: Milk
+            title: Machine Learning Toolkit for Python
+            url: /software/milk
     -   name: Other Stuff
         url: other/
         children:
