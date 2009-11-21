@@ -19,10 +19,10 @@ Features
 - Pythonic interface to libSVM. I took their code and implemented a wrapper instead of using auto-generated ones.
 - Stepwise Discriminant Analysis for feature selection.
 - K-means clustering. A simple implementation but it works well with very large datasets.
-- Models can be `pickle`()d and un`pickle`()d.
+- Models can be *pickle()*d and un*pickle()*d.
 
 TODO
 ----
 
 - Little documentation beyond the API docs.
-- It requires `scipy.weave` to be fast now. It should not.
+- It requires ``scipy.weave`` to be fast now. It should not.
