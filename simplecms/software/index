@@ -33,7 +33,7 @@ Jug is a task based framework for running embarassingly parallel code in Python.
 License: MIT.
 
 `Milk </software/milk>`_
-.......................
+........................
 
 Milk is a Pythonic *machine learning toolkit*
 
