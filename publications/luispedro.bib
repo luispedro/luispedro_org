@@ -74,12 +74,26 @@ We extend our previous work to handle this problem. Using a validation dataset, 
 
 @inproceedings{lpc:nuclear:isbi2009,
     author = {Luis Pedro Coelho and Aabid Shariff and Robert F. Murphy},
-    title = {Nuclear segmentation in microsope cell images: A hand-segmented dataset and comparison of algorithms},
+    title = {Nuclear segmentation in microscope cell images: A hand-segmented dataset and comparison of algorithms},
     booktitle = {Proceedings of the 2009 {IEEE} International Symposium on Biomedical Imaging},
     year = {2009},
     month = {June},
     pages = {518--521},
     url = {http://luispedro.org/papers/2009/lpc-nuclear-isbi09.pdf},
+    abstract={
+        Image segmentation is an essential step in many image analysis pipelines
+and many algorithms have been proposed to solve this problem. However, they are
+often evaluated subjectively or based on a small number of examples. To fill
+this gap, we hand-segmented a set of 97 fluorescence microscopy images (a total
+of 4009 cells) and objectively evaluated some previously proposed segmentation
+algorithms. We focus on algorithms appropriate for high-throughput settings,
+where only minimal user intervention is feasible. The hand-labeled dataset (and
+all software used to compare methods) is publicly available to enable others to
+use it as a benchmark for newly proposed algorithms.
+        },
+    keywords={biomedical optical imaging, cellular biophysics, image segmentation, medical image processing, optical microscopycells, fluorescence microscopy, hand-labeled dataset, high-throughput settings, image analysis pipelines, image segmentation, microscope}, 
+    doi={10.1109/ISBI.2009.5193098}, 
+ ISSN={1945-7928}, }
 }
 
 @inproceedings{lpc:cell-cycle:embc2009,
@@ -87,5 +101,33 @@ We extend our previous work to handle this problem. Using a validation dataset, 
     title = {Cell Cycle Dependence of Protein Subcellular Location Inferred from Static, Asynchronous Images},
     year = {2009},
     month = {September},
+    booktitle={Engineering in Medicine and Biology Society, 2009. EMBC 2009. Annual International Conference of the IEEE}, 
+    volume={}, 
+    number={}, 
+    pages={1016-1019}, 
+    abstract={
+        Protein subcellular location is one of the most important determinants
+of protein function during cellular processes. Changes in protein behavior
+during the cell cycle are expected to be involved in cellular reprogramming
+during disease and development, and there is therefore a critical need to
+understand cell-cycle dependent variation in protein localization which
+may be related to aberrant pathway activity. With this goal, it would be
+useful to have an automated method that can be applied on a proteomic scale
+to identify candidate proteins showing cell-cycle dependent variation of
+location. Fluorescence microscopy, and especially automated, high-throughput
+microscopy, can provide images for tens of thousands of fluorescently-tagged
+proteins for this purpose. Previous work on analysis of cell cycle variation
+has traditionally relied on obtaining time-series images over an entire cell
+cycle; these methods are not applicable to the single time point images that
+are much easier to obtain on a large scale. Hence a method that can infer
+cell cycle-dependence of proteins from asynchronous, static cell images would
+be preferable. In this work, we demonstrate such a method that can associate
+protein pattern variation in static images with cell cycle progression. We
+additionally show that a one-dimensional parameterization of cell cycle
+progression and protein feature pattern is sufficient to infer association
+between localization and cell cycle.
+        }, 
+    doi={10.1109/IEMBS.2009.5332888}, 
+    ISSN={1557-170X},
 }
 
