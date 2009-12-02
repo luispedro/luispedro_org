@@ -1,5 +1,5 @@
 title: Shmoo Video
-url: /work/shmoo-video
+url: work/shmoo-video
 categories: work art
 ..
 
@@ -9,11 +9,11 @@ Yeast Mating Video
 .. raw:: html
 
     <div id="video-player">
-        <video src="/files/videos/shmoo/shmoo-v0-a-1-small.ogg" width="352" height="288">
-           <applet code="com.fluendo.player.Cortado.class" archive="http://theora.org/cortado.jar" width="352" height="288"> 
-               <param name="url" value="/files/videos/shmoo/shmoo-v0-a-1-small.ogg" />
+        <!-- <video src="/files/videos/shmoo/shmoo-v0-a-1-small.ogg" width="352" height="288"> -->
+           <applet code="com.fluendo.player.Cortado.class" archive="/files/videos/cortado_latest.jar" width="352" height="288"> 
+               <param name="url" value="http://luispedro.org/files/videos/shmoo/shmoo-v0-a-1-small.ogg" />
            </applet>
-         </video>
+         <!-- </video> -->
     </div>
 
 
