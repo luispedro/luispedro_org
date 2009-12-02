@@ -28,7 +28,7 @@ Changes from Original
 ---------------------
 
 The most important change has been the *removal of superfluous functions*.
-Functions that deal with **image input/output** or **image display* *have been
+Functions that deal with **image input/output** or **image display** *have been
 removed*. The reason is that `matplotlib <http://matplotlib.sourceforge.net/>`_
 is a much better implementation of this. I see no point in going through the
 effort of maintaining thin wrappers around its functionality. For plotting, use
