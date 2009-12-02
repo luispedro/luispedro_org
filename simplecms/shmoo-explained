@@ -8,7 +8,7 @@ Yeast Mating
 
 This is an explanation of my `yeast video </work/shmoo-video>`_ . See it and then come back. Or read this before seeing it to understand.
 
-This was a small project for myCell Biologycourse at CMU. The goals are, according to the class `website <http://www.andrew.cmu.edu/course/03-240/Grading.htm>`_ :
+This was a small project for my Cell Biology course at CMU. The goals are, according to the class `website <http://www.andrew.cmu.edu/course/03-240/Grading.htm>`_ :
 
  JM Cell Bio Fair is a final project (in honor of Dr. Jon Minden) for the class in which groups of up to three students will construct and demonstrate models of cellular functions that were discussed in class. [...] These models can take virtually any form from a solid object to a play or song to a computer simulation.
  
@@ -20,7 +20,8 @@ Cells advertise themselves as available for mating by sending out pherormones. E
 
 Stop animation video
 --------------------
-This video shows this process. Initially, there are two cells. One is an *alpha* , the other an *a* . They send out pheromones and listen to the presence of other pheromones. Once they have acquired sufficient pheromones of the other sex to both be confident in their prediction that another cell is present and know where it is, it changes shape, into a *shmoo*  shape (this is named after an `old cartoon <http://en.wikipedia.org/wiki/Shmoo>`_ ).
+
+This video shows this process. Initially, there are two cells. One is an *alpha*, the other an *a*. They send out pheromones and listen to the presence of other pheromones. Once they have acquired sufficient pheromones of the other sex to both be confident in their prediction that another cell is present and know where it is, it changes shape, into a *shmoo*  shape (this is named after an `old cartoon <http://en.wikipedia.org/wiki/Shmoo>`_ ).
 
 Once the cells have found each other, they merge into one.
 
@@ -83,13 +84,14 @@ To use `Cortado <http://www.flumotion.net/cortado/>`_ and to spread open source 
 
 ::
 
- mencoder "mf://*.jpg" -fps 7 -ovc copy -o shmoo-final.avi
- mplayer -vo yuv4mpeg -nosound shmoo-final.avi
-
-theora_encoder_example soundtrack.wav stream.yuv > output.oggNot very elegant, but it works. Furthermore, I believe that both mencoder and mplayer are lossless, so that only the theora encoding loses information, which is what one wants.
+    mencoder "mf://*.jpg" -fps 7 -ovc copy -o shmoo-final.avi
+    mplayer -vo yuv4mpeg -nosound shmoo-final.avi
+    theora_encoder_example soundtrack.wav stream.yuv > output.ogg
+ 
+Not very elegant, but it works. Furthermore, I believe that both mencoder and mplayer are lossless, so that only the theora encoding loses information, which is what one wants.
 
 The Music
 ---------
 
-The music is by `Rodrigo Leão <http://www.rodrigoleao.pt/>`_ , a Portuguese composer. It is calledRua da Atalaiaand it's a part of the album `Mundo <http://www.amazon.com/Mundo-Best-Rodrigo-Leao/dp/B000MTP8CO/ref=sr_1_9/105-9613674-9933228?ie=UTF8&s=music&qid=1180036550&sr=8-9>`_ .
+The music is by `Rodrigo Leão <http://www.rodrigoleao.pt/>`_ , a Portuguese composer. It is called *Rua da Atalaia* and it's a part of the album `Mundo <http://www.amazon.com/Mundo-Best-Rodrigo-Leao/dp/B000MTP8CO/ref=sr_1_9/105-9613674-9933228?ie=UTF8&s=music&qid=1180036550&sr=8-9>`_ .
 
