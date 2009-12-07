@@ -3,15 +3,23 @@ url: software/milk
 categories: software work python
 ..
 
-Milk: Machine Learning Toolkit in Python
-========================================
+Milk: Machine Learning Toolkit for Python
+=========================================
 
 This is the code that I use for my research projects.
 
 Where can I get it?
 -------------------
 
-`Github <http://github.com/luispedro/milk/>`_ as usual.
+`Github <http://github.com/luispedro/milk/>`_ as usual. Alternatively the `python packages index <http://pypi.python.org/pypi/milk/>`_ also contains official releases,the latest of which can be obtained by
+
+    easy_install milk
+
+or
+
+    pip install milk
+
+if you use these tools.
 
 Features
 --------
