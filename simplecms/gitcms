@@ -40,11 +40,12 @@ Alternative Projects
 
 - `yst <http://github.com/jgm/yst>`_: Uses `Yaml <http://www.yaml.org>`_ as a language and a system of string templates.
 - `gitwiki`_: A Wiki with a git back-end. Several other similar projects exist.
+- `nesta <http://effectif.com/nesta>`_: A ruby based CMS with text files as its backend.
 
 Why is this worse than gitwiki?
 --------------------------------
 
-Because there is *no web front-end* to the history or even an edit button. It's git all the way.
+Because there is *no web front-end* to the history or even an edit button. It's git all the way. It's not friendly to non-technical users (it's very friendly for technical users—those of us who live on the command line and don't want to have to learn a new way of doing things).
 
 Why is this better than `gitwiki`_?
 -----------------------------------
@@ -52,8 +53,6 @@ Why is this better than `gitwiki`_?
 .. _`gitwiki`: http://github.com/al3x/git-wiki
 
 Because you can store any type of data, not only hyper-text files.
-
-followed by many more examples.
 
 For example, in this website, the `conferences </conferences/upcoming/>`_ is a django app whose data is a text file that looks like:
 
@@ -66,7 +65,7 @@ For example, in this website, the `conferences </conferences/upcoming/>`_ is a d
     end: April 17 2010
     submission_deadline: November 2 2009
 
-Actually, the menus on this website are also saved as a `yaml <http://www.yaml.org>`_ file.
+followed by many more examples. Actually, the menus on this website are also saved as a `yaml <http://www.yaml.org>`_ file, while the `publications </publications>`_ app saves its information as a bibtex file (I use `exhibit <http://simile.mit.edu/wiki/Exhibit>`_ for the display, but pre-process the bibtex file everytime it changes). I can write any functionality I want with django and store the information as a text file (I only have to write a *load()* function in Python, which can do whatever I want).
 
 This is not really comparable to wiki-git-like projects. We just have different goals.
 
@@ -74,3 +73,9 @@ Why is this better than yst?
 ----------------------------
 
 Because it uses django so you can do any Python processing you want. Also, the website does not have to be static, so you gain a lot of flexibility there.
+
+Why is this better than nesta?
+------------------------------
+
+I don't know how nesta works because I don't know RoR. But I know Django on Python, so I wanted to use a system based on those technologies.
+
