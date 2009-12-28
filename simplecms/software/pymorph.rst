@@ -17,28 +17,20 @@ Includes basic operations such as
     - watershed
     - ...
 
-History
--------
-The open source `Python Morphology Toolbox <http://www.mmorph.com/pymorph/>`_
-is a very nice piece of software, written by Roberto A. Lutofu and Rubens C.
-Machado. Unfortunately, the code had been allowed to rot and did not work with
-the more recent `numpy <http://www.numpy.org>`_ libraries.
-
-Since discovering their code, I have been using it and making changes so that
-it runs with modern numpy.
 
 Download & Install
 ------------------
 
-The code can be downloaded as a `source tar.gz
-<http://pypi.python.org/pypi/pymorph>`_ file from pypi.  Installation follows
+You can use `easy_install` or `pip`:
+
+    easy_install pymorph
+    pip install pymorph
+
+If you want the code, it can be downloaded as a `source tar.gz
+<http://pypi.python.org/pypi/pymorph>`_ file from pypi. Installation follows
 the typical
 
    python setup.py install
-
-You can also use `easy_install`:
-
-    easy_install pymorph
 
 Documentation
 -------------
@@ -56,7 +48,10 @@ it easy for people who use `easy_install` or `pip` to keep up).
 For more minor fixes (documentation reformatting), you can check the continuous
 release on `github`_.
 
-.. _gitbuh: http://github.com/luispedro/pymorph/
+.. _github: http://github.com/luispedro/pymorph/
+
+The package is very stable, so tracking the development release should not cause
+you any problem.
 
 Support
 -------
@@ -64,7 +59,7 @@ Support
 `Email me <mailto:lpc@cmu.edu>`_. If you report a bug, I will try to fix it. If
 it has a unit test, I **promise** to fix it.
 
-Currently, there are no known bugs, but there are certainly unknown bugs, which
+Currently, **there are no known bugs**, but there are certainly unknown bugs, which
 is why I *need* people to report them.
 
 Contributions
@@ -83,6 +78,16 @@ TODO
   delete them.
 
 Once these are done, I will release this as 1.0
+
+History
+-------
+This started as the `Python Morphology Toolbox <http://www.mmorph.com/pymorph/>`_.
+It was a very nice piece of software, written by Roberto A. Lutofu and Rubens C.
+Machado. Unfortunately, the code had been allowed to rot and did not work with
+the more recent `numpy <http://www.numpy.org>`_ libraries.
+
+Since discovering their code, I have been using it and making changes so that
+it runs with modern numpy.
 
 Changes from Original
 ---------------------
