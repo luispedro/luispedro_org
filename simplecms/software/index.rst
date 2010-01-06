@@ -61,8 +61,9 @@ now, but which I might revive in the future.
 ....................................................................
 
 This improves on the speed of reduce-type operations in `numpy
-<http://www.numpy.org>`_. The code works great for its purpose, but it is too
-large (the binary is huge).
+<http://www.numpy.org>`_. The code works great for its purpose, and I still
+resort to it everytime that ndarray.sum shows up in my profiles as a time hog
+(surprisingly often). However, it is too large (the binary is huge).
 
 I learned a lot about numpy's internals while doing it and I developed this
 technique for writing fast clean C++ to work on numpy code.
