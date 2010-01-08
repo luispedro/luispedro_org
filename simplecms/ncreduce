@@ -6,11 +6,26 @@ categories: software
 No Copy Reduce Operations for Numpy
 ===================================
 
-Numpy arrays come with several reduce operations: sum(), std(), argmin(), min(), ....
+Numpy arrays come with several reduce operations: sum(), std(), argmin(),
+min(), ....
 
-The traditional implementation of these suffers from two big problems: It is slow and it often allocates intermediate memory. I have code that is failing with OOM (out of memory) exceptions in calls to ndarray.std(). I regularly handle arrays with 100 million entries (have a couple of million objects * 20 features per object = 100 million doubles), so this is a real problem for me.
+The traditional implementation of these suffers from two big problems: It is
+slow and it often allocates intermediate memory. I have code that is failing
+with OOM (out of memory) exceptions in calls to ndarray.std(). I regularly
+handle arrays with 100 million entries (have a couple of million objects * 20
+features per object = 100 million doubles), so this is a real problem for me.
 
-This being open-source, I decided to solve the problem. My first idea was to try to improve the numpy code. I failed to see how to do that while supporting everything that numpy does (multiple types, for example), so I started an implementation of reduce operations that uses C++ templates to make code optimised into the types it actually uses, choosing the right version to use at run time. In the spirit or release-early/release-often, I attach the first version of this code that runs.
+This being open-source, I decided to solve the problem. My first idea was to
+try to improve the numpy code. I failed to see how to do that while supporting
+everything that numpy does (multiple types, for example), so I started an
+implementation of reduce operations that uses C++ templates to make code
+optimised into the types it actually uses, choosing the right version to use at
+run time. In the spirit or release-early/release-often, I attach the first
+version of this code that runs.
+
+This is now a mostly dormant project, but it achieved what I wanted and I will
+still resort to it whenever a function like ndarray.sum shows up as being the
+bottleneck in my code (you would be surprised at how often that happens).
 
 Basic Idea
 ----------
@@ -41,14 +56,18 @@ With a lot of temporary arrays. My code does:
                      std += diff
              return sqrt(diff/A.size)
 
-Of course, my code does it while taking into account the geometry of the array. It handles arrays with arbitrary strides.
+Of course, my code does it while taking into account the geometry of the array.
+It handles arrays with arbitrary strides.
 
-I do it while avoiding copying the array at any time (while most of the existing code will transpose/copy the array so that it is well behaved in memory).
+I do it while avoiding copying the array at any time (while most of the
+existing code will transpose/copy the array so that it is well behaved in
+memory).
 
 Implementation
 --------------
 
-I have written some template infrastructure so that, if I wanted a very fast entropy calculation, on a normalised array, you could do:
+I have written some template infrastructure so that, if I wanted a very fast
+entropy calculation, on a normalised array, you could do:
 
 ::
 
@@ -129,16 +148,31 @@ Notice that the ++results operation seems to be dropping in and out. In fact, I 
 Advantages
 ----------
 
-For most operations, my code is faster (it's hard to beat ndarray.sum(), but easy to beat ndarray.std()) than numpy on both an intel 32 bit machine and an amd 64 bit machine both newer than one year (you can test it on your machine by runnning profile.py). For some specific operations, like summing along a non-last axis on a moderately large array, it is slower (I think that the copy&process tactic might be better in this case than the no-copy/one pass operation I am using). In most cases I tested, it is faster. In particular, the basic case (a well-behaved array), it is faster.
+For most operations, my code is faster (it's hard to beat ndarray.sum(), but
+easy to beat ndarray.std()) than numpy on both an intel 32 bit machine and an
+AMD 64 bit machine both newer than one year (you can test it on your machine by
+runnning profile.py). For some specific operations, like summing along a
+non-last axis on a moderately large array, it is slower (I think that the
+copy&process tactic might be better in this case than the no-copy/one pass
+operation I am using). In most cases I tested, it is faster. In particular, the
+basic case (a well-behaved array), it is faster.
 
-More important than speed (at least for me) is the fact that this does not allocate more memory than needed. This will not fail with OOM errors. It's easy to implement specific optimisations. For example, replace a sum function for a specific case to call AMD's framewave SIMD library (which uses SIMD instructions):
+More important than speed (at least for me) is the fact that this does not
+allocate more memory than needed. This will not fail with OOM errors. It's easy
+to implement specific optimisations. For example, replace a sum function for a
+specific case to call AMD's framewave SIMD library (which uses SIMD
+instructions):
 
 ::
 
     void compute_sum(short* data, short* past, no_iteration result) {
              fwiSum_16s_C1R  ( data, sizeof(short), past-start, &*result);
      }
-    or, compute the standard deviation of an array of boolean with a single pass (sigma = sqrt(p(1-p))):
+
+or, compute the standard deviation of an array of boolean with a single pass (sigma = sqrt(p(1-p))):
+
+::
+
     void compute_std(bool* data, bool* past, no_iteration result) {
          size_type N = (past-data);
          size_type pos = 0;
@@ -148,3 +182,4 @@ More important than speed (at least for me) is the fact that this does not alloc
          }
          *result = std::sqrt(ResType(pos)/ResType(N)*(1-ResType(pos)/ResType(N)));
     }
+
