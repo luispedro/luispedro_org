@@ -25,12 +25,22 @@ Tutorial
 
 Learn more by reading the `tutorial </software/jug/tutorial>`_.
 
+*Video*: On `vimeo <http://vimeo.com/8972696>`_ or `showmedo
+<http://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975>`_
+
+
+
 Where can I get the code for this?
 ----------------------------------
 
-Github_, of course. The code is licensed MIT.
+`PyPI <http://pypi.python.org/pypi/Jug>`_ for stable releases, github_ for the cutting edge. The code is licensed MIT.
 
-.. _Github: http://github.com/luispedro/jug
+You should be able to use ``easy_install`` or ``pip``::
+
+    pip install jug
+    easy_install jug
+
+.. _github: http://github.com/luispedro/jug
 
 
 Features
