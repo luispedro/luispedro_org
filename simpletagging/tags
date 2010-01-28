@@ -13,3 +13,12 @@
 -
     name: Python
     slug: python
+- 
+    name: Pop Science
+    slug: pop-sci
+- 
+    name: Philosophy
+    slug: philosophy
+- 
+    name: Classics
+    slug: classics
