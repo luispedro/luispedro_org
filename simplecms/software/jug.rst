@@ -23,17 +23,20 @@ Jug is a pure Python implementation and should work on any platform.
 Tutorial
 --------
 
-Learn more by reading the `tutorial </software/jug/tutorial>`_.
+There is a `worked out example
+<http://luispedro.org/jug-docs/decrypt-example.html>`_, which comes with a
+*video* (`vimeo <http://vimeo.com/8972696>`_ or `showmedo
+<http://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975>`_),
+and a `presentation </files/jug-decrypt-presentation.pdf>`_.
 
-*Video*: On `vimeo <http://vimeo.com/8972696>`_ or `showmedo
-<http://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975>`_
-
+If that is not enough, here is another `tutorial </software/jug/tutorial>`_.
 
 
 Where can I get the code for this?
 ----------------------------------
 
-`PyPI <http://pypi.python.org/pypi/Jug>`_ for stable releases, github_ for the cutting edge. The code is licensed MIT.
+`PyPI <http://pypi.python.org/pypi/Jug>`_ for stable releases, github_ for the
+cutting edge. The code is licensed MIT.
 
 You should be able to use ``easy_install`` or ``pip``::
 
