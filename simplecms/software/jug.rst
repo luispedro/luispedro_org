@@ -1,6 +1,6 @@
 title: Jug
 url: software/jug
-categories: software
+categories: software python
 ..
 
 Jug: A Task-Based Parallelization Framework
@@ -8,6 +8,9 @@ Jug: A Task-Based Parallelization Framework
 
 What is it?
 -----------
+One line summary: it is a *light-weight, Python only, implementation of a
+MapReduce* framework.
+
 Jug allows you to write code that is broken up into tasks and run different
 tasks on different processors. You can also think of it as a lightweight
 map-reduce type of system, although it's a bit more flexible (and less
