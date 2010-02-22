@@ -38,7 +38,7 @@ USE_I18N = False
 
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = _BASE_DIR + '/../media/'
+MEDIA_ROOT = _BASE_DIR + '/media/'
 MEDIA_URL = '/media/'
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
@@ -68,10 +68,10 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.middleware.doc.XViewMiddleware',
     'django.middleware.cache.CacheMiddleware',
-    'redirect.middleware.RedirectMiddleware',
+    'gitcms.redirect.middleware.RedirectMiddleware',
 )
 
-ROOT_URLCONF = 'gitcms.urls'
+ROOT_URLCONF = 'urls'
 
 TEMPLATE_DIRS = (
     # Don't forget to use absolute paths, not relative paths.
@@ -86,14 +86,14 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.markup',
 
-    'simpletagging',
-    'simplecms',
-    'simplemenus',
-    'books',
-    'conferences',
-    'files',
-    'publications',
-    'redirect',
+    'gitcms.simpletagging',
+    'gitcms.simplecms',
+    'gitcms.simplemenus',
+    'gitcms.books',
+    'gitcms.conferences',
+    'gitcms.files',
+    'gitcms.publications',
+    'gitcms.redirect',
 )
 
 
