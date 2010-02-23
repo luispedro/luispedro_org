@@ -1,2 +1,3 @@
 *.pyc
 luispedro.db
+local_settings.py
