@@ -1,0 +1,11 @@
+source: pymorph
+target: software/pymorph
+---
+source: work/pymorph
+target: software/pymorph
+---
+source: textos/fim-de-tarde
+target: fimdetarde
+---
+source: software/python/FASTA
+target: software/fasta

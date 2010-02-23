@@ -1,0 +1,8 @@
+title: <+title+>
+booktitle: <+booktitle+>
+author: <+author+>
+stars: <+stars+>
+categories: <+categories+>
+---
+
+<+content+>

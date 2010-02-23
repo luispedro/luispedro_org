@@ -1,0 +1,15 @@
+title: Milksets: Machine Learning Datasets in Python
+url: software/milksets
+categories: software work python
+..
+
+Milksets: Machine Learning Datasets in Python
+=============================================
+
+This is a companion package to `milk </software/milk>`_ which consists of datasets from UCI in a Pythonic format.
+
+Where can I get it?
+-------------------
+
+`Github <http://github.com/luispedro/milksets/>`_ as usual.
+

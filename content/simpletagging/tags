@@ -1,0 +1,24 @@
+- 
+    name: Personal
+    slug: about-me
+-
+    name: Art
+    slug: art
+-
+    name: Software
+    slug: software
+-
+    name: Work
+    slug: work
+-
+    name: Python
+    slug: python
+- 
+    name: Pop Science
+    slug: pop-sci
+- 
+    name: Philosophy
+    slug: philosophy
+- 
+    name: Classics
+    slug: classics

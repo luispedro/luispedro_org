@@ -1,0 +1,15 @@
+title: SLIF
+url: projects/slif
+categories: work
+..
+
+SLIF
+====
+
+SLIF is the `structured literature image finder` (previously, `subcellular location image finder`).
+
+It searches through scientific journals, looking for images, which it categorises, makes available, and (in some cases, at least) analyses.
+
+References
+----------
+
