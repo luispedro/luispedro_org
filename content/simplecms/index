@@ -6,9 +6,9 @@ categories: about-me
 Who am I?
 =========
 
-.. image:: /files/niagara-small.jpg
+.. image:: /files/photo-gates-small.jpg
    :alt: Luis Pedro Coelho
-   :class: float-right
+   :class: float-left
 
 I am a Computational Biology PhD. candidate in the `Joint Carnegie Mellon-U. of
 Pittsburgh Ph.D. Program <http://www.compbio.cmu.edu/>`_ in Pittsburgh.
