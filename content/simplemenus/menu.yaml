@@ -12,6 +12,15 @@ children:
         -   name: Biography
             title: Short Biography
             url: /biography
+    -   name: Projects
+        url: projects/
+        children:
+        -   name: SLIF
+            title: Structured Literature Image Finder
+            url: projects/slif
+        -   name: Programming for Scientists
+            title: A course for scientists who write code
+            url: /projects/pfs
     -   name: Software
         url: software/
         children:
@@ -30,9 +39,6 @@ children:
     -   name: Other Stuff
         url: other/
         children:
-        -   name: Programming for Scientists
-            title: A course for scientists who write code
-            url: /projects/pfs
         -   name: Fim de Tarde
             title: Award-winning short story (in Portuguese)
             url: /fimdetarde
