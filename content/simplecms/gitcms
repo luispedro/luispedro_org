@@ -24,8 +24,10 @@ Github_, of course. The code is license Affero 3 (GPL for web applications).
 
 .. _Github: http://github.com/luispedro/django-gitcms
 
-I have also released it on `PyPI <http://pypi.python.org/pypi/django-gitcms>`_ if you prefer.
-
+I have also released it on `PyPI <http://pypi.python.org/pypi/django-gitcms>`_
+if you prefer. (This also means that `pip install django-gitcms` or
+`easy_install django-gitcms` will automatically find and download the latest
+version).
 
 Features
 --------
