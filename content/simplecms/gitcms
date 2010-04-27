@@ -36,10 +36,19 @@ Features
 - Out of the box, it supports:
     - Restructured text articles (pages such as this one)
     - menus
-    - raw files
+    - raw files (for images and such)
     - a conference system
+    - a blog
 
-  but the main point is that the architechture is easily extensible. I'm selling you an idea more than software.
+but the main point is that the architechture is easily extensible. I'm selling
+you an idea more than software.
+
+Examples
+--------
+
+Django-gitcms powers `luispedro.org <http://luispedro.org>`_ and
+`pythonvision.org <http://pythonvision.org>`_ (pythonvision.org is still in
+Beta in terms of content, but you can see it up and running).
 
 Alternative Projects
 --------------------
