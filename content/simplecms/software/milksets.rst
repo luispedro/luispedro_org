@@ -1,7 +1,13 @@
 title: Milksets: Machine Learning Datasets for Python
 url: software/milksets
 categories: software work python
-..
+---
+
+.. raw:: html
+
+    <a href="http://github.com/luispedro/milksets">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
+    </a>
 
 Milksets: Machine Learning Datasets for Python
 ==============================================
