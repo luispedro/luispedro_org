@@ -9,6 +9,15 @@ Milksets: Machine Learning Datasets for Python
 This packages contains some U.C.I. datasets in a common Pythonic interface,
 which makes them easy to use with `milk </software/milk/>`_.
 
+It is used as::
+
+    from milksets import wine
+    features,labels = wine.load()
+
+`features` will be a 2d-`numpy.ndarray` of features and `labels` will be a
+1d-`numpy.ndarray` of labels starting at `0` through `N-1` (independently of
+how the labels were coded in the original data).
+
 Where can I get it?
 -------------------
 
