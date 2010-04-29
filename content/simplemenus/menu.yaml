@@ -27,6 +27,9 @@ children:
         -   name: Pymorph
             title: Python Morphology Toolbox
             url: /software/pymorph
+        -   name: Mahotas
+            title: Image processing with Python
+            url: /software/mahotas
         -   name: git-cms
             title: Do a website with django and git
             url: /software/git-cms
@@ -36,10 +39,16 @@ children:
         -   name: Milk
             title: Machine Learning Toolkit for Python
             url: /software/milk
+        -   name: Milksets
+            title: Machine Learning Datasets for Python
+            url: /software/milksets
     -   name: Other Stuff
         url: other/
         children:
         -   name: Fim de Tarde
             title: Award-winning short story (in Portuguese)
             url: /fimdetarde
+        -   name: Project Maputo
+            title: Volunteering in Mozambique
+            url: http://projectmaputo.org/
 
