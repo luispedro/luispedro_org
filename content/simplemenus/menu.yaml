@@ -21,6 +21,9 @@ children:
         -   name: Programming for Scientists
             title: A course for scientists who write code
             url: /projects/pfs
+        -   name: Beira Project
+            title: Volunteering in Mozambique
+            url: http://beiraproject.org/
     -   name: Software
         url: software/
         children:
@@ -48,7 +51,7 @@ children:
         -   name: Fim de Tarde
             title: Award-winning short story (in Portuguese)
             url: /fimdetarde
-        -   name: Project Maputo
+        -   name: Beira Project
             title: Volunteering in Mozambique
-            url: http://projectmaputo.org/
+            url: http://beiraproject.org/
 
