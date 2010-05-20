@@ -18,6 +18,14 @@ you can use the ones below (including cropping, of course):
    :alt: Luis Pedro Coelho
    :width: 80%
 
+.. image:: /files/photos/gates_3.jpg
+   :alt: Luis Pedro Coelho
+   :width: 80%
+
+.. image:: /files/photos/gates_headshot_1.jpg
+   :alt: Luis Pedro Coelho
+   :width: 80%
+
 The photos were taken by Rita Reis. Both are taken outside of the Gates-Hillman
 Center in the Carnegie Mellon campus.
 
