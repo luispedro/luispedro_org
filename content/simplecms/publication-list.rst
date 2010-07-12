@@ -47,8 +47,8 @@ Publications
 11.  Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
-     Services and Agents on the World Wide Web, 2010 [journal in press. `online
-     version <http://dx.doi.org/10.1016/j.websem.2010.04.002>`_]
+     Services and Agents on the World Wide Web, 2010 [`online version
+     <http://dx.doi.org/10.1016/j.websem.2010.04.002>`_]
 12.  Aabid Shariff, Joshua Kangas, **Luis Pedro Coelho**, Shannon Quinn, and
      Robert F. Murphy; *Automated Image Analysis for High Content Screening and
      Analysis*, Journal Biomolecular Screening (2010) [journal in press.
