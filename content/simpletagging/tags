@@ -11,6 +11,9 @@
     name: Work
     slug: work
 -
+    name: Research
+    slug: research
+-
     name: Python
     slug: python
 - 
