@@ -21,7 +21,7 @@ student group at IST and starred in several productions), as well as received a
 prize in a short story competition. He has taught computer usage in
 underprivileged neighbourhoods and designed Webpages for nonprofits. In Summer
 2010, he will be found in Mozambique, volunteering with local organisations there
-(see `projectmaputo.org <http://projectmaputo.org>`_).
+(see `beiraproject.org <http://beiraproject.org>`_).
 
 Luis can be found at `http://luispedro.org <http://luispedro.org>`_
 

@@ -43,15 +43,16 @@ Publications
 10.  **Luis Pedro Coelho**, Estelle Glory-Afshar, Joshua Kangas, Shannon Quinn,
      Aabid Shariff, and Robert F. Murphy; *Principles of Bioimage Informatics:
      Focus on machine learning of cell patterns*. Lecture Notes in Computer
-     Science, in press.
+     Science.
 11.  Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
-     Services and Agents on the World Wide Web, 2010 [journal in press. `online
-     version <http://dx.doi.org/10.1016/j.websem.2010.04.002>`_]
+     Services and Agents on the World Wide Web, 2010 [`online version
+     <http://dx.doi.org/10.1016/j.websem.2010.04.002>`_]
 12.  Aabid Shariff, Joshua Kangas, **Luis Pedro Coelho**, Shannon Quinn, and
      Robert F. Murphy; *Automated Image Analysis for High Content Screening and
-     Analysis*, Journal Biomolecular Screening (2010) [in press]
+     Analysis*, Journal Biomolecular Screening (2010) [journal in press.
+     `online version <http://dx.doi.org/10.1177/1087057110370894>`_
 
 Invited Talks
 -------------
