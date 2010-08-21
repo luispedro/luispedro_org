@@ -34,16 +34,17 @@ Publications
      EMBC 2009.
 8.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
-     pattern unmixing* in Proceedings of ISMB 2010 (in press)
+     pattern unmixing* in Proceedings of ISMB 2010 [`online version
+     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`_]
 9.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
-     Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [in
-     press]
+     Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
+     version </papers/2010/lpc-slif-lncs-2010.pdf>`_]
 10.  **Luis Pedro Coelho**, Estelle Glory-Afshar, Joshua Kangas, Shannon Quinn,
      Aabid Shariff, and Robert F. Murphy; *Principles of Bioimage Informatics:
-     Focus on machine learning of cell patterns*. Lecture Notes in Computer
-     Science.
+     Focus on machine learning of cell patterns* in Lecture Notes in Computer
+     Science [`PDF Version </papers/2010/lpc-principles-2010.pdf>`_].
 11.  Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
