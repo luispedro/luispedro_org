@@ -32,24 +32,32 @@ Publications
      W. Jarvik, Peter B. Berget, and Robert F. Murphy; *Cell Cycle Dependence
      of Protein Subcellular Location Inferred from Static, Asynchronous Images*
      EMBC 2009.
-8.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+8.   Abdul-Saboor Sheikh, Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**,
+     Joshua Kangas, Eric P. Xing, William Cohen, Robert F. Murphy; *Structured
+     Literature Image Finder: Open Source Software for Extracting and
+     Disseminating Information from Text and Figures in Biomedical Literature*,
+     Technical Report, School of Computer Science, Lane Center for
+     Computational Biology, Carnegie Mellon University, October 2009 [`PDF
+     version </papers/2009/LPC-CMU-TR-CB-09-101.pdf>`_].
+9.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
-     pattern unmixing* in Proceedings of ISMB 2010 (in press)
-9.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+     pattern unmixing* in Proceedings of ISMB 2010 [`online version
+     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`_]
+10.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
-     Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [in
-     press]
-10.  **Luis Pedro Coelho**, Estelle Glory-Afshar, Joshua Kangas, Shannon Quinn,
+     Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
+     version </papers/2010/lpc-slif-lncs-2010.pdf>`_]
+11.  **Luis Pedro Coelho**, Estelle Glory-Afshar, Joshua Kangas, Shannon Quinn,
      Aabid Shariff, and Robert F. Murphy; *Principles of Bioimage Informatics:
-     Focus on machine learning of cell patterns*. Lecture Notes in Computer
-     Science.
-11.  Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
+     Focus on machine learning of cell patterns* in Lecture Notes in Computer
+     Science [`PDF Version </papers/2010/lpc-principles-2010.pdf>`_].
+12.  Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
      Services and Agents on the World Wide Web, 2010 [`online version
      <http://dx.doi.org/10.1016/j.websem.2010.04.002>`_]
-12.  Aabid Shariff, Joshua Kangas, **Luis Pedro Coelho**, Shannon Quinn, and
+13.  Aabid Shariff, Joshua Kangas, **Luis Pedro Coelho**, Shannon Quinn, and
      Robert F. Murphy; *Automated Image Analysis for High Content Screening and
      Analysis*, Journal Biomolecular Screening (2010) [journal in press.
      `online version <http://dx.doi.org/10.1177/1087057110370894>`_
