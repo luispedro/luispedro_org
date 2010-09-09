@@ -92,7 +92,6 @@ INSTALLED_APPS = (
     'gitcms.books',
     'gitcms.conferences',
     'gitcms.files',
-    'gitcms.publications',
     'gitcms.redirect',
 )
 
