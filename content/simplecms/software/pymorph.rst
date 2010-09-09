@@ -28,7 +28,7 @@ Includes basic operations such as
 Download & Install
 ------------------
 
-You can use `easy_install` or `pip`:
+You can use `easy_install` or `pip`:::
 
     easy_install pymorph
     pip install pymorph
