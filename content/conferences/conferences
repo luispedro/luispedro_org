@@ -1,9 +1,16 @@
+name: Automated Imaging & High-Throughput Phenotyping
+short_name: AIHTP
+location: Cold Spring Harbor
+start: Dec 5 2010
+end: Dec 8 2010
+submission_deadline: September 24 2010
+---
 name: International Symposium on Biomedical Imaging (ISBI)
 short_name: ISBI
-location: Rotterdam, The Netherlands
-start: April 14 2010
-end: April 17 2010
-submission_deadline: November 2 2009
+location: Chicago, USA
+start: March 30 2011
+end: April 2 2011
+submission_deadline: October 28 2010
 ---
 name: International Conference on Image Processing (ICIP)
 short_name: ICIP
@@ -22,11 +29,11 @@ submission_deadline: February 1 2010
 url: http://www.icml2010.org/
 ---
 name: XXV Congress of the International Society for Advacement of Cytometry
-short_name: ISAC 2010
-location: Seattle, USA
-start: May 8 2010
-end: May 12 2010
-submission_deadline: December 4 2009
+short_name: CYTO 2011
+location: Baltimore, USA
+start: May 21 2011
+end: May 25 2011
+submission_deadline: December 1 2010
 url: http://www.cytoconference.org/
 ---
 name: International Conference on Intelligent Systems for Molecular Biology
