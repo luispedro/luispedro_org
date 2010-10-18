@@ -29,6 +29,13 @@ different processes to be able to communicate with a common redis server.
 
 Jug is a pure Python implementation and should work on any platform.
 
+Mailing List
+------------
+
+*Mailing List*: `http://groups.google.com/group/jug-users
+<http://groups.google.com/group/jug-users>`_
+
+
 Tutorial
 --------
 
