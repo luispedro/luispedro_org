@@ -85,16 +85,11 @@ the `value` function::
 
 
 
-Mailing List
-------------
+More Information
+----------------
 
-*Mailing List*: `http://groups.google.com/group/jug-users
-<http://groups.google.com/group/jug-users>`_
-
-Tutorial
---------
-
-There is a `worked out example
+Here are the `full API docs <http://packages.python.org/Jug/>`_. Alternatively,
+there is a `worked out example
 <http://luispedro.org/jug-docs/decrypt-example.html>`_, which comes with a
 *video* (`vimeo <http://vimeo.com/8972696>`_ or `showmedo
 <http://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975>`_),
@@ -102,6 +97,8 @@ and a `presentation </files/jug-decrypt-presentation.pdf>`_.
 
 If that is not enough, here is another `tutorial </software/jug/tutorial>`_.
 
+*Mailing List*: `http://groups.google.com/group/jug-users
+<http://groups.google.com/group/jug-users>`_
 
 Where can I get this?
 ---------------------
