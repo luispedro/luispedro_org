@@ -48,6 +48,9 @@ children:
     -   name: Other Stuff
         url: other/
         children:
+        -   name: FAQ
+            title: Frequently Asked Questions
+            url: /faq
         -   name: Fim de Tarde
             title: Award-winning short story (in Portuguese)
             url: /fimdetarde
