@@ -39,6 +39,13 @@ the typical
 
    python setup.py install
 
+See Also
+--------
+
+`mahotas </software/mahotas>`__ is another Python image processing package, but
+most of its functions are in C++. It is, therefore, much faster for the
+operations it supports.
+
 Documentation
 -------------
 
