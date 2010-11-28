@@ -18,3 +18,22 @@ motivated by biology.
 It is **not** computation inspired by biological models or computation by means
 of biological systems (DNA-based computation). Those are both separate fields.
 
+I'm Going to Lisbon. What should I see?
+---------------------------------------
+
+From Chiado, theres's a trolley, the 28, which goes down into downtown, then
+back up to the castle area, and across to Graça. This is definitely worth
+doing, either on the trolley, on foot following the trolley route, or any
+combination of both.
+
+The trolley goes through the castle area, but you have to get off and walk a
+couple of minutes to the actual castle (which you don't see from the
+trolley---most trolley drivers will shout out "Castle" at the appropriate
+stop, but not all of them do this). This is very much a ride of city vistas
+(Lisbon is very much a city of having coffee/beer overlooking the city and the
+river, particularly in this time of year---when it's nice, but not yet too
+hot).
+
+Do be careful, the 28 is notorious for pick-pockets (I used to ride it all the
+time as I lived in Graça and never had any problems, but I don't really looked
+like a tourist either).
