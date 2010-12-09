@@ -62,15 +62,20 @@ Publications
      Analysis*, Journal Biomolecular Screening (2010) [journal in press.
      `online version <http://dx.doi.org/10.1177/1087057110370894>`__
 
+
 Invited Talks
 -------------
-- *Proteome-scale analysis and modeling of subcellular location,* Luis Pedro
-  Coelho, 4th CeBiTec Symposium BioImaging, Bielefeld, Germany 25-27 August 2009
-- *Unsupervised Mixture Pattern Unmixing*, University of Bielefeld International
-  Graduate School of Bioinformatics and Genome Research, July 2008.
+1. *Proteome-scale analysis and modeling of subcellular location,* Luis Pedro
+   Coelho, 4th CeBiTec Symposium BioImaging, Bielefeld, Germany 25-27 August 2009
+2. *Unsupervised Mixture Pattern Unmixing*, University of Bielefeld International
+   Graduate School of Bioinformatics and Genome Research, July 2008.
 
 Other Talks
 -----------
-- *Determining Resolvable Subcellular Location Categories as a Function of Image
-  Resolution,* Luis Pedro Coelho & Robert F. Murphy, 24th ISAC Congress,
-  Budapest, May 2008.
+1.  *Determining Resolvable Subcellular Location Categories as a Function of Image
+    Resolution,* **Luis Pedro Coelho** and Robert F. Murphy, 24th ISAC Congress,
+    Budapest, May 2008.
+2.  Rita Reis and **Luis Pedro Coelho** *Using Theatre to Fight HIV/AIDS in
+    Mozambique*, National Conference of the Association for Theatre in Higher
+    Education, Chicago 2011
+
