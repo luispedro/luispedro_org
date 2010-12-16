@@ -24,10 +24,27 @@ error messages).
 The plan is to first write a faithful reimplementation of TeX and then, *make
 it better*.
 
-What needs to be better?
-------------------------
+Current status
+--------------
 
-Here are my ideas:
+version 0.0.1
+~~~~~~~~~~~~~
+
+Pre-pre-pre-pre-...-alpha. It can take an input file and output a DVI file of
+text with badly broken lines. It does it slowly and with a lot of hardcoded
+definitions (it supports exactly one font). It does not do any *page* breaking:
+everything is on one page.
+
+Right now, it is only interesting if you care to get involved in development.
+
+**Sounds great! Where do I get this fabulous code?** Github, both for the
+`cutting edge <http://github.com/luispedro/hex>`_ and `stable releases
+<https://github.com/luispedro/hex/archives/master>`_.
+
+What needs to be better in TeX?
+-------------------------------
+
+Here are my ideas for improving TeX:
 
  1. Better error messages.
  2. Better package management.
