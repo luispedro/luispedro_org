@@ -1,10 +1,3 @@
-name: Automated Imaging & High-Throughput Phenotyping
-short_name: AIHTP
-location: Cold Spring Harbor
-start: Dec 5 2010
-end: Dec 8 2010
-submission_deadline: September 24 2010
----
 name: International Symposium on Biomedical Imaging (ISBI)
 short_name: ISBI
 location: Chicago, USA
@@ -51,3 +44,11 @@ end: June 16 2011
 submission_deadline: January 8 2011
 location: Nashville, USA
 url: http://guest.cvent.com/d/w7S6_rzuREempofxFeje0A/9nlc/P1/5S?
+---
+name: Great Lakes Bioinformatics Conference
+short_name: GLBIO
+start: May 2 2011
+end: May 4 2011
+submission_deadline: February 21 2011
+location: Athens, Ohio
+url: http://glbio.org
