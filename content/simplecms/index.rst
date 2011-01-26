@@ -38,6 +38,13 @@ Recent Publications
 
 `All publications... </publications/>`_
 
+Upcoming Travels
+================
+
+In July 20-25, I will be in Lisbon for the `Lisbon Machine Learning School
+<http://lxmls.it.pt/Home.html>`_, where I will be giving a lab tutorial on
+Python and machine learning.
+
 Teaching
 ========
 
