@@ -27,6 +27,13 @@ it better*.
 Current status
 --------------
 
+version 0.0.2
+~~~~~~~~~~~~~
+
+Implements character codes and macro namespaces. I think we have the basic
+machinery to read input and covert it into a stream of TeX commands (except for
+\input). Now, it is the backend which needs the most work.
+
 version 0.0.1
 ~~~~~~~~~~~~~
 
