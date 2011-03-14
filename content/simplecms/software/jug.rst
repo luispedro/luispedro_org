@@ -88,14 +88,12 @@ the `value` function::
 More Information
 ----------------
 
-Here are the `full API docs <http://packages.python.org/Jug/>`_. Alternatively,
-there is a `worked out example
-<http://luispedro.org/jug-docs/decrypt-example.html>`_, which comes with a
-*video* (`vimeo <http://vimeo.com/8972696>`_ or `showmedo
+Here are the `full API docs <http://packages.python.org/Jug/>`_, which include
+several `worked out <http://packages.python.org/Jug/decrypt-example.html>`__
+`examples <http://packages.python.org/Jug/text-example.html>`__. There is also
+a *video* (`vimeo <http://vimeo.com/8972696>`_ or `showmedo
 <http://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975>`_),
 and a `presentation </files/jug-decrypt-presentation.pdf>`_.
-
-If that is not enough, here is another `tutorial </software/jug/tutorial>`_.
 
 *Mailing List*: `http://groups.google.com/group/jug-users
 <http://groups.google.com/group/jug-users>`_
