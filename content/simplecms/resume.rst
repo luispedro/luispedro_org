@@ -6,6 +6,8 @@ categories: about-me
 Resume
 ======
 
+Download `PDF Version </files/vita.pdf>`_.
+
 Contact Information
 -------------------
 ::
