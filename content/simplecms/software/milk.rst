@@ -68,8 +68,11 @@ If want to use a classifier, you instanciate a *learner object* and call its
 More Documentation
 ------------------
 
-API Documentation: `http://packages.python.org/milk/ <http://packages.python.org/milk/>`_
+API Documentation: `http://packages.python.org/milk/
+<http://packages.python.org/milk/>`__
 
+Mailing list (**New: March 2011**): `http://groups.google.com/group/milk-users
+<http://groups.google.com/group/milk-users>`__
 
 Features
 --------
