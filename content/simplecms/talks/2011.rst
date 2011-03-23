@@ -1,0 +1,13 @@
+title: Talks in 2011
+url: talks/2011
+categories: talks work
+..
+
+Talks I gave in 2011
+====================
+
+March 23. **Pittsburgh Python Users Group**: *Introduction to Scientific Programming in
+Python*. This was a lightening talk (5--10 minutes), so there is not a lot of
+meat, but I did draw some cool picture. `Slides
+</files/talks/2011/pypgh.pdf>`__
+
