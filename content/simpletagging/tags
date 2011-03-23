@@ -25,3 +25,6 @@
 - 
     name: Classics
     slug: classics
+- 
+    name: Talks
+    slug: talks
