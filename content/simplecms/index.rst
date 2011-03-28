@@ -30,7 +30,7 @@ Recent Publications
   Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
   Literature Image  Finder: Extracting Information from Text and Images in
   Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 pp.\
-  32--32, 2010 [`DOI http://dx.doi.org/10.1007/978-3-642-13131-8_4>`_]
+  32--32, 2010 [`DOI <http://dx.doi.org/10.1007/978-3-642-13131-8_4>`_]
 - Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
   Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
   Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
@@ -39,8 +39,8 @@ Recent Publications
 
 `All publications... </publications/>`_
 
-Upcoming Travels
-================
+Upcoming Travel
+===============
 
 On April 16, I will be in New York City for the `PAPS Forum
 <http://papsonline.org/>`__. The previous day, I might spend in the Washington
