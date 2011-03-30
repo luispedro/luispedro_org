@@ -46,9 +46,15 @@ On April 16, I will be in New York City for the `PAPS Forum
 <http://papsonline.org/>`__. The previous day, I might spend in the Washington
 DC area.
 
-In July 20-25, I will be in Lisbon for the `Lisbon Machine Learning School
+On July 20-25, I will be in Lisbon for the `Lisbon Machine Learning School
 <http://lxmls.it.pt/Home.html>`_, where I will be giving a lab tutorial on
 Python and machine learning.
+
+On August 11-14, I will be in Chicago for the `ATHE Conference
+<http://www.athe.org/node/19>`__, where, with Rita Reis, I will present a paper
+as part of the Theatre and Social Change Focus Group.
+
+
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
