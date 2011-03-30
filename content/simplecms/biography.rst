@@ -20,19 +20,35 @@ Outside academia, Luis has been involved in theatre (having produced the
 student group at IST and starred in several productions), as well as received a
 prize in a short story competition. He has taught computer usage in
 underprivileged neighbourhoods and designed Webpages for nonprofits. In Summer
-2010, he will be found in Mozambique, volunteering with local organisations there
-(see `beiraproject.org <http://beiraproject.org>`_).
+2010, was in Mozambique, volunteering with local organisations there (see
+`beiraproject.org <http://beiraproject.org>`_).
 
 Luis can be found at `http://luispedro.org <http://luispedro.org>`_
 
+Longer Version (Academic)
+.........................
 
-Longer Version
-..............
+Luis Pedro Coelho is a PhD candidate in computational biology at Carnegie
+Mellon University. His work is focused on automatic understanding of large
+collections of bioimage data.
 
-Luis was born, just over 29 years ago, in the coast city of Southampton.
-Shortly thereafter, the family moved to Lisbon, where Luis grew up. A series of
-fortunate coincidences brought him to the German School of Lisbon where he
-obtained his Abitur (final German high school diploma).
+Previously, at CMU, he was involved in the Structure Literature Image Finder
+(SLIF) project, a project which mined the academic literature using both the
+text of the papers and the images therein. This project was one of the
+finalists in the Elsevier Grand Challenge (4 out of 70 teams were present at
+the final).
+
+Before coming to CMU, Luis earned a BS and an MS from Instituto Superior
+Técnico, in Lisbon. His MS research was on learning from noisy data with
+Bayesian networks.
+
+Longer Version (Less Academic)
+..............................
+
+Luis was born in the coast city of Southampton.  Shortly thereafter, the family
+moved to Lisbon, where Luis grew up. A series of fortunate coincidences brought
+him to the German School of Lisbon where he obtained his Abitur (final German
+high school diploma).
 
 He went on to study computer science at the Technical University of Lisbon.
 Before finishing his degree, he spent one year in Vienna as an exchange
