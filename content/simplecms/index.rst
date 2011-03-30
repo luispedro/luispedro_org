@@ -25,17 +25,17 @@ Recent Publications
 - **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
   distribution of probes between subcellular locations using unsupervised
   pattern unmixing* in Bioinformatics, vol. 26 (12), pp.  i7-i12, 2010 [`DOI
-  <http://dx.doi.org/10.1093/bioinformatics/btq220>`_]
+  <http://dx.doi.org/10.1093/bioinformatics/btq220>`__]
 - **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
   Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
   Literature Image  Finder: Extracting Information from Text and Images in
   Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 pp.\
-  32--32, 2010 [`DOI <http://dx.doi.org/10.1007/978-3-642-13131-8_4>`_]
+  32--32, 2010 [`DOI <http://dx.doi.org/10.1007/978-3-642-13131-8_4>`__]
 - Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
   Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
   Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
-  Services and Agents on the World Wide Web, 2010 [`online version
-  <http://dx.doi.org/10.1016/j.websem.2010.04.002>`_]
+  Services and Agents on the World Wide Web, 2010 [`DOI
+  <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
 
 `All publications... </publications/>`_
 
