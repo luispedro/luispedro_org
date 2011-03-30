@@ -37,7 +37,7 @@ Recent Publications
   Services and Agents on the World Wide Web, 2010 [`DOI
   <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
 
-`All publications... </publications/>`_
+`All publications... </publications>`__
 
 Upcoming Travel
 ===============
