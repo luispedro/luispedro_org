@@ -38,7 +38,7 @@ Publications
      Disseminating Information from Text and Figures in Biomedical Literature*,
      Technical Report, School of Computer Science, Lane Center for
      Computational Biology, Carnegie Mellon University, October 2009 [`PDF
-     version </papers/2009/LPC-CMU-TR-CB-09-101.pdf>`__].
+     version </files/papers/2009/LPC-CMU-TR-CB-09-101.pdf>`__].
 9.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Proceedings of ISMB 2010 [`online version
@@ -47,11 +47,11 @@ Publications
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
      Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
-     version </papers/2010/lpc-slif-lncs-2010.pdf>`__]
+     version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
 11.  **Luis Pedro Coelho**, Estelle Glory-Afshar, Joshua Kangas, Shannon Quinn,
      Aabid Shariff, and Robert F. Murphy; *Principles of Bioimage Informatics:
      Focus on machine learning of cell patterns* in Lecture Notes in Computer
-     Science [`PDF Version </papers/2010/lpc-principles-2010.pdf>`__].
+     Science [`PDF Version </files/papers/2010/lpc-principles-2010.pdf>`__].
 12.  Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
@@ -59,8 +59,8 @@ Publications
      <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
 13.  Aabid Shariff, Joshua Kangas, **Luis Pedro Coelho**, Shannon Quinn, and
      Robert F. Murphy; *Automated Image Analysis for High Content Screening and
-     Analysis*, Journal Biomolecular Screening (2010) [journal in press.
-     `online version <http://dx.doi.org/10.1177/1087057110370894>`__
+     Analysis*, Journal Biomolecular Screening (2010) [`online version
+     <http://dx.doi.org/10.1177/1087057110370894>`__]
 
 
 Invited Talks
