@@ -42,9 +42,9 @@ Recent Publications
 Upcoming Travel
 ===============
 
-On April 16, I will be in New York City for the `PAPS Forum
-<http://papsonline.org/>`__. The previous day, I might spend in the Washington
-DC area.
+On April 16 and 17, I will be in New York City for the `PAPS Forum
+<http://papsonline.org/>`__. April 14 and 15, I will be in the Washington DC
+area.
 
 On July 20-25, I will be in Lisbon for the `Lisbon Machine Learning School
 <http://lxmls.it.pt/Home.html>`_, where I will be giving a lab tutorial on
