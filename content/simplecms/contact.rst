@@ -18,12 +18,19 @@ Find Me On the Web
 It is a modern curse that profiles in disparate websites multiply, often unused. Here are some of the places where you can find me on the web:
 
 - `my blog <http://www.mutualinformation.org>`_
+- `Twitter <http://www.twitter.com/luispedrocoelho>`_
 - `github <http://www.github.com/luispedro>`_
 - `github resume <http://resume.github.com/?luispedro>`_
-- `Twitter <http://www.twitter.com/luispedrocoelho>`_
 - `Mendeley Profile <http://www.mendeley.com/profiles/luis-pedro-coelho/>`_
-- `DBLP <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Lu=iacute=s_Pedro.html>`_ This is very incomplete. And `this <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html>`_ is also me!
+- `Freshmeat <http://freshmeat.net/users/luispedro>`__
+- `DBLP
+   <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Lu=iacute=s_Pedro.html>`_
+   This is very incomplete. And `this
+   <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html>`_
+   is also me!
 - `Epernicus <http://www.epernicus.com/people/luispedro>`_
 - `LinkedIn <http://www.linkedin.com/in/luispedrocoelho>`_
-- `kiva <http://www.kiva.org/>`_ `lender page <http://www.kiva.org/lender/luispedro>`_. Also, I started a `CMU kiva team <http://www.kiva.org/community/viewTeam?team_id=414>`_
+- `kiva <http://www.kiva.org/>`_ `lender page
+   <http://www.kiva.org/lender/luispedro>`_. Also, I started a `CMU kiva team
+   <http://www.kiva.org/community/viewTeam?team_id=414>`_
 
