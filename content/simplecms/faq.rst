@@ -18,6 +18,15 @@ motivated by biology.
 It is **not** computation inspired by biological models or computation by means
 of biological systems (DNA-based computation). Those are both separate fields.
 
+Is Pedro Your Middle Name or Part of Your Surname?
+--------------------------------------------------
+
+Neither, it is part of my given name. In some online applications, I just
+hyphenate: Luis-Pedro Coelho, but it is not the natural way to write it. Last
+time I was in Canada, the custom's form had two fields: *First Given Name* and
+*Second Given Name*. This is probably because many French names are similar
+(Jean-Paul, Jean-Pierre,...).
+
 I'm Going to Lisbon. What should I see?
 ---------------------------------------
 
