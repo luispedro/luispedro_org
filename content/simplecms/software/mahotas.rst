@@ -56,6 +56,9 @@ You can also find Windows packages `here
 <http://www.lfd.uci.edu/~gohlke/pythonlibs/>`_ by Christoph Gohlke at UCI. He
 also has other useful Python packages.
 
+For FreeBSD, mahotas is available in `the ports section
+<http://www.freshports.org/graphics/mahotas>`__.
+
 Support
 -------
 
