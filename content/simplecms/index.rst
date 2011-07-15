@@ -50,7 +50,8 @@ On August 11-14, I will be in Chicago for the `ATHE Conference
 <http://www.athe.org/node/19>`__, where, with Rita Reis, I will present a paper
 as part of the Theatre and Social Change Focus Group.
 
-
+On September 18-21, I will visit the beautiful Janelia Farm campus for the
+`Bioimage II <http://www.hhmi.org/janelia/conf-061.html>`__ conference.
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
@@ -72,5 +73,6 @@ anarco-capitalistic atomic communities and multiculturalism.
 
 When given the opportunity, I will run away for a jog in the park.
 
-I have also worked on some open-source software.
+I have also worked on some `open-source software
+<http://github.com/luispedro>`__.
 
