@@ -21,11 +21,23 @@ of biological systems (DNA-based computation). Those are both separate fields.
 Is Pedro Your Middle Name or Part of Your Surname?
 --------------------------------------------------
 
-Neither, it is part of my given name. In some online applications, I just
+Neither, it is part of my given name. "Luis Pedro" is my given name and
+"Coelho" is my last name.
+
+In some online applications which do not allow spaces in First Names, I just
 hyphenate: Luis-Pedro Coelho, but it is not the natural way to write it. Last
 time I was in Canada, the custom's form had two fields: *First Given Name* and
 *Second Given Name*. This is probably because many French names are similar
 (Jean-Paul, Jean-Pierre,...).
+
+What Does Your Mother Call You?
+-------------------------------
+
+It's none of your business.
+
+This is a *too frequently asked question* and I find it a somewhat personal
+question that people feel free to ask even when they are not on very close
+terms with me.
 
 I'm Going to Lisbon. What should I see?
 ---------------------------------------
@@ -46,3 +58,4 @@ hot).
 Do be careful, the 28 is notorious for pick-pockets (I used to ride it all the
 time as I lived in Graça and never had any problems, but I don't really looked
 like a tourist either).
+
