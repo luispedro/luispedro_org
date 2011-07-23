@@ -42,16 +42,13 @@ Recent Publications
 Upcoming Travel
 ===============
 
-On July 20-25, I will be in Lisbon for the `Lisbon Machine Learning School
-<http://lxmls.it.pt/Home.html>`_, where I will be giving a lab tutorial on
-Python and machine learning.
-
 On August 11-14, I will be in Chicago for the `ATHE Conference
 <http://www.athe.org/node/19>`__, where, with Rita Reis, I will present a paper
 as part of the Theatre and Social Change Focus Group.
 
 On September 18-21, I will visit the beautiful Janelia Farm campus for the
 `Bioimage II <http://www.hhmi.org/janelia/conf-061.html>`__ conference.
+Afterwards, on 22-23, I will visit the University of Delaware.
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
