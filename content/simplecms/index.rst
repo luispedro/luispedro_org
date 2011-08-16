@@ -20,6 +20,16 @@ my research aims to be practical and applied while keeping itself theoretically
 well-grounded.
 
 
+Fundraiser
+==========
+
+Rita and I will be hosting the *second annual Beira Project Fundraiser* on
+September 3rd! If you're in Pittsburgh, come to a great party for a great
+cause. It truly, will be a great party.
+
+Checkout the `Beira Project website <http://beiraproject.org/fr>`__ for
+details.
+
 Recent Publications
 ===================
 - **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
@@ -41,10 +51,6 @@ Recent Publications
 
 Upcoming Travel
 ===============
-
-On August 11-14, I will be in Chicago for the `ATHE Conference
-<http://www.athe.org/node/19>`__, where, with Rita Reis, I will present a paper
-as part of the Theatre and Social Change Focus Group.
 
 On September 18-21, I will visit the beautiful Janelia Farm campus for the
 `Bioimage II <http://www.hhmi.org/janelia/conf-061.html>`__ conference.
