@@ -59,3 +59,8 @@ Do be careful, the 28 is notorious for pick-pockets (I used to ride it all the
 time as I lived in Graça and never had any problems, but I don't really looked
 like a tourist either).
 
+How do you have the time to do all this stuff?
+----------------------------------------------
+
+I do not own a television. Never have.
+
