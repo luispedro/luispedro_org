@@ -14,6 +14,10 @@ Milk: Machine Learning Toolkit for Python
 
 This is the code that I use for my research projects.
 
+*If you like milk, please consider donating for our `fundraiser
+<http://beiraproject.org/fr>`__* If you happen to live in Pittsburgh, then come
+to our party!
+
 Where can I get it?
 -------------------
 
