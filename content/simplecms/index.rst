@@ -27,8 +27,12 @@ Rita and I will be hosting the *second annual Beira Project Fundraiser* on
 September 3rd! If you're in Pittsburgh, come to a great party for a great
 cause.
 
-Checkout the `Beira Project website <http://beiraproject.org/fr>`__ for
+Check out the `Beira Project website <http://beiraproject.org/fr>`__ for
 details.
+
+See our `Menu <http://beiraproject.org/blog/2011/August/fundraiser-menu>`__ and
+the `Prizes
+<http://beiraproject.org/blog/2011/September/fundraiser-prizes-2011>`__
 
 Recent Publications
 ===================
