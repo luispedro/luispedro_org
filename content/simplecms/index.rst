@@ -19,21 +19,6 @@ these by pushing the field in computer vision and machine learning. In general,
 my research aims to be practical and applied while keeping itself theoretically
 well-grounded.
 
-
-Fundraiser
-==========
-
-Rita and I will be hosting the *second annual Beira Project Fundraiser* on
-September 3rd! If you're in Pittsburgh, come to a great party for a great
-cause.
-
-Check out the `Beira Project website <http://beiraproject.org/fr>`__ for
-details.
-
-See our `Menu <http://beiraproject.org/blog/2011/August/fundraiser-menu>`__ and
-the `Prizes
-<http://beiraproject.org/blog/2011/September/fundraiser-prizes-2011>`__
-
 Recent Publications
 ===================
 - **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
@@ -59,6 +44,14 @@ Upcoming Travel
 On September 18-21, I will visit the beautiful Janelia Farm campus for the
 `Bioimage II <http://www.hhmi.org/janelia/conf-061.html>`__ conference.
 Afterwards, on 22-23, I will visit the University of Delaware.
+
+In October, 14-16, I return to Janelia Farm for the `Siebel Scholars 2011
+Conference <http://www.siebelscholars.com/conferences/2011>`__.
+
+In November, I will be in Pretoria for the `EMBO Practical Course: Imaging
+Infection: From Single Molecules to Animals
+http://www.nature.com/natureevents/science/events/10772-EMBO_Practical_Course_Imaging_Infection_From_Single_Molecules_to_Animals>`__
+(Nature Events link: the course link seems to not be working).
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
