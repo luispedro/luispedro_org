@@ -50,8 +50,7 @@ Conference <http://www.siebelscholars.com/conferences/2011>`__.
 
 In November, I will be in Pretoria for the `EMBO Practical Course: Imaging
 Infection: From Single Molecules to Animals
-<http://www.nature.com/natureevents/science/events/10772-EMBO_Practical_Course_Imaging_Infection_From_Single_Molecules_to_Animals>`__
-(Nature Events link: the course link seems to not be working).
+<http://microscopy.synbio.scientific-solution.com/>`__
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
