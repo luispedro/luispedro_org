@@ -38,6 +38,14 @@ Recent Publications
 
 `All publications... </publications>`__
 
+Other News
+==========
+
+**September 2011** My PhD dissertation defense is scheduled for September 28.
+
+**September 2011** I was chosen as a `2012 Siebel Scholar
+<http://www.siebelscholars.com/>`__
+
 Upcoming Travel
 ===============
 
@@ -54,24 +62,4 @@ Infection: From Single Molecules to Animals
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
-
-Teaching
-========
-
-In Spring 2009, I taught a course called `Programming for Scientists </pfs>`_
-which I intended as an intermediate class for working scientists who program
-with only an introductory course or just having informally picked up a language.
-
-I certainly hope to have an opportunity to teach it again.
-
-Other Interests
-================
-I keep a blog, the `Mutual Information <http://www.mutualinformation.org>`_,
-where I discuss things from cooking vegetarian to the relationships between
-anarco-capitalistic atomic communities and multiculturalism.
-
-When given the opportunity, I will run away for a jog in the park.
-
-I have also worked on some `open-source software
-<http://github.com/luispedro>`__.
 
