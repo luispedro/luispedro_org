@@ -49,11 +49,7 @@ Other News
 Upcoming Travel
 ===============
 
-On September 18-21, I will visit the beautiful Janelia Farm campus for the
-`Bioimage II <http://www.hhmi.org/janelia/conf-061.html>`__ conference.
-Afterwards, on 22-23, I will visit the University of Delaware.
-
-In October, 14-16, I return to Janelia Farm for the `Siebel Scholars 2011
+In October, 14-16, I will travel to Janelia Farm for the `Siebel Scholars 2011
 Conference <http://www.siebelscholars.com/conferences/2011>`__.
 
 In November, I will be in Pretoria for the `EMBO Practical Course: Imaging
