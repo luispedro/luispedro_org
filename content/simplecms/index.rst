@@ -41,7 +41,8 @@ Recent Publications
 Other News
 ==========
 
-**September 2011** My PhD dissertation defense is scheduled for September 28.
+**September 2011** I graduated from Carnegie Mellon University with a PhD in
+computational biology!
 
 **September 2011** I was chosen as a `2012 Siebel Scholar
 <http://www.siebelscholars.com/>`__

@@ -23,7 +23,7 @@ Education
 ---------
 
 - Carnegie Mellon University, Pittsburgh,
-  Joint CMU-Pitt Ph.D. in Computational Biology, 2006–2011 (expected).
+  Ph.D. in Computational Biology, 2006–2011.
 - Technical University of Lisbon, Portugal.
   Diploma [M.Sc.] in Computer Engineering, 2004–2006.
 - Technical University of Lisbon, Portugal.
@@ -31,13 +31,24 @@ Education
   One year spent at Technical University of Vienna (Austria) as international
   exchange student.
 
-Scholarships
------------------
-- Portugal's Science and Research Foundation Ph.D. scholarship since October
-  2007.
+Scholarships & Awards
+---------------------
+- Siebel Scholar 2012.
+- Portugal's Science and Research Foundation Ph.D. scholarship 2007-2011
+- Outstanding Research Accomplishment
+    Award for Research Excellence in the Joint CMU-University of Pittsburgh
+    Ph.D. Program in Computational Biology (2007).
+- Academic Excellency
+    Diploma of Merit from Instituto Superior Técnico for academic excellency in
+    the academic year 1999/2000. Award for Academy Excellence in the Joint
+    CMU-University of Pittsburgh Ph.D. Program in Computational Biology (2007).
 - Fulbright Fellowship for Ph.D. Study in the US, 2006/07.
 - Portugal's Science and Research Foundation research scholarship from December
   2004 through July 2006.
+- Fiction Writing
+    Second Price in the literature contest *Lisboa à Letra* 2004 for ﬁction.
+- Abitur
+    Letter of recognition of excellency in German Final Secondary Exam (Abitur).
 
 Publications
 ------------
@@ -124,18 +135,3 @@ kghostview.
 Publishes and maintains many open source projects of interest to his research,
 such as image processing or machine learning code. See the full list in my
 `github page <http://www.github.com/luispedro>`_.
-
-Awards
-------
-- Outstanding Research Accomplishment
-    Award for Research Excellence in the Joint CMU-University of Pittsburgh
-    Ph.D. Program in Computational Biology (2007).
-- Academic Excellency
-    Diploma of Merit from Instituto Superior Técnico for academic excellency in
-    the academic year 1999/2000. Award for Academy Excellence in the Joint
-    CMU-University of Pittsburgh Ph.D. Program in Computational Biology (2007).
-- Abitur
-    Letter of recognition of excellency in German Final Secondary Exam (Abitur).
-- Fiction Writing
-    Second Price in the literature contest *Lisboa à Letra* 2004 for ﬁction.
-
