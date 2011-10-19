@@ -38,8 +38,8 @@ Recent Publications
 
 `All publications... </publications>`__
 
-Other News
-==========
+News
+====
 
 **September 2011** I graduated from Carnegie Mellon University with a PhD in
 computational biology!
@@ -49,9 +49,6 @@ computational biology!
 
 Upcoming Travel
 ===============
-
-In October, 14-16, I will travel to Janelia Farm for the `Siebel Scholars 2011
-Conference <http://www.siebelscholars.com/conferences/2011>`__.
 
 In November, I will be in Pretoria for the `EMBO Practical Course: Imaging
 Infection: From Single Molecules to Animals
