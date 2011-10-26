@@ -41,7 +41,7 @@ Publications
      version </files/papers/2009/LPC-CMU-TR-CB-09-101.pdf>`__].
 9.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
-     pattern unmixing* in Proceedings of ISMB 2010 [`online version
+     pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
 10.  **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
