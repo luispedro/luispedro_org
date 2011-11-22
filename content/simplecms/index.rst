@@ -10,14 +10,13 @@ Who am I?
    :alt: Luis Pedro Coelho
    :class: float-right
 
-I am a Computational Biology PhD. candidate in the `Joint Carnegie Mellon-U. of
-Pittsburgh Ph.D. Program <http://www.compbio.cmu.edu/>`_ in Pittsburgh.
+I am a computational biologist. For my graduate work, at `Carnegie Mellon
+University <http://www.compbio.cmu.edu/>`_, I worked on computer vision for
+subcellular location analysis.
 
-I work at the `Murphy Lab <http://murphylab.web.cmu.edu/>`_ with fluorescent
-microscopy images. My mission is to find a completely novel way to interpret
-these by pushing the field in computer vision and machine learning. In general,
-my research aims to be practical and applied while keeping itself theoretically
-well-grounded.
+My postdoctoral work at the `Mhlanga Lab
+<http://mhlangalab.synbio.csir.co.za/>`__ will focus on host-parasite
+interactions between the malaria Plasmodium and its mammalian host.
 
 Recent Publications
 ===================
@@ -54,9 +53,8 @@ computational biology!
 Upcoming Travel
 ===============
 
-In November, I will be in Pretoria for the `EMBO Practical Course: Imaging
-Infection: From Single Molecules to Animals
-<http://microscopy.synbio.scientific-solution.com/>`__
+None planned (`invite me <mailto:luis@luispedro.org>`__).
+
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
