@@ -6,6 +6,12 @@ categories: talks work
 Talks I gave in 2011
 ====================
 
+November. **Bioimage Informatics: Computer Vision for Biology** This was part
+of the EMBO course on `Imaging Infection
+<http://microscopy.synbio.scientific-solution.com/>`__ that took place at CSIR
+in Pretoria. I have a `few notes </talks/2011/embo>`__ and will put up the
+slides later (I had a few computer problems).
+
 September 22. **Studying the subcellular location space with bioimages and
 other data modalities** This was a tutorial-like seminar on Bioimage analysis.
 It also included some new results, but I have left them out of the `online
