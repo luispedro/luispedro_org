@@ -87,9 +87,12 @@ Invited Talks
 
 Other Talks
 -----------
-- *Determining Resolvable Subcellular Location Categories as a Function of Image
-  Resolution,* Luis Pedro Coelho & Robert F. Murphy, 24th ISAC Congress,
-  Budapest, May 2008.
+1.  *Determining Resolvable Subcellular Location Categories as a Function of Image
+    Resolution,* Luis Pedro Coelho & Robert F. Murphy, 24th ISAC Congress,
+    Budapest, May 2008.
+2.  Rita Reis and **Luis Pedro Coelho** *Using Theatre to Fight HIV/AIDS in
+    Mozambique*, National Conference of the Association for Theatre in Higher
+    Education, Chicago 2011
 
 Languages
 ---------
