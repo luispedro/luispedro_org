@@ -58,5 +58,13 @@ Research Papers
    Patterns Characteristic of Subcellular Structures in Fluorescence Microscopy
    Images. Cytometry 33: 366-375. [`online version
    <http://murphylab.web.cmu.edu/publications/69-boland1998.pdf>`__]
+9. *The Automation of Science* by Ross D. King, Jem Rowland, Stephen G. Oliver,
+   Michael Young, Wayne Aubrey, Emma Byrne, Maria Liakata, Magdalena Markham,
+   Pinar Pir, Larisa N. Soldatova, Andrew Sparkes, Kenneth E. Whelan and Amanda
+   Clare [`link <http://www.sciencemag.org/content/324/5923/85.short>`__]
+10. *An active role for machine learning in drug development* by Robert F
+    Murphy Nature Chemical Biology 7, 327–330 (2011) doi:10.1038/nchembio.576
+    [`online link
+    <http://www.nature.com/nchembio/journal/v7/n6/full/nchembio.576.html>`__]
 
 
