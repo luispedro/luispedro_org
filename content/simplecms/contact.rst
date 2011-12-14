@@ -6,9 +6,7 @@ categories:
 Contact Me
 ==========
 
-My email is lpc@cmu.edu.
-
-If you're on the `CMU <http://www.cmu.edu>`_ CMU campus, my office is GHC 7405, on the seventh floor of the Hillman Center.
+My email is luis@luispedro.org
 
 `Download a vCard </files/Luis_Pedro_Coelho.vcf>`_
 
@@ -21,6 +19,7 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `Twitter <http://www.twitter.com/luispedrocoelho>`_
 - `github <http://www.github.com/luispedro>`_
 - `github resume <http://resume.github.com/?luispedro>`_
+- `google scholar page <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`_
 - `Mendeley Profile <http://www.mendeley.com/profiles/luis-pedro-coelho/>`_
 - `Freshmeat <http://freshmeat.net/users/luispedro>`__
 - `Stackoverflow <http://stackoverflow.com/users/248279/luispedro>`__
