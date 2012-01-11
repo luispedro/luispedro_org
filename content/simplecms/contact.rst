@@ -23,14 +23,11 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `Mendeley Profile <http://www.mendeley.com/profiles/luis-pedro-coelho/>`_
 - `Freshmeat <http://freshmeat.net/users/luispedro>`__
 - `Stackoverflow <http://stackoverflow.com/users/248279/luispedro>`__
-- `DBLP
-   <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Lu=iacute=s_Pedro.html>`_
-   This is very incomplete. And `this
-   <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html>`_
+- `DBLP <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Lu=iacute=s_Pedro.html>`__
+   This is very incomplete. And `this entry <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html>`__
    is also me!
 - `Epernicus <http://www.epernicus.com/people/luispedro>`_
 - `LinkedIn <http://www.linkedin.com/in/luispedrocoelho>`_
-- `kiva <http://www.kiva.org/>`_ `lender page
-   <http://www.kiva.org/lender/luispedro>`_. Also, I started a `CMU kiva team
-   <http://www.kiva.org/community/viewTeam?team_id=414>`_
+- `kiva <http://www.kiva.org/>`_ `lender page <http://www.kiva.org/lender/luispedro>`_.
+   Also, I started a `CMU kiva team <http://www.kiva.org/community/viewTeam?team_id=414>`_
 
