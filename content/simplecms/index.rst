@@ -15,8 +15,8 @@ University <http://www.compbio.cmu.edu/>`_, I worked on computer vision for
 subcellular location analysis.
 
 My postdoctoral work at the `Mhlanga Lab
-<http://mhlangalab.synbio.csir.co.za/>`__ will focus on host-parasite
-interactions between the malaria Plasmodium and its mammalian host.
+<http://mhlangalab.synbio.csir.co.za/>`__ will focus on the malaria parasite
+(Plasmodium).
 
 Recent Publications
 ===================
@@ -40,9 +40,12 @@ Recent Publications
 News
 ====
 
+**January 2012** I am now based in Lisbon at `IMM
+<http://www.imm.fm.ul.pt/web/imm/geneexpressionandbiophysics>`__ in Musa
+Mhlanga's lab.
+
 **November 2011** I start work as a postdoctoral researcher at `Musa Mhlanga's
-lab <http://mhlangalab.synbio.csir.co.za/>`__. I will be based in `Lisbon
-<http://www.imm.fm.ul.pt/web/imm/geneexpressionandbiophysics>`__.
+lab <http://mhlangalab.synbio.csir.co.za/>`__.
 
 **October 2011** I graduated from Carnegie Mellon University with a PhD in
 computational biology!
@@ -55,7 +58,6 @@ Upcoming Travel
 
 None planned (`invite me <mailto:luis@luispedro.org>`__).
 
-
-`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-of these opportunities.
+..  `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
+    any of these opportunities.
 
