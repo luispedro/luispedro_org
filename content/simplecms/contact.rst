@@ -23,6 +23,8 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `Mendeley Profile <http://www.mendeley.com/profiles/luis-pedro-coelho/>`_
 - `Freshmeat <http://freshmeat.net/users/luispedro>`__
 - `Stackoverflow <http://stackoverflow.com/users/248279/luispedro>`__
+- `stackoverflow Careers <http://careers.stackoverflow.com/luispedro>`__
+- `Researchgate <http://www.researchgate.net/profile/Luis_Pedro_Coelho/>`__
 - `DBLP <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Lu=iacute=s_Pedro.html>`__
    This is very incomplete. And `this entry <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html>`__
    is also me!
