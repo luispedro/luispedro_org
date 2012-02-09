@@ -1,0 +1,12 @@
+title: Talks in 2012
+url: talks/2012
+categories: talks work
+..
+
+Talks I gave in 2012
+====================
+
+February 10. **Learning Subcellular Location from Images and Other Sources of
+Information** for `KDBIO
+<http://www.inesc-id.pt/intranet/laboratoriogrupo/kdbio/kdbio.php>`__ group at
+INESC-ID. `Slides & references </talks/2012/kdbio>`__
