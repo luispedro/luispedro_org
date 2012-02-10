@@ -27,6 +27,8 @@ Research Papers
    Patterns Characteristic of Subcellular Structures in Fluorescence Microscopy
    Images. Cytometry 33: 366-375. [`online version
    <http://murphylab.web.cmu.edu/publications/69-boland1998.pdf>`__]
+5. Latent Dirichlet Allocation, Blei et al ., JMLR (3), 2003 [`online version
+   <http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf>`__]
 
 
 Reviews
