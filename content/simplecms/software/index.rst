@@ -34,6 +34,12 @@ Milk is a Pythonic *machine learning toolkit*
 
 License: MIT.
 
+`Imread </software/imread>`_
+........................
+
+Imread serves to read and save image files to and from numpy arrays.
+
+License: MIT.
 
 
 `gitcms <software/git-cms>`_
