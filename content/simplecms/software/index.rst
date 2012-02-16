@@ -41,6 +41,14 @@ Imread serves to read and save image files to and from numpy arrays.
 
 License: MIT.
 
+`Hex </software/hex>`_
+......................
+
+Hex is a TeX engine in Haskell. It currently does not do much, but it is
+progressing. The goal is a full reimplementation.
+
+License: GPL.
+
 
 `gitcms <software/git-cms>`_
 ............................
@@ -85,6 +93,11 @@ I learned a lot about numpy's internals while doing it and I developed this
 technique for writing fast clean C++ to work on numpy code.
 
 License: GPL.
+
+`readmagick <software/readmagick>`_
+...................................
+
+This used ImageMagick to read images. It has been superceded by imread_.
 
 Bits & Pieces
 -------------
