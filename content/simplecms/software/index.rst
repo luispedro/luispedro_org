@@ -12,7 +12,7 @@ part of my research.
 Currently Active Projects
 -------------------------
 `mahotas </software/mahotas>`_
-.......................
+..............................
 
 mahotas is a computer vision package for Python. It operates on numpy arrays.
 It is implemented in C++ as it has a strong efficiency focus.
@@ -35,7 +35,7 @@ Milk is a Pythonic *machine learning toolkit*
 License: MIT.
 
 `Imread </software/imread>`_
-........................
+............................
 
 Imread serves to read and save image files to and from numpy arrays.
 
