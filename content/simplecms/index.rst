@@ -58,6 +58,8 @@ Upcoming Travel
 
 None planned (`invite me <mailto:luis@luispedro.org>`__).
 
+I am giving a `seminar on March 12th at IGC in Oeiras <http://compbio.igc.gulbenkian.pt/portal/seminars/upcoming>`__.
+
 ..  `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
     any of these opportunities.
 
