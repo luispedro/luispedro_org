@@ -3,7 +3,7 @@ url: talks/2011/embo
 categories: talks work
 ..
 
-You can find `the slides here </files/talks/2011/lpc-embo-presntation.pdf>`__.
+You can find `the slides here </files/talks/2011/lpc-embo-presentation.pdf>`__.
 
 References
 ==========
