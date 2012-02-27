@@ -84,6 +84,13 @@ Invited Talks
   Coelho, 4th CeBiTec Symposium BioImaging, Bielefeld, Germany 25-27 August 2009
 - *Unsupervised Mixture Pattern Unmixing*, University of Bielefeld International
   Graduate School of Bioinformatics and Genome Research, July 2008.
+- *Studying the subcellular location space with bioimages and other data
+  modalities*, University of Delaware, Computer and Information Sciences
+  Department, September 2011
+- Bioimage Informatics: Computer Vision for Biology*, EMBO Practical Course on
+  Microscopy: from single molecules to animals, Pretoria, November 2011
+- *Learning Subcellular Location from Images and Other Sources of Information*,
+  KDBIO (Knowledge Discovery and Bioinformatics) seminar, Lisbon, February 2012
 
 Other Talks
 -----------
