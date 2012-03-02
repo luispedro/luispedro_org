@@ -53,12 +53,19 @@ computational biology!
 **September 2011** I was chosen as a `2012 Siebel Scholar
 <http://www.siebelscholars.com/>`__
 
-Upcoming Travel
-===============
+Upcoming Travels & Talks
+========================
 
-None planned (`invite me <mailto:luis@luispedro.org>`__).
+I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-I am giving a `seminar on March 12th at IGC in Oeiras <http://compbio.igc.gulbenkian.pt/portal/seminars/upcoming>`__.
+**March 2012** I am giving a
+`seminar on March 12th at IGC in Oeiras <http://compbio.igc.gulbenkian.pt/portal/seminars/upcoming>`__.
+
+**July 2012** I will be teaching an introductory Python tutorial at this
+year's edition of the `Lisbon Machine Learning School <http://lxmls.it.pt/Home.html>`__.
+This is agreat event to learn machine learning and it's a great time of year to
+visit Lisbon.
+
 
 ..  `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
     any of these opportunities.
