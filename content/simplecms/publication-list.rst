@@ -27,7 +27,7 @@ Publications
      Interest Group 2009).
 6.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
      segmentation in microscope cell images: A hand-segmented dataset and
-     comparison of algorithms* ISBI 2009.
+     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
 7.   Taraz Buck, Arvind Rao, **Luis Pedro Coelho**, Margaret Fuhrman, Jonathan
      W. Jarvik, Peter B. Berget, and Robert F. Murphy; *Cell Cycle Dependence
      of Protein Subcellular Location Inferred from Static, Asynchronous Images*
