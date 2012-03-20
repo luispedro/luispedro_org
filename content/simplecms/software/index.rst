@@ -59,6 +59,12 @@ those text files and publish on the website.
 
 License: Affero GPL.
 
+Reproducible Research
+---------------------
+
+I have also made some `code available for reproducible research </software/reproducible>`__.
+
+
 Dormant Projects
 ----------------
 
