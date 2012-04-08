@@ -27,6 +27,19 @@ it better*.
 Current status
 --------------
 
+Version 0.0.5
+~~~~~~~~~~~~~
+Implements very basic Math typesetting.
+
+Version 0.0.4
+~~~~~~~~~~~~~
+
+Added font capabilities (\font etc). Also, improve macro expansion (delimited macros, \if).
+
+Version 0.0.3
+~~~~~~~~~~~~~
+TeX-like line breaking. Added \input and \message.
+
 version 0.0.2
 ~~~~~~~~~~~~~
 
