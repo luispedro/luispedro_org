@@ -11,6 +11,12 @@ part of my research.
 
 Currently Active Projects
 -------------------------
+`NGH </software/ngh>`__
+.......................
+NGH is an NGS package for Haskell
+
+License: MIT.
+
 `mahotas </software/mahotas>`_
 ..............................
 
