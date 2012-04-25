@@ -16,7 +16,7 @@ subcellular location analysis.
 
 My postdoctoral work at the `Mhlanga Lab
 <http://mhlangalab.synbio.csir.co.za/>`__ will focus on the malaria parasite
-(Plasmodium).
+(Plasmodium). More `details on the project </projects/plasmodium>`__.
 
 Recent Publications
 ===================
@@ -57,9 +57,6 @@ Upcoming Travels & Talks
 ========================
 
 I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
-
-**March 2012** I am giving a
-`seminar on March 12th at IGC in Oeiras <http://compbio.igc.gulbenkian.pt/portal/seminars/upcoming>`__.
 
 **July 2012** I will be teaching an introductory Python tutorial at this
 year's edition of the `Lisbon Machine Learning School <http://lxmls.it.pt/Home.html>`__.
