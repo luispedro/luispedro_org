@@ -25,9 +25,9 @@ Education
 - Carnegie Mellon University, Pittsburgh,
   Ph.D. in Computational Biology, 2006–2011.
 - Technical University of Lisbon, Portugal.
-  Diploma [M.Sc.] in Computer Engineering, 2004–2006.
+  Diploma [MS] in Computer Engineering, 2004–2006.
 - Technical University of Lisbon, Portugal.
-  Diploma [B.Sc.] in Computer Engineering, 1999–2004.
+  Diploma [BS] in Computer Engineering, 1999–2004.
   One year spent at Technical University of Vienna (Austria) as international
   exchange student.
 
@@ -50,31 +50,22 @@ Scholarships & Awards
 - Abitur
     Letter of recognition of excellency in German Final Secondary Exam (Abitur).
 
-Publications
-------------
-- *Cell Cycle Dependence of Protein Subcellular Location Inferred from Static,
-  Asynchronous Images* by Taraz Buck, Arvind Rao, Luis Pedro Coelho, Margaret
-  Fuhrman, Jonathan W. Jarvik, Peter B. Berget, and Robert F. Murphy, EMBC 2009.
-- *Nuclear segmentation in microscope cell images: A hand-segmented dataset and
-  comparison of algorithms* by Luis Pedro Coelho, Aabid Shariff, and Robert F.
-  Murphy, ISBI 2009.
-- *Structured Literature Image Finder* by Amr Ahmed, Andrew Arnold, Luis Pedro
-  Coelho, Joshua Kangas, Abdul-Saboor Sheikk, Eric P. Xing, William W. Cohen,
-  and Robert F. Murphy, Proceedings of BioLINK (ISMB Special Interest Group
-  2009).
-- *Unsupervised Unmixing of Subcellular Location Patterns* by Luis Pedro Coelho
-  and Robert F. Murphy, Proceedings of ICML-UAI-COLT 2009 Workshop on Automated
-  Interpretation and Modeling of Cell Images (2009).
-- *Identifying Subcellular Locations from Images of Unknown Resolution* by Luis
-  Pedro Coelho; Robert Murphy, Bioinformatics Research and Development,
-  Springer, Volume 13, Vienna, Austria (2008)
-- *An Adaptive Multiresolution Approach to Fingerprint Recognition* by Amina
-  Chebira, Luis Pedro Coelho, Aliaksei Sandryhaila, Stephen Lin, William G.
-  Jenkinson, Jeremiah MacSleyne, Christopher Hoffman, Philipp Cuadra, Charles
-  Jackson, Markus Püschel, Jelena Kovacevic; International Conference on Image
-  Processing, (2007)
-- *Dotted Suffix Trees: A Structure for Approximate Text Indexing* by Luis Pedro
-  Coelho; Arlindo Oliveira, SPIRE (2006)
+Selected Publications
+---------------------
+1.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+     distribution of probes between subcellular locations using unsupervised
+     pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
+     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
+2.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+     Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
+     Literature Image  Finder: Extracting Information from Text and Images in
+     Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
+     version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
+3.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
+     segmentation in microscope cell images: A hand-segmented dataset and
+     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
+4.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
+     Structure for Approximate Text Indexing* SPIRE (2006)
 
 See also my `full annotated list of publications </publications>`_
 
@@ -91,6 +82,8 @@ Invited Talks
   Microscopy: from single molecules to animals, Pretoria, November 2011
 - *Learning Subcellular Location from Images and Other Sources of Information*,
   KDBIO (Knowledge Discovery and Bioinformatics) seminar, Lisbon, February 2012
+- *Modeling Subcellular Location from Images and Other Sources of Information*,
+  EAO Seminar (Instituto Gulbenkian da Ciência), Oeiras, March 2012
 
 Other Talks
 -----------
@@ -107,7 +100,7 @@ Languages
 - Fluent oral and good written German (attended a German-speaking school,
   grades 5 through 12; spent a year at the Technical University of Austria).
 - Fluent oral and good written French
-- Basic knowledge of Spanish
+- Basic knowledge of Spanish and Luxembourgish
 
 Work Experience
 ----------------
