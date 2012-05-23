@@ -58,14 +58,12 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**May 16 2012** I will attend the `*Imaging the Cell Nucleus*
-<http://www.integer-itn.eu/workshops/nuclearimaging/>`__ workshop at the
-Imperial College, in London.
-
 **July 2012** I will be teaching an introductory Python tutorial at this
 year's edition of the `Lisbon Machine Learning School <http://lxmls.it.pt/Home.html>`__.
 This is agreat event to learn machine learning and it's a great time of year to
 visit Lisbon.
+
+**July 2012** I will be visiting Luxembourg.
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
