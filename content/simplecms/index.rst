@@ -15,8 +15,9 @@ University <http://www.compbio.cmu.edu/>`_, I worked on computer vision for
 subcellular location analysis.
 
 My postdoctoral work at the `Mhlanga Lab
-<http://mhlangalab.synbio.csir.co.za/>`__ will focus on the malaria parasite
-(Plasmodium). More `details on the project </projects/plasmodium>`__.
+<http://mhlangalab.synbio.csir.co.za/>`__ focuses on the nuclear organisation
+of the malaria parasite (Plasmodium). More `details on the project
+</projects/plasmodium>`__.
 
 Recent Publications
 ===================
