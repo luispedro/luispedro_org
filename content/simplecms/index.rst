@@ -63,12 +63,14 @@ Upcoming Travels & Talks
 **June 12 2012** I will give a talk at the Lisbon Machine Learning Lunch
 (Instituto Superior Tecnico, room PA2, at 13.00).
 
-**July 2012** I will be teaching an introductory Python tutorial at this
+**July 19 2012** I will be teaching an introductory Python tutorial at this
 year's edition of the `Lisbon Machine Learning School <http://lxmls.it.pt/Home.html>`__.
 This is agreat event to learn machine learning and it's a great time of year to
 visit Lisbon.
 
-**July 2012** I will be visiting Luxembourg.
+**July 26 2012** I will be visiting the `Luxembourg Centre for Systems Biomedicine <http://wwwen.uni.lu/lcsb>`__.
+
+**August 2012** I will be in Pittsburgh for a week.
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
