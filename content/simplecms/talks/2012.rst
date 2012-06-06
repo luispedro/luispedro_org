@@ -6,6 +6,9 @@ categories: talks work
 Talks I gave in 2012
 ====================
 
+June 12. **Modeling Subcellular Location from Images and Other Sources of
+Information** for Lisbon ML Lunch (IST). `References </talks/2012/igc>`__
+
 March 12. **Modeling Subcellular Location from Images and Other Sources of
 Information** for EAO Seminar (IGC). `References </talks/2012/igc>`__
 
