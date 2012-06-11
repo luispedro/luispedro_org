@@ -9,12 +9,13 @@ Biography
 Shorter Version
 ...............
 
-Luis Pedro Coelho is a PhD candidate in computational biology at Carnegie
-Mellon University. He is interested in computational biology that is both
-theoretically well-grounded and yields insights into real systems. Luis has a
-BS and MS in computer science from Instituto Superior Técnico. He is a
-Fulbright Scholar and has won multiple awards for academic or research
-excellence.
+Luis Pedro Coelho is post-doctoral researcher at the Institute for Molecular
+Medicine in Lisbon (Portugal). He works in understanding chromatin organization
+in Plasmodium, the malaria-causing parasite. His work is involves both lab
+biology and computational modeling. Luis has a PhD in computational biology
+from Carnegie Mellon University, a BS and MS in computer science from Instituto
+Superior Técnico. He is a Fulbright Scholar, a Siebel Scholar, and has won
+multiple awards for academic or research excellence.
 
 Outside academia, Luis has been involved in theatre (having produced the
 student group at IST and starred in several productions), as well as received a
@@ -28,22 +29,28 @@ Luis can be found at `http://luispedro.org <http://luispedro.org>`_
 Longer Version (Academic)
 .........................
 
-Luis Pedro Coelho is a PhD candidate in computational biology at Carnegie
-Mellon University. His work is focused on automatic understanding of large
-collections of bioimage data.
+Luis Pedro Coelho is post-doctoral researcher at the Institute for Molecular
+Medicine in Lisbon (Portugal). He works in understanding chromatin organization
+in Plasmodium, the malaria-causing parasite. His work is involves both lab
+biology and computational modeling.
 
-Previously, at CMU, he was involved in the Structure Literature Image Finder
-(SLIF) project, a project which mined the academic literature using both the
-text of the papers and the images therein. This project was one of the
-finalists in the Elsevier Grand Challenge (4 out of 70 teams were present at
-the final).
+Luis holds a PhD in computational biology from Carnegie Mellon University. His
+doctoral research consisted of modeling images from fluorescent microsocpy. The
+models he developed integrate several sources of image and non-image
+information into a single model. Also at CMU, he was involved in the Structure
+Literature Image Finder (SLIF) project, a project which mined the academic
+literature using both the text of the papers and the images therein. This
+project was one of the finalists in the Elsevier Grand Challenge.
 
-Before coming to CMU, Luis earned a BS and an MS from Instituto Superior
-Técnico, in Lisbon. His MS research was on learning from noisy data with
-Bayesian networks.
+Luis also holds a BS and an MS from Instituto Superior Técnico, in Lisbon. His
+MS research was on learning from noisy data with Bayesian networks. He is a
+Fulbright Scholar, a Siebel Scholar, and has won multiple awards for academic
+or research excellence.
 
 Longer Version (Less Academic)
 ..............................
+
+**This version is slightly out of date**
 
 Luis was born in the coast city of Southampton.  Shortly thereafter, the family
 moved to Lisbon, where Luis grew up. A series of fortunate coincidences brought
