@@ -68,9 +68,10 @@ year's edition of the `Lisbon Machine Learning School <http://lxmls.it.pt/Home.h
 This is agreat event to learn machine learning and it's a great time of year to
 visit Lisbon.
 
-**July 26 2012** I will be visiting the `Luxembourg Centre for Systems Biomedicine <http://wwwen.uni.lu/lcsb>`__.
+**26 July 2012** I will be visiting Luxembourg to give a talk at the
+`Luxembourg Centre for Systems Biomedicine <http://wwwen.uni.lu/lcsb>`__
 
-**August 2012** I will be in Pittsburgh for a week.
+**1-15 August 2012** I will be in Pittsburgh (USA)
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
