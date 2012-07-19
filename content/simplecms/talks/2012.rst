@@ -16,3 +16,8 @@ February 10. **Learning Subcellular Location from Images and Other Sources of
 Information** for `KDBIO
 <http://www.inesc-id.pt/intranet/laboratoriogrupo/kdbio/kdbio.php>`__ group at
 INESC-ID. `References </talks/2012/kdbio>`__
+
+July 19. **Introduction to Python & Linear Algebra Recap** for `Lisbon Machine
+Learning School <http://lxmls.it.pt>`__. Slides `here
+</files/talks/2012/lxmls.pdf`__.
+
