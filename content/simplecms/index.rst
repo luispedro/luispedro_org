@@ -50,7 +50,7 @@ Mhlanga's lab.
 **November 2011** I start work as a postdoctoral researcher at `Musa Mhlanga's
 lab <http://mhlangalab.synbio.csir.co.za/>`__.
 
-`older news items </news>...`__
+`older news items ... </news>`__
 
 Upcoming Travels & Talks
 ========================
@@ -60,5 +60,5 @@ In September, I am teaching a `Programming for Scientists course <http://www.imm
 I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
 .. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-.. of these opportunities.
+   of these opportunities.
 
