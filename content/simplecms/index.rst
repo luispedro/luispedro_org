@@ -50,21 +50,15 @@ Mhlanga's lab.
 **November 2011** I start work as a postdoctoral researcher at `Musa Mhlanga's
 lab <http://mhlangalab.synbio.csir.co.za/>`__.
 
-**October 2011** I graduated from Carnegie Mellon University with a PhD in
-computational biology!
-
+`older news items </news>...`__
 
 Upcoming Travels & Talks
 ========================
 
-.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+In September, I am teaching a `Programming for Scientists course <http://www.imm.fm.ul.pt/web/imm/advancedcourses>`__ at the Institute for Molecular Medicine in Lisbon.
 
+I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**26 July 2012** I will be visiting Luxembourg to give a talk at the
-`Luxembourg Centre for Systems Biomedicine <http://wwwen.uni.lu/lcsb>`__
-
-**1-15 August 2012** I will be in Pittsburgh (USA)
-
-`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-of these opportunities.
+.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
+.. of these opportunities.
 
