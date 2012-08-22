@@ -9,26 +9,28 @@ categories: software python
         <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
     </a>
 
-Mahotas: Image Processing in Python
-===================================
+Mahotas: Computer Vision in Python
+==================================
 
-Mahotas is a set of functions for image processing in Python.
+Mahotas is a set of functions for image processing and computer vision in
+Python.
 
 It is completely based on numpy arrays as its datatype. It has its heavy
 routines implemented in clean C++ in a way that is both very clean, type
 independent (using templates), and fast.
 
-All of the code is self contained and it has no other dependencies than numpy
-and scipy.ndimage (for certain algorithms). Freeimage is an optional dependency
-if you want to use the ``imread`` and ``imsave`` functions.
+All of the code is self contained and it has no other dependencies than numpy.
+Freeimage or `imread </software/imread>`__ are an optional dependency if you
+want to use the ``imread`` and ``imsave`` functions.
 
 The code is well documented (**all** public functions are extensively
-documented) and well tested (100% test coverage of all but 2 modules---working
-on those last two). It has **no known bugs**.
+documented) and well tested (almost 100% test coverage). It has **no known
+bugs**.
 
 Algorithms
 ----------
 
+- SURF
 - watershed
 - thresholding
 - convex hull computation
@@ -36,7 +38,7 @@ Algorithms
 - feature computation: Haralick textures, local binary patterns, and Zernike
   moment
 - distance transform
-- freeimage interface
+- freeimage & imread interface
 - ...
 
 Install
