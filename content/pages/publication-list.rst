@@ -42,6 +42,8 @@ Full List of Publications
 =========================
 In chronological order
 
+Also available as a `BibTeX file </publications/bibtex>`__.
+
 Peer Reviewed Journal Articles
 ------------------------------
 1.   Abdul-Saboor Sheikh, Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**,
