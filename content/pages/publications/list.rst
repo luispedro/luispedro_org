@@ -30,7 +30,9 @@ Submitted or In Preparation
     Subcellular Location with Better Generalization* (submitted)
 2.  **Luis Pedro Coelho**, Shannon Quinn, Hagit Shatkay and Robert F.~Murphy
     *Waldo: A Python Library for Unifying Location Databases* (submitted)
-3.  **Luis Pedro Coelho**, Joshua D.  Kangas, Armaghan Naik, Elvira Osuna-Highley,
+3.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
+    computer vision (submitted).
+4.  **Luis Pedro Coelho**, Joshua D.  Kangas, Armaghan Naik, Elvira Osuna-Highley,
     Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B.  Berget,
     Jonathan W.  Jarvik, Hagit Shatkay, and Robert F. Murphy, *Loto: Location
     Topics for Modeling Subcellular Location Space in Mammalian Cells* (in
