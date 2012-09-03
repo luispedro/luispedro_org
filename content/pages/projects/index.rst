@@ -1,5 +1,5 @@
 title: Projects
-url: projects/
+url: projects
 categories: work
 ..
 
