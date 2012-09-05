@@ -13,11 +13,9 @@ Contact Information
 ::
 
     Luis Pedro Coelho
-    Carnegie Mellon University
-    5000 Fifth Avenue,
-    7405 GHC
-    Pittsburgh, PA 15213
-    lpc at cmu dot edu
+    Instituto de Medicina Molecular
+    Lisboa, Portugal
+    luis@luispedro.org
 
 Education
 ---------
