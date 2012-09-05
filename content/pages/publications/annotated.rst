@@ -25,6 +25,7 @@ Slif is available at `http://slif.cbi.cmu.edu <http://slif.cbi.cmu.edu>`_.
   version <http://dx.doi.org/10.1016/j.websem.2010.04.002>`_]
 
 .. raw:: html
+
     <div class="paper_info">
         <a href="http://www.sciencedirect.com/science/article/B758F-4YT6D7G-2/2/348444def95436f515c644e1a539d643" alt="Publisher">
             Publisher
@@ -59,6 +60,7 @@ Slif is available at `http://slif.cbi.cmu.edu <http://slif.cbi.cmu.edu>`_.
    Robert F. Murphy. *in* Lecture Notes in Bioinformatics, 2010 (to appear)
 
 .. raw:: html
+
     <div class="paper_info">
         <div class="more">
             A slightly technical overview of the SLIF project with a focus on
