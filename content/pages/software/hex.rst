@@ -66,16 +66,16 @@ What needs to be better in TeX?
 
 Here are my ideas for improving TeX:
 
- 1. Better error messages.
- 2. Better package management.
- 3. Document at-once-typesetting (instead of page-per-page).
- 4. Single pass implementation of cross-references.
- 5. Better handling of floats.
- 6. Better handling of images.
- 7. Faster.
- 8. Better scripting.
- 9. In-built (or script written) facilities for things like references (instead
-    of relying on external programmes).
+1. Better error messages.
+2. Better package management.
+3. Document at-once-typesetting (instead of page-per-page).
+4. Single pass implementation of cross-references.
+5. Better handling of floats.
+6. Better handling of images.
+7. Faster.
+8. Better scripting.
+9. In-built (or script written) facilities for things like references (instead
+   of relying on external programmes).
 10. Use of multi-core machines.
 11. More output formats (ePub?)
 
