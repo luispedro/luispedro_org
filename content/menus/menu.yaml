@@ -27,24 +27,24 @@ children:
     -   name: Software
         url: software/
         children:
-        -   name: Pymorph
-            title: Python Morphology Toolbox
-            url: /software/pymorph
         -   name: Mahotas
             title: Image processing with Python
             url: /software/mahotas
-        -   name: git-cms
-            title: Do a website with django and git
-            url: /software/git-cms
         -   name: Jug
             title: Task based parallelization framework for Python
             url: /software/jug
+        -   name: Pymorph
+            title: Python Morphology Toolbox
+            url: /software/pymorph
         -   name: Milk
             title: Machine Learning Toolkit for Python
             url: /software/milk
         -   name: Milksets
             title: Machine Learning Datasets for Python
             url: /software/milksets
+        -   name: git-cms
+            title: Do a website with django and git
+            url: /software/git-cms
     -   name: Other Stuff
         url: other/
         children:
