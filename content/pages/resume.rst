@@ -82,6 +82,8 @@ Invited Talks
   KDBIO (Knowledge Discovery and Bioinformatics) seminar, Lisbon, February 2012
 - *Modeling Subcellular Location from Images and Other Sources of Information*,
   EAO Seminar (Instituto Gulbenkian da Ciência), Oeiras, March 2012
+- *Modeling Subcellular Location from Images and Other Sources of Information*,
+  Luxembourg Centre for Systems Biology, July 2012
 
 Other Talks
 -----------
