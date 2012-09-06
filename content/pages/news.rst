@@ -6,6 +6,8 @@ categories: about-me
 News Archive
 ============
 
+**September 2012** I am teaching two session of a `Programming for Scientists Course </projects/pfs-09-2012>`__ at IMM.
+
 **May 2012** I am `writing a book </projects/libertarian-welfare>`__
 
 **January 2012** I am now based in Lisbon at `IMM

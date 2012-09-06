@@ -24,6 +24,7 @@ able to do it in the future.
 Related Links
 -------------
 
+- `Autumn 2012 </projects/pfs-09-2012>`_ website for the course
 - `Spring 2009 </pfs>`_ website for the course
 - `Github repository <http://github.com/luispedro/Programming-for-Scientists>`_ for my course materials
 - `Software Carpentry`_

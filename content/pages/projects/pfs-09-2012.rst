@@ -1,0 +1,59 @@
+title: Programming for Scientists (Autumn 2012)
+url: projects/pfs-09-2012
+categories: work
+..
+
+Programming for Scientists: Autumn 2012
+=======================================
+
+Dates & Times
+-------------
+
+**Session  I**: Sep 14 (15h00-17h00). All day (9h00-18h00) Sep 17 & 24
+
+**Session II**: Oct 11 (15h00-17h00). All day (9h00-18h00) Oct 15 & 22
+
+There will be a break from 12h30 to 14h00 in the all day sessions (if you want
+to attend the Monday seminar).
+
+FAQ
+---
+
+**Do I need to bring computer?**
+
+The course will take place in the computer labs and I have asked that the
+necessary software be installed there. However, you will be asked to install it
+on your own computer and, if you want to bring a laptop to class, that is a
+good idea too.
+
+I will discuss this in the first session, but if you want to go ahead, please
+install the following (for Windows):
+
+http://code.google.com/p/pythonxy/
+
+For Mac OS, please install EPD:
+http://www.enthought.com/products/epd.php
+
+(It is free of cost for academics).
+
+For Linux, just use your own distributions' package manager. You will need the
+following packages:
+
+- python
+- python-numpy
+- python-matplotlib
+
+**Why are you teaching Python?**
+
+Python is a modern language which is increasingly used for scientific
+programming. It is open-source and has a thriving open-source community of
+scientific software.
+
+Related Links
+-------------
+
+- `Spring 2009 </pfs>`_ website for the course in Spring 2009
+- `Software Carpentry`_
+- `Software Carpentry Blog <http://softwarecarpentry.wordpress.com/>`_
+
+.. _`Software Carpentry`: http://software-carpentry.org/

@@ -41,21 +41,22 @@ Recent Publications
 News
 ====
 
+**September 2012** I am teaching two session of a `Programming for Scientists Course </projects/pfs-09-2012>`__ at IMM.
+
 **May 2012** I am `writing a book </projects/libertarian-welfare>`__
 
 **January 2012** I am now based in Lisbon at `IMM
 <http://www.imm.fm.ul.pt/web/imm/geneexpressionandbiophysics>`__ in Musa
 Mhlanga's lab.
 
-**November 2011** I start work as a postdoctoral researcher at `Musa Mhlanga's
-lab <http://mhlangalab.synbio.csir.co.za/>`__.
-
 `older news items ... </news>`__
 
 Upcoming Travels & Talks
 ========================
 
-In September, I am teaching a `Programming for Scientists course <http://www.imm.fm.ul.pt/web/imm/advancedcourses>`__ at the Institute for Molecular Medicine in Lisbon.
+In September, I am teaching a `Programming for Scientists course
+<http://www.imm.fm.ul.pt/web/imm/advancedcourses>`__ at the Institute for
+Molecular Medicine in Lisbon.
 
 I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
