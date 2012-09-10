@@ -16,6 +16,58 @@ Dates & Times
 There will be a break from 12h30 to 14h00 in the all day sessions (if you want
 to attend the Monday seminar).
 
+Tentative Schedule
+------------------
+
+This is subject to changes (up until class t`ime)
+
+Intro Session
+~~~~~~~~~~~~~
+
+- Introduction to course. Instructor.
+- Syllabus.
+- Discussion of necessary software.
+- Introduction to programming (Python I).
+
+Day I
+~~~~~
+
+**9h00-10h20**
+    Python II
+**10h30-11h30**
+    Guided exercises
+**11h40-12h25**
+    Python III
+
+Break (you can go to the Monday Lecture at 12h30)
+
+**14h00-15h20**
+    File formats & parsing. FastQ example
+**15h30-16h30**
+    Numpy & matplotlib
+**16h40-18h00**
+    Numeric issues
+
+Day II
+~~~~~~
+
+**9h00-10h20**
+    HW Review/In-class Quiz
+**10h30-11h30**
+    Open Source Software
+**11h40-12h25**
+    Unit tests
+
+Break (you can go to the Monday Lecture at 12h30)
+
+**14h00-15h20**
+    Python IV
+**15h30-16h30**
+    Guided exercises
+**16h40-18h00**
+    Review
+
+
 FAQ
 ---
 
