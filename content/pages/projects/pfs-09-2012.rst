@@ -19,7 +19,7 @@ to attend the Monday seminar).
 Tentative Schedule
 ------------------
 
-This is subject to changes (up until class t`ime)
+This is subject to changes (up until class time)
 
 Intro Session
 ~~~~~~~~~~~~~
@@ -66,6 +66,42 @@ Break (you can go to the Monday Lecture at 12h30)
     Guided exercises
 **16h40-18h00**
     Review
+
+Homework
+--------
+
+The homework is optional (there are no grades in this class). However, if you
+do turn it in, you will get feedback on it (i.e., if you want to try it as a
+learning experience, I will give you feedback). Also, at the start of day II, I
+will go over my solution.
+
+I will discuss the assignment in class, but here it is for reference:
+
+1. Download the `FastQ data </files/pfs/hw-HeLa.fq.gz>`__.
+2. Write a Python script that reads in the file and plots the average quality
+   and standard deviation per base position (like FastQC does, if you are
+   familiar with that tool).
+3. Write a second Python script (or extend the one above) that trims & filters
+   the sequence (see below).
+4. Write a third Python script (or extend the one above) that plots a histogram
+   of sequence sizes **after trimming** (before trimming all sequences have the
+   same size).
+
+Use the following trim & filter criteria: given a minimum base quality (you can
+use the value **24** as a baseline), look for the longest substring *such that
+all bases in that substring are (strictly) above the minimum*. If the
+resulting string is too small (you can use the value **30** as the minimum
+number of basepairs), discard the sequence.
+
+Here are some possible variations:
+
+- Can you write the script so that the inputs, outputs, and thresholds are
+  given on the command line?
+- Can you do it all in one pass through the data (and in a single script file)?
+  Why would this be better/worse?
+- Semi-Advanced: can you do this using `HTSeq
+  <http://www-huber.embl.de/users/anders/HTSeq/doc/overview.html>`__ (by the
+  way,HTSeq is a very good package for NGS processing)?
 
 
 FAQ
