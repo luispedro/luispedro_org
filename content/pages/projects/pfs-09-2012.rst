@@ -35,16 +35,16 @@ Day I
 **9h00-10h20**
     Python II
 **10h30-11h30**
-    Guided exercises
+    Numpy & matplotlib
 **11h40-12h25**
-    Python III
+    Guided exercises
 
 Break (you can go to the Monday Lecture at 12h30)
 
 **14h00-15h20**
-    File formats & parsing. FastQ example
+    Python III
 **15h30-16h30**
-    Numpy & matplotlib
+    File formats & parsing. FastQ example
 **16h40-18h00**
     Numeric issues
 
@@ -140,6 +140,7 @@ scientific software.
 Related Links
 -------------
 
+- `Online Python Tutor <http://people.csail.mit.edu/pgbovine/python/tutor.html>`__
 - `Spring 2009 </pfs>`_ website for the course in Spring 2009
 - `Software Carpentry`_
 - `Software Carpentry Blog <http://softwarecarpentry.wordpress.com/>`_
