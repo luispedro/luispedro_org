@@ -21,6 +21,10 @@ Tentative Schedule
 
 This is subject to changes (up until class time)
 
+I added slide links below, but the presentations rely heavily on live coding
+demonstration and dialogue with the students. Therefore, if you did not attend
+the class, this will not be very helpful.
+
 Intro Session
 ~~~~~~~~~~~~~
 
@@ -29,24 +33,29 @@ Intro Session
 - Discussion of necessary software.
 - Introduction to programming (Python I).
 
+[`slides 01 </files/pfs-09-12/01-intro.pdf>`__]
+
+[`slides 02 </files/pfs-09-12/02-python-i.pdf>`__]
+
 Day I
 ~~~~~
 
-**9h00-10h20**
-    Python II
-**10h30-11h30**
-    Numpy & matplotlib
+**9h00-10h10**
+    Python II [`slides 03 </files/pfs-09-12/03-python-ii.pdf>`__]
+**10h20-11h30**
+    Numpy & matplotlib [`slides 04 </files/pfs-09-12/04-numpy.pdf>`__]
 **11h40-12h25**
-    Guided exercises
+    Guided exercises [`slides 05 </files/pfs-09-12/05-guided.pdf>`__ ]
 
 Break (you can go to the Monday Lecture at 12h30)
 
 **14h00-15h20**
-    Python III
+    Python III [`slides 06 </files/pfs-09-12/06-python-iii.pdf>`__]
 **15h30-16h30**
-    File formats & parsing. FastQ example
+    Numeric issues [`slides 07 </files/pfs-09-12/07-numeric.pdf>`__]
 **16h40-18h00**
-    Numeric issues
+    File formats & parsing. FastQ example [`slides 08 </files/pfs-09-12/08-fileparsing.pdf>`__]
+
 
 Day II
 ~~~~~~
