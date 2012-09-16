@@ -9,6 +9,18 @@ Projects
 RandTag
 -------
 
+Nuclear Segmentation
+--------------------
+
+The goal of this project was to quantitatively evaluate a series of nuclear
+segmentation algorithms for use in our work. We hand-segmented several images
+from two datasets and used those as gold standards to evaluate methods.
+
+.. image:: /files/images/gnf-segmented-41.png
+   :alt: Example image from the dataset
+
+`More info on Nuclear Segmentation </projects/nuclear-segmentation>`__
+
 SLIF
 ----
 
