@@ -54,10 +54,6 @@ Mhlanga's lab.
 Upcoming Travels & Talks
 ========================
 
-In September, I am teaching a `Programming for Scientists course
-<http://www.imm.fm.ul.pt/web/imm/advancedcourses>`__ at the Institute for
-Molecular Medicine in Lisbon.
-
 I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
 .. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
