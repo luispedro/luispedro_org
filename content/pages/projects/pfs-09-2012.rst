@@ -52,7 +52,7 @@ Break (you can go to the Monday Lecture at 12h30)
 **14h00-15h20**
     Python III [`slides 06 </files/pfs/09-12/06-python-iii.pdf>`__]
 **15h30-16h30**
-    Numeric issues [`slides 07 </files/pfs/09-12/07-numeric.pdf>`__]
+    Numeric issues [`slides 07 </files/pfs/09-12/07-numerical.pdf>`__]
 **16h40-18h00**
     File formats & parsing. FastQ example [`slides 08 </files/pfs/09-12/08-fileparsing.pdf>`__]
 
