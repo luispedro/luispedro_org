@@ -10,14 +10,16 @@ Who am I?
    :alt: Luis Pedro Coelho
    :class: float-right
 
-I am a computational biologist. For my graduate work, at `Carnegie Mellon
-University <http://www.compbio.cmu.edu/>`_, I worked on computer vision for
-subcellular location analysis.
+I am a computational biologist.
 
 My postdoctoral work at the `Mhlanga Lab
 <http://mhlangalab.synbio.csir.co.za/>`__ focuses on the nuclear organisation
 of the malaria parasite (Plasmodium). More `details on the project
 </projects/plasmodium>`__.
+
+For my graduate work, at `Carnegie Mellon University
+<http://www.compbio.cmu.edu/>`_, I worked on computer vision for
+subcellular location analysis.
 
 Recent Publications
 ===================
