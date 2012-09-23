@@ -24,6 +24,9 @@ children:
         -   name: Beira Project
             title: Volunteering in Mozambique
             url: http://beiraproject.org/
+        -   name: All Projects
+            title: All projects
+            url: /projects/
     -   name: Software
         url: software/
         children:
