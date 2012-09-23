@@ -9,6 +9,18 @@ Projects
 RandTag
 -------
 
+Unsupervised Subcellular Pattern Unmixing
+-----------------------------------------
+
+The goal is to handle mixed subcellular location patterns (the result of having
+a protein or marker simmultaneously present in multiple organelles) in an
+unsupervised manner (without requiring that basic organelles be specified).
+
+This was work with Tao Peng and Bob Murphy and the main result was that
+unsupervised unmixing could work as well as the supervised version.
+
+`More info on Unsupervised Unmixing </projects/unsupervised-unmixing>`__
+
 Nuclear Segmentation
 --------------------
 
