@@ -127,6 +127,9 @@ Invited Talks
 6. *Modeling Subcellular Location from Images and Other Sources of
    Information*, EAO Seminar (Instituto Gulbenkian da Ciência), Oeiras, March
    2012
+7. *Modeling Subcellular Location from Images and Other Sources of
+   Information*, Luxembourg Center for Systems Biology, University of
+   Luxembourg, July 2012
 
 Other Talks
 -----------
