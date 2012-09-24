@@ -70,11 +70,11 @@ Day II
 Break (you can go to the Monday Lecture at 12h30)
 
 **14h00-15h20**
-    Python IV
+    Python IV [`slides 12 </files/pfs/09-12/12-python-iv.pdf>`__]
 **15h30-16h30**
-    Guided exercises
+    Guided exercises [`slides 13 </files/pfs/09-12/13-guided.pdf>`__]
 **16h40-18h00**
-    Review
+    Review [`slides 14 </files/pfs/09-12/14-final.pdf>`__]
 
 Homework
 --------
