@@ -38,7 +38,7 @@ The abstract of the `paper <http://bioinformatics.oxfordjournals.org/content/26/
     complex subcellular distribution with reasonably high accuracy.
 
 
-.. image:: /files/images/Fig1-unsupervised.jpeg
+.. image:: /files/images/Fig1-unsupervised.png
    :alt: Pipeline figure
 
 
