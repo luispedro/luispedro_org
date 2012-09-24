@@ -86,7 +86,7 @@ will go over my solution.
 
 I will discuss the assignment in class, but here it is for reference:
 
-1. Download the `FastQ data </files/pfs/hw-HeLa.fq.gz>`__.
+1. Download the `FastQ data </files/pfs/hw-HeLa.fq>`__ (or `compressed </files/pfs/hw-HeLa.fq.gz>`__).
 2. Write a Python script that reads in the file and plots the average quality
    and standard deviation per base position (like FastQC does, if you are
    familiar with that tool).
