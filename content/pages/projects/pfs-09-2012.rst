@@ -61,7 +61,7 @@ Day II
 ~~~~~~
 
 **9h00-10h20**
-    HW Review/In-class Quiz [`slides 09 </files/pfs/09-12/09-hw.pdf>`__ and `possible solution </files/pfs/09-12/trim.py>`__]
+    HW Review/In-class Quiz [`slides 09 </files/pfs/09-12/09-hw-review.pdf>`__ and `possible solution </files/pfs/09-12/trim.py>`__]
 **10h30-11h30**
     Open Source Software [`slides 10 </files/pfs/09-12/10-open-source.pdf>`__]
 **11h40-12h25**
