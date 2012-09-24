@@ -150,6 +150,7 @@ Related Links
 -------------
 
 - `Online Python Tutor <http://people.csail.mit.edu/pgbovine/python/tutor.html>`__
+- `How to Think Like a Computer Scientist <http://interactivepython.org/courselib/static/thinkcspy/index.html>`__
 - `Spring 2009 </pfs>`_ website for the course in Spring 2009
 - `Software Carpentry`_
 - `Software Carpentry Blog <http://softwarecarpentry.wordpress.com/>`_
