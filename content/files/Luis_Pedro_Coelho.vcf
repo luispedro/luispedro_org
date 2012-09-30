@@ -1,14 +1,10 @@
 BEGIN:VCARD
-ADR;TYPE=pref;TYPE=work:;;Lane Center for Computational Biology\nCarnegie M
- ellon University\n7405 Gates-Hillman Center\n5000 Forbes Ave;Pittbusrgh;Pen
- nsylvania;15213;United States of America
 BDAY:2081-04-22T00:00:00
 CLASS:PUBLIC
-EMAIL;TYPE=PREF:lpc@cmu.edu
-EMAIL:luis@luispedro.org
+EMAIL;TYPE=PREF:luis@luispedro.org
 FN:Luis Pedro Coelho
 N:Coelho;Luis;Pedro;;
-ORG:;Lane Center for Computational Biology
+ORG:;Instituto de Medicina Molecular
 PHOTO;ENCODING=b;TYPE=image/jpeg:/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAgGBgcGBQ
  gHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zN
  DL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy

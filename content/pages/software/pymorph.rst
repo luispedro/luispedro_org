@@ -44,7 +44,9 @@ See Also
 
 `mahotas </software/mahotas>`__ is another Python image processing package, but
 most of its functions are in C++. It is, therefore, much faster for the
-operations it supports.
+operations it supports. Mahotas started with a much smaller set of features
+than pymorph, but has grown and has many (but not yet all) morphological
+operators that pymorph has.
 
 Documentation
 -------------
@@ -76,8 +78,8 @@ The official forum for discussion of pymorph issues is the `pythonvision
 mailing list <http://groups.google.com/group/pythonvision>`_. Also, check out
 `pythonvision.org <http://pythonvision.org>`_ while you're at it.
 
-For bug reports, `mail me <mailto:lpc@cmu.edu>`_. If you report a bug, I will
-try to fix it. If it has a unit test, I **promise** to fix it.
+For bug reports, `mail me <mailto:luis@luispedro.org>`_. If you report a bug, I
+will try to fix it. If it has a unit test, I **promise** to fix it.
 
 Currently, **there are no known bugs**, but, because the package does not have
 automatic tests and there have been interface changes in numpy (when compared

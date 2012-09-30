@@ -68,7 +68,7 @@ The official forum for discussion of mahotas issues is the `pythonvision
 mailing list <http://groups.google.com/group/pythonvision>`_. Also, check out
 `pythonvision.org <http://pythonvision.org>`_ while you're at it.
 
-For bug reports, `mail me <mailto:lpc@cmu.edu>`_. If you report a bug, I will
+For bug reports, `mail me <mailto:luis@luispedro.org>`_. If you report a bug, I will
 try to fix it. If it has a unit test, I **promise** to fix it.
 
 Currently, **there are no known bugs**.

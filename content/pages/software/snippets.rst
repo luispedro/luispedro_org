@@ -62,7 +62,7 @@ Python Timeout
     # -*- coding: utf-8 -*-
     # Copyright (C) 2008-2009  Murphy Lab
     # Carnegie Mellon University
-    # Written by Luis Pedro Coelho <lpc@cmu.edu>
+    # Written by Luis Pedro Coelho <luis@luispedro.org>
     # License: MIT
 
     import signal
