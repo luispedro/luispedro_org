@@ -12,11 +12,15 @@ location image finder`).
 It searches through scientific journals, looking for images, which it
 categorises, makes available, and (in some cases, at least) analyses.
 
+The SLIF homepage has `many more details <http://murphylab.web.cmu.edu/services/SLIF/>`__, including
+some historical information and presentation materials.
+
 References
 ----------
 
-The first paper focus most on the image analysis side of the pipeline, the
-second of the overall service.
+These are the most recent references, on which I was involved. The first paper
+focus most on the image analysis side of the pipeline, the second of the
+overall service.
 
 - **Structured Literature Image  Finder: Extracting Information from Text and
   Images in Biomedical  Literature** by Luis Pedro Coelho, Amr Ahmed, Andrew

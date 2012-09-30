@@ -28,6 +28,8 @@ good as supervised.*
         journal = {Bioinformatics} 
     }
 
+`More about this project </projects/unsupervised-unmixing>...`__
+
 (2009) Nuclear Segmentation
 ---------------------------
 
@@ -57,6 +59,8 @@ of algorithms*: [`DOI link <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
 
 All of the `data and source code <https://github.com/luispedro/segmentation>`__
 are publicly available.
+
+`More info about Nuclear Segmentation project </projects/nuclear-segmentation>`__
 
 
 (2009-2010) SLIF: Structured Literature Image Finder
