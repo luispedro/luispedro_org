@@ -11,19 +11,13 @@ part of my research.
 
 Currently Active Projects
 -------------------------
-`NGH </software/ngh>`__
-.......................
-NGH is an NGS package for Haskell
-
-License: MIT.
-
 `mahotas </software/mahotas>`_
 ..............................
 
 mahotas is a computer vision package for Python. It operates on numpy arrays.
 It is implemented in C++ as it has a strong efficiency focus.
 
-License: GPL.
+License: MIT.
 
 `Jug </software/jug>`_
 .......................
@@ -44,6 +38,12 @@ License: MIT.
 ............................
 
 Imread serves to read and save image files to and from numpy arrays.
+
+License: MIT.
+
+`NGH </software/ngh>`__
+.......................
+NGH is an NGS package for Haskell
 
 License: MIT.
 
