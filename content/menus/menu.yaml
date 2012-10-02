@@ -12,6 +12,9 @@ children:
         -   name: Biography
             title: Short Biography
             url: /biography
+        -   name: Erdös-Bacon
+            title: My Erdös Bacon Number
+            url: /erdos-bacon
     -   name: Projects
         url: /projects/
         children:
