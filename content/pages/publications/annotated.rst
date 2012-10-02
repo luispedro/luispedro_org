@@ -28,7 +28,7 @@ good as supervised.*
         journal = {Bioinformatics} 
     }
 
-`More about this project </projects/unsupervised-unmixing>...`__
+`More about this unsupervised unmixing... </projects/unsupervised-unmixing>`__
 
 (2009) Nuclear Segmentation
 ---------------------------
@@ -66,20 +66,20 @@ are publicly available.
 (2009-2010) SLIF: Structured Literature Image Finder
 ----------------------------------------------------
 
-The `SLIF Project </projects/slif>`_ 
+The `SLIF Project </projects/slif>`__
 
 On this project, I worked mainly on the image handling half of the pipeline,
 but also on integration of the whole system. The work I did on the image
 pipeline included using active learning techniques for dataset generation, and
 development of multi-class image classifiers.
 
-Slif is available at `http://slif.cbi.cmu.edu <http://slif.cbi.cmu.edu>`_.
+Slif is available at `http://slif.cbi.cmu.edu <http://slif.cbi.cmu.edu>`__.
 
 - **Structured Literature Image Finder: Parsing Text and Figures in Biomedical
   Literature** by Amr Ahmed, Andrew Arnold, Luis Pedro Coelho, Joshua Kangas,
   Abdul-Saboor Sheikh, Eric Xing, William Cohen and Robert F. Murphy *in* Web
   Semantics: Science, Services and Agents on the World Wide Web [`online
-  version <http://dx.doi.org/10.1016/j.websem.2010.04.002>`_]
+  version <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
 
 .. raw:: html
 
