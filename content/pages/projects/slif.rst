@@ -15,6 +15,14 @@ categorises, makes available, and (in some cases, at least) analyses.
 The SLIF homepage has `many more details <http://murphylab.web.cmu.edu/services/SLIF/>`__, including
 some historical information and presentation materials.
 
+In this project, I was responsible for the computer vision aspects of the
+processing pipeline. I also handled much of the integration effort of the
+several components and coordinated the preparation of the multi-author
+publications that resulted from the effort. This project was a finalist in the
+`Elsevier Grand Challenge <http://www.elseviergrandchallenge.com/>`__ (4 teams
+out of 70 were chosen for the final). I represented our team in both the
+semi-final and the final of this competition.
+
 References
 ----------
 

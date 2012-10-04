@@ -6,33 +6,40 @@ categories: about-me
 Resume
 ======
 
-Download `PDF Version </files/vita.pdf>`_.
-
-Contact Information
--------------------
-::
-
-    Luis Pedro Coelho
-    Instituto de Medicina Molecular
-    Lisboa, Portugal
-    luis@luispedro.org
+This is also available as a `PDF Version </files/vita.pdf>`_.
 
 Education
 ---------
 
-- Carnegie Mellon University, Pittsburgh,
-  Ph.D. in Computational Biology, 2006–2011.
-- Technical University of Lisbon, Portugal.
-  Diploma [MS] in Computer Engineering, 2004–2006.
-- Technical University of Lisbon, Portugal.
-  Diploma [BS] in Computer Engineering, 1999–2004.
-  One year spent at Technical University of Vienna (Austria) as international
-  exchange student.
+Ph.D. in Computational Biology, 2006–2011
+.........................................
+
+Carnegie Mellon University, Pittsburgh.
+
+Dissertation topic: *Modeling the Space of Subcellular Location Patterns
+Using Images and Other Sources of Information*, advised by `Prof. Robert F.
+Murphy <http://murphylab.web.cmu.edu/>`__.
+
+MS in computer science, Instituto Superior Técnico (Technical University Lisbon), 2006
+......................................................................................
+Dissertation topic: *Bayesian Network Parameter Estimation Using Noisy
+Observations or Soft Evidence*, advised by `Prof. Arlindo Oliveira
+<http://kdbio.inesc-id.pt/~aml/>`__.
+
+BS in computer science, Instituto Superior Técnico (Technical University Lisbon), 2004
+......................................................................................
+Finished top of my class.
+
+Spent one year at Technical University of Vienna (Austria) as international
+exchange student.
 
 Scholarships & Awards
 ---------------------
-- Siebel Scholar 2012.
+
+- `Siebel Scholar 2012 <http://www.siebelscholars.com/scholars/785>`__.
+
 - Portugal's Science and Research Foundation Ph.D. scholarship 2007-2011
+
 - Outstanding Research Accomplishment
     Award for Research Excellence in the Joint CMU-University of Pittsburgh
     Ph.D. Program in Computational Biology (2007).
@@ -47,6 +54,45 @@ Scholarships & Awards
     Second Price in the literature contest *Lisboa à Letra* 2004 for ﬁction.
 - Abitur
     Letter of recognition of excellency in German Final Secondary Exam (Abitur).
+
+Research Highlights
+-------------------
+
+Proteome-wide Study of Subcellular Location in Mouse Fibroblasts
+----------------------------------------------------------------
+
+I developed new methods for learning from both a very large collection of
+images of fluorescently tagged proteins and other forms of data (sequence
+information, database information). This work builds on my past work. A
+manuscript describing it is in preparation.
+
+Unsupervised Subcellular Pattern Unmixing
+-----------------------------------------
+
+Many proteins are located in more than one organelle simultaneously, a
+phenomenon known as a mixed pattern (the pattern corresponding to a single
+organelle being a pure pattern). Recovering the organelle structure from image
+data where mixed patterns are present is known as the unsupervised unmixing
+problem in subcellular location. We developed new models for
+solving this problem. Our solution was chosen as one of the `highlights of 2010
+in computational biology by the journal Nature Biotechnology
+<http://dx.doi.org/10.1038/nbt.1747>`__
+
+`More information on unsupervised unmixing </projects/unsupervised-unmixing/>`__
+
+Structured Literature Image Finder (SLIF)
+.........................................
+
+SLIF is a search engine that indexes biomedical papers with their images. In
+this project, I was responsible for the computer vision aspects of the
+processing pipeline. I also handled much of the integration effort of the
+several components and coordinated the preparation of the multi-author
+publications that resulted from the effort. This project was a finalist in the
+`Elsevier Grand Challenge <http://www.elseviergrandchallenge.com/>`__ (4 teams
+out of 70 were chosen for the final). I represented our team in both the
+semi-final and the final of this competition.
+
+`More information on SLIF </projects/slif/>`__
 
 Selected Publications
 ---------------------
@@ -104,11 +150,15 @@ Languages
 
 Work Experience
 ----------------
+
 Teaching
 ........
+
 **Designed and taught** a course in computer programming for the sciences
-(`Programming for Scientists </pfs>`_). This was a semester-long course taught
-at Carnegie Mellon University in Spring 2009 (as a student-taught course).
+(`Programming for Scientists </pfs>`__). This was a semester-long course taught
+at Carnegie Mellon University in Spring 2009 (as a student-taught course). In
+2012, I taught a shortened version of this at IMM as a two-and-a-half day
+workshop.
 
 *Teaching Assistant* for Decision Support Systems at Technical University of
 Lisbon (Spring 2005). Co-designed and co-taught a Computer Initiation Course for
@@ -121,20 +171,27 @@ Webdesign
 
 Designed the website for ICSV12 (Twelfth International Congress on Sound and
 Vibration) and administered the website for the Portuguese non-profit Medicos
-Pela Escolha (pro bono). Currently administers the website for the Portuguese
-American Postgraduate Association (pro bono).
+Pela Escolha (pro bono).
 
-Administrative
-..............
-- Account-keeper for Student Association, German School of Lisbon (1998),
-- Producer of the Student Theatre Group of ist (2001–2002),
-- Account-keeper of the Student Theatre Group of ist.
+Local Committee for Portuguese-American Postgraduate Society National Forum
+...........................................................................
+I headed the local organising committee for the 2010 edition of this annual
+event. It took place in Pittsburgh and included, as speakers, cabinet-level
+Portuguese government officials, renowned researchers, artists, as well as
+participants from all around the US.
+
+Producer for IST Theatre Group
+..............................
+I served as the producer for the IST Theatre Group, which is one of the top
+university theatre groups in Portugal. We participated in several festivals,
+including international festivals. As producer, my activities included
+fund-raising and management.
 
 Open Source Programming
 .......................
-Member of the kde project from 2000 through 2006. Maintainer of the application
-kghostview.
+I was a member of the `kde project <http://www.kde.org>`__ from 2000 through
+2006. I was maintainer of the application kghostview.
 
-Publishes and maintains many open source projects of interest to his research,
+I publish and maintainx many open source projects of interest to his research,
 such as image processing or machine learning code. See the full list in my
 `github page <http://www.github.com/luispedro>`_.
