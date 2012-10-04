@@ -47,14 +47,12 @@ News
 
 **May 2012** I am `writing a book </projects/libertarian-welfare>`__
 
-**January 2012** I am now based in Lisbon at `IMM
-<http://www.imm.fm.ul.pt/web/imm/geneexpressionandbiophysics>`__ in Musa
-Mhlanga's lab.
-
 `older news items ... </news>`__
 
 Upcoming Travels & Talks
 ========================
+**31 October 2012** *Bioimage Informatics: Computer Vision for Biology* at 10am `IMM (room 57) <http://www.imm.fm.ul.pt/web/imm/events?date=31-10-2012>`__
+
 
 I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
