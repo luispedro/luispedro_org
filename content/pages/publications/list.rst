@@ -28,7 +28,7 @@ Submitted or In Preparation
     Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B.  Berget,
     Jonathan W.  Jarvik, and Robert F. Murphy, *Local Features for Determining
     Subcellular Location with Better Generalization* (submitted)
-2.  **Luis Pedro Coelho**, Shannon Quinn, Hagit Shatkay and Robert F.~Murphy
+2.  **Luis Pedro Coelho**, Shannon Quinn, Hagit Shatkay and Robert F. Murphy
     *Waldo: A Python Library for Unifying Location Databases* (submitted)
 3.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
     computer vision (submitted).
