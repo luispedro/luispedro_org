@@ -59,7 +59,7 @@ Research Highlights
 -------------------
 
 Proteome-wide Study of Subcellular Location in Mouse Fibroblasts
-----------------------------------------------------------------
+................................................................
 
 I developed new methods for learning from both a very large collection of
 images of fluorescently tagged proteins and other forms of data (sequence
@@ -67,7 +67,7 @@ information, database information). This work builds on my past work. A
 manuscript describing it is in preparation.
 
 Unsupervised Subcellular Pattern Unmixing
------------------------------------------
+.........................................
 
 Many proteins are located in more than one organelle simultaneously, a
 phenomenon known as a mixed pattern (the pattern corresponding to a single
