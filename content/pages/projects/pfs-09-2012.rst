@@ -149,11 +149,17 @@ scientific software.
 Related Links
 -------------
 
-- `Science Code Manifesto <http://sciencecodemanifesto.org/>`__
+Learn More
+..........
+
 - `Online Python Tutor <http://people.csail.mit.edu/pgbovine/python/tutor.html>`__
 - `How to Think Like a Computer Scientist <http://interactivepython.org/courselib/static/thinkcspy/index.html>`__
-- `Spring 2009 </pfs>`_ website for the course in Spring 2009
-- `Software Carpentry`_
-- `Software Carpentry Blog <http://softwarecarpentry.wordpress.com/>`_
+- `Software Carpentry <http://software-carpentry.org/>`__
+- `Software Carpentry Blog <http://softwarecarpentry.wordpress.com/>`__
 
-.. _`Software Carpentry`: http://software-carpentry.org/
+Other
+.....
+- `Science Code Manifesto <http://sciencecodemanifesto.org/>`__
+- `Opinion paper on reproducible science <http://www.nature.com/nature/journal/v482/n7386/full/nature10836.html>`__ (published in *Nature*)
+- `Spring 2009 </pfs>`__ website for the course in Spring 2009
+
