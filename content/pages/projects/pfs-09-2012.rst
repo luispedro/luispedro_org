@@ -154,6 +154,7 @@ Learn More
 
 - `Online Python Tutor <http://people.csail.mit.edu/pgbovine/python/tutor.html>`__
 - `How to Think Like a Computer Scientist <http://interactivepython.org/courselib/static/thinkcspy/index.html>`__
+- `Pythonvision <http://www.pythonvision.org>`__ (computer vision in Python)
 - `Software Carpentry <http://software-carpentry.org/>`__
 - `Software Carpentry Blog <http://softwarecarpentry.wordpress.com/>`__
 
