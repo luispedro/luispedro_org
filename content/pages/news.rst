@@ -1,5 +1,5 @@
 title: News
-url: /news
+url: news
 categories: about-me
 ..
 
