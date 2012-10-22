@@ -75,6 +75,7 @@ Break (you can go to the Monday Lecture at 12h30)
     Guided exercises [`slides 13 </files/pfs/09-12/13-guided.pdf>`__]
 **16h40-18h00**
     Review [`slides 14 </files/pfs/09-12/14-final.pdf>`__]
+    Alternative (image processing) Ending [`slides 14 </files/pfs/09-12/14-final-image.pdf>`__]: images used: `DNA </files/pfs/09-12/00-001-dna.tiff>`__ and `protein </files/pfs/09-12/00-001-protein.tiff>`__
 
 Homework
 --------
