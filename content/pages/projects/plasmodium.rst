@@ -13,10 +13,7 @@ clinically-relevant ways.
 
 This project pursues these observations to build models of chromatin in
 blood-stage Plasmodium falciparum. The goal is to relate observations of
-chromatin state and organization to gene expression.
-
-Technically, this project uses a mixture of imaging and next-generation
-sequencing (using protocols such as ChIP-seq or ChIA-PET, as well as RNA-seq).
-Computational integration of these datasources is the major computational
-challenge.
+chromatin state and organization to gene expression. In particular, I am
+imaging different chromatin marks using fluorescence microscopy in different
+time points.
 
