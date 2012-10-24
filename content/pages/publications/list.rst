@@ -48,23 +48,16 @@ Also available as a `BibTeX file </publications/bibtex>`__.
 
 Peer Reviewed Journal Articles
 ------------------------------
-1.   Abdul-Saboor Sheikh, Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**,
-     Joshua Kangas, Eric P. Xing, William Cohen, Robert F. Murphy; *Structured
-     Literature Image Finder: Open Source Software for Extracting and
-     Disseminating Information from Text and Figures in Biomedical Literature*,
-     Technical Report, School of Computer Science, Lane Center for
-     Computational Biology, Carnegie Mellon University, October 2009 [`PDF
-     version </files/papers/2009/LPC-CMU-TR-CB-09-101.pdf>`__].
-2.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+1.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
-3.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+2.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
      Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
      version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
-4.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
+3.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
      Services and Agents on the World Wide Web, 2010 [`online version
@@ -109,6 +102,16 @@ Peer Reviewed Conference Papers
      W. Jarvik, Peter B. Berget, and Robert F. Murphy; *Cell Cycle Dependence
      of Protein Subcellular Location Inferred from Static, Asynchronous Images*
      EMBC 2009.
+
+Technical Reports
+-----------------
+1.   Abdul-Saboor Sheikh, Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**,
+     Joshua Kangas, Eric P. Xing, William Cohen, Robert F. Murphy; *Structured
+     Literature Image Finder: Open Source Software for Extracting and
+     Disseminating Information from Text and Figures in Biomedical Literature*,
+     Technical Report, School of Computer Science, Lane Center for
+     Computational Biology, Carnegie Mellon University, October 2009 [`PDF
+     version </files/papers/2009/LPC-CMU-TR-CB-09-101.pdf>`__].
 
 Invited Talks
 -------------
