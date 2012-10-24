@@ -2,6 +2,7 @@ title: Generalisable Subcellular Location Classification
 url: projects/gen-classification
 categories: work
 ..
+
 Generalisable Subcellular Location Analysis
 ===========================================
 
