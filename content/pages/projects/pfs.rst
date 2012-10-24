@@ -17,9 +17,9 @@ Wilson in Toronto whose aims are very similar. So, my course not only has a
 *software carpentry* section, but the whole project was heavily inspired by
 Greg's work.
 
-The resulting course was taught at CMU in Spring 2009. Currently (November
-2009), I have no concrete plans to teach the course again, but am hoping to be
-able to do it in the future.
+The resulting course was taught at CMU in Spring 2009. In 2012, I taught a
+mini-version at IMM. Every time, the course has improved and I would like to
+have more opportunities to teach it.
 
 Related Links
 -------------
