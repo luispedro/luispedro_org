@@ -46,7 +46,8 @@ See Also
 most of its functions are in C++. It is, therefore, much faster for the
 operations it supports. Mahotas started with a much smaller set of features
 than pymorph, but has grown and has many (but not yet all) morphological
-operators that pymorph has.
+operators that pymorph has. Additionally, mahotas has functionality that
+pymorph never has (or will have).
 
 Documentation
 -------------
