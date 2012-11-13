@@ -6,14 +6,10 @@ categories: work
 SLIF
 ====
 
-SLIF is the `structured literature image finder` (previously, `subcellular
-location image finder`).
-
+SLIF is the *Structured Literature Image Finder` (previously, *Subcellular
+Location Image Finder*), which was project from the `Murphy Lab <http://murphylab.web.cmu.edu>`__, which I was a part of.
 It searches through scientific journals, looking for images, which it
-categorises, makes available, and (in some cases, at least) analyses.
-
-The SLIF homepage has `many more details <http://murphylab.web.cmu.edu/services/SLIF/>`__, including
-some historical information and presentation materials.
+categorises, makes available, and (partially) analyses.
 
 In this project, I was responsible for the computer vision aspects of the
 processing pipeline. I also handled much of the integration effort of the
@@ -22,6 +18,9 @@ publications that resulted from the effort. This project was a finalist in the
 `Elsevier Grand Challenge <http://www.elseviergrandchallenge.com/>`__ (4 teams
 out of 70 were chosen for the final). I represented our team in both the
 semi-final and the final of this competition.
+
+The SLIF page on the Murphy Lab website `many more details <http://murphylab.web.cmu.edu/services/SLIF/>`__,
+including some historical information and presentation materials.
 
 References
 ----------
