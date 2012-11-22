@@ -30,6 +30,10 @@ test case, I will typically fix it in less than 24 hours).
 
 `Package and API documentation <http://packages.python.org/mahotas/>`__
 
+There is a `manuscript about mahotas <http://arxiv.org/abs/1211.4907>`__, which 
+will hopefully evolve into a journal publication later.
+
+
 Algorithms
 ----------
 

@@ -43,6 +43,8 @@ Recent Publications
 News
 ====
 
+**November 2012** I have a new manuscript up at the `arXiv <http://arxiv.org/abs/1211.4907>`__ on my `computer vision software, mahotas </software/mahotas/>`__
+
 **September 2012** I am teaching two session of a `Programming for Scientists Course </projects/pfs-09-2012>`__ at IMM.
 
 **May 2012** I am `writing a book </projects/libertarian-welfare>`__
