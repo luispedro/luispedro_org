@@ -14,7 +14,25 @@ from two datasets and used those as gold standards to evaluate methods.
    :alt: Example image from the dataset
 
 
+We generated two datasets, *U2OS* and *NIH3T3*, named after the cell type was visible.
+
++---------------+-------------+-------------+
+|               |     U2OS    |   NIH3T3    |
++===============+=============+=============+
+| Pixel size    | 1349 × 1030 | 1344 × 1024 |
++---------------+-------------+-------------+
+| Nr. Cells     | 1831        |        2178 |
++---------------+-------------+-------------+
+| Avg. Cover    | 23%         |         18% |
++---------------+-------------+-------------+
+| Min Nr. Cells | 24          |          29 |
++---------------+-------------+-------------+
+| Max Nr. Cells | 63          |          70 |
++---------------+-------------+-------------+
+
+
 A model based method developed Roysam's group (`Lin et al., 2003 <http://www.ncbi.nlm.nih.gov/pubmed/14566936>`__) was the best of the methods we evaluated at the time. In the meanwhile, however, other groups have reported better results in our dataset (`list of citations at Google Scholar <http://scholar.google.com/scholar?oi=bibs&hl=en&cites=738266029844352763>`__).
+
 
 Code & Data
 ~~~~~~~~~~~
@@ -34,6 +52,7 @@ Murphy
 Digital Object Identifier: `10.1109/ISBI.2009.5193098
 <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__
 
+Open access `PubMed Central version <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901896/>`__.
 
 Full citation (use this if you use this code/dataset in a paper)::
 
