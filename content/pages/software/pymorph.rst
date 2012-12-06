@@ -24,6 +24,14 @@ Includes basic operations such as
     - watershed
     - ...
 
+Mahotas
+-------
+
+Pymorph is still available and bug-free, but I am not adding any new features.
+My other computer vision package, `mahotas </software/mahotas>`__, is a C++
+implementation and is much faster. It started small, but now has almost all of
+the functionality of pymorph and a lot of functionality that pymorph did not
+have.
 
 Download & Install
 ------------------
