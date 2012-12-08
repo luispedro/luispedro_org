@@ -88,17 +88,14 @@ Peer Reviewed Conference Papers
 3.   **Luis Pedro Coelho** and Robert Murphy; *Identifying Subcellular
      Locations from Images of Unknown Resolution* Bioinformatics Research and
      Development, LNCS, Springer, Volume 13, Vienna, Austria (2008)
-4.   **Luis Pedro Coelho** and Robert F. Murphy; *Unsupervised Unmixing of
-     Subcellular Location Patterns*, Proceedings of ICML-UAI-COLT 2009 Workshop
-     on Automated Interpretation and Modeling of Cell Images (2009).
-5.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas,
+4.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas,
      Abdul-Saboor Sheikk, Eric P. Xing, William W. Cohen, and Robert F. Murphy;
      *Structured Literature Image Finder*, Proceedings of BioLINK (ISMB Special
      Interest Group 2009).
-6.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
+5.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
      segmentation in microscope cell images: A hand-segmented dataset and
      comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
-7.   Taraz Buck, Arvind Rao, **Luis Pedro Coelho**, Margaret Fuhrman, Jonathan
+6.   Taraz Buck, Arvind Rao, **Luis Pedro Coelho**, Margaret Fuhrman, Jonathan
      W. Jarvik, Peter B. Berget, and Robert F. Murphy; *Cell Cycle Dependence
      of Protein Subcellular Location Inferred from Static, Asynchronous Images*
      EMBC 2009.
