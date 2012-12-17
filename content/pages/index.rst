@@ -53,8 +53,6 @@ News
 
 Upcoming Travels & Talks
 ========================
-**31 October 2012** *Bioimage Informatics: Computer Vision for Biology* at 10am `IMM (room 57) <http://www.imm.fm.ul.pt/web/imm/events?date=31-10-2012>`__
-
 
 I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
