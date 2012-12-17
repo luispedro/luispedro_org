@@ -57,6 +57,9 @@ children:
         -   name: FAQ
             title: Frequently Asked Questions
             url: /faq
+        -   name: Derivations
+            title: Some useful derivations
+            url: /derivations
         -   name: Fim de Tarde
             title: Award-winning short story (in Portuguese)
             url: /fimdetarde
