@@ -33,4 +33,5 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `Twitter <http://www.twitter.com/luispedrocoelho>`_
 - `kiva <http://www.kiva.org/>`_ `lender page <http://www.kiva.org/lender/luispedro>`_.
    Also, I started a `CMU kiva team <http://www.kiva.org/community/viewTeam?team_id=414>`_
+- `IMDB <http://www.imdb.com/name/nm5460142/>`__
 
