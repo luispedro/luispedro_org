@@ -74,6 +74,8 @@ Review Articles
      Robert F. Murphy; *Automated Image Analysis for High Content Screening and
      Analysis*, Journal Biomolecular Screening (2010) [`online version
      <http://dx.doi.org/10.1177/1087057110370894>`__]
+     This was the *2013 JBS Authors' Choice Award* winner (reflects number of
+     citations throughout 2012).
 
 Peer Reviewed Conference Papers
 -------------------------------
