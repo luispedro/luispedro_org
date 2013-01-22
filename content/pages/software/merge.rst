@@ -34,7 +34,7 @@ Layout::
 Now, assume that ``photo.jpg`` is the same (same content, same file type) in
 both directories, but ``something.doc`` is different. Run::
 
-    python merge.py dir1/ dir2
+    mergedirs dir1/ dir2
 
 And you  will get::
 
@@ -49,6 +49,10 @@ And you  will get::
 
 Merge will **never** cause any data loss, only remove extra copies of your
 files.
+
+There are a few helpful options, which you can read about using ``mergedirs
+--help``.
+
 
 Where can I get it?
 -------------------
