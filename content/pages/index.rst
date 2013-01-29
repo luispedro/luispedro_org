@@ -54,8 +54,11 @@ News
 Upcoming Travels & Talks
 ========================
 
-I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-   of these opportunities.
+**February 13** I will in `Freiburg <http://www.zbsa.uni-freiburg.de/>`__ and
+will give a seminar.
+
+`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
+of these opportunities.
 
