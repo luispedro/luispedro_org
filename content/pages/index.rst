@@ -56,8 +56,10 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**February 13** I will in `Freiburg <http://www.zbsa.uni-freiburg.de/>`__ and
+**March 4** I will in `Freiburg <http://www.frias.uni-freiburg.de/lifenet/veranstaltungen/luis-pedro-coelho>`__ and
 will give a seminar.
+
+**March 6-17** I will be in Luxembourg
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
