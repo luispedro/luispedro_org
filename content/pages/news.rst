@@ -6,6 +6,13 @@ categories: about-me
 News Archive
 ============
 
+**March 2013** I am part of the organizing committee for the 2013 edition of
+the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
+
+**November 2012** I have a new manuscript up at the `arXiv
+<http://arxiv.org/abs/1211.4907>`__ on my `computer vision software, mahotas
+</software/mahotas/>`__
+
 **September 2012** I am teaching two session of a `Programming for Scientists Course </projects/pfs-09-2012>`__ at IMM.
 
 **May 2012** I am `writing a book </projects/libertarian-welfare>`__
