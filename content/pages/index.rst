@@ -12,10 +12,7 @@ Who am I?
 
 I am a computational biologist.
 
-My postdoctoral work at the `Mhlanga Lab
-<http://mhlangalab.synbio.csir.co.za/>`__ focuses on the nuclear organisation
-of the malaria parasite (Plasmodium). More `details on the project
-</projects/plasmodium>`__.
+I am working at EMBL in `Peer Bork's group <http://www.embl.de/~bork/>`__.
 
 For my graduate work, at `Carnegie Mellon University
 <http://www.compbio.cmu.edu/>`_, I worked on computer vision for
@@ -43,14 +40,15 @@ Recent Publications
 News
 ====
 
+**April 2013** I moved to EMBL, where I joined `Peer Bork's group
+<http://www.embl.de/~bork/>`__.
+
 **March 2013** I am part of the organizing committee for the 2013 edition of
 the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
 
 **November 2012** I have a new manuscript up at the `arXiv
 <http://arxiv.org/abs/1211.4907>`__ on my `computer vision software, mahotas
 </software/mahotas/>`__
-
-**September 2012** I am teaching two session of a `Programming for Scientists Course </projects/pfs-09-2012>`__ at IMM.
 
 `older news items ... </news>`__
 

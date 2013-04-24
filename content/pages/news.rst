@@ -6,6 +6,9 @@ categories: about-me
 News Archive
 ============
 
+**April 2013** I moved to EMBL, where I joined `Peer Bork's group
+<http://www.embl.de/~bork/>`__.
+
 **March 2013** I am part of the organizing committee for the 2013 edition of
 the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
 
