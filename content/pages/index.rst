@@ -12,7 +12,7 @@ Who am I?
 
 I am a computational biologist.
 
-I am working at EMBL in `Peer Bork's group <http://www.embl.de/~bork/>`__.
+I work at the European Molecular Biology Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__.
 
 For my graduate work, at `Carnegie Mellon University
 <http://www.compbio.cmu.edu/>`_, I worked on computer vision for
@@ -55,7 +55,12 @@ the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
 Upcoming Travels & Talks
 ========================
 
-I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+**July 2013** I will be at `ISMB 2013 in Berlin <http://www.iscb.org/ismbeccb2013>`__
+
+**July 2013** I will be teaching a lecture in the 2013 edition of
+the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
+
+.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
