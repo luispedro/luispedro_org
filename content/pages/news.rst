@@ -6,6 +6,10 @@ categories: about-me
 News Archive
 ============
 
+**May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
+(Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
+was accepted (it will be a lightning talk)
+
 **April 2013** I moved to EMBL, where I joined `Peer Bork's group
 <http://www.embl.de/~bork/>`__.
 

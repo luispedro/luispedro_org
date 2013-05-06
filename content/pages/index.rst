@@ -41,22 +41,25 @@ Recent Publications
 News
 ====
 
+**May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
+(Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
+was accepted (it will be a lightning talk)
+
 **April 2013** I moved to EMBL, where I joined `Peer Bork's group
 <http://www.embl.de/~bork/>`__.
 
 **March 2013** I am part of the organizing committee for the 2013 edition of
 the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
 
-**November 2012** I have a new manuscript up at the `arXiv
-<http://arxiv.org/abs/1211.4907>`__ on my `computer vision software, mahotas
-</software/mahotas/>`__
-
 `older news items ... </news>`__
 
 Upcoming Travels & Talks
 ========================
 
-**July 2013** I will be at `ISMB 2013 in Berlin <http://www.iscb.org/ismbeccb2013>`__
+**July 2013** I will be at `ISMB 2013 in Berlin
+<http://www.iscb.org/ismbeccb2013>`__. I will have a poster in the main
+conference and a talk in `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
+(Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
 
 **July 2013** I will be teaching a lecture in the 2013 edition of
 the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
