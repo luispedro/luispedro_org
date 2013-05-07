@@ -2,9 +2,10 @@ BEGIN:VCARD
 BDAY:2081-04-22T00:00:00
 CLASS:PUBLIC
 EMAIL;TYPE=PREF:luis@luispedro.org
+EMAIL;TYPE=WORK:luis.pedro.coelho@embl.de
 FN:Luis Pedro Coelho
 N:Coelho;Luis;Pedro;;
-ORG:;Instituto de Medicina Molecular
+ORG:;European Molecular Biology Laboratory (EMBL)
 PHOTO;ENCODING=b;TYPE=image/jpeg:/9j/4AAQSkZJRgABAQIAJQAlAAD/2wBDAAgGBgcGBQ
  gHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zN
  DL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
@@ -83,6 +84,6 @@ VERSION:3.0
 X-KADDRESSBOOK-CRYPTOPROTOPREF:openpgp/mime
 X-KADDRESSBOOK-CRYPTOSIGNPREF:alwaysIfPossible
 X-KADDRESSBOOK-OPENPGPFP:6FB8B07A620CC7A7FB5B2AB4110D6C98E760BEF2
-X-KADDRESSBOOK-X-Profession:Graduate Student in Computational Biology
+X-KADDRESSBOOK-X-Profession:Researcher in Computational Biology
 END:VCARD
 
