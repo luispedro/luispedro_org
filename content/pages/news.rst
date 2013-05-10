@@ -6,6 +6,8 @@ categories: about-me
 News Archive
 ============
 
+**May 2013** I started a research blog: `metarrabit.wordpress.com <http://metarrabit.wordpress.com>`__
+
 **May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
 (Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
 was accepted (it will be a lightning talk)
