@@ -40,7 +40,7 @@ Recent Publications
 
 News
 ====
-**May 2013** I started a research blog: `metarrabbit.wordpress.com <http://metarrabbit.wordpress.com>`__
+**May 2013** I started a research blog: `metarabbit.wordpress.com <http://metarabbit.wordpress.com>`__
 
 **May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
 (Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
