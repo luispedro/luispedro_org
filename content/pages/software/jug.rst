@@ -90,9 +90,10 @@ the `value` function::
 More Information
 ----------------
 
-Here are the `full API docs <http://packages.python.org/Jug/>`_, which include
-several `worked out <http://packages.python.org/Jug/decrypt-example.html>`__
-`examples <http://packages.python.org/Jug/text-example.html>`__. There is also
+Here are the `full API docs <https://jug.readthedocs.org/en/latest/>`__, which include
+several `worked <https://jug.readthedocs.org/en/latest/decrypt-example.html>`__
+`out <https://jug.readthedocs.org/en/latest/text-example.html>`__ `examples
+<http://packages.python.org/Jug/text-example.html>`__. There is also
 a *video* (`vimeo <http://vimeo.com/8972696>`_ or `showmedo
 <http://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975>`_),
 and a `presentation </files/jug-decrypt-presentation.pdf>`_.
