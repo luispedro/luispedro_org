@@ -38,22 +38,6 @@ Recent Publications
 
 `All publications... </publications>`__
 
-News
-====
-**May 2013** I started a research blog: `metarabbit.wordpress.com <http://metarabbit.wordpress.com>`__
-
-**May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
-(Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
-was accepted (it will be a lightning talk)
-
-**April 2013** I moved to EMBL, where I joined `Peer Bork's group
-<http://www.embl.de/~bork/>`__.
-
-**March 2013** I am part of the organizing committee for the 2013 edition of
-the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
-
-`older news items ... </news>`__
-
 Upcoming Travels & Talks
 ========================
 
@@ -69,4 +53,20 @@ the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
+
+Other News
+==========
+**May 2013** I started a research blog: `metarabbit.wordpress.com <http://metarabbit.wordpress.com>`__
+
+**May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
+(Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
+was accepted (it will be a lightning talk)
+
+**April 2013** I moved to EMBL, where I joined `Peer Bork's group
+<http://www.embl.de/~bork/>`__.
+
+**March 2013** I am part of the organizing committee for the 2013 edition of
+the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
+
+`older news items ... </news>`__
 
