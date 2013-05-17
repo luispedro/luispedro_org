@@ -12,6 +12,16 @@ categories: software python
 Jug: A Task-Based Parallelization Framework
 ===========================================
 
+Talks About Jug
+---------------
+
+Two talks about jug coming up:
+
+1. **21 May** at the `Heidelberg Python Meetup <http://www.meetup.com/HeidelbergPython/events/114607062/>`__.
+2. **19 or 20 July** in Berlin at `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
+   (Bioinformatics Open Source Conference).
+
+
 What is it?
 -----------
 It is a *light-weight, Python only, distributed computing framework.*
