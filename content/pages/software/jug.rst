@@ -36,9 +36,10 @@ processes and works correctly over NFS, so you can coordinate processes on
 different machines. The other uses a redis database and all it needs is for
 different processes to be able to communicate with a common redis server.
 
-Jug is a pure Python implementation and should work on any platform.
+Jug is a pure Python implementation and should work on any platform. Python 3
+is also supported (at least 3.3 and greater).
 
-`Jug Documentation and Tutorial <http://packages.python.org/Jug/>`__
+`Jug Documentation and Tutorial <http://jug.rtfd.org>`__
 
 Short Example
 -------------
