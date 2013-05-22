@@ -1,0 +1,10 @@
+title: Talks in 2013
+url: talks/2013
+categories: talks work
+..
+
+Talks I gave in 2013
+====================
+
+May 21. **Introduction to Jug: Coarse Parallel Programming With Python**
+`Slides </talks/2013/jug-meetup>`__
