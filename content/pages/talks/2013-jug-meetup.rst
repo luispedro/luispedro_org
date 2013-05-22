@@ -6,6 +6,9 @@ categories: talks work software
 Parallel Processing With Python & Jug
 =====================================
 
+I gave this talk on **May 21st 2013** to the `Heidelberg Python Meetup Group
+<http://www.meetup.com/HeidelbergPython/>`__
+
 You can find `the slides here </files/talks/2013/jug-python-meetup.pdf>`__.
 
 The `demo code is available on github <https://github.com/luispedro/jug-presentations/tree/master/jug-segmentation-tutorial>`__
