@@ -3,10 +3,16 @@ url: talks/2013/jug-meetup
 categories: talks work software
 ..
 
+Parallel Processing With Python & Jug
+=====================================
+
 You can find `the slides here </files/talks/2013/jug-python-meetup.pdf>`__.
 
-Links
-=====
+The `demo code is available on github <https://github.com/luispedro/jug-presentations/tree/master/jug-segmentation-tutorial>`__
+
+
+Reference Links
+---------------
 
 - `Jug homepage </software/jug>`__
 - `the code on github <http://github.com/luispedro/jug>`__
