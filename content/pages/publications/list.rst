@@ -31,7 +31,7 @@ Submitted or In Preparation
 2.  **Luis Pedro Coelho**, Shannon Quinn, Hagit Shatkay and Robert F. Murphy
     *Waldo: A Python Library for Unifying Location Databases* (submitted)
 3.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
-    computer vision, Journal of Open Research Software (forthcoming)
+    computer vision, Journal of Open Research Software (in press)
     [`preprint <http://arxiv.org/abs/1211.4907>`__].
 4.  **Luis Pedro Coelho**, Joshua D.  Kangas, Armaghan Naik, Elvira Osuna-Highley,
     Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B.  Berget,
