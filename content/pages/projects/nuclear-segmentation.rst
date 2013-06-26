@@ -14,7 +14,7 @@ from two datasets and used those as gold standards to evaluate methods.
    :alt: Example image from the dataset
 
 
-We generated two datasets, *U2OS* and *NIH3T3*, named after the cell type was visible.
+We generated two datasets, *U2OS* and *NIH3T3*, named after the cell type that was imaged.
 
 +---------------+-------------+-------------+
 |               |     U2OS    |   NIH3T3    |
@@ -31,16 +31,24 @@ We generated two datasets, *U2OS* and *NIH3T3*, named after the cell type was vi
 +---------------+-------------+-------------+
 
 
-A model based method developed Roysam's group (`Lin et al., 2003 <http://www.ncbi.nlm.nih.gov/pubmed/14566936>`__) was the best of the methods we evaluated at the time. In the meanwhile, however, other groups have reported better results in our dataset (`list of citations at Google Scholar <http://scholar.google.com/scholar?oi=bibs&hl=en&cites=738266029844352763>`__).
+A model based method developed by B. Roysam's group (`Lin et al., 2003
+<http://www.ncbi.nlm.nih.gov/pubmed/14566936>`__) was the best of the methods
+we evaluated at the time. In the meanwhile, however, other groups have reported
+better results on our dataset (`list of citations at Google Scholar
+<http://scholar.google.com/scholar?oi=bibs&hl=en&cites=738266029844352763>`__).
 
 
 Code & Data
 ~~~~~~~~~~~
 
-You can get the exact version used for the paper from the `MurphyLab's reproducibility repository <http://murphylab.cbi.cmu.edu/software/2009_ISBI_NuclearSegmentation/>`__ or, from `my github page <https://github.com/luispedro/segmentation>`__, a version that has been updated to work better in newer installations.
+You can get the exact version used for the paper from the `MurphyLab's
+reproducibility repository
+<http://murphylab.cbi.cmu.edu/software/2009_ISBI_NuclearSegmentation/>`__ or,
+from `my github page <https://github.com/luispedro/segmentation>`__, a version
+that has been updated to work better in newer installations.
 
-If you want to use the image above, feel free, as long as you cite our paper
-(see citation below).
+If you want to use the image above or any of the images in the dataset, feel
+free, as long as you cite our paper (see citation below).
 
 Citation
 ~~~~~~~~
