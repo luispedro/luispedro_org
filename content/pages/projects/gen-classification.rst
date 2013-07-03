@@ -20,5 +20,16 @@ standing in the same location group.
 The algorithms we were using previously performed significantly worse in this
 new dataset and we thus employed new methods to achieve better results.
 
-A manuscript describing this project and its results is under review.
+A manuscript describing this project and its results is in press.
+
+Local Features for Bioimage Analysis
+------------------------------------
+
+We also show that using `SURF <http://en.wikipedia.org/wiki/SURF>`__ (a form of achieves
+excellent results in subcellular classification and we recommend it for
+bioimage analysis).
+
+Open source code is available as part of my computer vision package, `mahotas
+</software/mahotas>`__, to implement these features.
+
 
