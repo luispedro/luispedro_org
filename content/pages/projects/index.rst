@@ -6,20 +6,6 @@ categories: work
 Projects
 ========
 
-Plasmodium
-----------
-
-Plasmodium, the malaria causing parasite, like all eukariots, regulates the
-expression of its genes by many forms, including chromatin organization. In
-this species, the spatial organization of chromatin seems to be regulated in
-clinically-relevant ways.
-
-This project pursues these observations to build models of chromatin in
-blood-stage Plasmodium falciparum. The goal is to relate observations of
-chromatin state and organization to gene expression. In particular, I am
-imaging different chromatin marks using fluorescence microscopy in different
-time points.
-
 Generalisable Subcellular Location Analysis
 -------------------------------------------
 
@@ -37,7 +23,9 @@ standing in the same location group.
 The algorithms we were using previously performed significantly worse in this
 new dataset and we thus employed new methods to achieve better results.
 
-A manuscript describing this project and its results is under review.
+A manuscript describing this project and its results is in press.
+
+`Read more </projects/gen-classification>`__
 
 RandTag
 -------
