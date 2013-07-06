@@ -20,7 +20,15 @@ standing in the same location group.
 The algorithms we were using previously performed significantly worse in this
 new dataset and we thus employed new methods to achieve better results.
 
-A manuscript describing this project and its results is in press.
+A paper describing this work has been accepted for publication in
+Bioinformatics:
+
+    *Local Features Provide Better Generalization of Subcellular Location
+    Classifiers to New Proteins.* by **Luis Pedro Coelho**, Joshua D. Kangas,
+    Armaghan Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret
+    Fuhrman, Ramanuja Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.
+    Murphy (2013). Bioinformatics, in press
+
 
 Local Features for Bioimage Analysis
 ------------------------------------
