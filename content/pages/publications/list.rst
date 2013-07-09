@@ -8,9 +8,9 @@ Selected Publications
 
 1.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
-    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Local
-    Features Provide Better Generalization of Subcellular Location Classifiers
-    to New Proteins.* in Bioinformatics, 2013 [`Advanced Access
+    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
+    the subcellular location of new proteins from microscope images using local
+    features* in Bioinformatics, 2013 [`Advanced Access
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 2.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
@@ -64,9 +64,9 @@ Peer Reviewed Journal Articles
      <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
 4.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
-    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Local
-    Features Provide Better Generalization of Subcellular Location Classifiers
-    to New Proteins.* in Bioinformatics, 2013 [`Advanced Access
+    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
+    the subcellular location of new proteins from microscope images using local
+    features* in Bioinformatics, 2013 [`Advanced Access
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 5.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
     computer vision, Journal of Open Research Software (in press)
