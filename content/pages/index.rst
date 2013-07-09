@@ -23,8 +23,8 @@ Recent Publications
 ===================
 - **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira Osuna-Highley,
   Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,
-  Jonathan W. Jarvik, and Robert F.  Murphy, *Local Features Provide Better
-  Generalization of Subcellular Location Classifiers to New Proteins.* in
+  Jonathan W. Jarvik, and Robert F.  Murphy, *Determining the subcellular
+  location of new proteins from microscope images using local features* in
   Bioinformatics, 2013 [`Advanced Access
   <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 - **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the

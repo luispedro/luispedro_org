@@ -6,11 +6,11 @@ categories: about-me
 News Archive
 ============
 
-**July 2013** New paper is out: **Luis Pedro Coelho**, Joshua D. Kangas,
+**July 2013** I have a new paper out: **Luis Pedro Coelho**, Joshua D. Kangas,
 Armaghan Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman,
 Ramanuja Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.  Murphy,
-*Local Features Provide Better Generalization of Subcellular Location
-Classifiers to New Proteins.* in Bioinformatics, 2013 [`Advanced Access
+*Determining the subcellular location of new proteins from microscope images
+using local features* in Bioinformatics, 2013 [`Advanced Access
 <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 
 **May 2013** I started a research blog: `metarabbit.wordpress.com <http://metarabbit.wordpress.com>`__
