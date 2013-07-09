@@ -21,6 +21,12 @@ subcellular location analysis.
 
 Recent Publications
 ===================
+- **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira Osuna-Highley,
+  Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,
+  Jonathan W. Jarvik, and Robert F.  Murphy, *Local Features Provide Better
+  Generalization of Subcellular Location Classifiers to New Proteins.* in
+  Bioinformatics, 2013 [`Advanced Access
+  <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 - **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
   distribution of probes between subcellular locations using unsupervised
   pattern unmixing* in Bioinformatics, vol. 26 (12), pp.  i7-i12, 2010 [`DOI
@@ -30,11 +36,6 @@ Recent Publications
   Literature Image  Finder: Extracting Information from Text and Images in
   Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 pp.\
   32--32, 2010 [`DOI <http://dx.doi.org/10.1007/978-3-642-13131-8_4>`__]
-- Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
-  Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
-  Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
-  Services and Agents on the World Wide Web, 2010 [`DOI
-  <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
 
 `All publications... </publications>`__
 
@@ -56,6 +57,7 @@ of these opportunities.
 
 Other News
 ==========
+
 **May 2013** I started a research blog: `metarabbit.wordpress.com <http://metarabbit.wordpress.com>`__
 
 **May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
@@ -64,9 +66,6 @@ was accepted (it will be a lightning talk)
 
 **April 2013** I moved to EMBL, where I joined `Peer Bork's group
 <http://www.embl.de/~bork/>`__.
-
-**March 2013** I am part of the organizing committee for the 2013 edition of
-the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
 
 `older news items ... </news>`__
 

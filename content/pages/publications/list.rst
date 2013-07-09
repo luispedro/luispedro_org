@@ -6,34 +6,33 @@ categories: about-me
 Selected Publications
 =====================
 
-1.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+1.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
+    Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
+    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Local
+    Features Provide Better Generalization of Subcellular Location Classifiers
+    to New Proteins.* in Bioinformatics, 2013 [`Advanced Access
+    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
+2.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
-2.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+3.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
      Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
      version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
-3.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
+4.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
      segmentation in microscope cell images: A hand-segmented dataset and
      comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
-4.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
+5.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
      Structure for Approximate Text Indexing* SPIRE (2006)
 
 Submitted or In Preparation
 ===========================
 
-1.  **Luis Pedro Coelho**, Joshua D.  Kangas, Armaghan Naik, Elvira Osuna-Highley,
-    Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B.  Berget,
-    Jonathan W.  Jarvik, and Robert F. Murphy, *Local Features for Determining
-    Subcellular Location with Better Generalization* (submitted)
-2.  **Luis Pedro Coelho**, Shannon Quinn, Hagit Shatkay and Robert F. Murphy
+1.  **Luis Pedro Coelho**, Shannon Quinn, Hagit Shatkay and Robert F. Murphy
     *Waldo: A Python Library for Unifying Location Databases* (submitted)
-3.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
-    computer vision, Journal of Open Research Software (in press)
-    [`preprint <http://arxiv.org/abs/1211.4907>`__].
-4.  **Luis Pedro Coelho**, Joshua D.  Kangas, Armaghan Naik, Elvira Osuna-Highley,
+2.  **Luis Pedro Coelho**, Joshua D.  Kangas, Armaghan Naik, Elvira Osuna-Highley,
     Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B.  Berget,
     Jonathan W.  Jarvik, Hagit Shatkay, and Robert F. Murphy, *Loto: Location
     Topics for Modeling Subcellular Location Space in Mammalian Cells* (in
@@ -63,6 +62,16 @@ Peer Reviewed Journal Articles
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
      Services and Agents on the World Wide Web, 2010 [`online version
      <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
+4.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
+    Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
+    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Local
+    Features Provide Better Generalization of Subcellular Location Classifiers
+    to New Proteins.* in Bioinformatics, 2013 [`Advanced Access
+    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
+5.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
+    computer vision, Journal of Open Research Software (in press)
+    [`preprint <http://arxiv.org/abs/1211.4907>`__].
+
 
 
 Review Articles
