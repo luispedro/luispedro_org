@@ -15,6 +15,9 @@ children:
         -   name: Erdös-Bacon
             title: My Erdös Bacon Number
             url: /erdos-bacon
+        -   name: Meta(rabbit)
+            title: My blog
+            url: http://metarabbit.wordpress.com/
     -   name: Projects
         url: /projects/
         children:
@@ -39,12 +42,12 @@ children:
         -   name: Jug
             title: Task based parallelization framework for Python
             url: /software/jug
-        -   name: Pymorph
-            title: Python Morphology Toolbox
-            url: /software/pymorph
         -   name: Milk
             title: Machine Learning Toolkit for Python
             url: /software/milk
+        -   name: Pymorph
+            title: Python Morphology Toolbox
+            url: /software/pymorph
         -   name: Milksets
             title: Machine Learning Datasets for Python
             url: /software/milksets
