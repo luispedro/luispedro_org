@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <title>Illustration of crossvalidation modes</title>
+        <script src="http://d3js.org/d3.v3.min.js"></script>
+        <script type="text/javascript" src="http://documentcloud.github.com/underscore/underscore-min.js"></script>
+
+        <!-- <link rel="stylesheet" href="style.css" type="text/css"> -->
+        <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
+        <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+        <script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+
+        <style type="text/css">
+        #wrap {
+            max-width: 800px;
+            margin: auto;
+        }
+        text {
+            font: 20px sans-serif;
+        }
+        text.group_label {
+            font: 20px sans-serif;
+            font-style: italic;
+        }
+        text.table_header {
+            font: 20px sans-serif;
+            font-style: italic;
+            fill: #930;
+        }
+        text.explanation {
+              font: 16px sans-serif;
+              fill: #930;
+        }
+        #button {
+             -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+            -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+            box-shadow:inset 0px 1px 0px 0px #ffffff;
+
+            background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+            background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+            background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+            background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+            background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+            background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+
+            background-color:#ffffff;
+
+            -moz-border-radius:6px;
+            -webkit-border-radius:6px;
+            border-radius:6px;
+
+            border:1px solid #dcdcdc;
+
+            display:inline-block;
+            color:#666666;
+            font-family:arial;
+            font-size:15px;
+            font-weight:bold;
+            padding:6px 24px;
+            text-decoration:none;
+
+            text-shadow:0px 1px 0px #ffffff;
+
+        }
+        #button:hover {
+            background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+            background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+            background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+            background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+            background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+            background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+            filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+
+            background-color:#f6f6f6;
+        }
+        #button:active {
+            position:relative;
+            top:1px;
+        }
+
+        </style>
+    </head>
+    <script>
+    </script>
+
+    <body>
+    <div id="wrap">
+        <h1>Illustration of cross validation modes</h1>
+
+        <p>This is a companion to the paper</p>
+        <blockquote><p><strong>Luis Pedro Coelho</strong>, Joshua D. Kangas,
+        Armaghan Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret
+        Fuhrman, Ramanuja Simha, Peter B. Berget, Jonathan W. Jarvik, and
+        Robert F. Murphy, <em>Determining the subcellular location of new
+        proteins from microscope images using local features</em> in
+        Bioinformatics, 2013 [<a
+        href="http://dx.doi.org/10.1093/bioinformatics/btt392">Advanced
+        Access</a>]</p></blockquote>
+
+        <p>The paper concerns the automatic determination of subcellular
+        location from images. To evaluate such a system, one uses cross
+        validation, repeatedly splitting the data into training and testing
+        subsets.</p>
+
+        <p>The animation below illustrates the difference between cross
+        validation "per image" and "per protein". This is only relevant when
+        you have <em>multiple proteins (or other markers) for each location of
+        interest</em> and <em>multiple images for each marker</em>.</p>
+
+        <p>Consider a simple example of trying to distinguish <em>Nuclear</em>
+        from <em>Golgi</em> patterns. It is easier to demonstrate in this
+        binary setting, but the same logic applies if we had more
+        locations.</p>
+
+
+        <span id="next">next</span>
+        <p><a href="#" id="button">Start animation</a></p>
+        <div> <svg id="image" height="320" /></div>
+    </div>
+    <script>
+    var svg = d3.select('#image');
+    var squares;
+    function add_square(x,y, side) {
+        return svg.append("rect")
+            .attr("x", x)
+            .attr("y", y)
+            .attr("width", side)
+            .attr("height", side)
+            .attr("class", "square")
+            .style("opacity", 0)
+            ;
+    }
+    function add_row_squares(ys, n) {
+        squares = [];
+        for (var yi = 0; yi < n; ++yi) {
+            for (var p = 0; p < 10; ++p) {
+                squares.push(add_square(second_col_x + 4 + 16 * p, ys[yi], 12));
+            }
+        }
+    }
+    var second_col_x = 128;
+    var second_row_y = 48+24;
+    var third_row_y;
+
+    var single_guy_x = 400;
+    var start_group_x = 348;
+    var height_group_box = 260;
+    var active_square_colour = "#B72633";
+    var squares = [];
+    var nuc, golgi, dapi, dapi2, giantin, lamp22;
+    function init() {
+        svg.selectAll("*").remove();
+        third_row_y = 3*28+24;
+
+        svg.append("text")
+            .attr("x",0)
+            .attr("y",24)
+            .attr("class", "table_header")
+            .text("Location");
+        svg.append("text")
+            .attr("x",second_col_x)
+            .attr("y",24)
+            .attr("class", "table_header")
+            .text("Marker");
+
+        nuc = svg.append("text")
+            .attr("x",0)
+            .attr("y",second_row_y)
+            .text("Nuclear");
+        golgi = svg.append("text")
+            .attr("x",0)
+            .attr("y",third_row_y)
+            .text("Golgi");
+
+        dapi = svg.append("text")
+            .attr("x",second_col_x)
+            .attr("y",second_row_y)
+            .text("DAPI");
+        giantin = svg.append("text")
+            .attr("x",second_col_x)
+            .attr("y",third_row_y)
+            .text("Giantin");
+
+        svg.append("text")
+            .attr("x", 10)
+            .attr("y", 310)
+            .attr("id", "explanation")
+            .attr("class", "explanation")
+            .text("We have two locations and a marker per location.");
+
+
+        svg.append("rect")
+            .attr("x", 120)
+            .attr("y", 28)
+            .attr("rx", 28)
+            .attr("height", height_group_box)
+            .attr("width", 180)
+            .attr("class", "group_rects")
+            .attr("fill", "#430a01")
+            .style("opacity", 0)
+            ;
+        svg.append("rect")
+            .attr("x", 340)
+            .attr("y", 28)
+            .attr("rx", 28)
+            .attr("height", height_group_box)
+            .attr("width", 180)
+            .attr("class", "group_rects")
+            .attr("fill", "#430a01")
+            .style("opacity", 0)
+            ;
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $("#explanation").text("For each marker, we have several images.");
+        dapi.transition().style("opacity", 0);
+        giantin.transition().style("opacity", 0);
+        add_row_squares([second_row_y-16, third_row_y-16], 2);
+        d3.selectAll(".square").transition().style('opacity', 1.);
+    $('#next').off('click').on("click", function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $('#explanation').text('We select 10% of the images.');
+        squares[9].transition().attr("fill", active_square_colour);
+        squares[19].transition().attr("fill", active_square_colour);
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $('#explanation').text('We split the dataset into training and testing.');
+        squares[9].transition().attr("x", single_guy_x);
+        squares[19].transition().attr("x", single_guy_x);
+        d3.selectAll(".group_rects")
+            .transition()
+                .style("opacity", .3)
+            ;
+        svg.append("text")
+            .attr("x", 140)
+            .attr("y", 248)
+            .attr("class", "group_label")
+            .text("Training")
+            ;
+        svg.append("text")
+            .attr("x", 380)
+            .attr("y", 248)
+            .attr("class", "group_label")
+            .text("Testing")
+            ;
+
+    $('#next').off('click').on("click", function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        squares[9].transition().attr("x", second_col_x + 4 + 16*9).attr('fill', "#000");
+        squares[19].transition().attr("x", second_col_x + 4 + 16*9).attr('fill', "#000");
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $('#explanation').text("We repeat this in cross validation (we show only two steps)");
+        squares[8].transition().attr("fill", active_square_colour).attr('x', single_guy_x);
+        squares[18].transition().attr("fill", active_square_colour).attr('x', single_guy_x);
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        squares[8].transition().attr("fill", "#000").attr('x', second_col_x + 4 + 16*8);
+        squares[18].transition().attr("fill", "#000").attr('x', second_col_x + 4 + 16*8);
+    $('#next').off('click').on("click", function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $("#explanation").text("What if we have multiple markers per location?");
+        third_row_y += 36;
+        golgi.transition().attr("y", third_row_y);
+        $('.square').remove();
+    $('#next').off('click').on("click", function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $('#explanation').text("What if we have multiple markers per location? Our old ones...");
+        dapi = svg.append("text")
+            .attr("x",second_col_x)
+            .attr("y",second_row_y)
+            .attr("class", "markername")
+            .text("DAPI");
+        giantin = svg.append("text")
+            .attr("x",second_col_x)
+            .attr("y",third_row_y)
+            .attr("class", "markername")
+            .text("Giantin");
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $("#explanation").text("What if we have multiple markers per location? Our old ones and new ones.");
+        dapi2 = svg.append("text")
+            .attr("x",second_col_x)
+            .attr("y",second_row_y+24)
+            .attr("class", "markername")
+            .text("Hoechst");
+        lamp22 = svg.append("text")
+            .attr("x",second_col_x)
+            .attr("class", "markername")
+            .attr("y",third_row_y+24)
+            .text("GOLGB1");
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        d3.selectAll(".markername").transition().style('opacity', 0);
+        add_row_squares([second_row_y-16, second_row_y+4, third_row_y-16, third_row_y+4], 4);
+        d3.selectAll(".square").transition().style('opacity', 1.);
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $('#explanation').text("We can cross validate by taking 10% of images as before");
+        for (var p = 0; p < 4; ++p) {
+            squares[9+10*p].transition().attr('fill', active_square_colour);
+        }
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        for (var p = 0; p < 4; ++p) {
+            squares[9+10*p].transition().attr('x', single_guy_x);
+        }
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $('#explanation').text("Alternatively, we can cross validate by taking all the images associated with a marker");
+        var x_pos = second_col_x + 4 + 16 * 9;
+        for (var p = 0; p < 4; ++p) {
+            squares[9+10*p].transition().attr('x', x_pos).attr("fill", "#000");
+        }
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        for (var p = 0; p < 10; ++p) {
+            squares[10+p].transition().attr('fill', active_square_colour);
+            squares[30+p].transition().attr('fill', active_square_colour);
+        }
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        for (var p = 0; p < 10; ++p) {
+            var x_pos = 4 + 16 * p+start_group_x;
+            squares[10+p].transition().attr('x', x_pos);
+            squares[30+p].transition().attr('x', x_pos);
+        }
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        for (var p = 0; p < 10; ++p) {
+            var x_pos = second_col_x + 4 + 16 * p;
+            squares[10+p].transition().attr('x', x_pos).attr("fill", "#000");
+            squares[30+p].transition().attr('x', x_pos).attr("fill", "#000");
+        }
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        for (var p = 0; p < 10; ++p) {
+            var x_pos = 4 + 16 * p + start_group_x;
+            squares[ 0+p].transition().attr('x', x_pos).attr("fill", active_square_colour);
+            squares[20+p].transition().attr('x', x_pos).attr("fill", active_square_colour);
+        }
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        for (var p = 0; p < 10; ++p) {
+            var x_pos = second_col_x + 4 + 16 * p + 0;
+            squares[ 0+p].transition().attr('x', x_pos).attr("fill", "#000");
+            squares[20+p].transition().attr('x', x_pos).attr("fill", "#000");
+        }
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+        $('#explanation').text('We call the first mode of cross validation "per image" and the second one "per protein."');
+    $('#next').off('click').on('click', function() {
+        console.log((new XMLSerializer()).serializeToString($('svg')[0]));
+    }); }); }); }); }); }); }); }); }); }); }); }); }); }); }); }); }); }); }); });
+    }
+
+    init();
+
+
+    $("#next").hide();
+    var cancel_animation = false;
+    var animation_on = false;
+    function start_animation() {
+        var step = 0;
+        animation_on = true;
+        var next = $("#next");
+        function next_step() {
+            if (cancel_animation) {
+                cancel_animation = false;
+                animation_on = false;
+                init();
+                return true;
+            }
+            next.click();
+            step += 1;
+            if (step < 20) {
+                d3.timer(next_step, 1200);
+            } else {
+                animation_on = false;
+            }
+            return true;
+        }
+        next_step();
+    }
+    var going = false;
+    $('#button').on('click', function() {
+        if (!going) {
+            start_animation();
+            going = true;
+            $("#button").text("Reset animation");
+        } else {
+            if (animation_on) cancel_animation = true;
+            else init();
+            going = false;
+            $("#button").text("Start animation");
+        }
+    });
+    </script>
+</body>
+
+
