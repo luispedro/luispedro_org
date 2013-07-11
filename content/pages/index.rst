@@ -13,7 +13,8 @@ Who am I?
 
 I am a computational biologist.
 
-I work at the European Molecular Biology Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__.
+I work at the European Molecular Biology Laboratory (EMBL) in `Peer Bork's
+group <http://www.embl.de/~bork/>`__.
 
 For my graduate work, at `Carnegie Mellon University
 <http://www.compbio.cmu.edu/>`_, I worked on computer vision for
@@ -25,7 +26,7 @@ Recent Publications
   Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,
   Jonathan W. Jarvik, and Robert F.  Murphy, *Determining the subcellular
   location of new proteins from microscope images using local features* in
-  Bioinformatics, 2013 [`Advanced Access
+  Bioinformatics, 2013 [`DOI
   <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 - **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
   distribution of probes between subcellular locations using unsupervised
