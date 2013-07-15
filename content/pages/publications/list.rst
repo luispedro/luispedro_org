@@ -10,8 +10,9 @@ Selected Publications
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
     the subcellular location of new proteins from microscope images using local
-    features* in Bioinformatics, 2013 [`Advanced Access
-    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
+    features* in Bioinformatics, 2013 [`DOI
+    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
+    <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
 2.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
@@ -42,36 +43,36 @@ Submitted or In Preparation
 
 Full List of Publications
 =========================
-In chronological order
+In reverse chronological order
 
 Also available as a `BibTeX file </publications/bibtex>`__.
 
 Peer Reviewed Journal Articles
 ------------------------------
-1.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+1.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
+    Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
+    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
+    the subcellular location of new proteins from microscope images using local
+    features* in Bioinformatics, 2013 [`DOI
+    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
+    <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
+2.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
+    computer vision, Journal of Open Research Software (in press)
+    [`preprint <http://arxiv.org/abs/1211.4907>`__].
+3.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
-2.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+4.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
      Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
      version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
-3.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
+5.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
      Services and Agents on the World Wide Web, 2010 [`online version
      <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
-4.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
-    Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
-    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
-    the subcellular location of new proteins from microscope images using local
-    features* in Bioinformatics, 2013 [`Advanced Access
-    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
-5.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
-    computer vision, Journal of Open Research Software (in press)
-    [`preprint <http://arxiv.org/abs/1211.4907>`__].
-
 
 
 Review Articles
