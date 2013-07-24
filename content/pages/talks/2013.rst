@@ -6,5 +6,13 @@ categories: talks work
 Talks I gave in 2013
 ====================
 
+July 24. **Introduction to Python** for `Lisbon Machine Learning School
+<http://lxmls.it.pt>`__.  `Slides </files/talks/2013/lxmls.pdf>`__.
+
+July 19. **Introduction to Jug: Coarse Parallel Programming With Python**
+at the `BOSC 2013 <http://www.open-bio.org/wiki/BOSC_2013>`__. This was a
+lightning (5 minutes) talk `Slides </files/talks/2013/bosc.pdf>`__.
+
 May 21. **Introduction to Jug: Coarse Parallel Programming With Python**
 `Slides </talks/2013/jug-meetup>`__
+
