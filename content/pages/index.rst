@@ -44,11 +44,6 @@ Recent Publications
 Upcoming Travels & Talks
 ========================
 
-**July 2013** I will be at `ISMB 2013 in Berlin
-<http://www.iscb.org/ismbeccb2013>`__. I will have a poster in the main
-conference and a talk in `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
-(Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
-
 **July 2013** I will be teaching a lecture in the 2013 edition of
 the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
 
@@ -62,7 +57,8 @@ Other News
 
 **July 2013** I posted a `video abstract
 <http://dx.doi.org/10.6084/m9.figshare.744842>`__ of my `recent paper
-</projects/gen-classification>`__
+<http://dx.doi.org/10.1093/bioinformatics/btt392>`__ on `subcellular location
+generalization </projects/gen-classification>`__
 
 **May 2013** I started a research blog: `metarabbit.wordpress.com
 <http://metarabbit.wordpress.com>`__
@@ -70,9 +66,6 @@ Other News
 **May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
 (Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
 was accepted (it will be a lightning talk)
-
-**April 2013** I moved to EMBL, where I joined `Peer Bork's group
-<http://www.embl.de/~bork/>`__.
 
 `older news items ... </news>`__
 

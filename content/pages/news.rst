@@ -6,6 +6,11 @@ categories: about-me
 News Archive
 ============
 
+**July 2013** I posted a `video abstract
+<http://dx.doi.org/10.6084/m9.figshare.744842>`__ of my `recent paper
+<http://dx.doi.org/10.1093/bioinformatics/btt392>`__ on `subcellular location
+generalization </projects/gen-classification>`__
+
 **July 2013** I have a new paper out: **Luis Pedro Coelho**, Joshua D. Kangas,
 Armaghan Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman,
 Ramanuja Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.  Murphy,
