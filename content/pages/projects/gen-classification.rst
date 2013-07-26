@@ -6,6 +6,9 @@ categories: work
 Generalisable Subcellular Location Analysis
 ===========================================
 
+See the `video abstract <http://dx.doi.org/10.6084/m9.figshare.744842>`__ for
+the highlights.
+
 Most of subcellular location analysis in the past has been pursued using
 datasets that contain multiple copies of the same *representative* protein
 (i.e., a specific protein is selected to serve as a **nuclear protein**,
@@ -40,7 +43,6 @@ bioimage analysis).
 
 Open source code is available as part of my computer vision package, `mahotas
 </software/mahotas>`__, to implement these features.
-
 
 Citation
 --------
