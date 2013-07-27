@@ -7,7 +7,7 @@ Generalisable Subcellular Location Analysis
 ===========================================
 
 See the `video abstract <http://dx.doi.org/10.6084/m9.figshare.744842>`__ for
-the highlights.
+the highlights (video_).
 
 Most of subcellular location analysis in the past has been pursued using
 datasets that contain multiple copies of the same *representative* protein
@@ -19,6 +19,9 @@ protein. It has then been inferred that the algorithm is thus capable of
 recognizing location patterns. Unfortunately, this is a leap of judgement that
 has not been tested. We tested this using a new dataset with multiple proteins
 standing in the same location group.
+
+.. image:: /files/images/generalization-plot3.png
+
 
 The algorithms we were using previously performed significantly worse in this
 new dataset and we thus employed new methods to achieve better results.
@@ -43,6 +46,15 @@ bioimage analysis).
 
 Open source code is available as part of my computer vision package, `mahotas
 </software/mahotas>`__, to implement these features.
+
+Video
+-----
+
+.. _video:
+
+.. raw:: html
+   <iframe src="http://wl.figshare.com/articles/744842/embed?show_title=1" width="568" height="502" frameborder="0"></iframe>
+
 
 Citation
 --------
