@@ -11,6 +11,14 @@ Location Image Finder*), which was project from the `Murphy Lab <http://murphyla
 It searches through scientific journals, looking for images, which it
 categorises, makes available, and (partially) analyses.
 
+.. image:: /files/images/slif-overview.png
+    :alt: SLIF Pipeline
+
+
+The figure above (from `Coelho et al., 2010`_) is a
+diagram of the SLIF pipeline: figures are extracted from papers, broken up into
+panels & captions, which are then analysed to build navigavtion models.
+
 In this project, I was responsible for the computer vision aspects of the
 processing pipeline. I also handled much of the integration effort of the
 several components and coordinated the preparation of the multi-author
@@ -28,6 +36,8 @@ References
 These are the most recent references, on which I was involved. The first paper
 focus most on the image analysis side of the pipeline, the second of the
 overall service.
+
+.. _`Coelho et al., 2010`:
 
 - **Structured Literature Image  Finder: Extracting Information from Text and
   Images in Biomedical  Literature** by Luis Pedro Coelho, Amr Ahmed, Andrew
