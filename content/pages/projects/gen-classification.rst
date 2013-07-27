@@ -53,6 +53,7 @@ Video
 .. _video:
 
 .. raw:: html
+
    <iframe src="http://wl.figshare.com/articles/744842/embed?show_title=1" width="568" height="502" frameborder="0"></iframe>
 
 
