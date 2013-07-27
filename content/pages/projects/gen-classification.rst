@@ -6,8 +6,7 @@ categories: work
 Generalisable Subcellular Location Analysis
 ===========================================
 
-See the `video abstract <http://dx.doi.org/10.6084/m9.figshare.744842>`__ for
-the highlights (video_).
+See the `video abstract`_ for the highlights.
 
 Most of subcellular location analysis in the past has been pursued using
 datasets that contain multiple copies of the same *representative* protein
@@ -50,12 +49,16 @@ Open source code is available as part of my computer vision package, `mahotas
 Video
 -----
 
-.. _video:
+.. _`video abstract`:
+
+This is a video abstract which includes the main results of the paper:
 
 .. raw:: html
 
    <iframe src="http://wl.figshare.com/articles/744842/embed?show_title=1" width="568" height="502" frameborder="0"></iframe>
 
+You can also read `several blog posts related to this paper
+<http://metarabbit.wordpress.com/tag/coelho2013_bioinformatics/>`__.
 
 Citation
 --------
