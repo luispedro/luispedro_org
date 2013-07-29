@@ -49,6 +49,7 @@ Also available as a `BibTeX file </publications/bibtex>`__.
 
 Peer Reviewed Journal Articles
 ------------------------------
+
 1.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
@@ -56,9 +57,9 @@ Peer Reviewed Journal Articles
     features* in Bioinformatics, 2013 [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
-2.  **Luis Pedro Coelho**, mahotas: Open source software for scriptable
-    computer vision, Journal of Open Research Software (in press)
-    [`preprint <http://arxiv.org/abs/1211.4907>`__].
+2.  **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
+    computer vision, Journal of Open Research Software
+    [`DOI <http://dx.doi.org/10.5334/jors.ac>`__].
 3.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version

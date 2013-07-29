@@ -29,15 +29,13 @@ Recent Publications
   Bioinformatics, 2013 [`DOI
   <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
   <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
+- **Luis Pedro Coelho**, *Mahotas: Open source software for scriptable computer
+  vision*. Journal of Open Research Software 1(1):e3, [`DOI
+  <http://dx.doi.org/10.5334/jors.ac>`__]
 - **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
   distribution of probes between subcellular locations using unsupervised
   pattern unmixing* in Bioinformatics, vol. 26 (12), pp.  i7-i12, 2010 [`DOI
   <http://dx.doi.org/10.1093/bioinformatics/btq220>`__]
-- **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
-  Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
-  Literature Image  Finder: Extracting Information from Text and Images in
-  Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 pp.\
-  32--32, 2010 [`DOI <http://dx.doi.org/10.1007/978-3-642-13131-8_4>`__]
 
 `All publications... </publications>`__
 
