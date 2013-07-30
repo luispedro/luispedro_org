@@ -6,6 +6,9 @@ categories: about-me
 News Archive
 ============
 
+**July 2013** My book `Building Machine Learning Systems with Python
+<http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406>`__ is available
+
 **July 2013** I posted a `video abstract
 <http://dx.doi.org/10.6084/m9.figshare.744842>`__ of my `recent paper
 <http://dx.doi.org/10.1093/bioinformatics/btt392>`__ on `subcellular location
