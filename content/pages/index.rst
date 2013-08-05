@@ -42,13 +42,10 @@ Recent Publications
 Upcoming Travels & Talks
 ========================
 
-**July 2013** I will be teaching a lecture in the 2013 edition of
-the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
+I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
-
-`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-of these opportunities.
+.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
+   of these opportunities.
 
 Other News
 ==========
