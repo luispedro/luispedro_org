@@ -28,12 +28,11 @@ new dataset and we thus employed new methods to achieve better results.
 A paper describing this work has been accepted for publication in
 Bioinformatics:
 
-    *Local Features Provide Better Generalization of Subcellular Location
-    Classifiers to New Proteins.* by **Luis Pedro Coelho**, Joshua D. Kangas,
-    Armaghan Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret
-    Fuhrman, Ramanuja Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.
-    Murphy (2013). Bioinformatics, [`Advanced Access
-    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
+   *Determining the subcellular location of new proteins from microscope images
+   using local features* by **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan
+   Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja
+   Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.  Murphy (2013).
+   Bioinformatics, [`DOI <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 
 
 Local Features for Bioimage Analysis
