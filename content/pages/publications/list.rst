@@ -58,7 +58,7 @@ Peer Reviewed Journal Articles
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
 2.  **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
-    computer vision, Journal of Open Research Software
+    computer vision, Journal of Open Research Software, vol. 1 (2013)
     [`DOI <http://dx.doi.org/10.5334/jors.ac>`__].
 3.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
