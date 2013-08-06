@@ -43,7 +43,12 @@ excellent results in subcellular classification and we recommend it for
 bioimage analysis).
 
 Open source code is available as part of my computer vision package, `mahotas
-</software/mahotas>`__, to implement these features.
+</software/mahotas>`__, to implement these features. We have a step-by-step
+tutorial on how to `apply these methods to your own research
+<http://murphylab.web.cmu.edu/software/2013_Bioinformatics_LocalFeatures/tutorial.html>`__.
+
+We also made available the code `to reproduce the paper exactly
+<https://github.com/luispedro/Coelho2013_Bioinformatics>`__.
 
 Video
 -----
