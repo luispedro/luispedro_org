@@ -42,10 +42,13 @@ Recent Publications
 Upcoming Travels & Talks
 ========================
 
-I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-   of these opportunities.
+**7—12 October 2013** I will be in Barcelona for the `European BioImage
+Analysis Symposium <http://eubias2013.irbbarcelona.org/>`__
+
+`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
+of these opportunities.
 
 Other News
 ==========
