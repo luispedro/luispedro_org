@@ -96,19 +96,26 @@ semi-final and the final of this competition.
 
 Selected Publications
 ---------------------
-1.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+1.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
+    Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
+    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
+    the subcellular location of new proteins from microscope images using local
+    features* in Bioinformatics, 2013 [`DOI
+    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
+    <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
+2.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
-2.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+3.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
      Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
      version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
-3.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
+4.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
      segmentation in microscope cell images: A hand-segmented dataset and
      comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
-4.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
+5.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
      Structure for Approximate Text Indexing* SPIRE (2006)
 
 See also my `full annotated list of publications </publications>`_
