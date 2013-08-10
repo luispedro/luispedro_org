@@ -3,8 +3,8 @@ url: projects/slif
 categories: work
 ..
 
-SLIF
-====
+SLIF: Structured Literature Image Finder
+========================================
 
 SLIF is the *Structured Literature Image Finder` (previously, *Subcellular
 Location Image Finder*), which was project from the `Murphy Lab <http://murphylab.web.cmu.edu>`__, which I was a part of.

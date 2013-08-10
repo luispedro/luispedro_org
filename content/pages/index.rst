@@ -53,6 +53,8 @@ of these opportunities.
 Other News
 ==========
 
+(See above for some recent papers)
+
 **July 2013** My book `Building Machine Learning Systems with Python
 <http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406>`__ is available
 

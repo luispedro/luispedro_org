@@ -1,5 +1,6 @@
 title: Generalisable Subcellular Location Classification
 url: projects/gen-classification
+meta: Traditional subcellular classification methods do not generalize well beyond the proteins in which they were trained. Local feature based methods perform extremely well.
 categories: work
 ..
 

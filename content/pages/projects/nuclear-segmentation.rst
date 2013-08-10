@@ -1,5 +1,6 @@
 title: Nuclear Segmentation
 url: projects/nuclear-segmentation
+meta: We present a benchmark dataset for segmentation of nuclei in fluorescent microscopy images of cells and a comparison of several algorithms.
 categories: work
 ..
 
