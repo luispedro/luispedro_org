@@ -11,14 +11,15 @@ Who am I?
    :alt: Luis Pedro Coelho
    :class: float-right
 
-I am a computational biologist.
-
-I work at the European Molecular Biology Laboratory (EMBL) in `Peer Bork's
-group <http://www.embl.de/~bork/>`__.
+I am a computational biologist. I work at the European Molecular Biology
+Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__.
 
 For my graduate work, at `Carnegie Mellon University
 <http://www.compbio.cmu.edu/>`_, I worked on computer vision for
 subcellular location analysis.
+
+I blog about science at `metarabbit.wordpress.com
+<http://metarabbit.wordpress.com>`__.
 
 Recent Publications
 ===================
