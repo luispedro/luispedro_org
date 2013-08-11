@@ -24,7 +24,7 @@ The algorithms we were using previously performed significantly worse in this
 new dataset and we thus employed new methods to achieve better results.
 
 A manuscript describing this project and its results `is in press
-<dx.doi.org/10.1093/bioinformatics/btt392>`__ (as of July 2013).
+<http://dx.doi.org/10.1093/bioinformatics/btt392>`__ (as of July 2013).
 
 `Read more </projects/gen-classification>`__
 
