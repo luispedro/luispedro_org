@@ -1,6 +1,7 @@
 title: Biography
 url: biography
 categories: about-me
+meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
 ---
 
 Biography
@@ -9,13 +10,12 @@ Biography
 Shorter Version
 ...............
 
-Luis Pedro Coelho is post-doctoral researcher at the Institute for Molecular
-Medicine in Lisbon (Portugal). He works in understanding chromatin organization
-in Plasmodium, the malaria-causing parasite. His work is involves both lab
-biology and computational modeling. Luis has a PhD in computational biology
-from Carnegie Mellon University, a BS and MS in computer science from Instituto
-Superior Técnico. He is a Fulbright Scholar, a Siebel Scholar, and has won
-multiple awards for academic or research excellence.
+Luis Pedro Coelho is postdoctoral researcher at the European Molecular Biology
+Laboratory (EMBL). He works in metagenomics and bioimage informatics (the
+application of computer vision to biological samples). Luis has a PhD in
+computational biology from Carnegie Mellon University, a BS and MS in computer
+science from Instituto Superior Técnico. He is a Fulbright Scholar, a Siebel
+Scholar, and has won multiple awards for academic or research excellence.
 
 Outside academia, Luis has been involved in theatre (having produced the
 student group at IST and starred in several productions), as well as received a
@@ -24,15 +24,15 @@ underprivileged neighbourhoods and designed Webpages for nonprofits. In Summer
 2010, was in Mozambique, volunteering with local organisations there (see
 `beiraproject.org <http://beiraproject.org>`_).
 
-Luis can be found at `http://luispedro.org <http://luispedro.org>`_
+Luis can be found at `luispedro.org <http://luispedro.org>`__ and blogs
+at `metarabbit.wordpress.com <http://metarabbit.wordpress.com>`__.
 
 Longer Version (Academic)
 .........................
 
-Luis Pedro Coelho is post-doctoral researcher at the Institute for Molecular
-Medicine in Lisbon (Portugal). He works in understanding chromatin organization
-in Plasmodium, the malaria-causing parasite. His work is involves both lab
-biology and computational modeling.
+Luis Pedro Coelho is postdoctoral researcher at the European Molecular Biology
+Laboratory (EMBL). He works in metagenomics and bioimage informatics (the
+application of computer vision to biological samples).
 
 Luis holds a PhD in computational biology from Carnegie Mellon University. His
 doctoral research consisted of modeling images from fluorescent microsocpy. The
@@ -90,5 +90,5 @@ Photos
 ......
 
 If you need photos of me (for press purposes &c), please check `this page
-</photos>`_.
+</photos>`__.
 
