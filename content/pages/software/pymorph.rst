@@ -16,22 +16,19 @@ Python Morphology Toolbox
 Pymorph is a collection of pure python implementations of many image morphology
 functions.
 
-Includes basic operations such as
-    - erode
-    - dilate
-    - open
-    - tophat opening
-    - watershed
-    - ...
-
 Mahotas
 -------
 
 Pymorph is still available and bug-free, but I am not adding any new features.
 My other computer vision package, `mahotas </software/mahotas>`__, is a C++
-implementation and is much faster. It started small, but now has almost all of
-the functionality of pymorph and a lot of functionality that pymorph did not
-have.
+implementation and is much faster.
+
+It started small, but now has almost all of the functionality of pymorph and a
+lot of functionality that pymorph did not have. Even for the functionality that
+is shared with pymorph, mahotas is almost always a better choice (mainly for
+the fact that `it is faster <http://dx.doi.org/10.5334/jors.ac>`__).
+
+Additionally, mahotas has functionality that pymorph never had (nor will have).
 
 Download & Install
 ------------------
@@ -47,15 +44,6 @@ the typical
 
    python setup.py install
 
-See Also
---------
-
-`mahotas </software/mahotas>`__ is another Python image processing package, but
-most of its functions are in C++. It is, therefore, much faster for the
-operations it supports. Mahotas started with a much smaller set of features
-than pymorph, but has grown and has many (but not yet all) morphological
-operators that pymorph has. Additionally, mahotas has functionality that
-pymorph never has (or will have).
 
 Documentation
 -------------
