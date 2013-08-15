@@ -26,8 +26,7 @@ standing in the same location group.
 The algorithms we were using previously performed significantly worse in this
 new dataset and we thus employed new methods to achieve better results.
 
-A paper describing this work has been accepted for publication in
-Bioinformatics:
+The paper describing this work has been published in Bioinformatics:
 
    *Determining the subcellular location of new proteins from microscope images
    using local features* by **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan
@@ -35,18 +34,21 @@ Bioinformatics:
    Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.  Murphy (2013).
    Bioinformatics, [`DOI <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 
+(For BibTeX citation_, see below.)
 
 Local Features for Bioimage Analysis
 ------------------------------------
 
-We also show that using `SURF <http://en.wikipedia.org/wiki/SURF>`__ (a form of achieves
-excellent results in subcellular classification and we recommend it for
-bioimage analysis).
+We also show that using `SURF <http://en.wikipedia.org/wiki/SURF>`__ (a form of
+local features which achieves excellent results in subcellular classification
+and we recommend it for bioimage analysis).
 
 Open source code is available as part of my computer vision package, `mahotas
-</software/mahotas>`__, to implement these features. We have a step-by-step
-tutorial on how to `apply these methods to your own research
-<http://murphylab.web.cmu.edu/software/2013_Bioinformatics_LocalFeatures/tutorial.html>`__.
+</software/mahotas>`__, to implement these features.
+
+We have a step-by-step tutorial on how to `apply SURF to your own research
+<http://mahotas.readthedocs.org/en/latest/surfref.html>`__. Feel free to `email
+me <mailto:luis@luispedro.org>`__ if you run into trouble.
 
 We also made available the code `to reproduce the paper exactly
 <https://github.com/luispedro/Coelho2013_Bioinformatics>`__.
@@ -67,6 +69,8 @@ You can also read `several blog posts related to this paper
 
 Citation
 --------
+
+.. _citation:
 
 Here is the full bibtex citation::
 
