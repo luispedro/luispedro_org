@@ -23,8 +23,8 @@ All of the code is self contained and it has no other dependencies than numpy.
 Freeimage or `imread </software/imread>`__ are an optional dependency if you
 want to use the ``imread`` and ``imsave`` functions.
 
-The code is `well documented <http://packages.python.org/mahotas/>`__ (**all**
-public functions are extensively documented) and well tested (almost 100% test
+The code is `well documented <http://mahotas.rtfd.org/>`__ (**all** public
+functions are extensively documented) and well tested (almost 100% test
 coverage). It has **no known bugs** (if you email me a bug report with a clear
 test case, I will typically fix it in less than 24 hours).
 
@@ -103,7 +103,8 @@ The official forum for discussion of mahotas issues is the `pythonvision
 mailing list <http://groups.google.com/group/pythonvision>`_. Also, check out
 `pythonvision.org <http://pythonvision.org>`_ while you're at it.
 
-For bug reports, `mail me <mailto:luis@luispedro.org>`_. If you report a bug, I will
+For bug reports and fixes use the `github issue tracker
+<https://github.com/luispedro/mahotas/issues>`__. If you report a bug, I will
 try to fix it. If it has a unit test, I **promise** to fix it.
 
 Currently, **there are no known bugs**.

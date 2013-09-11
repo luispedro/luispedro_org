@@ -45,7 +45,7 @@ overall service.
   and Robert F. Murphy, in Lecture Notes in Bioinformatics vol. 6004 [`PDF
   version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__] This also introduced
   *parameter-free threshold adjacency statistics*, a variation on *threshold
-  adjacency statistics* without any parameters (`details on pftas <http://packages.python.org/mahotas/api.html#mahotas.features.pftas>`__).
+  adjacency statistics* without any parameters (`details on pftas <http://mahotas.rtfd.org/api.html#mahotas.features.pftas>`__).
 
 - **Structured Literature Image Finder: Parsing Text and Figures in Biomedical
   Literature** by Amr Ahmed, Andrew Arnold, Luis Pedro Coelho, Joshua Kangas,
