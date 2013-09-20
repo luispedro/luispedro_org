@@ -6,6 +6,12 @@ categories: about-me
 News Archive
 ============
 
+**July 2013** I got a prize in the `ICSB Computational Biology Wikipedia
+Competition
+<http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003242>`__
+for work on the `Bioimage Informatics page
+<http://en.wikipedia.org/wiki/Bioimage_informatics>`__
+
 **July 2013** My book `Building Machine Learning Systems with Python
 <http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406>`__
 is now published

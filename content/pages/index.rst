@@ -56,6 +56,12 @@ Other News
 
 (See above for some recent papers)
 
+**July 2013** I got a prize in the `ICSB Computational Biology Wikipedia
+Competition
+<http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003242>`__
+for work on the `Bioimage Informatics page
+<http://en.wikipedia.org/wiki/Bioimage_informatics>`__
+
 **July 2013** My book `Building Machine Learning Systems with Python
 <http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1782161406>`__
 is now published
@@ -64,10 +70,6 @@ is now published
 <http://dx.doi.org/10.6084/m9.figshare.744842>`__ of my `recent paper
 <http://dx.doi.org/10.1093/bioinformatics/btt392>`__ on `subcellular location
 generalization </projects/gen-classification>`__
-
-**May 2013** My talk submission for `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
-(Bioinformatics Open Source Conference) about `jug </projects/software/jug>`__
-was accepted (it will be a lightning talk)
 
 `older news items ... </news>`__
 
