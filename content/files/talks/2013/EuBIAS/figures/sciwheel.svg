@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1813.6676"
+   height="1111.2018"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sciwheel.svg"
+   inkscape:export-filename="/home/luispedro/work/pembl/2013/10-bioimaging/figures/sciwheel.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45040773"
+     inkscape:cx="577.36769"
+     inkscape:cy="533.56605"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="972"
+     inkscape:window-height="527"
+     inkscape:window-x="484"
+     inkscape:window-y="371"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="1964.0482,1013.3278"
+       id="guide4220" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="880.58555,433.85287"
+       id="guide4222" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="container"
+     transform="translate(487.60828,22.404457)">
+    <rect
+       style="fill:#d5fdff;fill-opacity:0.89316239;stroke:#000000;stroke-width:3.86822462;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4218"
+       width="1809.7994"
+       height="1107.3336"
+       x="-485.67416"
+       y="-20.470345"
+       ry="171.03969" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="hangons"
+     style="display:inline"
+     transform="translate(487.60828,22.404457)">
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="1281.4291"
+       y="710.24139"
+       id="text3816"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3818"
+         x="1281.4291"
+         y="710.24139">pytables</tspan><tspan
+         sodipodi:role="line"
+         x="1281.4291"
+         y="770.24139"
+         id="tspan3820">pyhdf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold"
+       x="977.14423"
+       y="654.94452"
+       id="text3878"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3880"
+         x="977.14423"
+         y="654.94452">HDF5 Access</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="-435.70734"
+       y="133.35837"
+       id="text3790-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-435.70734"
+         y="133.35837"
+         id="tspan3796-0">multiprocessing</tspan><tspan
+         sodipodi:role="line"
+         x="-435.70734"
+         y="193.35837"
+         id="tspan4019">jug</tspan><tspan
+         sodipodi:role="line"
+         x="-435.70734"
+         y="253.35837"
+         id="tspan4122">pp</tspan><tspan
+         sodipodi:role="line"
+         x="-435.70734"
+         y="313.35837"
+         id="tspan4021">pympi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed"
+       x="-434.84274"
+       y="75.469543"
+       id="text3854-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3856-2"
+         x="-434.84274"
+         y="75.469543"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed">Parallel Programming</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed"
+       x="907.28381"
+       y="75.469543"
+       id="text3854-4-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3856-2-8"
+         x="907.28381"
+         y="75.469543"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed">Visualisation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="1165.1205"
+       y="132.61014"
+       id="text3816-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1165.1205"
+         y="132.61014"
+         id="tspan3820-9">mayavi2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed"
+       x="-429.18857"
+       y="774.83588"
+       id="text3854-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3856-2-4"
+         x="-429.18857"
+         y="774.83588"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed">Web Services</tspan><tspan
+         sodipodi:role="line"
+         x="-429.18857"
+         y="834.83588"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed"
+         id="tspan4192">Server &amp; Clients</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Special"
+     style="display:inline"
+     transform="translate(487.60828,22.404457)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#d1ffbb;fill-opacity:0.89316239;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3788"
+       sodipodi:cx="517.14288"
+       sodipodi:cy="712.36218"
+       sodipodi:rx="551.42859"
+       sodipodi:ry="551.42859"
+       d="m 1068.5715,712.36218 c 0,304.54562 -246.88302,551.42862 -551.42862,551.42862 -304.5456,0 -551.428586,-246.883 -551.428586,-551.42862 0,-304.5456 246.882986,-551.42859 551.428586,-551.42859 304.5456,0 551.42862,246.88299 551.42862,551.42859 z"
+       transform="translate(-103.46783,-179.1657)" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="37.375999"
+       y="234.75018"
+       id="text3790"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3792"
+         x="37.375999"
+         y="234.75018">scikits.learn</tspan><tspan
+         sodipodi:role="line"
+         x="37.375999"
+         y="294.75018"
+         id="tspan3794">milk</tspan><tspan
+         sodipodi:role="line"
+         x="37.375999"
+         y="354.75018"
+         id="tspan3796">mlpy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="-100.79946"
+       y="510.79556"
+       id="text3798"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3800"
+         x="-100.79946"
+         y="510.79556">pycuda</tspan><tspan
+         sodipodi:role="line"
+         x="-100.79946"
+         y="570.79553"
+         id="tspan3802">theano</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="18.204123"
+       y="764.93024"
+       id="text3804"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3806"
+         x="18.204123"
+         y="764.93024">cython</tspan><tspan
+         sodipodi:role="line"
+         x="18.204123"
+         y="824.93024"
+         id="tspan3808">f2py</tspan><tspan
+         sodipodi:role="line"
+         x="18.204123"
+         y="884.93024"
+         id="tspan3882">fwrap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="400.35336"
+       y="951.86298"
+       id="text3810"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3812"
+         x="400.35336"
+         y="951.86298">numexpr</tspan><tspan
+         sodipodi:role="line"
+         x="400.35336"
+         y="1011.863"
+         id="tspan3814">bottleneck</tspan><tspan
+         sodipodi:role="line"
+         x="400.35336"
+         y="1071.863"
+         id="tspan3070">theano</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="801.20465"
+       y="152.81128"
+       id="text3822"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3824"
+         x="801.20465"
+         y="152.81128">mahotas</tspan><tspan
+         sodipodi:role="line"
+         x="801.20465"
+         y="212.81128"
+         id="tspan3826">scikits.image</tspan><tspan
+         sodipodi:role="line"
+         x="801.20465"
+         y="272.81128"
+         id="tspan3828">PIL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold"
+       x="26.890738"
+       y="177.79181"
+       id="text3830"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3832"
+         x="26.890738"
+         y="177.79181"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold">Machine learning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TypoScript;-inkscape-font-specification:TypoScript"
+       x="-262.85715"
+       y="509.50504"
+       id="text3846"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3848"
+         x="-262.85715"
+         y="509.50504" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TypoScript;-inkscape-font-specification:TypoScript"
+       x="-577.14288"
+       y="83.790756"
+       id="text3850"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3852"
+         x="-577.14288"
+         y="83.790756" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold"
+       x="343.54846"
+       y="75.469528"
+       id="text3858"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="343.54846"
+         y="75.469528"
+         id="tspan3862">Image Processing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TypoScript;-inkscape-font-specification:TypoScript"
+       x="-178.89803"
+       y="-349.83057"
+       id="text3866"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3868"
+         x="-178.89803"
+         y="-349.83057" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold"
+       x="-50.899017"
+       y="709.9538"
+       id="text3870"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3872"
+         x="-50.899017"
+         y="709.9538">C/Fortran</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold"
+       x="278.86191"
+       y="893.79962"
+       id="text3874"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3876"
+         x="278.86191"
+         y="893.79962">Faster Code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="931.84753"
+       y="417.43405"
+       id="text3822-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="931.84753"
+         y="417.43405"
+         id="tspan3828-8">sympy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold"
+       x="666.12579"
+       y="358.39905"
+       id="text3858-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="666.12579"
+         y="358.39905"
+         id="tspan3862-3">Symbolic Math</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold"
+       x="727.86072"
+       y="556.26562"
+       id="text3936"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3938"
+         x="727.86072"
+         y="556.26562">R Interface</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="914.07898"
+       y="621.17352"
+       id="text3822-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="914.07898"
+         y="621.17352"
+         id="tspan3828-8-0">rpy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Bold"
+       x="648.38721"
+       y="738.06891"
+       id="text3878-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3880-6"
+         x="648.38721"
+         y="738.06891">Optimisation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="868.80121"
+       y="774.23352"
+       id="text3822-0-9-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="868.80121"
+         y="774.23352"
+         id="tspan3828-8-0-4">openopt</tspan><tspan
+         sodipodi:role="line"
+         x="868.80121"
+         y="834.23352"
+         id="tspan4086">cvxopt</tspan><tspan
+         sodipodi:role="line"
+         x="868.80121"
+         y="894.23352"
+         id="tspan4084" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed"
+       x="-126.99208"
+       y="455.00256"
+       id="text3854"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3856"
+         x="-126.99208"
+         y="455.00256"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Aegyptus;-inkscape-font-specification:Aegyptus Semi-Condensed">Graphic cards</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="scipy"
+     style="display:inline"
+     transform="translate(487.60828,22.404457)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffd5bb;fill-opacity:0.89316239;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3771"
+       sodipodi:cx="447.14285"
+       sodipodi:cy="605.2193"
+       sodipodi:rx="298.57144"
+       sodipodi:ry="298.57144"
+       d="m 745.71429,605.2193 c 0,164.89645 -133.67498,298.57144 -298.57144,298.57144 -164.89645,0 -298.57144,-133.67499 -298.57144,-298.57144 0,-164.89645 133.67499,-298.57144 298.57144,-298.57144 164.89646,0 298.57144,133.67499 298.57144,298.57144 z"
+       transform="translate(-33.467804,-72.022818)" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="164.78604"
+       y="508.45004"
+       id="text3773"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3775"
+         x="164.78604"
+         y="508.45004">Scipy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="348.73599"
+       y="711.72528"
+       id="text3777"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3779"
+         x="348.73599"
+         y="711.72528">Matplotlib</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="396.50592"
+       y="360.95172"
+       id="text3781"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3783"
+         x="396.50592"
+         y="360.95172">Ipython</tspan><tspan
+         sodipodi:role="line"
+         x="396.50592"
+         y="420.95172"
+         id="tspan3785" /></text>
+  </g>
+  <g
+     inkscape:label="numpy"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(487.60828,22.404457)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffbbbb;fill-opacity:0.89316239;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985"
+       sodipodi:cx="441.42856"
+       sodipodi:cy="528.07648"
+       sodipodi:rx="118.57143"
+       sodipodi:ry="118.57143"
+       d="m 559.99998,528.07648 c 0,65.48519 -53.08623,118.57142 -118.57142,118.57142 -65.48519,0 -118.57143,-53.08623 -118.57143,-118.57142 0,-65.48519 53.08624,-118.57143 118.57143,-118.57143 65.48519,0 118.57142,53.08624 118.57142,118.57143 z"
+       transform="translate(-27.75351,5.1200047)" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lucida Sans;-inkscape-font-specification:Lucida Sans"
+       x="328.91333"
+       y="545.91132"
+       id="text3755"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="328.91333"
+         y="545.91132"
+         id="tspan3759">Numpy</tspan></text>
+  </g>
+</svg>
