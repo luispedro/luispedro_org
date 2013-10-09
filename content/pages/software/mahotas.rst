@@ -13,7 +13,9 @@ Mahotas: Computer Vision in Python
 ==================================
 
 Mahotas is a set of functions for image processing and computer vision in
-Python.
+Python. It was originally designed for `bioimage informatics
+<http://en.wikipedia.org/wiki/Bioimage_informatics>`__, but is useful in other
+areas as well.
 
 It is completely based on numpy arrays as its datatype. It has its heavy
 routines implemented in clean C++ in a way that is both very clean, type
