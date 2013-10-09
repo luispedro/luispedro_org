@@ -101,6 +101,8 @@ Development happens on `github <https://github.com/luispedro/mahotas>`__
 Support
 -------
 
+Make sure you check out the `documentation <http://mahotas.rtfd.org/>`__.
+
 The official forum for discussion of mahotas issues is the `pythonvision
 mailing list <http://groups.google.com/group/pythonvision>`_. Also, check out
 `pythonvision.org <http://pythonvision.org>`_ while you're at it.
