@@ -6,6 +6,10 @@ categories: talks work
 Talks I gave in 2013
 ====================
 
+Oct 8. **Mahotas and the Python Ecosystem for Bioimage Informatics
+Applications** for `EuBIAS 2013 <http://eubias2013.irbbarcelona.org/>`__.
+`Slides </files/talks/2013/mahotas.html>`__.
+
 July 24. **Introduction to Python** for `Lisbon Machine Learning School
 <http://lxmls.it.pt>`__.  `Slides </files/talks/2013/lxmls.pdf>`__.
 

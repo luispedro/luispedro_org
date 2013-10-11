@@ -50,6 +50,8 @@ In BibTeX format::
         url = {http://dx.doi.org/10.5334/jors.ac}
     }
 
+`Slide deck about mahotas and Python for bioimage informatics
+</files/talks/2013/mahotas.html>`__.
 
 Algorithms
 ----------
@@ -87,7 +89,6 @@ For FreeBSD, mahotas is available in `the ports section
 
 Develop
 -------
-
 
 .. raw:: html
 
