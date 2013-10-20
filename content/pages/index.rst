@@ -22,7 +22,8 @@ I blog about science at `metarabbit.wordpress.com
 <http://metarabbit.wordpress.com>`__.
 
 Recent Publications
-==================
+===================
+
 - Shinichi Sunagawa,	 Daniel R Mende,	 Georg Zeller,	 Fernando
   Izquierdo-Carrasco,	 Simon A Berger,	 Jens Roat Kultima,	 **Luis Pedro
   Coelho**, Manimozhiyan Arumugam,	 Julien Tap, Henrik Bjørn Nielsen,	 Simon
