@@ -22,7 +22,15 @@ I blog about science at `metarabbit.wordpress.com
 <http://metarabbit.wordpress.com>`__.
 
 Recent Publications
-===================
+==================
+- Shinichi Sunagawa,	 Daniel R Mende,	 Georg Zeller,	 Fernando
+  Izquierdo-Carrasco,	 Simon A Berger,	 Jens Roat Kultima,	 **Luis Pedro
+  Coelho**, Manimozhiyan Arumugam,	 Julien Tap, Henrik Bjørn Nielsen,	 Simon
+  Rasmussen, Søren Brunak,	 Oluf Pedersen,	 Francisco Guarner, Willem M de
+  Vos,	 Jun Wang,	 Junhua Li,	 Joël Doré,	 S Dusko Ehrlich,	 Alexandros
+  Stamatakis & Peer Bork, *Metagenomic species profiling using universal phylogenetic marker genes*
+  [`Abstract <http://www.nature.com/nmeth/journal/vaop/ncurrent/abs/nmeth>`__]
+  [`DOI <http://dx.doi.org/10.1038/nmeth.2693>`__]
 - **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira Osuna-Highley,
   Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,
   Jonathan W. Jarvik, and Robert F.  Murphy, *Determining the subcellular
@@ -45,8 +53,8 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**7—12 October 2013** I will be in Barcelona for the `European BioImage
-Analysis Symposium <http://eubias2013.irbbarcelona.org/>`__
+**21—22 October 2013** I will be in Luxembourg for the `International Systems
+Biomedicine Symposium <http://sysbiomed2013.uni.lu/>`__
 
 **1—5 November 2013** I will be in New York City for a `CFAR Workshop
 <http://rationality.org/workshops/>`__
