@@ -49,27 +49,36 @@ Also available as a `BibTeX file </publications/bibtex>`__.
 
 Peer Reviewed Journal Articles
 ------------------------------
-
-1.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
+1.  Shinichi Sunagawa,	 Daniel R Mende,	 Georg Zeller,	 Fernando
+    Izquierdo-Carrasco,	 Simon A Berger,	 Jens Roat Kultima,	 **Luis Pedro
+    Coelho**, Manimozhiyan Arumugam,	 Julien Tap, Henrik Bjørn Nielsen,
+    Simon Rasmussen, Søren Brunak,	 Oluf Pedersen,	 Francisco Guarner, Willem
+    M de Vos,	 Jun Wang,	 Junhua Li,	 Joël Doré,	 S Dusko Ehrlich,
+    Alexandros Stamatakis & Peer Bork, *Metagenomic species profiling using
+    universal phylogenetic marker genes* in Nature Methods, 2013 (Advanced
+    Online Publication) [`Abstract
+    <http://www.nature.com/nmeth/journal/vaop/ncurrent/abs/nmeth>`__] [`DOI
+    <http://dx.doi.org/10.1038/nmeth.2693>`__]
+2.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
     the subcellular location of new proteins from microscope images using local
     features* in Bioinformatics, 2013 [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
-2.  **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
+3.  **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
     computer vision, Journal of Open Research Software, vol. 1 (2013)
     [`DOI <http://dx.doi.org/10.5334/jors.ac>`__].
-3.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+4.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
-4.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+5.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
      Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
      version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
-5.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
+6.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
      Services and Agents on the World Wide Web, 2010 [`online version

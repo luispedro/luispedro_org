@@ -7,6 +7,19 @@ Download `this list </files/papers/luispedro.bib>`__
 
 ::
 
+    @article{Sunagawa2013,
+        author = {Shinichi Sunagawa and Daniel R Mende and Georg Zeller and
+        Fernando Izquierdo-Carrasco and Simon A Berger and Jens Roat Kultima
+        and Luis Pedro Coelho and Manimozhiyan Arumugam and Julien Tap and
+        Henrik Bjørn Nielsen and Simon Rasmussen and Søren Brunak and Oluf
+        Pedersen and Francisco Guarner and Willem M de Vos and Jun Wang and
+        Junhua Li and Joël Doré and S Dusko Ehrlich and Alexandros Stamatakis and
+        Peer Bork},
+        title = {Metagenomic species profiling using universal phylogenetic marker genes},
+        year = {2013},
+        doi = {10.1038/nmeth.2693}
+    }
+
     @article{Coelho15062010,
         author = {Coelho, Luis Pedro and Peng, Tao and Murphy, Robert F.}, 
         title = {Quantifying the distribution of probes between subcellular locations using unsupervised pattern unmixing}, 
