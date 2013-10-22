@@ -54,9 +54,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**21—22 October 2013** I will be in Luxembourg for the `International Systems
-Biomedicine Symposium <http://sysbiomed2013.uni.lu/>`__
-
 **1—5 November 2013** I will be in New York City for a `CFAR Workshop
 <http://rationality.org/workshops/>`__
 
