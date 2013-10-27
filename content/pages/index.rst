@@ -7,18 +7,22 @@ categories: about-me
 Who am I?
 =========
 
-.. image:: /files/photo-gates-small.jpg
+.. image:: /files/photos/lpc2013-small.jpg
+   :width: 56%
    :alt: Luis Pedro Coelho
    :class: float-right
 
 I am a computational biologist. I work at the European Molecular Biology
-Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__.  For my
-graduate work, at `Carnegie Mellon University <http://www.compbio.cmu.edu/>`_,
-I worked on computer vision for subcellular location analysis.
+Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__ in
+microbial community analysis using metagenomics. For my graduate work, at
+`Carnegie Mellon University <http://www.compbio.cmu.edu/>`_, I worked on
+computer vision for subcellular location analysis.
 
 I blog about science at `metarabbit.wordpress.com
-<http://metarabbit.wordpress.com>`__. My `Erdös-Bacon number is 7
-</erdos-bacon>`__.
+<http://metarabbit.wordpress.com>`__ and tweet (mostly about sciency things) as
+`@luispedrocoelho <https://twitter.com/luispedrocoelho>`__
+
+My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
 Recent Publications
 ===================
