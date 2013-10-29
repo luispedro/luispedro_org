@@ -16,7 +16,9 @@ I am a computational biologist. I work at the European Molecular Biology
 Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__ in
 microbial community analysis using metagenomics. For my graduate work, at
 `Carnegie Mellon University <http://www.compbio.cmu.edu/>`_, I worked on
-computer vision for subcellular location analysis.
+`bioimage informatics <http://en.wikipedia.org/wiki/Bioimage_informatics>`__
+for subcellular location analysis with `Bob Murphy
+<http://murphylab.web.cmu.edu/>`__.
 
 I blog about science at `metarabbit.wordpress.com
 <http://metarabbit.wordpress.com>`__ and tweet (mostly about sciency things) as
@@ -45,10 +47,6 @@ Recent Publications
 - **Luis Pedro Coelho**, *Mahotas: Open source software for scriptable computer
   vision*. Journal of Open Research Software 1(1):e3, [`DOI
   <http://dx.doi.org/10.5334/jors.ac>`__]
-- **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
-  distribution of probes between subcellular locations using unsupervised
-  pattern unmixing* in Bioinformatics, vol. 26 (12), pp.  i7-i12, 2010 [`DOI
-  <http://dx.doi.org/10.1093/bioinformatics/btq220>`__]
 
 `All publications... </publications>`__
 
