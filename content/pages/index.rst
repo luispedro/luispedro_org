@@ -55,9 +55,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**1—5 November 2013** I will be in New York City for a `CFAR Workshop
-<http://rationality.org/workshops/>`__
-
 **2-3 December 2013** I will be in Lisbon.
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
