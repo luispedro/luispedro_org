@@ -53,12 +53,9 @@ Recent Publications
 Upcoming Travels & Talks
 ========================
 
-.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**2-3 December 2013** I will be in Lisbon.
-
-`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-of these opportunities.
+.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any of these opportunities.
 
 Other News
 ==========
