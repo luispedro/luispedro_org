@@ -47,42 +47,74 @@ In reverse chronological order
 
 Also available as a `BibTeX file </publications/bibtex>`__.
 
-Peer Reviewed Journal Articles
-------------------------------
-1.  Shinichi Sunagawa,	 Daniel R Mende,	 Georg Zeller,	 Fernando
-    Izquierdo-Carrasco,	 Simon A Berger,	 Jens Roat Kultima,	 **Luis Pedro
-    Coelho**, Manimozhiyan Arumugam,	 Julien Tap, Henrik Bjørn Nielsen,
-    Simon Rasmussen, Søren Brunak,	 Oluf Pedersen,	 Francisco Guarner, Willem
-    M de Vos,	 Jun Wang,	 Junhua Li,	 Joël Doré,	 S Dusko Ehrlich,
-    Alexandros Stamatakis & Peer Bork, *Metagenomic species profiling using
-    universal phylogenetic marker genes* in Nature Methods, 2013 (Advanced
-    Online Publication) [`Abstract
-    <http://www.nature.com/nmeth/journal/vaop/ncurrent/abs/nmeth>`__] [`DOI
-    <http://dx.doi.org/10.1038/nmeth.2693>`__]
-2.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
-    Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
-    Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
-    the subcellular location of new proteins from microscope images using local
-    features* in Bioinformatics, 2013 [`DOI
-    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
-    <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
-3.  **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
-    computer vision, Journal of Open Research Software, vol. 1 (2013)
-    [`DOI <http://dx.doi.org/10.5334/jors.ac>`__].
-4.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+Peer Reviewed Research Papers
+-----------------------------
+13.  Peter Liehl,  Vanessa Zuzarte-Luís,  Jennie Chan,  Thomas Zillinger,
+     Fernanda Baptista,  Daniel Carapau,  Madlen Konert, Kirsten K Hanson,
+     Céline Carret,  Caroline Lassnig,  Mathias Müller,  Ulrich Kalinke, Mohsan
+     Saeed, Angelo Ferreira Chora,  Douglas T Golenbock,  Birgit Strobl, Miguel
+     Prudêncio, **Luis P Coelho**,  Stefan H Kappe,  Giulio Superti-Furga,
+     Andreas Pichlmair,  Ana M Vigário,  Charles M Rice, Katherine A Fitzgerald,
+     Winfried Barchet, and Maria M Mota, *Host-cell sensors for Plasmodium
+     activate innate immunity against liver-stage infection* in Nature Medicine,
+     2013 (Advanced Online Publication) [`Abstract
+     <http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.3424.html>`__] [`DOI
+     <http://doi.org/10.1038/nm.3424>`__]
+12.  Shinichi Sunagawa,	 Daniel R Mende,	 Georg Zeller,	 Fernando
+     Izquierdo-Carrasco,	 Simon A Berger,	 Jens Roat Kultima,	 **Luis Pedro
+     Coelho**, Manimozhiyan Arumugam,	 Julien Tap, Henrik Bjørn Nielsen,
+     Simon Rasmussen, Søren Brunak,	 Oluf Pedersen,	 Francisco Guarner, Willem
+     M de Vos,	 Jun Wang,	 Junhua Li,	 Joël Doré,	 S Dusko Ehrlich,
+     Alexandros Stamatakis & Peer Bork, *Metagenomic species profiling using
+     universal phylogenetic marker genes* in Nature Methods 10, 1196–1199
+     (2013) [`Abstract
+     <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__]
+     [`DOI <http://dx.doi.org/10.1038/nmeth.2693>`__]
+11.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
+     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
+     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
+     the subcellular location of new proteins from microscope images using local
+     features* in Bioinformatics, 2013 [`DOI
+     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
+     <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
+10.  **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
+     computer vision, Journal of Open Research Software, vol. 1 (2013)
+     [`DOI <http://dx.doi.org/10.5334/jors.ac>`__].
+9.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
-5.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+8.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
      Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
      version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
-6.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
+7.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
      Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
      Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
      Services and Agents on the World Wide Web, 2010 [`online version
      <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
+6.   Taraz Buck, Arvind Rao, **Luis Pedro Coelho**, Margaret Fuhrman, Jonathan
+     W. Jarvik, Peter B. Berget, and Robert F. Murphy; *Cell Cycle Dependence
+     of Protein Subcellular Location Inferred from Static, Asynchronous Images*
+     EMBC 2009.
+5.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas,
+     Abdul-Saboor Sheikk, Eric P. Xing, William W. Cohen, and Robert F. Murphy;
+     *Structured Literature Image Finder*, Proceedings of BioLINK (ISMB Special
+     Interest Group 2009).
+4.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
+     segmentation in microscope cell images: A hand-segmented dataset and
+     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
+3.   **Luis Pedro Coelho** and Robert Murphy; *Identifying Subcellular
+     Locations from Images of Unknown Resolution* Bioinformatics Research and
+     Development, LNCS, Springer, Volume 13, Vienna, Austria (2008)
+2.   Amina Chebira, **Luis Pedro Coelho**, Aliaksei Sandryhaila, Stephen Lin, William G.
+     Jenkinson, Jeremiah MacSleyne, Christopher Hoffman, Philipp Cuadra, Charles
+     Jackson, Markus Püschel, Jelena Kovacevick; *An Adaptive Multiresolution
+     Approach to Fingerprint Recognition*, International Conference on Image
+     Processing, (2007)
+1.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
+     Structure for Approximate Text Indexing* SPIRE (2006)
 
 
 Review Articles
@@ -97,31 +129,6 @@ Review Articles
      <http://dx.doi.org/10.1177/1087057110370894>`__]
      This was the *2013 JBS Authors' Choice Award* winner (reflects number of
      citations throughout 2012).
-
-Peer Reviewed Conference Papers
--------------------------------
-
-1.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
-     Structure for Approximate Text Indexing* SPIRE (2006)
-2.   Amina Chebira, **Luis Pedro Coelho**, Aliaksei Sandryhaila, Stephen Lin, William G.
-     Jenkinson, Jeremiah MacSleyne, Christopher Hoffman, Philipp Cuadra, Charles
-     Jackson, Markus Püschel, Jelena Kovacevick; *An Adaptive Multiresolution
-     Approach to Fingerprint Recognition*, International Conference on Image
-     Processing, (2007)
-3.   **Luis Pedro Coelho** and Robert Murphy; *Identifying Subcellular
-     Locations from Images of Unknown Resolution* Bioinformatics Research and
-     Development, LNCS, Springer, Volume 13, Vienna, Austria (2008)
-4.   Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas,
-     Abdul-Saboor Sheikk, Eric P. Xing, William W. Cohen, and Robert F. Murphy;
-     *Structured Literature Image Finder*, Proceedings of BioLINK (ISMB Special
-     Interest Group 2009).
-5.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
-     segmentation in microscope cell images: A hand-segmented dataset and
-     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
-6.   Taraz Buck, Arvind Rao, **Luis Pedro Coelho**, Margaret Fuhrman, Jonathan
-     W. Jarvik, Peter B. Berget, and Robert F. Murphy; *Cell Cycle Dependence
-     of Protein Subcellular Location Inferred from Static, Asynchronous Images*
-     EMBC 2009.
 
 Technical Reports
 -----------------

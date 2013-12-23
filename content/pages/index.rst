@@ -28,14 +28,25 @@ My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
 Recent Publications
 ===================
-
+- Peter Liehl,  Vanessa Zuzarte-Luís,  Jennie Chan,  Thomas Zillinger,
+  Fernanda Baptista,  Daniel Carapau,  Madlen Konert, Kirsten K Hanson,
+  Céline Carret,  Caroline Lassnig,  Mathias Müller,  Ulrich Kalinke,
+  Mohsan Saeed,  Angelo Ferreira Chora,  Douglas T Golenbock,  Birgit Strobl,
+  Miguel Prudêncio,  **Luis P Coelho**,  Stefan H Kappe,  Giulio Superti-Furga,
+  Andreas Pichlmair,  Ana M Vigário,  Charles M Rice, Katherine A
+  Fitzgerald, Winfried Barchet, and Maria M Mota, *Host-cell sensors for
+  Plasmodium activate innate immunity against liver-stage infection* in Nature
+  Medicine, 2013 (Advanced Online Publication) [`Abstract
+  <http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.3424.html>`__] [`DOI
+  <http://doi.org/10.1038/nm.3424>`__]
 - Shinichi Sunagawa,	 Daniel R Mende,	 Georg Zeller,	 Fernando
   Izquierdo-Carrasco,	 Simon A Berger,	 Jens Roat Kultima,	 **Luis Pedro
   Coelho**, Manimozhiyan Arumugam,	 Julien Tap, Henrik Bjørn Nielsen,	 Simon
   Rasmussen, Søren Brunak,	 Oluf Pedersen,	 Francisco Guarner, Willem M de
   Vos,	 Jun Wang,	 Junhua Li,	 Joël Doré,	 S Dusko Ehrlich,	 Alexandros
-  Stamatakis & Peer Bork, *Metagenomic species profiling using universal phylogenetic marker genes*
-  [`Abstract <http://www.nature.com/nmeth/journal/vaop/ncurrent/abs/nmeth>`__]
+  Stamatakis & Peer Bork, *Metagenomic species profiling using universal
+  phylogenetic marker genes* in Nature Methods 10, 1196–1199 (2013)
+  [`Abstract <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__]
   [`DOI <http://dx.doi.org/10.1038/nmeth.2693>`__]
 - **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira Osuna-Highley,
   Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,
@@ -44,9 +55,6 @@ Recent Publications
   Bioinformatics, 2013 [`DOI
   <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
   <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
-- **Luis Pedro Coelho**, *Mahotas: Open source software for scriptable computer
-  vision*. Journal of Open Research Software 1(1):e3, [`DOI
-  <http://dx.doi.org/10.5334/jors.ac>`__]
 
 `All publications... </publications>`__
 
