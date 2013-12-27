@@ -6,6 +6,11 @@ categories: about-me
 News Archive
 ============
 
+**November 2013** I'm a member of the `programme committee
+<http://dils2014.inesc-id.pt/?page_id=240>`__ for `DILS 2014
+<http://dils2014.inesc-id.pt/>`__ (10th International Conference on Data
+Integration in the Life Sciences)
+
 **July 2013** I got a prize in the `ICSB Computational Biology Wikipedia
 Competition
 <http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003242>`__
