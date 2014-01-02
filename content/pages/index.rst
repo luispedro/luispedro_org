@@ -22,7 +22,9 @@ for subcellular location analysis with `Bob Murphy
 
 I blog about science at `metarabbit.wordpress.com
 <http://metarabbit.wordpress.com>`__ and tweet (mostly about sciency things) as
-`@luispedrocoelho <https://twitter.com/luispedrocoelho>`__
+`@luispedrocoelho <https://twitter.com/luispedrocoelho>`__. I co-wrote
+`Building Machine Learning Systems with Python
+<http://www.packtpub.com/building-machine-learning-systems-with-python/book>`__.
 
 My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
