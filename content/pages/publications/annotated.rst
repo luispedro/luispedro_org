@@ -61,7 +61,7 @@ Here is the full bibtex citation::
     journal = {Bioinformatics}
     }
 
-`More about generalizable classification... <projects/gen-classification>`__
+`More about generalizable classification... </projects/gen-classification>`__
 
 (2010) Unsupervised Subcellular Pattern Unmixing
 ------------------------------------------------
