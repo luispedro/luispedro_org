@@ -3,8 +3,65 @@ url: publications/annotated
 categories: research
 ..
 
-Annotated List of Publications
-==============================
+Annotated List of Selected Publications
+=======================================
+
+(2013) Generalisable Subcellular Location Analysis
+--------------------------------------------------
+
+Most of subcellular location analysis in the past has been pursued using
+datasets that contain multiple copies of the same *representative* protein
+(i.e., a specific protein is selected to serve as a **nuclear protein**,
+another to serve as a **microtubular** protein). Algorithms are then evaluated
+by measuring their ability to recognise this protein. It has then been inferred
+that the algorithm is thus capable of recognizing location patterns.
+Unfortunately, this is a leap of judgement that has not been tested. We tested
+this using a new dataset with multiple proteins standing in the same location
+group. The algorithms we were using previously performed significantly worse in
+this new dataset and we thus employed new methods to achieve better results.
+
+The paper describing this work has been published in Bioinformatics:
+
+   *Determining the subcellular location of new proteins from microscope images
+   using local features* by **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan
+   Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja
+   Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.  Murphy (2013).
+   Bioinformatics, [`DOI <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
+
+Local Features for Bioimage Analysis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We also show that using `SURF <http://en.wikipedia.org/wiki/SURF>`__ (a form of
+local features which achieves excellent results in subcellular classification
+and we recommend it for bioimage analysis).
+
+This is a video abstract which includes the main results of the paper:
+
+.. raw:: html
+
+   <iframe src="http://wl.figshare.com/articles/744842/embed?show_title=1" width="568" height="502" frameborder="0"></iframe>
+
+You can also read `several blog posts related to this paper
+<http://metarabbit.wordpress.com/tag/coelho2013_bioinformatics/>`__.
+
+Here is the full bibtex citation::
+
+    @article{Coelho08072013,
+    author = {Coelho, Luis Pedro and Kangas, Joshua D. and Naik, Armaghan W.
+        and Osuna-Highley, Elvira and Glory-Afshar, Estelle and Fuhrman, Margaret
+        and Simha, Ramanuja and Berget, Peter B. and Jarvik, Jonathan W. and
+        Murphy, Robert F.},
+    title = {Determining the subcellular location of new proteins from
+        microscope images using local features},
+
+    year = {2013},
+    doi = {10.1093/bioinformatics/btt392},
+    URL = {http://bioinformatics.oxfordjournals.org/content/early/2013/07/07/bioinformatics.btt392.abstract},
+    eprint = {http://bioinformatics.oxfordjournals.org/content/early/2013/07/07/bioinformatics.btt392.full.pdf+html},
+    journal = {Bioinformatics}
+    }
+
+`More about generalizable classification... <projects/gen-classification>`__
 
 (2010) Unsupervised Subcellular Pattern Unmixing
 ------------------------------------------------
