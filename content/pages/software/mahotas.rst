@@ -12,6 +12,10 @@ categories: software python
 Mahotas: Computer Vision in Python
 ==================================
 
+A dedicated mahotas page with documentation is available at
+`http://mahotas.rtfd.org <http://mahotas.rtfd.org>`__. This page is just a
+summary.
+
 Mahotas is a set of functions for image processing and computer vision in
 Python. It was originally designed for `bioimage informatics
 <http://en.wikipedia.org/wiki/Bioimage_informatics>`__, but is useful in other
@@ -30,7 +34,6 @@ functions are extensively documented) and well tested (almost 100% test
 coverage). It has **no known bugs** (if you email me a bug report with a clear
 test case, I will typically fix it in less than 24 hours).
 
-`Package and API documentation <http://mahotas.rtfd.org>`__
 
 If you are using mahotas in a scientific publication, please cite:
 
