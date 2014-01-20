@@ -38,7 +38,7 @@ Recent Publications
   Andreas Pichlmair,  Ana M Vigário,  Charles M Rice, Katherine A
   Fitzgerald, Winfried Barchet, and Maria M Mota, *Host-cell sensors for
   Plasmodium activate innate immunity against liver-stage infection* in Nature
-  Medicine, 2013 (Advanced Online Publication) [`Abstract
+  Medicine 20, 47-53 (2014) [`Abstract
   <http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.3424.html>`__] [`DOI
   <http://doi.org/10.1038/nm.3424>`__]
 - Shinichi Sunagawa,	 Daniel R Mende,	 Georg Zeller,	 Fernando
