@@ -58,6 +58,10 @@ Peer Reviewed Research Papers
     <http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.3424.html>`__] [`DOI
     <http://doi.org/10.1038/nm.3424>`__]
 
+    *One sentence summary*: Plasmodium liver-stage infections trigger a type-I
+    Interferon response. `Nature Medicine wrote up a short summary as well
+    <http://www.nature.com/nm/journal/v20/n1/full/nm.3446.html>`__
+
 12. Shinichi Sunagawa,  Daniel R Mende,  Georg Zeller,  Fernando
     Izquierdo-Carrasco,  Simon A Berger,  Jens Roat Kultima,  **Luis Pedro
     Coelho**, Manimozhiyan Arumugam,  Julien Tap, Henrik Bjørn Nielsen, Simon
@@ -69,6 +73,10 @@ Peer Reviewed Research Papers
     <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__] [`DOI
     <http://dx.doi.org/10.1038/nmeth.2693>`__]
 
+    *One sentence summary*: Using marker genes and careful statistics, we can
+    estimate abundance of sequenced and unsequenced microorganims in
+    metagenomics samples.
+
 11. **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
@@ -76,23 +84,31 @@ Peer Reviewed Research Papers
     features* in Bioinformatics, 2013 [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
-    
+
     *One sentence summary*: `Recognition of an organelle is a harder problem
     than recognition of a fluorescent marker
     <http://metarabbit.wordpress.com/2013/07/13/recognition-of-an-organelle-marker-is-not-the-same-as-recognition-of-the-organelle/>`__,
     but `local features can improve performance
-    <http://metarabbit.wordpress.com/2013/07/10/new-paper-determining-the-subcellular-location-of-new-proteins-from-microscope-images-using-local-features/>`__..
-    
-    `Summary <projects/gen-classification>`__
+    <http://metarabbit.wordpress.com/2013/07/10/new-paper-determining-the-subcellular-location-of-new-proteins-from-microscope-images-using-local-features/>`__.
+
+    Learn more about `generalizable classification <projects/gen-classification>`__
 
 10. **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
     computer vision, Journal of Open Research Software, vol. 1 (2013)
     [`DOI <http://dx.doi.org/10.5334/jors.ac>`__].
 
+    *One sentence summary*: Python is great for computer vision and image
+    processing using `mahotas <http://luispedro.org/software/mahotas>`__.
+
 9.  **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
     distribution of probes between subcellular locations using unsupervised
     pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
+
+    *One sentence summary*: We can perform subcellular pattern unmixing even
+    when the basis patterns are unknown, which we called unsupervised unmixing.
+    `Learn more about unsupervised unmixing
+    <http://luispedro.org/projects/unsupervised-unmixing>`__
 
 8.  **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
     Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
@@ -100,16 +116,30 @@ Peer Reviewed Research Papers
     Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
     version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
 
+    *Two sentence summary (shared with paper below)*: SLIF extracts text and
+    images from published scientific literature. Using computer vision [the
+    focus of this paper] and text modeling, we can make inferences and the text
+    and provide a navigation tool for users.
+
 7.  Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas, Abdul-Saboor
     Sheikk, Eric P. Xing, William W. Cohen, *Structured Literature Image Finder:
     Parsing Text and Figures in Biomedical Literature* in Web Semantics: Science,
     Services and Agents on the World Wide Web, 2010 [`online version
     <http://dx.doi.org/10.1016/j.websem.2010.04.002>`__]
 
+    *Two sentence summary (shared with paper above)*: SLIF extracts text and
+    images from published scientific literature. Using computer vision and text
+    modeling [the focus of this paper], we can make inferences and the text and
+    provide a navigation tool for users.
+
 6.  Taraz Buck, Arvind Rao, **Luis Pedro Coelho**, Margaret Fuhrman, Jonathan
     W. Jarvik, Peter B. Berget, and Robert F. Murphy; *Cell Cycle Dependence
     of Protein Subcellular Location Inferred from Static, Asynchronous Images*
     EMBC 2009.
+
+    *One sentence summary*: We can infer cell-cycle (or other) dynamics from
+    static images of cells by looking at many cells and putting them "in
+    order".
 
 5.  Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**, Joshua Kangas,
     Abdul-Saboor Sheikk, Eric P. Xing, William W. Cohen, and Robert F. Murphy;
@@ -119,6 +149,14 @@ Peer Reviewed Research Papers
 4.  **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
     segmentation in microscope cell images: A hand-segmented dataset and
     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
+
+    *One-n-a-half sentence summary*: We created a hand-segmented dataset (which
+    we make available to everyone) to test different nuclear segmentation
+    algorithms; a model based method from `Lin et al.
+    <http://www.ncbi.nlm.nih.gov/pubmed/14566936>`__ was deemed the best (note
+    that follow up work on this same dataset has claimed better results). Learn
+    more about `my nuclear segmentation project
+    </projects/nuclear-segmentation>`__
 
 3.  **Luis Pedro Coelho** and Robert Murphy; *Identifying Subcellular
     Locations from Images of Unknown Resolution* Bioinformatics Research and
@@ -149,13 +187,16 @@ Review Articles
 
 Technical Reports
 -----------------
-1.   Abdul-Saboor Sheikh, Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**,
-     Joshua Kangas, Eric P. Xing, William Cohen, Robert F. Murphy; *Structured
-     Literature Image Finder: Open Source Software for Extracting and
-     Disseminating Information from Text and Figures in Biomedical Literature*,
-     Technical Report, School of Computer Science, Lane Center for
-     Computational Biology, Carnegie Mellon University, October 2009 [`PDF
-     version </files/papers/2009/LPC-CMU-TR-CB-09-101.pdf>`__].
+1.  Abdul-Saboor Sheikh, Amr Ahmed, Andrew Arnold, **Luis Pedro Coelho**,
+    Joshua Kangas, Eric P. Xing, William Cohen, Robert F. Murphy; *Structured
+    Literature Image Finder: Open Source Software for Extracting and
+    Disseminating Information from Text and Figures in Biomedical Literature*,
+    Technical Report, School of Computer Science, Lane Center for
+    Computational Biology, Carnegie Mellon University, October 2009 [`PDF
+    version </files/papers/2009/LPC-CMU-TR-CB-09-101.pdf>`__].
+
+    *One sentence summary*: Everything about `SLIF </projects/slif>`__ which
+    could not be fit into the papers (because of page limits).
 
 Invited Talks
 -------------
