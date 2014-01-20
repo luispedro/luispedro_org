@@ -33,12 +33,6 @@ Submitted or In Preparation
 
 1.  **Luis Pedro Coelho**, Shannon Quinn, Hagit Shatkay and Robert F. Murphy
     *Waldo: A Python Library for Unifying Location Databases* (submitted)
-2.  **Luis Pedro Coelho**, Joshua D.  Kangas, Armaghan Naik, Elvira Osuna-Highley,
-    Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B.  Berget,
-    Jonathan W.  Jarvik, Hagit Shatkay, and Robert F. Murphy, *Loto: Location
-    Topics for Modeling Subcellular Location Space in Mammalian Cells* (in
-    preparation)
-
 
 
 Full List of Publications
