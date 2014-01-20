@@ -3,6 +3,7 @@ url: publications
 categories: about-me
 ---
 
+
 Selected Publications
 =====================
 
@@ -27,6 +28,8 @@ Selected Publications
      comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
 5.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
      Structure for Approximate Text Indexing* SPIRE (2006)
+
+(`Annotated list of selected publications <publications/annotated>`__)
 
 Submitted or In Preparation
 ===========================
@@ -73,6 +76,14 @@ Peer Reviewed Research Papers
     features* in Bioinformatics, 2013 [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
+    
+    *One sentence summary*: `Recognition of an organelle is a harder problem
+    than recognition of a fluorescent marker
+    <http://metarabbit.wordpress.com/2013/07/13/recognition-of-an-organelle-marker-is-not-the-same-as-recognition-of-the-organelle/>`__,
+    but `local features can improve performance
+    <http://metarabbit.wordpress.com/2013/07/10/new-paper-determining-the-subcellular-location-of-new-proteins-from-microscope-images-using-local-features/>`__..
+    
+    `Summary <projects/gen-classification>`__
 
 10. **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
     computer vision, Journal of Open Research Software, vol. 1 (2013)
