@@ -175,10 +175,20 @@ Peer Reviewed Research Papers
     Jenkinson, Jeremiah MacSleyne, Christopher Hoffman, Philipp Cuadra, Charles
     Jackson, Markus Püschel, Jelena Kovacevick; *An Adaptive Multiresolution
     Approach to Fingerprint Recognition*, International Conference on Image
-    Processing, (2007)
+    Processing, (2007) [`DOI <http://dx.doi.org/10.1109/ICIP.2007.4378990>`__]
+    [`PDF
+    <http://jelena.ece.cmu.edu/repository/conferences/07_09_Icip_Classification.pdf`__]
+
+    *One sentence summary* multi-resolution systems achieve good results for
+    fingerprint recognition.
 
 1.  **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
-    Structure for Approximate Text Indexing* SPIRE (2006)
+    Structure for Approximate Text Indexing* SPIRE (2006) [`DOI
+    <http://dx.doi.org/10.1007/11880561_27>`__] [`PDF
+    </files/papers/2006/dot-link.pdf`__]
+
+    *One sentence summary*: we show how to build an extended suffix tree (the
+    dotted suffix tree) in O(N log N) which supports approximate queries.
 
 
 Review Articles
