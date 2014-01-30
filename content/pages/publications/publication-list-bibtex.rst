@@ -7,6 +7,18 @@ Download `this list </files/papers/luispedro.bib>`__
 
 ::
 
+    @article{liehl2013host,
+        title={Host-cell sensors for Plasmodium activate innate immunity against liver-stage infection},
+        author={Liehl, Peter and Zuzarte-Lu{\'\i}s, Vanessa and Chan, Jennie
+        and Zillinger, Thomas and Baptista, Fernanda and Carapau, Daniel and
+        Konert, Madlen and Hanson, Kirsten K and Carret, C{\'e}line and
+        Lassnig, Caroline and others},
+        journal={Nature medicine},
+        year={2013},
+        publisher={Nature Publishing Group}
+    }
+
+
     @article{Sunagawa2013,
         author = {Shinichi Sunagawa and Daniel R Mende and Georg Zeller and
         Fernando Izquierdo-Carrasco and Simon A Berger and Jens Roat Kultima

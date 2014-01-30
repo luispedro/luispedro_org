@@ -46,6 +46,15 @@ Also available as a `BibTeX file </publications/bibtex>`__.
 
 Peer Reviewed Research Papers
 -----------------------------
+14. Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
+    *Metagenomic insights into the human gut resistome and the forces that shape
+    it* in Bioessays (2014). [`DOI <http://doi.org/10.1002/bies.201300143>`__]
+
+    *One sentence summary*: Metagenomics analysis of the microbiome can detect
+    antibiotic resistance genes which correlate with environmental exposures to
+    antibiotics, even if the specific mechanisms whereby this arises still need
+    further study.
+
 13. Peter Liehl,  Vanessa Zuzarte-Luís,  Jennie Chan,  Thomas Zillinger,
     Fernanda Baptista,  Daniel Carapau,  Madlen Konert, Kirsten K Hanson,
     Céline Carret,  Caroline Lassnig,  Mathias Müller,  Ulrich Kalinke, Mohsan

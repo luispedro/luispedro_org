@@ -30,6 +30,9 @@ My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
 Recent Publications
 ===================
+- Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
+  *Metagenomic insights into the human gut resistome and the forces that shape
+  it* in Bioessays (2014). [`DOI <http://doi.org/10.1002/bies.201300143>`__]
 - Peter Liehl,  Vanessa Zuzarte-Luís,  Jennie Chan,  Thomas Zillinger,
   Fernanda Baptista,  Daniel Carapau,  Madlen Konert, Kirsten K Hanson,
   Céline Carret,  Caroline Lassnig,  Mathias Müller,  Ulrich Kalinke,
