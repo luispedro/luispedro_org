@@ -76,7 +76,9 @@ software carpentry bootcamp.
 Other News
 ==========
 
-(See above for papers)
+.. When updating this, update news.rst
+
+(See above for papers & travels)
 
 **February 2014** I'm now a certified `Software Carpentry instructor
 <http://software-carpentry.org/pages/team.html>`__

@@ -6,10 +6,31 @@ categories: about-me
 News Archive
 ============
 
+**February 2014** I'm now a certified `Software Carpentry instructor
+<http://software-carpentry.org/pages/team.html>`__
+
+**January 2014** New publication: Kristoffer Forslund, Shinichi Sunagawa,
+**Luis P. Coelho**, Peer Bork, *Metagenomic insights into the human gut
+resistome and the forces that shape it* in Bioessays (2014). [`DOI
+<http://doi.org/10.1002/bies.201300143>`__]
+
+**December 2013** New publication: Peter Liehl et al., *Host-cell sensors for
+Plasmodium activate innate immunity against liver-stage infection* in Nature
+Medicine 20, 47–53 (2014) [`DOI <http://doi.org/10.1038/nm.3424>`__]
+
+**November 2013** I attended the `CFAR New York workshop
+<http://rationality.org/>`__
+
 **November 2013** I'm a member of the `programme committee
 <http://dils2014.inesc-id.pt/?page_id=240>`__ for `DILS 2014
 <http://dils2014.inesc-id.pt/>`__ (10th International Conference on Data
 Integration in the Life Sciences)
+
+**October 2013** New publication: Shinichi Sunagawa et al., *Metagenomic
+species profiling using universal phylogenetic marker genes* in Nature Methods
+10, 1196–1199 (2013) [`Abstract
+<http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__] [`DOI
+<http://dx.doi.org/10.1038/nmeth.2693>`__]
 
 **July 2013** I got a prize in the `ICSB Computational Biology Wikipedia
 Competition
@@ -47,9 +68,11 @@ the `Lisbon Machine Learning School <http://lxmls.it.pt/2013/>`__
 
 **November 2012** I have a new manuscript up at the `arXiv
 <http://arxiv.org/abs/1211.4907>`__ on my `computer vision software, mahotas
-</software/mahotas/>`__
+</software/mahotas/>`__ [Update in 2013: this is now a `peer-reviewed journal
+paper <http://openresearchsoftware.metajnl.com/article/view/4>`__]
 
-**September 2012** I am teaching two session of a `Programming for Scientists Course </projects/pfs-09-2012>`__ at IMM.
+**September 2012** I am teaching two session of a `Programming for Scientists
+Course </projects/pfs-09-2012>`__ at IMM.
 
 **May 2012** I am `writing a book </projects/libertarian-welfare>`__
 
@@ -65,4 +88,5 @@ computational biology!
 
 **September 2011** I was chosen as a `2012 Siebel Scholar
 <http://www.siebelscholars.com/>`__
+
 
