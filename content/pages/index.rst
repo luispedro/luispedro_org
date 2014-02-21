@@ -66,14 +66,20 @@ Recent Publications
 Upcoming Travels & Talks
 ========================
 
-I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any of these opportunities.
+**April 3-4** I will be at the University of Southern Denmark teaching at a
+software carpentry bootcamp.
+
+`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any of these opportunities.
 
 Other News
 ==========
 
-(See above for recent papers)
+(See above for papers)
+
+**February 2014** I'm now a certified `Software Carpentry instructor
+<http://software-carpentry.org/pages/team.html>`__
 
 **November 2013** I'm a member of the `programme committee
 <http://dils2014.inesc-id.pt/?page_id=240>`__ for `DILS 2014
