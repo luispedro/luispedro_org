@@ -6,6 +6,11 @@ categories: about-me
 News Archive
 ============
 
+**July 2014** Speaking at Lisbon Machine Learning School (LxMLS) 2014.
+
+**April 2014** Traveling to University of Southern Denmark for a software
+carpentry bootcamp.
+
 **February 2014** I'm now a certified `Software Carpentry instructor
 <http://software-carpentry.org/pages/team.html>`__
 

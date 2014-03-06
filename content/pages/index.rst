@@ -71,6 +71,9 @@ Upcoming Travels & Talks
 **April 3-4** I will be at the University of Southern Denmark teaching at a
 software carpentry bootcamp.
 
+**July 22-29** I will be in Lisbon for the `LxMLS 2014
+<http://lxmls.it.pt/2014/>`__
+
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any of these opportunities.
 
 Other News
