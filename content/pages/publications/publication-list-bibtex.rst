@@ -7,6 +7,21 @@ Download `this list </files/papers/luispedro.bib>`__
 
 ::
 
+    @article {BIES:BIES201300143,
+        author = {Forslund, Kristoffer and Sunagawa, Shinichi and Coelho, Luis P. and Bork, Peer},
+        title = {Metagenomic insights into the human gut resistome and the forces that shape it},
+        journal = {BioEssays},
+        volume = {36},
+        number = {3},
+        issn = {1521-1878},
+        url = {http://dx.doi.org/10.1002/bies.201300143},
+        doi = {10.1002/bies.201300143},
+        pages = {316--329},
+        keywords = {agricultural growth promoters, antibiotic resistance, antibiotic stewardship, antibiotics, gut microbiome, metagenomics, resistome},
+        year = {2014},
+    }
+
+
     @article{liehl2013host,
         title={Host-cell sensors for Plasmodium activate innate immunity against liver-stage infection},
         author={Liehl, Peter and Zuzarte-Lu{\'\i}s, Vanessa and Chan, Jennie
