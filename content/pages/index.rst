@@ -28,6 +28,31 @@ I blog about science at `metarabbit.wordpress.com
 
 My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
+Research Interests
+------------------
+
+**Technical version:** I am interested in combining meta'omics (metagenomics
+and metatranscriptomics) analysis with bioimage informatics using machine
+learning approaches. In particular, in obtaining biological knowledge by
+exploiting large-scale datasets of mixed communities by
+a sequencing and imaging to be able to derive observations about the
+relationship between the genotypes and phenotypes. This research can answer
+questions such as *do the measures of genomic biodiversity agree with measures
+of phenotypic biodiversity?*
+
+In methodological terms, I worry a lot about `correct evaluation of methods
+<http://luispedro.org/projects/gen-classification>`__ and avoiding
+over-inflated measures of performance. I also work in scaling up methods to
+work on large-scale environments.
+
+**Not-so technical version:** With modern technology, namely robotic
+instruments, it is easy to acquire a lot of microscopic pictures. It is also
+possible to acquire large sequence datasets with the DNA of many organisms. I
+use these two families of technologies to investigate what is happening in
+mixed microbial communities such as the one in our guts, the `microbiome
+<http://en.wikipedia.org/wiki/Microbiome>`__.
+
+
 Recent Publications
 ===================
 - Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
