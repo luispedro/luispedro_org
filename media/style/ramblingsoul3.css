@@ -162,7 +162,7 @@ body>#header2 {height:115px;}
 	margin-top: 20px;
 	margin-right: 20px;
 	margin-bottom: 20px;
-	margin-left: 275px;
+	margin-left: 315px;
 	padding-right: 10px;
 	padding-bottom: 10px;
 	padding-left: 10px;
@@ -177,7 +177,7 @@ body>#header2 {height:115px;}
 #menu {
 	position:absolute;
 	top:82px;
-	left:20px;
+	left:50px;
 	width:210px;
 	line-height:25px;
 	voice-family: "\"}\"";
@@ -332,9 +332,9 @@ body>#menu {width:210px;}
 	background-image: url(/media/images/ramblingsoul3/webbg.png);
 	background-repeat: no-repeat;
 	background-position: right bottom;
-		}
+}
 	
-	#mainleft {
+#mainleft {
 	width:32%;
 	float:left;
 	padding-bottom:110px;
