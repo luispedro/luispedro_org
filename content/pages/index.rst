@@ -29,7 +29,7 @@ I blog about science at `metarabbit.wordpress.com
 My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
 Research Interests
-------------------
+==================
 
 **Technical version:** I am interested in combining meta'omics (metagenomics
 and metatranscriptomics) analysis with bioimage informatics using machine
