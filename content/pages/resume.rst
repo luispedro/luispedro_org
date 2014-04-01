@@ -8,6 +8,23 @@ Resume
 
 This is also available as a `PDF Version </files/vita.pdf>`_.
 
+Postgraduate Experience
+-----------------------
+
+Currently (since 2013)
+......................
+
+Postdoctoral researcher at the European Molecular Biology Laboratory (EMBL)
+with `Peer Bork
+<http://www.embl.de/research/units/scb/bork/members/index.php?s_personId=173>`__.
+
+2012
+....
+
+Postdoctoral researcher at the Institute for Molecular Medicine (IMM), Lisbon,
+with `Musa Mhlanga <http://mhlangalab.synbio.csir.co.za/>`__.
+
+
 Education
 ---------
 
@@ -32,22 +49,6 @@ Finished top of my class.
 
 Spent one year at Technical University of Vienna (Austria) as international
 exchange student.
-
-Postgraduate Experience
------------------------
-
-Currently (since 2013)
-......................
-
-Postdoctoral researcher at the European Molecular Biology Laboratory (EMBL)
-with `Peer Bork
-<http://www.embl.de/research/units/scb/bork/members/index.php?s_personId=173>`__.
-
-2012
-....
-
-Postdoctoral researcher at the Institute for Molecular Medicine (IMM), Lisbon,
-with `Musa Mhlanga <http://mhlangalab.synbio.csir.co.za/>`__.
 
 Scholarships & Awards
 ---------------------

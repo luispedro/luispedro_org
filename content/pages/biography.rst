@@ -7,6 +7,8 @@ meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
 Biography
 =========
 
+Also see my `resume </resume>`__ and `CV [PDF format] </files/vita.pdf>`__
+
 Shorter Version
 ...............
 
