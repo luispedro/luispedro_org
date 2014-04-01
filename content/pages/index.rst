@@ -31,17 +31,20 @@ My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 Research Interests
 ==================
 
-**Technical version:** I am interested in combining meta'omics (metagenomics
-and metatranscriptomics) analysis with bioimage informatics using machine
-learning approaches. In particular, in obtaining biological knowledge by
-exploiting large-scale datasets of mixed communities by
-a sequencing and imaging to be able to derive observations about the
-relationship between the genotypes and phenotypes. This research can answer
-questions such as *do the measures of genomic biodiversity agree with measures
-of phenotypic biodiversity?*
+**Technical version:** I am interested in combining meta'omics (methods that
+obtain high-throughput information on microbial communities such as
+metagenomics and metatranscriptomics) analysis with bioimage informatics using
+machine learning approaches. In particular, in obtaining biological knowledge
+by exploiting large-scale datasets of mixed communities by a sequencing and
+imaging to be able to derive observations about the relationship between the
+genotypes and phenotypes. This research can answer questions such as *do the
+measures of genomic biodiversity agree with measures of phenotypic
+biodiversity?*
 
-In methodological terms, I worry a lot about `correct evaluation of methods
-<http://luispedro.org/projects/gen-classification>`__ and avoiding
+My work is a mix of of `method development
+<http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__ and
+applications. In methodological terms, I worry a lot about `correct evaluation
+of methods <http://luispedro.org/projects/gen-classification>`__ and avoiding
 over-inflated measures of performance. I also work in scaling up methods to
 work on large-scale environments.
 
@@ -52,6 +55,8 @@ use these two families of technologies to investigate what is happening in
 mixed microbial communities such as the one in our guts, the `microbiome
 <http://en.wikipedia.org/wiki/Microbiome>`__.
 
+I work both on developing new computer methods (software) for these tasks as
+well as on specific biological problems.
 
 Recent Publications
 ===================
