@@ -14,8 +14,8 @@ Who am I?
 
 I am a computational biologist. I work at the European Molecular Biology
 Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__ in
-microbial community analysis using metagenomics. For my graduate work, at
-`Carnegie Mellon University <http://www.compbio.cmu.edu/>`_, I worked on
+microbial community analysis using metagenomics. I have a PhD from `Carnegie
+Mellon University <http://www.compbio.cmu.edu/>`_ (2011), where I worked on
 `bioimage informatics <http://en.wikipedia.org/wiki/Bioimage_informatics>`__
 for subcellular location analysis with `Bob Murphy
 <http://murphylab.web.cmu.edu/>`__.
