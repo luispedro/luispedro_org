@@ -3,6 +3,7 @@ url: publications
 categories: about-me
 ---
 
+`My google scholar profile <scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
 Selected Publications
 =====================
@@ -30,13 +31,6 @@ Selected Publications
      Structure for Approximate Text Indexing* SPIRE (2006)
 
 (`Annotated list of selected publications <publications/annotated>`__)
-
-Submitted or In Preparation
-===========================
-
-1.  **Luis Pedro Coelho**, Shannon Quinn, Hagit Shatkay and Robert F. Murphy
-    *Waldo: A Python Library for Unifying Location Databases* (submitted)
-
 
 Full List of Publications
 =========================
