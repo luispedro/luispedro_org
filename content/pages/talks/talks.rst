@@ -10,6 +10,9 @@ Talks in 2014
 This is a list with slides and sometimes references &c for talks I gave in the
 past. I can only post those that contain solely public information.
 
+Apr 2014. `Software Carpentry at SDU
+</talks/2014/sdu>`__
+
 Mar 2014. `Cluster training Bio-IT (EMBL)
 </files/talks/2014/03-bioit-training/cluster.html>`__
 
