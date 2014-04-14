@@ -137,33 +137,6 @@ Selected Publications
 
 See also my `full annotated list of publications </publications>`_
 
-Invited Talks
--------------
-- *Proteome-scale analysis and modeling of subcellular location,* Luis Pedro
-  Coelho, 4th CeBiTec Symposium BioImaging, Bielefeld, Germany 25-27 August 2009
-- *Unsupervised Mixture Pattern Unmixing*, University of Bielefeld International
-  Graduate School of Bioinformatics and Genome Research, July 2008.
-- *Studying the subcellular location space with bioimages and other data
-  modalities*, University of Delaware, Computer and Information Sciences
-  Department, September 2011
-- Bioimage Informatics: Computer Vision for Biology*, EMBO Practical Course on
-  Microscopy: from single molecules to animals, Pretoria, November 2011
-- *Learning Subcellular Location from Images and Other Sources of Information*,
-  KDBIO (Knowledge Discovery and Bioinformatics) seminar, Lisbon, February 2012
-- *Modeling Subcellular Location from Images and Other Sources of Information*,
-  EAO Seminar (Instituto Gulbenkian da Ciência), Oeiras, March 2012
-- *Modeling Subcellular Location from Images and Other Sources of Information*,
-  Luxembourg Centre for Systems Biology, July 2012
-
-Other Talks
------------
-1.  *Determining Resolvable Subcellular Location Categories as a Function of Image
-    Resolution,* Luis Pedro Coelho & Robert F. Murphy, 24th ISAC Congress,
-    Budapest, May 2008.
-2.  Rita Reis and **Luis Pedro Coelho** *Using Theatre to Fight HIV/AIDS in
-    Mozambique*, National Conference of the Association for Theatre in Higher
-    Education, Chicago 2011
-
 Languages
 ---------
 - Bilingual: Portuguese and English
@@ -213,9 +186,12 @@ fund-raising and management.
 
 Open Source Programming
 .......................
-I was a member of the `kde project <http://www.kde.org>`__ from 2000 through
-2006. I was maintainer of the application kghostview.
-
 I publish and maintainx many open source projects of interest to his research,
-such as image processing or machine learning code. See the full list in my
-`github page <http://www.github.com/luispedro>`_.
+such as image processing or machine learning code. In particular `mahotas
+<https://github.com/luispedro/mahotas>`__ (ca. 5,000 downloads per month) is a
+`computer vision library in Python
+<http://openresearchsoftware.metajnl.com/article/view/jors.ac>`__ 
+
+See the full list of projects in my `github page
+<http://www.github.com/luispedro>`_.
+
