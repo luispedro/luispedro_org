@@ -14,7 +14,8 @@ Selected Publications
     the subcellular location of new proteins from microscope images using local
     features* in Bioinformatics, 2013 [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
-    <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
+    <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`preprint
+    <murphylab.web.cmu.edu/publications/193-coelho2013.pdf>`__]
 2.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
@@ -86,7 +87,8 @@ Peer Reviewed Research Papers
     the subcellular location of new proteins from microscope images using local
     features* in Bioinformatics, 2013 [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
-    <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
+    <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`preprint
+    <murphylab.web.cmu.edu/publications/193-coelho2013.pdf>`__]
 
     *One sentence summary*: `Recognition of an organelle is a harder problem
     than recognition of a fluorescent marker
