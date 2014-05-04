@@ -1,4 +1,4 @@
-title: KDBIO Talk
+title: Software Carpentry at Southern Denmark University (SDU)
 url: talks/2014/sdu
 categories: talks work
 ..
