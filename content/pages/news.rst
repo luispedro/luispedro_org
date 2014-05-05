@@ -8,6 +8,9 @@ News Archive
 
 **July 2014** Speaking at Lisbon Machine Learning School (LxMLS) 2014.
 
+**June 2014** I will be teaching at a software carpentry workshop in Cyprus and
+Amman (Jordan).
+
 **April 2014** Traveling to University of Southern Denmark for a software
 carpentry bootcamp.
 

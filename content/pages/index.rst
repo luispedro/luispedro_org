@@ -98,8 +98,8 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**April 3-4** I will be at the University of Southern Denmark teaching at a
-software carpentry bootcamp.
+**June** I will be teaching at a software carpentry workshop in
+Cyprus (10/11) and Amman, Jordan (15/16).
 
 **July 22-29** I will be in Lisbon for the `LxMLS 2014
 <http://lxmls.it.pt/2014/>`__
