@@ -16,7 +16,7 @@ Selected Publications
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`preprint
     <murphylab.web.cmu.edu/publications/193-coelho2013.pdf>`__]
-2.   **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+2.   **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
@@ -105,7 +105,7 @@ Peer Reviewed Research Papers
     *One sentence summary*: Python is great for computer vision and image
     processing using `mahotas <http://luispedro.org/software/mahotas>`__.
 
-9.  **Luis Pedro Coelho**, Tao Peng, and Robert F. Murphy, *Quantifying the
+9.  **Luis Pedro Coelho**\*, Tao Peng\*, and Robert F. Murphy, *Quantifying the
     distribution of probes between subcellular locations using unsupervised
     pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
