@@ -9,15 +9,15 @@ children:
         -   name: Publications
             title: My Papers
             url: /publications
+        -   name: My Blog
+            title: Metarabbit
+            url: http://metarabbit.wordpress.com/
         -   name: Biography
             title: Short Biography
             url: /biography
         -   name: Erdös-Bacon
             title: My Erdös Bacon Number
             url: /erdos-bacon
-        -   name: Meta(rabbit)
-            title: My blog
-            url: http://metarabbit.wordpress.com/
     -   name: Projects
         url: /projects/
         children:

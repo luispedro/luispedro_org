@@ -2,6 +2,8 @@ name: Top Menu
 children:
     -   name: Home
         url: /
+    -   name: Blog
+        url: http://metarabbit.wordpress.com/
     -   name: Biography
         title: Short Biography
         url: /biography
