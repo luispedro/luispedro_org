@@ -6,7 +6,15 @@ categories:
 Contact Me
 ==========
 
-My email is luis@luispedro.org
+My personal email is luis@luispedro.org
+
+You can send me postal mail at::
+
+    Luis Pedro Coelho
+    Bork Group
+    European Molecular Biology Laboratory
+    Meyerhofst., Heidelberg
+    69117 Heidelberg, Germany
 
 `Download a vCard </files/Luis_Pedro_Coelho.vcf>`_
 
@@ -18,6 +26,7 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `ORCID ID <https://orcid.org/0000-0002-9280-7885>`__
 - `google scholar page <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`_
 - `github <http://www.github.com/luispedro>`_
+- `my research blog <http://metarabbit.wordpress.com>`__
 - `github resume <http://resume.github.com/?luispedro>`_
 - `Freshmeat <http://freshmeat.net/users/luispedro>`__
 - `Researchgate <http://www.researchgate.net/profile/Luis_Pedro_Coelho/>`__
@@ -30,7 +39,6 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `Epernicus <http://www.epernicus.com/people/luispedro>`_
 - `LinkedIn <http://www.linkedin.com/in/luispedrocoelho>`_
 - `Mendeley Profile <http://www.mendeley.com/profiles/luis-pedro-coelho/>`_
-- `my research blog <http://metarabbit.wordpress.com>`__
 - `my old blog <http://blog.luispedro.org>`__
 - `my older blog <http://www.mutualinformation.org>`_
 - `Twitter <http://www.twitter.com/luispedrocoelho>`_
