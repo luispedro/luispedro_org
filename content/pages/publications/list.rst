@@ -44,6 +44,7 @@ Peer Reviewed Research Papers
 14. Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
     *Metagenomic insights into the human gut resistome and the forces that shape
     it* in Bioessays (2014). [`DOI <http://doi.org/10.1002/bies.201300143>`__]
+    [`Preprint <http://www.bork.embl.de/publication/pdf/24474281.pdf>`__]
 
     *One sentence summary*: Metagenomics analysis of the microbiome can detect
     antibiotic resistance genes which correlate with environmental exposures to
@@ -75,7 +76,8 @@ Peer Reviewed Research Papers
     phylogenetic marker genes* in Nature Methods 10, 1196–1199 (2013)
     [`Abstract
     <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__] [`DOI
-    <http://dx.doi.org/10.1038/nmeth.2693>`__]
+    <http://dx.doi.org/10.1038/nmeth.2693>`__] [`Preprint
+    <http://www.bork.embl.de/publication/pdf/24141494.pdf>`__]
 
     *One sentence summary*: Using marker genes and careful statistics, we can
     estimate abundance of sequenced and unsequenced microorganims in
