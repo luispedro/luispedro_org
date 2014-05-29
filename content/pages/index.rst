@@ -113,6 +113,9 @@ Cyprus (10/11) and Amman, Jordan (15/16).
 
 **September 7-10** I will be in Leuven for a workshop (details forthcoming).
 
+**October 22** Virtual trip for an `O'Reilly webcast on Penalised Regression in
+Python <http://www.oreilly.com/pub/e/3117>`__
+
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
 
