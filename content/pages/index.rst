@@ -111,7 +111,8 @@ Cyprus (10/11) and Amman, Jordan (15/16).
 **July 22-29** I will be in Lisbon for the `LxMLS 2014
 <http://lxmls.it.pt/2014/>`__
 
-**September 7-10** I will be in Leuven for a workshop (details forthcoming).
+**September 7-10** I will be in Leuven (Belgium) for `TCMM2014
+<http://www.esat.kuleuven.be/stadius/tcmm2014/>`__
 
 **October 22** Virtual trip for an `O'Reilly webcast on Penalised Regression in
 Python <http://www.oreilly.com/pub/e/3117>`__
