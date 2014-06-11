@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Introduction to Cluster Usage</title>
+
+		<meta name="description" content="" />
+		<meta name="author" content="Luis Pedro Coelho" />
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/beige.css" id="theme">
+
+        <style>
+            .reveal h1 { text-transform: none; font-size: 3em; }
+            .reveal h3 { text-transform: none; }
+            .reveal p { text-align: left; }
+        </style>
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script src="reveal.min.js" />
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1>Introduction to Cluster Usage</h1>
+					<p>
+						Luis Pedro Coelho<br />
+                        <hr />
+                        On twitter: <a href="https://twitter.com/luispedrocoelho">@luispedrocoelho</a>
+					</p>
+				</section>
+				<section>
+                    <section>
+                    <h2>What is a Cluster?</h2>
+                    <ul>
+                        <li>A cluster is just a collection of machine that are networked together.
+                        <li>They often share the same filesystem (which is a network file system).
+                        <li>We will focus on the Euclid cluster system, but most academic clusters are similar.
+                        <li>(Commercial companies increasingly use cloud computing.)
+                    </ul>
+                    </section>
+                    <section>
+                        <img src="ff_googleinfrastructure3_f.jpg" /><br />
+                        <small>A server room in Council Bluffs, Iowa. (Photo: Google/Connie Zhou) from <a href="http://www.google.de/imgres?imgurl=http://www.wired.com/wiredenterprise/wp-content/uploads//2012/10/ff_googleinfrastructure_large.jpg&imgrefurl=http://www.wired.com/wiredenterprise/2012/10/ff-inside-google-data-center/all/&h=1712&w=2500&tbnid=PgMsEZR5LUCqKM:&tbnh=90&tbnw=131&zoom=1&usg=__H2zFoiV1SKlj97zVAF6t_9m5fn8=&docid=Dj7QaZa2sjP70M&sa=X&ei=JTUwU_vXMIvhywOGioDwCg&ved=0CFIQ9QEwBA&dur=852">Wired</a></small>
+                    </section>
+                    <section>
+                    <h2>Queuing systems</h2>
+                    <ol>
+                        <li>One head node, many compute nodes.
+                        <li>Log in to head, submit scripts to queue.
+                        <li>Queueing system will run your script on a free compute node.
+                    </ol>
+                    <p><small>Queueing systems are also called batch systems</small></p>.
+                    </section>
+                    <section>
+                    <h2>Euclid uses PBS (GE or SGE are very similar)</h2>
+                    <ul>
+                        <li>LSF is popular too. Most of the concepts will be
+                        the same.<br /> Unfortunately, many small details
+                        change between setups.
+                    </ul>
+
+                    </section>
+                    <section>
+                    <h2>First Step: Let's all SSH to the head node</h2>
+                    <pre>ssh name@submaster</pre>
+                    </section>
+                    <section>
+                    <h2>Using an interactive session</h2>
+                    <ol>
+                        <li>Create a file in your home directory:
+                        <pre>echo "Hello World" &gt; file.txt</pre>
+                        <li>Allocate a node for computation:
+                        <pre>qsub -I</pre>
+                        <small>We now depend on the cluster being free(ish).</small>
+                        <li>Verify that your file is there. Create a new one.
+                        <li>Exit and verify that your new file is also there.
+                    </section>
+                    <section>
+                    <h2>Running our first job on the queue</h2>
+                    <p>(1) Create a file called <tt>script.sh</tt> with the following content:
+<pre>
+#!/bin/bash
+
+echo $PBS_O_HOST
+echo "My job ran"
+</pre>
+                    <p class="fragment">(2) Make it executable:
+                    <pre class="fragment">chmod +x script.sh</pre>
+
+                    <div class="fragment">
+                    <p>(3) Submit it:
+                    <pre>qsub ./script.sh</pre>
+                    </div>
+                    </section>
+                    <section>
+                    <h2>Checking up on your jobs</h2>
+                    <pre>qstat</pre>
+
+                    <p>Tells you what's going on</p>
+
+                    <div class="fragment">
+                        <pre>qdel</pre>
+                        <p>Can delete (kill) your jobs. Specify a job number like</p>
+                        <pre>qdel 55816</pre>
+                    </div>
+                    </section>
+                    <section>
+                    <h2>Do not compute on the head node</h2>
+                    <ul>
+                        <li>The head node is <em>shared by everybody</em>.
+                        <li>Any heavy computation <em>will slow down everybody's work</em>!
+                        <li>File editing is OK.</li>
+                        <li>Small file moving is OK (but if it takes longer than a second, then write a script!).</li>
+                        <li>In case of doubt, submit it to the queue.
+                    </ul>
+                    <p class="fragment">Do not compute on an unreserved compute node! That's even worse</p>
+                    </section>
+                    <section>
+                        <h2>Test your jobs before submitting!</h2>
+                        <p>This still happens to me:
+                        <ul>
+                            <li>Submit a job
+                            <li>Because the cluster is busy, it sits in the queue for an hour
+                            <li>Then it promptly croaks because of silly typo!
+                        </ul>
+                        <div class="fragment">
+                        <p>A few ways to check
+                        <ul>
+                            <li>Run on a small test file.
+                            <li><tt>set -n</tt>
+                            <li><tt>echo ...</tt>
+                        </ul>
+                        </div>
+                    </section>
+				</section>
+                <section>
+                    <section>
+                    <h1>Advanced Cluster Usage</h1>
+                    <ul>
+                        <li>Job arrays
+                        <li>Allocating resources
+                        <li>Job dependencies
+                    </ul>
+                    </section>
+                    <section>
+                    <h2>Job Arrays</h2>
+                    <ul>
+                        <li>A job array is a way to take advantage of many machines with the same script.
+                        <li>Clusters are ideal for <em>embarassingly parallel
+                        problems</em>, which characterize many settings in
+                        science (examples from biology):
+                        <ul>
+                            <li>Applying the same analysis to all images in a screen.
+                            <li>BLASTing a large set of genes against the same database
+                            <li>Parsing all abstracts in Pub Med Central
+                            <li>...
+                        </ul>
+                    </ul>
+                    </section>
+                    <section>
+                    <h2>For small things, just run separate processes</h2>
+                    <pre>
+#/bin/bash
+
+input=$1
+grep -c mouse $input &gt; ${input}.counts</pre>
+
+                    And now run it many times, using a loop on the shell:
+<pre>
+for f in data/*; do
+    qsub ./script.sh $f
+done</pre>
+                    </section>
+                    <section>
+                    <h2>How do job arrays work</h2>
+                    <ol>
+                        <li>Write a script.
+                        <li>Submit it as a job array.
+                        <li>The script is run multiple times with a different index
+                        <li>Use the index to decide what to do!
+                    </ol>
+                    </section>
+                    <section>
+                    <h2>Detour: environmental variables</h2>
+                    <p>Do you know what they are?</p>
+                    <div class="fragment">
+                        <ul>
+                            <li>Environmental variables are <em>variables that scripts can set &amp; access</em>.
+                            <li>Example: <tt>$PBS_O_HOST</tt>
+                        </ul>
+                    </div>
+                    </section>
+                    <section>
+                    <h2>PBS uses variables to communicate with your script</h2>
+                    <dl>
+                        <dt>PBS_ARRAY_INDEX</dt>
+                        <dd>This is the job index</dd>
+                        <dt>...</dt>
+                        <dd>Check documentation</dd>
+                    </dl>
+                    </section>
+                    <section>
+                    <h2>Exercise: write and submit a job for this process</h2>
+                    <ol>
+                        <li>Input is a series of files named <tt>x00, x01, ..., x09</tt>
+                        <li>Task is to run the same script on each and save results to <tt>output0, output1, ... output9</tt>
+                        <li>In our case, the task is to count the number of occurrences of the word <tt>mouse</tt>
+                    </ol>
+                    <p>In particular,
+                    <ol>
+                        <li>please copy the directory <tt>cluster/data/by-number</tt> to your home directory
+                        <li>write a script which will execute for all outputs
+                        <pre>grep -c mouse $input &gt; $input.out</pre>
+                        <li>Actually, you can start with the script <tt>count.mouse.sh</tt> that is already there.
+                    </ol>
+                    </section>
+                    <section>
+                    <h2>Rarely is the input organized in such a nice fashion</h2>
+                    <p>Here is a more realistic scenario (1)</p>
+                    <ul>
+                        <li>Your input is a huge single file.
+                        <li class="fragment">Use <tt>split</tt> to break it up.
+                    </ul>
+                    
+                    </section>
+                    <section>
+                    <h2>Rarely is the input organized in such a nice fashion</h2>
+                    <p>Here is a more realistic scenario (2)</p>
+                    <ul>
+                        <li>Your input is a list of files, but they have arbitrary names
+                        <li>A few helpful shell commands:
+                            <ol>
+                                <li><tt>ls -1 &gt; file-list.txt</tt>
+                                <li>To get the fourth line of a file <tt>sed -n "4p" file-list.txt</tt>
+                            </ol>
+                        <li>please copy the directory
+                        <tt>cluster-training/data/unordered</tt> to
+                        your home directory and write a script to count the
+                        number of mice in each of the files. Again, a script
+                        <tt>count.mouse.sh</tt> is present if you need to start
+                        somewhere.
+                    </ul>
+                    
+                    </section>
+                    <section>
+                        <h2>Fail well</h2>
+                        <p>Common Unix strategy:
+                        <ul>
+                            <li>Write your output to <tt>file.tmp</tt>, preferably on the same directory
+                            <li>Call <tt>sync</tt> (!)
+                            <li>Move to the final location
+                        </ul>
+                        <p>Unix guarantees that the move is <strong>atomic</strong>.
+                        <div class="fragment">
+                            <p>Rewrite the mouse count script to use the temp-move strategy</p>
+                        </div>
+                    </section>
+                    <section>
+                    <h2>Remember to allocate resources</h2>
+                    <ul>
+                        <li>CPUs (same machine or different machines)
+                        <li>Memory
+                        <li>GPU (graphical processing units)
+                        <li>Time
+                        <li>Disk
+                        <li>Software licenses
+                        <li>Network usage
+                    </ul>
+                    </section>
+                    <section>
+                    <h2>How can you check how much memory your process uses?</h2>
+                    <ol>
+                        <li>Guess-timate
+                        <li>Measure (look at <tt>top</tt>)
+                    </ol>
+                    </section>
+                    <section>
+                        <h2>Job dependencies</h2>
+                        <ul>
+                            <li>You can schedule a job <em>after another job has finished</em>.
+                            <li>Common setting:
+                                <ol>
+                                    <li>Extract some information from a large set of inputs (parallel)
+                                    <li>Summarise this information (textual/plot/&amp;c)
+                                </ol>
+                                <li>In our case, we summarize the mouse counts.</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Shameless plug for jug</h2>
+                        <p>If you use Python, you may want to look at my
+                        package <a
+                        href="http://jug.readthedocs.org/en/latest/">jug</a>
+                    which can make running jobs on clusters easier</p>
+                    <p>(Only makes sense if you're using Python.)</p>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        <h2>If you get stuck</h2>
+                        <ul>
+                            <li>Look at help, stackoverflow, &amp;c
+                            <li>Ask somebody who knows
+                            <li>Ask the help desk
+                            <li>Ask me (coelho@embl.de)
+                        </ul>
+                    </section>
+                    <section>
+                        <h1>Thank You</h1>
+                    </section>
+                </section>
+
+
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: false,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
