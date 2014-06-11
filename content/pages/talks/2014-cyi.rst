@@ -8,10 +8,10 @@ Software Carpentry Workshop at CYI
 
 *June 10-11*
 
-1. `Introduction to Python I </files/talks/2014/06-sdu/python-01.pdf>`__
-2. `Introduction to Python II </files/talks/2014/06-sdu/python-02.pdf>`__
+1. `Introduction to Python I </files/talks/2014/06-cyi/python-01.pdf>`__
+2. `Introduction to Python II </files/talks/2014/06-cyi/python-02.pdf>`__
 3. `Cluster usage </files/talks/2014/06-cyi/cluster/cluster.html>`__
-4. `Unit Testing in Python </files/talks/2014/06-sdu/testing.pdf>`__
+4. `Unit Testing in Python </files/talks/2014/06-cyi/testing.pdf>`__
 
 I'm releasing them as CC-BY.
 
