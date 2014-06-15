@@ -63,6 +63,11 @@ Recent Publications
 
 This is what I published in 2013/2014:
 
+- Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,
+  Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
+  Coelho**, Maria Carmo-Fonseca, Nuno L. Barbosa-Morais, Luisa M. Figueiredo
+  *Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is
+  important for parasite fitness in vivo* in Molecular Microbiology (Accepted).
 - Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
   *Metagenomic insights into the human gut resistome and the forces that shape
   it* in Bioessays (2014). [`DOI <http://doi.org/10.1002/bies.201300143>`__]
