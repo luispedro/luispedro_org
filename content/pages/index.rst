@@ -63,44 +63,52 @@ Recent Publications
 
 This is what I published in 2013/2014:
 
-- Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,
-  Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
-  Coelho**, Maria Carmo-Fonseca, Nuno L. Barbosa-Morais, Luisa M. Figueiredo
-  *Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is
-  important for parasite fitness in vivo* in Molecular Microbiology (Accepted).
-- Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
-  *Metagenomic insights into the human gut resistome and the forces that shape
-  it* in Bioessays (2014). [`DOI <http://doi.org/10.1002/bies.201300143>`__]
-- Peter Liehl,  Vanessa Zuzarte-Luís,  Jennie Chan,  Thomas Zillinger,
-  Fernanda Baptista,  Daniel Carapau,  Madlen Konert, Kirsten K Hanson,
-  Céline Carret,  Caroline Lassnig,  Mathias Müller,  Ulrich Kalinke,
-  Mohsan Saeed,  Angelo Ferreira Chora,  Douglas T Golenbock,  Birgit Strobl,
-  Miguel Prudêncio,  **Luis P Coelho**,  Stefan H Kappe,  Giulio Superti-Furga,
-  Andreas Pichlmair,  Ana M Vigário,  Charles M Rice, Katherine A
-  Fitzgerald, Winfried Barchet, and Maria M Mota, *Host-cell sensors for
-  Plasmodium activate innate immunity against liver-stage infection* in Nature
-  Medicine 20, 47-53 (2014) [`Abstract
-  <http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.3424.html>`__] [`DOI
-  <http://doi.org/10.1038/nm.3424>`__]
-- Shinichi Sunagawa, Daniel R Mende, Georg Zeller, Fernando Izquierdo-Carrasco,
-  Simon A Berger, Jens Roat Kultima, **Luis Pedro Coelho**, Manimozhiyan
-  Arumugam, Julien Tap, Henrik Bjørn Nielsen, Simon Rasmussen, Søren Brunak,
-  Oluf Pedersen, Francisco Guarner, Willem M de
-  Vos, Jun Wang, Junhua Li, Joël Doré, S Dusko Ehrlich, Alexandros Stamatakis &
-  Peer Bork, *Metagenomic species profiling using universal phylogenetic marker
-  genes* in Nature Methods 10, 1196–1199 (2013) [`Abstract
-  <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__]
-  [`DOI <http://dx.doi.org/10.1038/nmeth.2693>`__]
-- **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira Osuna-Highley,
-  Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,
-  Jonathan W. Jarvik, and Robert F.  Murphy, *Determining the subcellular
-  location of new proteins from microscope images using local features* in
-  Bioinformatics, 2013 [`DOI
-  <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
-  <http://dx.doi.org/10.6084/m9.figshare.744842>`__]
-- **Luis Pedro Coelho**, Mahotas: Open source software for scriptable computer
-  vision, Journal of Open Research Software, vol. 1 (2013) [`DOI
-  <http://dx.doi.org/10.5334/jors.ac>`__].
+6.  Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,
+    Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
+    Coelho**, Maria Carmo-Fonseca, Nuno L. Barbosa-Morais, Luisa M. Figueiredo
+    *Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is
+    important for parasite fitness in vivo* in Molecular Microbiology (Accepted).
+
+5.  Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
+    *Metagenomic insights into the human gut resistome and the forces that shape
+    it* in Bioessays (2014). [`DOI <http://doi.org/10.1002/bies.201300143>`__]
+
+4.  Peter Liehl,  Vanessa Zuzarte-Luís,  Jennie Chan,  Thomas Zillinger,
+    Fernanda Baptista,  Daniel Carapau,  Madlen Konert, Kirsten K Hanson,
+    Céline Carret,  Caroline Lassnig,  Mathias Müller,  Ulrich Kalinke,
+    Mohsan Saeed,  Angelo Ferreira Chora,  Douglas T Golenbock,  Birgit Strobl,
+    Miguel Prudêncio,  **Luis P Coelho**,  Stefan H Kappe,  Giulio Superti-Furga,
+    Andreas Pichlmair,  Ana M Vigário,  Charles M Rice, Katherine A
+    Fitzgerald, Winfried Barchet, and Maria M Mota, *Host-cell sensors for
+    Plasmodium activate innate immunity against liver-stage infection* in Nature
+    Medicine 20, 47-53 (2014) [`Abstract
+    <http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.3424.html>`__] [`DOI
+    <http://doi.org/10.1038/nm.3424>`__]
+
+3.  Shinichi Sunagawa, Daniel R Mende, Georg Zeller, Fernando Izquierdo-Carrasco,
+    Simon A Berger, Jens Roat Kultima, **Luis Pedro Coelho**, Manimozhiyan
+    Arumugam, Julien Tap, Henrik Bjørn Nielsen, Simon Rasmussen, Søren Brunak,
+    Oluf Pedersen, Francisco Guarner, Willem M de
+    Vos, Jun Wang, Junhua Li, Joël Doré, S Dusko Ehrlich, Alexandros Stamatakis &
+    Peer Bork, *Metagenomic species profiling using universal phylogenetic marker
+    genes* in Nature Methods 10, 1196–1199 (2013) [`Abstract
+    <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__]
+    [`DOI <http://dx.doi.org/10.1038/nmeth.2693>`__]
+
+2.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira Osuna-Highley,
+    Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,
+    Jonathan W. Jarvik, and Robert F.  Murphy, *Determining the subcellular
+    location of new proteins from microscope images using local features* in
+    Bioinformatics, 2013 [`DOI
+    <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
+    <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`preprint
+    <http://murphylab.web.cmu.edu/publications/193-coelho2013.pdf>`__] [`mendeley
+    <http://www.mendeley.com/research/determining-subcellular-location-new-proteins-microscope-images-using-local-features/>`__]
+
+1.  **Luis Pedro Coelho**, Mahotas: Open source software for scriptable computer
+    vision, Journal of Open Research Software, vol. 1 (2013) [`DOI
+    <http://dx.doi.org/10.5334/jors.ac>`__] [`mendeley
+    <http://www.mendeley.com/research/mahotas-open-source-software-scriptable-computer-vision/>`__].
 
 
 `All publications... </publications>`__
