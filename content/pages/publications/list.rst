@@ -15,16 +15,19 @@ Selected Publications
     features* in Bioinformatics, 2013 [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`preprint
-    <murphylab.web.cmu.edu/publications/193-coelho2013.pdf>`__]
+    <murphylab.web.cmu.edu/publications/193-coelho2013.pdf>`__] [`mendeley
+    <http://www.mendeley.com/research/determining-subcellular-location-new-proteins-microscope-images-using-local-features/>`__]
 2.   **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying the
      distribution of probes between subcellular locations using unsupervised
      pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
      <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
+     [`mendeley
+     <http://www.mendeley.com/catalog/quantifying-distribution-probes-between-subcellular-locations-using-unsupervised-pattern-unmixing/>`__]
 3.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
      Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
      Literature Image  Finder: Extracting Information from Text and Images in
      Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
-     version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
+     version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__] [`mendeley <http://www.mendeley.com/catalog/structured-literature-image-finder-extracting-information-text-images-biomedical-literature/>`__]
 4.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
      segmentation in microscope cell images: A hand-segmented dataset and
      comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
@@ -102,7 +105,8 @@ Peer Reviewed Research Papers
 
 10. **Luis Pedro Coelho**, Mahotas: Open source software for scriptable
     computer vision, Journal of Open Research Software, vol. 1 (2013)
-    [`DOI <http://dx.doi.org/10.5334/jors.ac>`__].
+    [`DOI <http://dx.doi.org/10.5334/jors.ac>`__] [`mendeley
+    <http://www.mendeley.com/research/mahotas-open-source-software-scriptable-computer-vision/>`__].
 
     *One sentence summary*: Python is great for computer vision and image
     processing using `mahotas <http://luispedro.org/software/mahotas>`__.
@@ -121,7 +125,8 @@ Peer Reviewed Research Papers
     Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
     Literature Image  Finder: Extracting Information from Text and Images in
     Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
-    version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__]
+    version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__] [`mendeley
+    <http://www.mendeley.com/catalog/structured-literature-image-finder-extracting-information-text-images-biomedical-literature/>`__]
 
     *Two sentence summary (shared with paper below)*: SLIF extracts text and
     images from published scientific literature. Using computer vision [the
