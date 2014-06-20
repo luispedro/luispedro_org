@@ -67,7 +67,8 @@ This is what I published in 2013/2014:
     Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
     Coelho**, Maria Carmo-Fonseca, Nuno L. Barbosa-Morais, Luisa M. Figueiredo
     *Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is
-    important for parasite fitness in vivo* in Molecular Microbiology (Accepted).
+    important for parasite fitness in vivo* in Molecular Microbiology [`DOI
+    <http://doi.org/10.1111/mmi.12677>`__].
 
 5.  Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
     *Metagenomic insights into the human gut resistome and the forces that shape
