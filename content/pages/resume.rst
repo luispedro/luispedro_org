@@ -6,23 +6,17 @@ categories: about-me
 Resume
 ======
 
-This is also available as a `PDF Version </files/vita.pdf>`_.
+A long-form CV is available as a `PDF Version </files/vita.pdf>`_.
 
 Postgraduate Experience
 -----------------------
 
-Currently (since 2013)
-......................
-
-Postdoctoral researcher at the European Molecular Biology Laboratory (EMBL)
-with `Peer Bork
+**Currently (since 2013)** Postdoctoral researcher at the European Molecular
+Biology Laboratory (EMBL) with `Peer Bork
 <http://www.embl.de/research/units/scb/bork/members/index.php?s_personId=173>`__.
 
-2012
-....
-
-Postdoctoral researcher at the Institute for Molecular Medicine (IMM), Lisbon,
-with `Musa Mhlanga <http://mhlangalab.synbio.csir.co.za/>`__.
+**2012** Postdoctoral researcher at the Institute for Molecular Medicine (IMM),
+Lisbon, with `Musa Mhlanga <http://mhlangalab.synbio.csir.co.za/>`__.
 
 
 Education
@@ -64,24 +58,13 @@ Scholarships & Awards
     Diploma of Merit from Instituto Superior Técnico for academic excellency in
     the academic year 1999/2000. Award for Academy Excellence in the Joint
     CMU-University of Pittsburgh Ph.D. Program in Computational Biology (2007).
-- Fulbright Fellowship for Ph.D. Study in the US, 2006/07.
+- **Fulbright Fellowship** for Ph.D. Study in the US, 2006/07.
 - Portugal's Science and Research Foundation research scholarship from December
   2004 through July 2006.
-- Fiction Writing
-    Second Price in the literature contest *Lisboa à Letra* 2004 for ﬁction.
-- Abitur
-    Letter of recognition of excellency in German Final Secondary Exam (Abitur).
 
 Research Highlights
 -------------------
 
-Proteome-wide Study of Subcellular Location in Mouse Fibroblasts
-................................................................
-
-I developed new methods for learning from both a very large collection of
-images of fluorescently tagged proteins and other forms of data (sequence
-information, database information). This work builds on my past work. A
-manuscript describing it is in preparation.
 
 Unsupervised Subcellular Pattern Unmixing
 .........................................
@@ -155,20 +138,14 @@ Teaching
 (`Programming for Scientists </pfs>`__). This was a semester-long course taught
 at Carnegie Mellon University in Spring 2009 (as a student-taught course). In
 2012, I taught a shortened version of this at IMM as a two-and-a-half day
-workshop.
+workshop. I am a certified `software carpentry instructor
+<http://software-carpentry.org/pages/team.html>`__
 
-*Teaching Assistant* for Decision Support Systems at Technical University of
+**Teaching Assistant** for Decision Support Systems at Technical University of
 Lisbon (Spring 2005). Co-designed and co-taught a Computer Initiation Course for
 Adults in a social housing project (pro-bono). *Teaching Assistant* for
 Laboratory Methods for Computational Biology at Carnegie Mellon University
 (Spring 2008).
-
-Webdesign
-.........
-
-Designed the website for ICSV12 (Twelfth International Congress on Sound and
-Vibration) and administered the website for the Portuguese non-profit Medicos
-Pela Escolha (pro bono).
 
 Local Committee for Portuguese-American Postgraduate Society National Forum
 ...........................................................................
