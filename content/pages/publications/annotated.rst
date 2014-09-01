@@ -114,7 +114,7 @@ of algorithms*: [`DOI link <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
         url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5193098}
     }
 
-All of the `data and source code <https://github.com/luispedro/segmentation>`__
+All of the `data and source code <https://github.com/luispedro/Coelho2009_ISBI_NuclearSegmentation>`__
 are publicly available.
 
 `More info about Nuclear Segmentation project </projects/nuclear-segmentation>`__

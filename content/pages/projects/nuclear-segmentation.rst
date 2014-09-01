@@ -45,7 +45,7 @@ Code & Data
 You can get the exact version used for the paper from the `MurphyLab's
 reproducibility repository
 <http://murphylab.cbi.cmu.edu/software/2009_ISBI_NuclearSegmentation/>`__ or,
-from `my github page <https://github.com/luispedro/segmentation>`__, a version
+from `my github page <https://github.com/luispedro/Coelho2009_ISBI_NuclearSegmentation>`__, a version
 that has been updated to work better in newer installations.
 
 If you want to use the image above or any of the images in the dataset, feel
