@@ -119,14 +119,14 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**June** I will be teaching at a software carpentry workshop in
-Cyprus (10/11) and Amman, Jordan (15/16).
-
-**July 22-29** I will be in Lisbon for the `LxMLS 2014
-<http://lxmls.it.pt/2014/>`__
-
-**September 7-10** I will be in Leuven (Belgium) for `TCMM2014
+**September 8-10** I will be in Leuven (Belgium) for `TCMM2014
 <http://www.esat.kuleuven.be/stadius/tcmm2014/>`__
+
+**September 15-17** I will be at TGAC.
+
+**September 27-28** I will be in San Sebastian for `Python San Sebastien <http://pyss.org/>`__
+
+**October 8-10** I will be in Leuven for `Bioimage Informatics <http://www.vibconferences.be/event/bioimage-informatics>`__
 
 **October 22** Virtual trip for an `O'Reilly webcast on Penalised Regression in
 Python <http://www.oreilly.com/pub/e/3117>`__

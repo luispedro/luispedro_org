@@ -8,6 +8,10 @@ News Archive
 
 **July 2014** Speaking at Lisbon Machine Learning School (LxMLS) 2014.
 
+**July 2014** New paper: Pena et al., *Trypanosoma brucei histone H1 inhibits
+RNA polymerase I transcription and is important for parasite fitness in vivo*
+in Molecular Microbiology [`DOI <http://doi.org/10.1111/mmi.12677>`__].
+
 **June 2014** I will be teaching at a software carpentry workshop in Cyprus and
 Amman (Jordan).
 
