@@ -28,6 +28,10 @@ I blog about science at `metarabbit.wordpress.com
 
 My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
+In November 2014, I am organizing a `Software Carpentry Workshop at EMBL
+<http://www.embl.de/training/events/2014/SWC14-01/index.html>`__. Apply to
+learn best practices of computer usage by scientists.
+
 Research Interests
 ==================
 
