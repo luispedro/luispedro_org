@@ -33,7 +33,5 @@ The links are
 2. Lisa Ann Goldsmith → Jonathan Tucker in `The Next Three Days <http://www.imdb.com/title/tt1458175/>`__
 3. Jonathan Tucker → Kevin Bacon in `Sleepers <http://www.imdb.com/title/tt0117665/>`__
 
-I used the `Oracle of Bacon <http://oracleofbacon.org/>`__ site. Progression is
-still in production, so I am jumping the gun a little, but when it comes out
-this will be valid.
+I used the `Oracle of Bacon <http://oracleofbacon.org/>`__ site.
 

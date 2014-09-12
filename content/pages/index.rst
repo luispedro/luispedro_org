@@ -119,9 +119,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**September 8-10** I will be in Leuven (Belgium) for `TCMM2014
-<http://www.esat.kuleuven.be/stadius/tcmm2014/>`__
-
 **September 15-17** I will be at TGAC.
 
 **September 27-28** I will be in San Sebastian for `Python San Sebastien <http://pyss.org/>`__
@@ -140,6 +137,13 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers & travels)
+
+**November 2014** I am the lead organizer for a `software carpentry workshop at
+EMBL <http://www.embl.de/training/events/2014/SWC14-01/index.html>`__.
+
+**July 2014** Progression (in which I played the character *Luis*) has been
+released at New Filmmakers in NYC. See the film at the `Big Bear Film festival
+<http://www.bigbearfilmfestival.com/progression/>`__
 
 **February 2014** I'm now a certified `Software Carpentry instructor
 <http://software-carpentry.org/pages/team.html>`__

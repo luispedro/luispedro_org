@@ -6,6 +6,16 @@ categories: about-me
 News Archive
 ============
 
+
+**November 2014** I am the lead organizer for a `software carpentry workshop at
+EMBL <http://www.embl.de/training/events/2014/SWC14-01/index.html>`__.
+
+**September 2014** Speaking at `TCMM2014
+<http://www.esat.kuleuven.be/stadius/tcmm2014/program.php>`__
+
+**July 2014** Progression (in which I played the character *Luis*) has been
+released at New Filmmakers in NYC.
+
 **July 2014** Speaking at Lisbon Machine Learning School (LxMLS) 2014.
 
 **July 2014** New paper: Pena et al., *Trypanosoma brucei histone H1 inhibits
