@@ -27,6 +27,8 @@ The paper describing this work has been published in Bioinformatics:
    Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja
    Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.  Murphy (2013).
    Bioinformatics, [`DOI <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
+   [`open access version
+   <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/>`__]
 
 Local Features for Bioimage Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

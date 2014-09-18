@@ -106,8 +106,8 @@ This is what I published in 2013/2014:
     location of new proteins from microscope images using local features* in
     Bioinformatics, 2013 [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
-    <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`preprint
-    <http://murphylab.web.cmu.edu/publications/193-coelho2013.pdf>`__] [`mendeley
+    <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`open access version
+    <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/>`__] [`mendeley
     <http://www.mendeley.com/research/determining-subcellular-location-new-proteins-microscope-images-using-local-features/>`__]
 
 1.  **Luis Pedro Coelho**, Mahotas: Open source software for scriptable computer
