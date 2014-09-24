@@ -98,7 +98,8 @@ This is what I published in 2013/2014:
     Peer Bork, *Metagenomic species profiling using universal phylogenetic marker
     genes* in Nature Methods 10, 1196–1199 (2013) [`Abstract
     <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__]
-    [`DOI <http://dx.doi.org/10.1038/nmeth.2693>`__]
+    [`DOI <http://dx.doi.org/10.1038/nmeth.2693>`__] [`Institutional Repository
+    Version <http://www.bork.embl.de/publication/pdf/24141494.pdf>`__]
 
 2.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira Osuna-Highley,
     Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha, Peter B. Berget,

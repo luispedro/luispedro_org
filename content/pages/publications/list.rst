@@ -72,7 +72,8 @@ Peer Reviewed Research Papers
     activate innate immunity against liver-stage infection* in Nature Medicine
     20, 47–53 (2014)  [`Abstract
     <http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.3424.html>`__] [`DOI
-    <http://doi.org/10.1038/nm.3424>`__]
+    <http://doi.org/10.1038/nm.3424>`__] [`Institutional Repository Version
+    <http://www.bork.embl.de/publication/pdf/24141494.pdf>`__]
 
     *One sentence summary*: Plasmodium liver-stage infections trigger a type-I
     Interferon response. `Nature Medicine wrote up a short summary as well
