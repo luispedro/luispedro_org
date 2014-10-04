@@ -17,23 +17,23 @@ Selected Publications
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`open access version
     <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/>`__] [`mendeley
     <http://www.mendeley.com/research/determining-subcellular-location-new-proteins-microscope-images-using-local-features/>`__]
-    2.   **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying
-             the
-     distribution of probes between subcellular locations using unsupervised
-     pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online version
-     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
-     [`mendeley
-     <http://www.mendeley.com/catalog/quantifying-distribution-probes-between-subcellular-locations-using-unsupervised-pattern-unmixing/>`__]
-3.   **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
-     Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
-     Literature Image  Finder: Extracting Information from Text and Images in
-     Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
-     version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__] [`mendeley <http://www.mendeley.com/catalog/structured-literature-image-finder-extracting-information-text-images-biomedical-literature/>`__]
-4.   **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
-     segmentation in microscope cell images: A hand-segmented dataset and
-     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
-5.   **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
-     Structure for Approximate Text Indexing* SPIRE (2006)
+2.  **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying
+    the distribution of probes between subcellular locations using unsupervised
+    pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online
+    version
+    <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
+    [`mendeley
+    <http://www.mendeley.com/catalog/quantifying-distribution-probes-between-subcellular-locations-using-unsupervised-pattern-unmixing/>`__]
+3.  **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+    Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
+    Literature Image  Finder: Extracting Information from Text and Images in
+    Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
+    version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__] [`mendeley <http://www.mendeley.com/catalog/structured-literature-image-finder-extracting-information-text-images-biomedical-literature/>`__]
+4.  **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
+    segmentation in microscope cell images: A hand-segmented dataset and
+    comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
+5.  **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
+    Structure for Approximate Text Indexing* SPIRE (2006)
 
 (`Annotated list of selected publications <publications/annotated>`__)
 
