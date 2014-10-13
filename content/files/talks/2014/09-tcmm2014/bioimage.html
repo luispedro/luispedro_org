@@ -1,0 +1,544 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+        <title>Large Scale Analysis of Bioimages Using Python</title>
+
+		<meta name="description" content="" />
+		<meta name="author" content="Luis Pedro Coelho" />
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/beige.css" id="theme">
+
+        <style>
+            .reveal h1 { text-transform: none; font-size: 3em; }
+            .reveal h3 { text-transform: none; }
+            .reveal p { text-align: left; }
+        </style>
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script src="js/reveal.min.js" />
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides">
+				<section>
+				    <section>
+					<h1>Large Scale Analysis of Bioimages Using Python</h1>
+					<h2>Luis Pedro Coelho</h2>
+                        <hr />
+                        <a href="coelho@embl.de">coelho@embl.de</a><br />
+                        On twitter: <a href="https://twitter.com/luispedrocoelho">@luispedrocoelho</a>
+					</p>
+                    </section>
+                    <section>
+                        <h2>Python has a good ecosystem for data analysis</h2>
+                        <ul>
+                            <li>NumPy
+                            <li>Matplotlib
+                            <li>IPython
+                            <li>Scikit-learn
+                            <li>Mahotas
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Python has a growing ecosystem of scientific packages around numpy</h2>
+                        <p>Numpy provides basic data types (arrays, matrices).<br />
+                        Packages provide intelligence. </p>
+
+                        <aside class="notes">
+                        This is not strictly true.
+                        </aside>
+                    </section>
+                    <section>
+                        <h2>The wider ecosystem</h2>
+
+                        <img src="figures/sciwheel.png" />
+
+                    </section>
+                    <section>
+                        <h2>The wider ecosystem</h2>
+
+                        <img src="figures/nr_lines.png" />
+
+                    </section>
+
+                    <section>
+                        <h2>Multiple packages act together</h2>
+                        <h3>Mahotas can rely on pre-existing functionality</h3>
+                        <ol>
+                            <li>An image type (numpy array).</li>
+                            <li>Types to hold computed data (numpy array again).</li>
+                            <li>Plotting &amp; displaying (matplotlib).</li>
+                            <li>Machine learning (sklearn or milk).</li>
+                        </ol>
+
+
+                        <aside class="notes">
+                        </aside>
+                    </section>
+
+                    <section>
+                        <h2>Modularity is good software engineering</h2>
+                        <ul>
+                            <li>Improvements to one package benefit all.</li>
+                            <li>Separation of concerns.</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Consistency also helps human users</h2>
+                        <ul>
+                            <li>Single type for many uses.</li>
+                            <li>Many simple operations can be done in numpy.</li>
+                            <li>Same basic conventions.</li>
+                            <li>No copying/conversion of data between packages.</li>
+                        </ul>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        <h2>Mahotas: computer vision in Python</h2>
+
+                        <ul>
+                            <li>Works with NumPy arrays
+                            <li>Basic blocks necessary for image processing
+                            <li>Sister package: mahotas-imread for parsing image files
+                            <li>Modern open-source: github, automated tests, up-to-date documentation...
+                        </ul>
+
+                    </section>
+                    <section>
+                        <h2>Demonstration</h2>
+                        <ol>
+                            <li>Load an image
+                            <li>Basic smoothing &amp; thresholding
+                        </ol>
+                    </section>
+                    <section>
+                        <h2>Code</h2>
+                        <pre><code data-language="python">
+import mahotas as mh
+from matplotlib import pyplot as plt
+
+im = mh.imread('image_stretched.jpeg')
+sigma = 2.3
+imf = mh.gaussian_filter(im.mean(2), sigma)
+binary = (imf &gt; imf.mean())
+labeled, _ = mh.label(binary)
+plt.imshow(labeled)
+
+                        </code></pre>
+                    </section>
+                    <section>
+                        <h2>Implementation is in C++</h2>
+                            <ul>
+                                <li>Fast C++ code with a Python interface</li>
+                                <li>C++ templates allow for specialization</li>
+                                <li>Hand-written interface code</li>
+                            </ul>
+                    </section>
+                    <section>
+                        <pre><code data-language="C++">
+template&lt;typename T&gt;
+void bbox(const numpy::aligned_array&lt;T&gt; array,
+                    numpy::index_type* extrema) {
+    gil_release nogil;
+    const int N = array.size();
+    typename numpy::aligned_array&lt;T&gt;::const_iterator pos = array.begin();
+    for (int i = 0; i != N; ++i, ++pos) {
+        if (*pos) {
+            numpy::position where = pos.position();
+            for (int j = 0; j != array.ndims(); ++j) {
+                extrema[2*j] = std::min&lt;numpy::index_type&gt;(
+                                        extrema[2*j], where[j]);
+                extrema[2*j+1] = std::max&lt;numpy::index_type&gt;(
+                                        extrema[2*j+1], where[j]+1);
+            } } } }
+                        </code></pre>
+                    </section>
+                    <section>
+                        <h2>Result is fast, type-safe &amp; flexible</h2>
+                        <ul>
+                            <li>Fast as it is compiled without runtime type checks
+                            <li>Type-safe due to template wrappers
+                            <li>Flexible as the interface is in Python
+                            <li>Compilation in debug mode inserts many run-time checks
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Interfaces are hand-written</h2>
+                        <ul>
+                            <li>Automated generators exist (swig)</li>
+                            <li>They work very well, but give poor error messages</li>
+                            <li>I find good error messages important</Li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Scikit-image is another good alternative</h2>
+                        <ul>
+                            <li>Uses Cython instead of C++
+                            <li>More heavily focused on natural images<br />
+                                (Mahotas is heavily influenced by scientific images)
+                        </ul>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        <h2>Jug for large scale analysis</h2>
+                        <ul>
+                            <li>Reproducibility
+                            <li>Parallelism
+                            <li>Memoization
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Jug use cases</h2>
+                        <ul>
+                            <li>Parameter sweeps
+                            <li>Preprocessing of large data
+                            <li>Embarassingly parallel problems
+                            <li>Coarse grained parallelism
+                        </ul>
+
+                        <img class="fragment" src="jug_fan_in_fan_out.png" />
+                    </section>
+                    <section>
+                        <h2>Jug Tasks</h2>
+                        <ul>
+                            <li>A <em>Task</em> is a Python function &amp; its arguments
+                            <li>Arguments can be either values or results of other Tasks
+                            <li>Thus, Tasks implicitly define a <em>dependency graph</em>
+                            <li>A Task is identified by its hash
+                            <li>Hash of function name + arguments (recursively)
+                        </ul>
+
+                    </section>
+                    <section>
+                        <h2>Design Decisions</h2>
+                        <ul>
+                            <li>Code is not taken into account for hash.
+                            <li>This means that changing the code will not trigger recomputation
+                            <li>Explicit <strong>invalidate</strong> operation triggers recomputation <em>of all dependent tasks</em>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Jug execution loop</h2>
+                        <pre><code data-language="python">
+for task in alltasks:
+    if backend.has_data(task):
+        print("Task is already done")
+    elif backend.has_data(task.dependencies()):
+        if backend.lock(task):
+            r = task.execute()
+            backend.write(task.hash(), r)
+                        </code></pre>
+                    </section>
+                    <section>
+                        <h2>Processes communicate through backend</h2>
+                        <ul>
+                        <li>All communication between processes is through the backend</li>
+                        <li>User must start processes manually.
+                        <li>Backend handles all locking issues<br />
+                            (jobs are separate processes).
+                        <li>Jobs may start at different times.
+                        <li>Backend is very simple: key/value store + locking
+                        <li>Two backends available: filesystem &amp; Redis
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Example (demo)</h2>
+                        <ul>
+                            <li>Some images that you want to segment.</li>
+                            <li>Compare to a gold standard (hand-segmentation).</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <img src="image_stretched.jpeg" />
+                    </section>
+                    <section>
+                        <img src="image_reference.jpeg" />
+                    </section>
+                    <section>
+                        <pre><code data-language="python">
+import mahotas as mh
+def method1(image, sigma):
+    image = mh.imread(image)[:,:,0]
+    image  = mh.gaussian_filter(image, sigma)
+    binimage = (image &gt; image.mean())
+    labeled, _ = mh.label(binimage)
+    return labeled
+                        </code></pre>
+                    </section>
+                    <section>
+                        <h2>Now, we do a live demo...</h2>
+                    </section>
+                    <section>
+                        <pre><code data-language="python">
+import mahotas as mh
+from jug import TaskGenerator
+from glob import glob
+@TaskGenerator
+def method1(image, sigma):
+    ...
+    return labeled
+
+@TaskGenerator
+def print_results(...):
+    ...
+
+inputs = glob('images/*.jpg')
+results = []
+for im in inputs:
+    m1 = method1(im, 2)
+    m2 = method2(im, 4)
+    ref = im.replace('images','references').replace('jpg','png')
+    v1 = compare(m1, ref)
+    v2 = compare(m2, ref)
+    results.append( (v1,v2) )
+print_results(results)
+
+                        </code></pre>
+                    </section>
+                    <section>
+                        <h2>Jugfile is like Python except for TaskGenerator</h2>
+                        <p>Decorator magic, but without decorators it is still simple:
+                        <pre><code data-language="python">
+from jug import TaskGenerator
+@TaskGenerator
+def method1(image, sigma):
+    ...
+    return labeled
+
+m1 = method1(im, 2)
+                        </code></pre>
+                        <p>is equivalent to
+                        <pre><code data-language="python">
+from jug import Task
+def method1(image, sigma):
+    ...
+    return labeled
+
+m1 = Task(method1, im, 2)
+                        </code></pre>
+
+                    </section>
+                    <section>
+                        <h2>Some Details</h2>
+                        <ul>
+                            <li>Anything that can be serialized by Python (<tt>pickle</tt>) will work fine.</li>
+                            <li>Special support for NumPy arrays (speed/disk usage)</li>
+                            <li>Works with filesystem (including working well on NFS).</li>
+                            <li>Alternatively, use Redis
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>To run on a cluster, use the cluster interface</h2>
+                        <pre><code data-language="shell">
+#!/bin/bash
+
+# SOME SETUP CODE MIGHT GO HERE
+
+jug execute
+                        </code></pre>
+                        <p>Then use your cluster interface:
+                        <pre><code data-language="shell">
+                        qsub run-jug.sh
+                        </code></pre>
+                    </section>
+                    <section>
+                        <h2>Some more operations</h2>
+                        <ul>
+                            <li>jug cleanup: run garbage collection on the backend
+                            <li>jug sleep-until: wait until all tasks are finished
+                        </ul>
+                    </section>
+
+				</section>
+                <section>
+                    <section>
+                        <h2>Example Application</h2>
+                        <ul>
+                            <li>Quantification of Neutrophil Extracellular Traps (NETs)
+                            <li>Neutrophils physically ensnare bacteria by exploding and using their DNA fibers to build a net
+                        </ul>
+
+                        <p style="padding-top: 2em">(This is work currently under review.)</p>
+                    </section>
+                    <section>
+                        <h2>Can we use a supervised approach?</h2>
+                        <img src="file58.png" />
+                    </section>
+                    <section>
+                        <h2>Initial remarks</h2>
+                        <ul>
+                            <li>We do not need perfect segmentation<br />
+                            (similar to <em>Learning to Count</em> framework)
+                            <li>We want to try several methods
+                        </ul>
+                    </section>
+                    <section>
+                        <img src="diagram.svg" />
+                    </section>
+                    <section>
+                        <h2>Different submodules lead to different methods</h2>
+                        <ul>
+                            <li>How to break up image?
+                            <li>Which features to compute?
+                            <li>Which regression module to use?<br />
+                                (we always used random forests).
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Different ways to break up image</h2>
+                        <ol>
+                            <li>Oversegmentation
+                            <li>Regular grid
+                            <li>Interest point detection
+                        </ol>
+                    </section>
+                    <section>
+                        <h2>Different ways to compute features</h2>
+                        <ul>
+                            <li>Texture features
+                            <li>Image filterings
+                            <li>SURF features (different scales)
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Initial (raw) results</h2>
+                        <img src="surf(1)-origins-raw.png" />
+                    </section>
+                    <section>
+                        <h2>Can we combine the methods?</h2>
+                        <img src="error_scatter.png" />
+                        <p>
+                        Above diagonal, we show a scatter plot of <em>residuals</em>.<br />
+                        Below diagonal, we show Pearson correlation of residuals.
+                    </section>
+                    <section>
+                        <h2>Linear regression for combination</h2>
+                        <img src="final-plot.png" />
+                    </section>
+                    <section>
+                        <h2>How good is 93 percent?</h2>
+                        <p class="fragment">Well, how good are humans (the baseline method)?</p>
+
+                        <img class="fragment" src="human-comparison.png" />
+                    </section>
+                    <section>
+                        <h2>Comparison example</h2>
+                        <img src="compare-example.png" />
+                    </section>
+                    <section>
+                        <h2>Label it twice</h2>
+                        <ul>
+                            <li>If your method uses human labeled data,<br />
+                                <em>label it twice</em>
+                            <li>Many cases, humans are not that great
+                            <li>In our case, operator bias is major issue<br />
+                                but bias seems consistent
+
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Cross-validate by experiment, not by image!</h2>
+                        <ul>
+                            <li>Each experiment resulted in several images from the same slide.
+                            <li>Using images from the same experiment in training/testing<br />
+                                results in a 3-6% Q² boost!
+                            <li>Other work in related problems shows analogous effects.
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Whole computation is managed with jug</h2>
+                        <ul>
+                            <li>Prototype to publication to reproduction without breaks
+                            <li>Easy to reproduce
+                            <li>Smallish problem (100 CPU hours)
+                            <li>We will make the code available when paper is accepted
+                        </ul>
+                        <p class="fragment">Live demo time again...</p>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                    <h2>Conclusions</h2>
+                    <ul>
+                        <li>Python is great for data analysis</li>
+                        <li>Partially because it makes it easy to use non-Python
+                        <li>Partially because of the ecosystem of packages
+                        <li>Jug makes it easier to manage computations
+                        <li>IPython is great for communication
+                        <li>When using human-labeled data, label it twice
+                        <li>Beware the cross-validation schedule
+                    </ul>
+                    </section>
+                    <section>
+                    <h2>Acknowledgements</h2>
+                    <ul>
+                        <li>The people who contributed patches, reports to my projects</li>
+                        <li>Catarina Pato</li>
+                        <li>Ana Friães</li>
+                        <li>Ariane Neumann</li>
+                        <li>Mário Ramirez</li>
+                        <li>Marien von Köckritz-Blickwede</li>
+                        <li>João Carriço</li>
+                    </ul>
+
+                    </section>
+                    <section>
+                        <h1>Thank You</h1>
+                    </section>
+                </section>
+
+
+
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: false,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>

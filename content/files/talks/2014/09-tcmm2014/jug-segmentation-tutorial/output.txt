@@ -1,0 +1,2 @@
+Result method1: 0.651224051989
+Result method2: 0.3422514615
