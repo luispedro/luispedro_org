@@ -124,12 +124,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**September 15-17** I will be at TGAC.
-
-**September 27-28** I will be in San Sebastian for `Python San Sebastien <http://pyss.org/>`__
-
-**October 8-10** I will be in Leuven for `Bioimage Informatics <http://www.vibconferences.be/event/bioimage-informatics>`__
-
 **October 22** Virtual trip for an `O'Reilly webcast on Penalised Regression in
 Python <http://www.oreilly.com/pub/e/3117>`__
 

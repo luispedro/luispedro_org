@@ -10,6 +10,8 @@ News Archive
 **November 2014** I am the lead organizer for a `software carpentry workshop at
 EMBL <http://www.embl.de/training/events/2014/SWC14-01/index.html>`__.
 
+**September 2014** Keynote talk in `Python San Sebastien <http://pyss.org/>`__
+
 **September 2014** Speaking at `TCMM2014
 <http://www.esat.kuleuven.be/stadius/tcmm2014/program.php>`__
 
