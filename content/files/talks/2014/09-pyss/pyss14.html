@@ -1,0 +1,647 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Python for Computer Vision in Biology and Beyond</title>
+
+        <meta name="description" content="Python for Computer Vision in Biology and Beyond" />
+		<meta name="author" content="Luis Pedro Coelho" />
+
+		<link rel="stylesheet" href="css/reveal.min.css">
+		<link rel="stylesheet" href="css/theme/beige.css" id="theme">
+
+        <style>
+            .reveal h1 { text-transform: none; font-size: 3em; }
+            .reveal h3 { text-transform: none; }
+        </style>
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+		<script src="reveal.min.js" />
+		<script>
+			document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+                <section>
+                    <h1>Python for Computer Vision in Biology and Beyond</h1>
+                    <p>
+                        Luis Pedro Coelho (EMBL)<br />
+                        <hr />
+                        On twitter: <a href="https://twitter.com/luispedrocoelho">@luispedrocoelho</a>
+                        <br />
+                        Webpage: <a href="http://luispedro.org">http://luispedro.org</a>
+                        <br />
+                        Blog: <a href="http://metarabbit.wordpress.com">http://metarabbit.wordpress.com</a>
+                    </p>
+                </section>
+				<section>
+                    <section>
+                        <h2>About Me</h2>
+                        <img src="MyMap.svg" />
+                    </section>
+                    <section>
+                        <h2>Picked up a few degrees on the way</h2>
+                        <ul>
+                            <li>MS &amp; BS in computer science (U Lisbon)</li>
+                            <li>PhD in computational biology (CMU)</li>
+                            <li>Currently, a computational biologist at EMBL</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>I'm driven by problems in biology</h2>
+                        <ul>
+                            <li>I now care about solvings problems.</li>
+                            <li>I need to write code/develop methods</li>
+                            <li>But if off-the-shelf simple solution exists,<br />
+                                so much the better.</li>
+                        </ul>
+                        <img class="fragment" src="max_038.png" />
+                    </section>
+                    <section>
+                        <h2>I release my software as open source</h2>
+                        <ul>
+                            <li>Because that's how I started doing things.</li>
+                            <li>Because I think that this is what should be done.</li>
+                            <li>Because <a href="http://metarabbit.wordpress.com/2013/05/10/why-i-develop-open-source-scientific-software/">it forces me to write better code</a>.</li>
+                            <li>Because other people contribute<br />
+                                (even just bug reports are very useful [I outsource QA])</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>I was using Python for computer vision before it was cool</h2>
+                        <img src="BywaterKeepOffHipstersStepsB.jpg" style="width:50%; float: right" />
+                        <ul style="width:45%; float : left">
+                            <li>There were no packages for these tasks back in 2008-2007
+                            <li>pymorph was a Python-only abandoned project.
+                            <li>Had to write my own code for everything.
+                            (<a href="http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar">scratch your own itch</a>).
+                            <li>Turns out other people found it useful<br />
+                                <img src="https://pypip.in/d/mahotas/badge.png" />
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Python is now a viable alternative for image processing</h2>
+                        <img src="papers.svg" />
+                    </section>
+                    <section>
+                        <h2>Being task-focused makes me naturally agile</h2>
+
+                        <ul>
+                            <li>Bad agile means no design
+                            <li>Good agile means constant (re)design
+                            <li>At any given time, I was writing code that made my life easier
+                            <li>I'm still interested in exploring links between science &amp; agile
+                        </ul>
+                    </section>
+                </section>
+
+				<section>
+                    <section>
+                        <h2>Python now has a large &amp; growing ecosystem of scientific packages around numpy</h2>
+                        <p>Numpy provides basic data types (arrays, matrices).<br />
+                        Packages provide intelligence. </p>
+
+                        <aside class="notes">
+                        This is not strictly true.
+                        </aside>
+                    </section>
+                    <section>
+                        <h2>The wider ecosystem</h2>
+
+                        <img src="sciwheel.svg" />
+
+                    </section>
+                    <section>
+                        <h2>Multiple packages act together</h2>
+                        <ol>
+                            <li>An image type (numpy array).</li>
+                            <li>Types to hold computed data (numpy array again).</li>
+                            <li>Plotting &amp; displaying (matplotlib).</li>
+                            <li>Machine learning (scikit-learn).</li>
+                        </ol>
+
+                        <aside class="notes">
+                        </aside>
+                    </section>
+
+                    <section>
+                        <h2>Modularity enables "invisible hand collaboration"</h2>
+                        <ul>
+                            <li>Improvements to one package benefit all.</li>
+                            <li>Enables distributed "invisible hand collaboration".</li>
+                            <li>Numarray was written by physicists,<br />
+                            mahotas was motivated by fluorescent microscopy,<br />
+                            pandas was motivated by financial sector...
+                            <li>None of this matters for you, you just get to use good software!</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Basic packages are stable, others are expanding</h2>
+                        <img width="70%" src="nr_lines.png" />
+
+                        <aside class="notes">
+                        </aside>
+                    </section>
+
+                    <section>
+                        <h2>Consistency helps human users</h2>
+                        <ul>
+                            <li>Single type for many uses.</li>
+                            <li>Many simple operations can be done in numpy.</li>
+                            <li>Same basic conventions.</li>
+                            <li>No copying/conversion of data between packages.</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Packages are not very intrusive</h2>
+                        <ul>
+                            <li>No complex object-oriented frameworks with many types<br />
+                                functions &amp; simple objects</li>
+                            <li>Mahotas is 100% pure functions.</li>
+                            <li>This allows for easier mix &amp; match</li>
+                            <li>(Only works because we have numpy)</li>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>This Ain't Your Grandfather's Open Source</h2>
+
+                        <img src="modern-open-source.svg" />
+                        <p>Python Standard Library now looks very 1990's</p>
+                    </section>
+                    <section>
+                        <h2>Is Our Work Done?</h2>
+                        <ul>
+                            <li>Code growth is leveling off.</li>
+                            <li>Python for science has reached maturity.</li>
+                        </ul>
+
+                        <div class="fragment">
+                            <h2>Yes, but not really</h2>
+                            <ul>
+                                <li>Python has caught up with alternatives, now needs to speed ahead.
+                                <li>A lot of new stuff in the pipeline:<br />
+                                    Bokeh, Numba, PyPy...
+                                <li>At the same time, larger datasets impose new challenges
+                                <li class="fragment">Perhaps we will have a new round of confusion/consolidation very soon</li>
+                            </ul>
+                        </div>
+                    </section>
+                </section>
+
+				<section>
+                    <section>
+                        <h1>Image processing &amp; computer vision in Python</h1>
+                    </section>
+                    <section>
+                        <h2>Scikit-image and OpenCV are excellent tools</h2>
+                        <ul>
+                            <li>We all have different tradeoffs
+                            <li>Two-dimensional vs. multi-dimensional
+                            <li>Speed vs. flexibility
+                            <li>Focus on natural images vs. scientific images
+                            <li>Feel free to mix &amp; match
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Example of using mahotas</h2>
+                        <pre><code data-language="python">
+import mahotas as mh
+from matplotlib import pyplot as plt
+
+im = mh.imread('image_stretched.jpeg')
+sigma = 2.3
+imf = mh.gaussian_filter(im.mean(2), sigma)
+binary = (imf &gt; imf.mean())
+labeled, _ = mh.label(binary)
+plt.imshow(labeled)
+
+                        </code></pre>
+                    </section>
+                    <section>
+                        <h2>The Why of Mahotas</h2>
+                        <ol>
+                            <li>Just work or fail well
+                            <li>Well documented
+                            <li>Fast code
+                            <li>Simple code
+                            <li>Minimal dependencies
+                        </ol>
+                    </section>
+                    <section>
+                        <h2>Try very hard to "just work"</h2>
+                        <ul>
+                            <li>Accept different types or convert types
+                            <li>Accept non-contiguous arrays
+                            <li>Sometimes have multiple implementations<br />
+                                slow but flexible as well as fast and furious.
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.</h2>
+                        <img src="ows_140508732368734.jpg" style="width:45%; float: left" />
+                        <ul style="width: 50%; float: right">
+                            <li><em>Things need to work well,<br />
+                            but they also need to fail well.</em></li>
+                            <li>I am obsessed with error messages</li>
+                            <li>This is the reason that mahotas uses hand-written C++ bindings
+                            <li>This is also why we need to minimize dependencies
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h2>Fast code means compiled code</h2>
+                        <ul>
+                            <li>Mahotas is written in C++
+                        </ul>
+                        <pre><code data-language="C++">
+template&lt;typename T&gt;
+void bbox(const numpy::aligned_array&lt;T&gt; array,
+                    numpy::index_type* extrema) {
+    gil_release nogil;
+    const int N = array.size();
+    typename numpy::aligned_array&lt;T&gt;::const_iterator pos = array.begin();
+    for (int i = 0; i != N; ++i, ++pos) {
+        if (*pos) {
+            numpy::position where = pos.position();
+            for (int j = 0; j != array.ndims(); ++j) {
+                extrema[2*j] = std::min&lt;numpy::index_type&gt;(
+                                        extrema[2*j], where[j]);
+                extrema[2*j+1] = std::max&lt;numpy::index_type&gt;(
+                                        extrema[2*j+1], where[j]+1);
+            } } } }
+                        </code></pre>
+                    </section>
+
+                    <section>
+                        <h2>Basic Pipeline</h2>
+                        <ol>
+                            <li>Image loading.</li>
+                            <li>Image filtering (morphological, Gaussian, &amp;c)</li>
+                            <li>Feature computation (Haralick, LBPs, SURF, &amp;c)</li>
+                            <li>Machine learning.</li>
+                        </ol>
+
+                        <aside class="notes">
+                        </aside>
+                    </section>
+
+                    <section>
+                        <h2>Image Loading is getting pixels from Bytes</h2>
+                        <pre style="float:left; width:46%">
+d8ff e1ff 1a39 7845 6669 0000 4949 002a
+0008 0000 000c 0100 0004 0001 0000 0a00
+0000 0101 0004 0001 0000 0780 0000 010f
+0002 0008 0000 00b2 0000 0110 0002 000a
+0000 00ba 0000 0112 0003 0001 0000 0001
+0000 011a 0005 0001 0000 00c4 0000 011b
+0005 0001 0000 00cc 0000 0128 0003 0001
+0000 0002 0000 0131 0002 000c 0000 00d4
+0000 0132 0002 0014 0000 009e 0000 0213
+0003 0001 0000 0002 0000 8769 0004 0001
+0000 00e0 0000 02e0 0000 3032 3431 303a
+3a39 3431 3120 3a31 3533 323a 0031 4153
+534d 4e55 0047 5447 492d 3138 3039 0000
+0048 0000 0001 0000 0048 0000 0001 0000
+3849 3931 5830 4158 414e 0032 0017 829a
+0005 0001 0000 01fa 0000 829d 0005 0001
+0000 0202 0000 8822 0008 0001 0000 0003
+0000 8827 0003 0001 0000 0032 0000 9000
+0007 0004 0000 3230 3032 9003 0002 0014
+0000 021e 0000 9004 0002 0014 0000 020a
+</pre><img class="fragment" style="width:50%; float:right" src="anna.jpeg" />
+
+
+                    </section>
+                    <section>
+                        <h2>Image loading is surprisingly hard</h2>
+                        <ul>
+                            <li>Loading an image from disk to image is not a trivial issue</li>
+                            <li>No single library for all formats.</li>
+                            <li>Especially for non-basic formats (beyond PNG or JPEG),<br />
+                                but even those are problematic.
+                            <li>Number one source of user issues (directly or indirectly)</li>
+                            <li>Unglamarous problem that gets little love</li>
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h2>Mahotas' (partial) solution</h2>
+                        <ul>
+                            <li>Rely on external packages
+                            <ol>
+                                <li>Mahotas-imread
+                                <li>FreeImage
+                            </ol>
+                            <li>We used to fall back on matplotlib if neither was available, but that was unreliable
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h2>Mahotas-imread? What?</h2>
+                        <ul class="fragment">
+                            <li>Spin-off package just to read &amp; write images!
+                            <li>Kept separately to avoid bringing in dependencies to mahotas
+                            <li>Not ideal solution
+                            <li>We are all struggling with this issue
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h2>Code that runs here is easy, code that runs there is hard</h2>
+
+                        <ul>
+                            <li>This is especially true for "glue stuff together" code.</li>
+                            <li>Java's <em>write once, run everywhere</em> was a very appealing promise.
+                            <li>Paradox: we have a lot of tools, modularity is good, dependencies are bad.
+                            <li>Virtualenv/pip/buildout, rubyenv, cabal sandbox, npm, apt-get...
+                        </ul>
+                        <div class="fragment">
+                        <p>I don't have a solution.
+                        <img src="12832.strip.gif" />
+                        </div>
+                    </section>
+                    <section>
+                        <h2>Do not be a nit</h2>
+                        <ul>
+                            <li>Try to make your code degrade well
+                            <li>Work around bugs in 3rd party libraries
+                            <li>Fix things that are not your fault
+                        </ul>
+                    <div class="fragment" style="padding-top: 2em">
+                    <h3>Linus wrote in one of his famous emails</h3>
+<pre>
+&gt; Are you saying that pulseaudio is entering on some weird loop if the
+&gt; returned value is not -EINVAL? That seems a bug at [CLIENT APPLICATION].
+
+If a change results in user programs breaking, it's a bug in the
+kernel. We never EVER blame the user programs. How hard can this be to
+understand?
+</pre>
+                    </div>
+                    </section>
+                    <section>
+                        <h2>Reminder: We have a tutorial afterwards</h2>
+                        <ul>
+                            <li>Tutorial will present more details of what's available in Mahotas &amp;c
+                            <li>We will look at a particular application that's cool machine learning &amp; was done in Python
+                        </ul>
+                    </section>
+                </section>
+
+				<section>
+                    <section>
+                        <h2>Learning to quantify fraction of NETs in images</h2>
+                        <ul>
+                            <li>Quantification of Neutrophil Extracellular Traps (NETs)
+                            <li>Neutrophils physically ensnare bacteria by exploding and using their DNA fibers to build a net
+                        </ul>
+
+                        <p style="padding-top: 2em">(This is work currently under review.)</p>
+                    </section>
+                    <section>
+                        <h2>Neutrophils explode and leave NETs, bacteria eat them</h2>
+                        <img src="file58.png" />
+                    </section>
+                    <section>
+                        <h2>Problem</h2>
+                        <ul>
+                            <li>Can we automatically quantify the fraction of NETs?</li>
+                            <li><strong>Key idea</strong>: We do not need perfect segmentation<br />
+                            (similar to <em>Learning to Count</em> framework)
+                        </ul>
+                    </section>
+                    <section>
+                        <img src="diagram.svg" />
+                    </section>
+                    <section>
+                        <h2>Step I: Loading</h2>
+                        <pre><code data-language="python">import mahotas as mh
+protein = mh.imread('protein.tiff')
+dna = mh.imread('dna.tiff')
+plt.imshow(mh.as_rgb(dna, protein, 0))
+</code></pre>
+                        <img src="step0.png" />
+                    </section>
+                    <section>
+                        <h2>Step II: Gaussian filter</h2>
+                        <pre><code data-language="python">protein = mh.gaussian_filter(protein, 1.2)
+</code></pre>
+                        <img src="step1.png" />
+                    </section>
+                    <section>
+                        <h2>Step III: Build grid</h2>
+                        <pre><code data-language="python">markers = np.zeros_like(protein)
+markers[16::32, 16::32] = 1
+markers,_ = mh.label(markers)
+</code></pre>
+                        <img src="step2.png" />
+                    </section>
+                    <section>
+                        <h2>Step IV: Watershed</h2>
+                        <pre><code data-language="python">regions = mh.cwatershed(protein.max() - protein, markers)
+</code></pre>
+                        <img src="step3.png" />
+                    </section>
+                    <section>
+                        <h2>Step V: Compute features</h2>
+                        <pre>
+<code data-language="python">features = []
+fractions = []
+for n in range(regions.max()):
+    cur_region = protein * (regions == (n+1))
+    features.append(mh.features.haralick(cur_region, ignore_zeros=True))
+    fractions.append(handlabeled[regions == (n+1)].mean())
+</code></pre>
+                    <ul>
+                        <li>Haralick features are just numbers computed from images
+                        <li><tt>ignore_zeros</tt> tells the function to ignore zero-valued pixels
+                    </ul>
+                    </section>
+                    <section>
+                        <h2>Step VI: Call random forest from scikit-learn</h2>
+                        <pre>
+<code data-language="python">from sklearn.ensemble import RandomForestRegressor
+est = RandomForestRegressor()
+est.fit(features, fractions)
+</code></pre>
+                    </section>
+                    <section>
+                        <h2>We obtain good agreement with gold standard</h2>
+                        <img src="final-plot.png" />
+                    </section>
+                    <section>
+                        <h2>How good is 93 percent?</h2>
+                        <p class="fragment">Well, how good are humans (the baseline method)?</p>
+
+                        <img class="fragment" src="human-comparison.png" />
+                    </section>
+                    <section>
+                        <h2>Comparison example</h2>
+                        <img src="compare-example.png" style="width:100%" />
+                    </section>
+                    <section>
+                        <h2>Label it twice</h2>
+                        <ul>
+                            <li>If your method uses human labeled data,<br />
+                                <em>label it twice</em>
+                            <li>Many cases, humans are not that great
+                            <li>In our case, operator bias is major issue<br />
+                                but bias seems consistent
+
+                        </ul>
+                    </section>
+				</section>
+                <section>
+                    <section>
+                        <h2>Whole computation is managed with jug</h2>
+                        <ul>
+                            <li>Prototype to publication to reproduction without breaks
+                            <li>Easy to reproduce
+                            <li>Smallish problem (100 CPU hours)
+                            <li>We will make the code available when paper is accepted
+                            <li>This will ensure perfect reproducibility<br />
+                            (and extendibility).
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Jug use cases</h2>
+                        <ul>
+                            <li>Parameter sweeps
+                            <li>Preprocessing of large data
+                            <li>Embarassingly parallel problems
+                            <li>Coarse grained parallelism
+                        </ul>
+
+                        <img class="fragment" src="jug_fan_in_fan_out.png" />
+                    </section>
+                    <section>
+                        <h2>Jug Tasks</h2>
+                        <ul>
+                            <li>A <em>Task</em> is a Python function &amp; its arguments
+                            <li>Arguments can be either values or results of other Tasks
+                            <li>Thus, Tasks implicitly define a <em>dependency graph</em>
+                            <li>A Task is identified by its hash
+                            <li>Hash of function name + arguments (recursively)
+                        </ul>
+
+                    </section>
+                    <section>
+                        <h2>Design Decisions</h2>
+                        <ul>
+                            <li>Code is not taken into account for hash.
+                            <li>This means that changing the code will not trigger recomputation
+                            <li>Explicit <strong>invalidate</strong> operation triggers recomputation <em>of all dependent tasks</em>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Jugfile</h2>
+                        <pre><code data-language="python">
+from jug import TaskGenerator
+@TaskGenerator
+def double(x):
+    return x * 2
+
+@TaskGenerator
+def print_resuls(value):
+    with open('output.txt', 'w') as out:
+        out.write("Result: {}\n".format(value))
+
+four = double(2)
+final = double(four)
+print_resuls(final)
+                        </code></pre>
+                    </section>
+                    <section>
+                        <h2>Jug execution loop</h2>
+                        <pre><code data-language="python">
+for task in alltasks:
+    if backend.has_data(task):
+        print("Task is already done")
+    elif backend.has_data(task.dependencies()):
+        if backend.lock(task):
+            r = task.execute()
+            backend.write(task.hash(), r)
+                        </code></pre>
+                    </section>
+				</section>
+
+				<section>
+                    <section>
+                        <h2>Summary</h2>
+                        <ul>
+                            <li>The Python Numpy-based ecosystem is powerful and flexible.</li>
+                            <li>A good abstraction/API allows for "invisible hand collaboration"</li>
+                            <li>Dependencies are a hard problem<br />
+                                    but too much code makes it harder than it needs to be.
+                            <li>Mahotas &amp;c are great for computer vision
+                            <li>Everyone has its memoization system<br />
+                                but different tradeoffs.
+                            <li>Don't leave, there's a tutorial coming up!
+                        </ul>
+                        <aside class="notes">
+                        </aside>
+                    </section>
+                    <section>
+                        <h1>Thank You</h1>
+                        <!-- <p><small>This presentation is available at <a href="http://bit.ly/">http://bit.ly/</a></small></p> -->
+                    </section>
+                    <section>
+                        <h2>Preparation for Tutorial</h2>
+                        <ul>
+                            <li>Go to <a href="https://github.com/luispedro/python-image-tutorial">https://github.com/luispedro/python-image-tutorial</a>
+                            <li>Follow the Sagemath Cloud instructions.
+                            <li>You can also install locally<br />
+                                (but I will use the online version)
+                        </ul>
+                    </section>
+                </section>
+
+
+
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.min.js"></script>
+
+		<script>
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+				]
+			});
+		</script>
+
+	</body>
+</html>
