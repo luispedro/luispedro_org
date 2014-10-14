@@ -82,8 +82,6 @@
 
         </style>
     </head>
-    <script>
-    </script>
 
     <body>
     <div id="wrap">
@@ -120,6 +118,7 @@
         <div> <svg id="image" height="320" style="overflow: visible" /></div>
     </div>
     <script>
+        //<![CDATA[
     var svg = d3.select('#image');
     var squares;
     function add_square(x,y, side) {
@@ -376,6 +375,7 @@
             $("#button").text("Start animation");
         }
     });
+    //]]>
     </script>
 </body>
 
