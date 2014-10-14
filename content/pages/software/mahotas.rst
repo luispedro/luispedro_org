@@ -16,6 +16,15 @@ A dedicated mahotas page with documentation is available at
 `http://mahotas.rtfd.org <http://mahotas.rtfd.org>`__. This page is just a
 summary.
 
+If you are using mahotas in a scientific publication, please cite:
+
+    Coelho, L.P. 2013. Mahotas: Open source software for scriptable computer
+    vision. Journal of Open Research Software 1(1):e3, DOI:
+    http://dx.doi.org/10.5334/jors.ac
+
+Summary
+-------
+
 Mahotas is a set of functions for image processing and computer vision in
 Python. It was originally designed for `bioimage informatics
 <http://en.wikipedia.org/wiki/Bioimage_informatics>`__, but is useful in other
@@ -33,25 +42,6 @@ The code is `well documented <http://mahotas.rtfd.org/>`__ (**all** public
 functions are extensively documented) and well tested (almost 100% test
 coverage). It has **no known bugs** (if you email me a bug report with a clear
 test case, I will typically fix it in less than 24 hours).
-
-
-If you are using mahotas in a scientific publication, please cite:
-
-    Coelho, L.P. 2013. Mahotas: Open source software for scriptable computer
-    vision. Journal of Open Research Software 1(1):e3, DOI:
-    http://dx.doi.org/10.5334/jors.ac
-
-In BibTeX format::
-
-    @article{coelho:mahotas,
-        title = {Mahotas: Open source software for scriptable computer vision},
-        author = {Luis Pedro Coelho},
-        journal = {Journal of Open Research Software},
-        year = {2013},
-        volume = {1},
-        doi = {10.5334/jors.ac},
-        url = {http://dx.doi.org/10.5334/jors.ac}
-    }
 
 `Slide deck about mahotas and Python for bioimage informatics
 </files/talks/2013/mahotas.html>`__.
