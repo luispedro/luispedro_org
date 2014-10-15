@@ -12,6 +12,18 @@ categories: software python
 Mahotas-imread: Reads images into numpy arrays
 ==============================================
 
+A dedicated  page with documentation is available at `http://imread
+<http://imread.rtfd.org>`__. This page is just a summary.
+
+If you are using mahotas-imread in a scientific publication, please cite the
+`mahotas </software/mahotas>`__ paper (imread is an off-shoot and does not,
+currently, have its own paper):
+
+    Coelho, L.P. 2013. Mahotas: Open source software for scriptable computer
+    vision. Journal of Open Research Software 1(1):e3, DOI:
+    http://dx.doi.org/10.5334/jors.ac
+
+
 This project is a spin off of mahotas (for reasons of maintainability, I felt
 it was better to not emcumber mahotas with all the IO code that imread
 contains).
@@ -26,28 +38,6 @@ imsave
 
 It currently works on PNG, JPEG, and TIFF (including some TIFF variations such
 as STK or LSM).
-
-If you are using mahotas-imread in a scientific publication, please cite the
-`mahotas </software/mahotas>`__ paper (imread is an off-shoot and does not,
-currently, have its own paper):
-
-    Coelho, L.P. 2013. Mahotas: Open source software for scriptable computer
-    vision. Journal of Open Research Software 1(1):e3, DOI:
-    http://dx.doi.org/10.5334/jors.ac
-
-In BibTeX format::
-
-    @article{coelho:mahotas,
-        title = {Mahotas: Open source software for scriptable computer vision},
-        author = {Luis Pedro Coelho},
-        journal = {Journal of Open Research Software},
-        year = {2013},
-        volume = {1},
-        doi = {10.5334/jors.ac},
-        url = {http://dx.doi.org/10.5334/jors.ac}
-    }
-
-
 
 Where can I get it?
 -------------------
