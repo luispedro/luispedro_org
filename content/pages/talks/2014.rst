@@ -10,6 +10,8 @@ Talks in 2014
 This is a list with slides and sometimes references &c for talks I gave in the
 past. I can only post those that contain solely public information.
 
+November 2014. `Software carpentry workshop at EMBL </talks/2014/11-swc-embl>`__
+
 July 2014. `Introduction to Python at LxMLS </files/talks/2014/lpc-lxmls-python.pdf>`__
 
 June 2014. `Software carpentry workshop in Amman (Jordan) </talks/2014/sesame>`__

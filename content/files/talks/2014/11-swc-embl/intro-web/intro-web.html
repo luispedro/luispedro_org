@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Putting Your Data on the Web</title>
+
+        <meta name="description" content="" />
+		<meta name="author" content="Luis Pedro Coelho" />
+
+		<link rel="stylesheet" href="reveal.js/css/reveal.css">
+		<link rel="stylesheet" href="reveal.js/css/theme/beige.css" id="theme">
+
+        <style>
+            .reveal h1 { text-transform: none; font-size: 3em; }
+            .reveal h3 { text-transform: none; }
+        </style>
+		<!-- For syntax highlighting -->
+		<link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+		<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+            <section>
+                <section>
+                    <h1>Putting your data on the web with webtools</h1>
+                </section>
+                <section>
+                    <h2>Goals for this session</h2>
+                    <p>After the next 90 minutes, ideally you should:
+                    <ul>
+                        <li>Understand basic web architecture
+                        <li>Understand basic HTML
+                        <li>Know how to use bottle to put your data online
+                    </ul>
+                </section>
+            </section>
+
+            <section>
+                <section>
+                    <h2>The Internet &amp; the Web</h2>
+                    <ul>
+                        <li>Servers
+                        <li>IPs, DNS, URLs
+                    </ul>
+                </section>
+                <section>
+                    <h2>Let us start with URLs</h2>
+                    <ul>
+                        <li>Uniform Resource Locator</li>
+                    </ul>
+
+                    <p><img src="URL.svg" style="border: 0px" />
+                        <style>
+                            DT {
+                                color: #f90;
+                            }
+                        </style>
+                        <dl>
+                            <dt class="fragment">protocol</dt>
+                            <dd class="fragment">How to get the information</dd>
+                            <dt class="fragment">server</dt>
+                            <dd class="fragment">Where to get it</dd>
+                            <dt class="fragment">location</dt>
+                            <dd class="fragment">Where to get it <em>on the server</em></dd>
+                            <dt class="fragment">query</dt>
+                            <dd class="fragment">Parameters</dd>
+                        </dl>
+                </section>
+                <section>
+                    <h2>Server names &amp; IP addresses</h2>
+                    <ul>
+                        <li><tt>www.google.com</tt> is mapped to <tt>74.125.136.99</tt></li>
+                        <li><tt>74.125.136.99</tt> is the IP address.
+                    </ul>
+                </section>
+                <section>
+                    <h3>Special IP addresses</h3>
+                    <p>
+                    <a href="http://www.thinkgeek.com/product/5d6a/">
+                        <img src="http://a.tgcdn.net/images/products/frontsquare/noplace.jpg" />
+                    </a>
+                    </p>
+
+                    <ul class="fragment">
+                        <li><tt>127.0.0.1</tt> is the local computer computer<br />
+                        also called <tt>localhost</tt>.
+                    </ul>
+                </section>
+                <section>
+                    <h3>Ports</h3>
+                    <p><img src="URLport.svg" style="border: 0px" />
+
+                    <ul>
+                        <li>A port is just a number.
+                        <li>HTTP uses port 80 by default.
+                        <li>You can use different ports to keep things separate.
+                    </ul>
+                </section>
+                <section>
+                    <h3>Summary</h3>
+                    <ul>
+                        <li><tt>http://www.google.com:80/search?q=Software+Carpentry</tt>
+                        <li>Makes an <em>http</em> connection to <em>www.google.com</em>
+                        <li>Says <em>This connection is for port 80</em>
+                        <li>Asks for <em>search</em> with argument <em>q</em> having the value <em>Software Carpentry</em>.
+                        <li class="fragment">The server returns a response which your browser interprets.</li>
+                    </ul>
+                </section>
+            </section>
+            <section>
+                <section>
+                    <h2>HTML</h2>
+                    <ul>
+                        <li>Basic language of the web
+                        <li>Textual markup language
+                    </ul>
+                    <pre>
+&lt;html&gt;
+    &lt;body&gt;
+        &lt;p&gt;This is a paragraph&lt;/p&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+                    </pre>
+                </section>
+
+                <section>
+                    <h2>Markup language</h2>
+                    <ul>
+                        <li>Text based
+                        <li>Marks certain pieces of text
+                        <li>Mix of semantic and visual marking
+                    </ul>
+                </section>
+                <section>
+                    <h2>Basics of HTML</h2>
+                    <ul>
+                        <li>&lt;tag&gt; is an opening tag and &lt;/tag&gt; is a closing tag
+                        <li>&lt;tag /&gt; is short for &lt;tag&gt;&lt;/tag&gt;<br />
+                            We'll see an example in a second.
+                        <li>Use lower-case (even if it doesn't matter).
+                        <li>Hierarchical structure
+                        <ul>
+                            <li>html
+                                <ul>
+                                    <li>head<br />
+                                        This contains meta information about your document
+                                    <li>body<br />
+                                        This contains your actual document
+                                    <ul>
+                                        <li>p: paragraph
+                                    </ul>
+                                </ul>
+                            </ul>
+                    </ul>
+                </section>
+                <section>
+                    <h2>Example</h2>
+                    <ul>
+                        <li>We will start developing our own webpage.</p>
+                        <li>Open a new file called <tt>index.html</tt> and copy the code below:
+                    </ul>
+<pre>
+&lt;html&gt;
+    &lt;body&gt;
+        &lt;p&gt;This is a paragraph &lt;strong&gt;with a strong message&lt;/&gt;.&lt;/p&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+
+                </section>
+                <section>
+                    <h2>This looks ugly</h2>
+                    <ul>
+                        <li>CSS: Cascading Style Sheets.</li>
+                        <li>Associate markup with visual aspects.</li>
+                    </ul>
+<pre>
+&lt;html&gt;
+    &lt;head&gt;
+    &lt;style&gt;
+    strong {
+        color: red;
+    }
+    &lt;/style&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;p&gt;This is a paragraph &lt;strong&gt;with a strong message&lt;/&gt;.&lt;/p&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+                </section>
+                <section>
+                    <h2>More HTML</h2>
+                    <ul>
+                        <li>Lists (ul &amp; ol)
+                        <li>Mark text (em, strong, &amp;c)
+                        <li>...
+                    </ul>
+                </section>
+                <section>
+                    <h2>Include images</h2>
+                    <pre><code data-language="html">
+&lt;img src="image.png" /&gt;
+                    </code></pre>
+
+                </section>
+
+                <section>
+                    <h2>Javascript</h2>
+                    <ul>
+                        <li>A full programming language in your browser
+                        <li>We won't talk about it, except to say <strong>this exists</strong>
+                    </ul>
+                </section>
+
+            </section>
+            <section>
+                <section>
+                    <h2>Dynamic Websites</h2>
+                    <ul>
+                        <li>With what we learned so far, we can write a <em>static website</em>.</li>
+                        <li>A static website is one which always shows the same results.</li>
+                        <li>It's not so interesting, although we can make some excellent websites with Javascript.</li>
+                        <li>The other method is to have the server generate the pages <em>dynamically</em>.
+                    </ul>
+
+                </section>
+
+                <section>
+                    <h2>Generating webpages with Python</h2>
+                    <pre><code data-language="python">
+from flask import Flask
+
+app = Flask('SoftwareCarpentry')
+
+@app.route('/')
+def index():
+    return """
+&lt;html&gt;
+    &lt;body&gt;
+    &lt;p&gt;Hello World&lt;/&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+"""
+
+app.run()
+                    </code></pre>
+
+                    <div class="fragment">
+                    <pre><code data-language="bash">
+$ python flaskr.py
+                    </code></pre></div>
+                </section>
+
+                <section>
+                    <h2>Making output depend on the query</h2>
+                    <pre><code data-language="python">
+from flask import Flask, request
+
+app = Flask('SoftwareCarpentry')
+
+@app.route('/')
+def index():
+    name = request.args.get('name', 'World')
+    return """
+&lt;html&gt;
+    &lt;body&gt;
+    &lt;p&gt;Hello {0}&lt;/&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+""".format(name)
+
+app.run()
+                    </code></pre>
+
+                </section>
+                <section>
+                    <h2>Using templates</h2>
+                    <p>The previous operation is common, flask supports it builtin</p>
+
+                    <pre><code data-language="html">
+&lt;html&gt;
+    &lt;body&gt;
+    &lt;p&gt;Hello {{ name }}&lt;/p&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+                    </code></pre>
+
+                    <pre><code data-language="python">
+from flask import Flask, render_template, request
+
+app = Flask('SoftwareCarpentry')
+
+@app.route('/')
+def index():
+    name = request.args.get('name', 'World')
+    return render_template('greet.html', name=name)
+
+app.run()
+                    </code></pre>
+
+                </section>
+
+                <section>
+                    <h2>Generating images from Python!</h2>
+                    <pre><code data-language="html">
+&lt;html&gt;
+    &lt;body&gt;
+    &lt;p&gt;Value is {{ value }}&lt;/p&gt;
+    &lt;p&gt;&lt;img src="pow-fig?value={{ value }}"&lt;/p&gt;
+
+    &lt;/body&gt;
+&lt;/html&gt;
+                    </code></pre>
+
+                    <pre><code data-language="python">
+from flask import Flask, render_template, request
+import numpy as np
+from matplotlib import pyplot as plt
+
+
+app = Flask('SoftwareCarpentry')
+
+@app.route('/')
+def index():
+    value = float(request.args.get('value', 2.0))
+    return render_template('pow.html', value=value)
+
+
+@app.route('/pow-fig'):
+def pow_fig():
+    value = float(request.args.get('value', 2.0))
+    fig,ax = plt.subplots()
+    ax.plot(np.arange(10)**value)
+    ax.set_xlabel('x')
+    ax.set_ylabel('pow(x,{})'.format(value))
+    fig.savefig('tmp.png')
+    data = open('tmp.png', 'rb')
+    return data.read()
+app.run()
+                    </code></pre>
+                    <p>We could do better code, but this is pretty decent</p>
+                </section>
+                <section>
+                    <h2>Go back and forth!</h2>
+                    <pre><code data-language="html">
+&lt;html&gt;
+    &lt;body&gt;
+    &lt;p&gt;Value is {{ value }}&lt;/p&gt;
+    &lt;p&gt;
+    Go to &lt;a href="/?value={{ value - 1}}"&gt;prev&lt;/a&gt;&lt;br /&gt;
+    Go to &lt;a href="/?value={{ value + 1}}"&gt;next&lt;/a&gt;
+    &lt;p&gt;&lt;img src="pow-fig?value={{ value }}"&lt;/p&gt;
+
+    &lt;/body&gt;
+&lt;/html&gt;
+                    </code></pre>
+                </section>
+
+                <section>
+                    <h2>Forms</h2>
+                    <pre><code data-language="html">
+&lt;form action="/form" method="get"&gt;
+    &lt;p&gt;Set &lt;input name="value" value="{{ value }}" /&gt;
+    &lt;input type="submit" /&gt;
+&lt;/form&gt;
+                    </code></pre>
+                </section>
+
+                <section>
+                    <h2>This is all on the fly</h2>
+                    <ul>
+                        <li>Whatever you run must be fast enough that the user doesn't get bored.</li>
+                        <li>Matter more if you're google than for a specialized website.</li>
+                        <li>Tricks to make things appear faster
+                            <ul>
+                                <li>Precompute results.</li>
+                                <li>Show partial results.</li>
+                                <li>Say "I'm computing stuff..."</li>
+                            </ul>
+                    </ul>
+
+                </section>
+
+                <section>
+                    <h2>Important Words on Security</h2>
+                    <ul>
+                        <li>Set up things so that it won't be too bad if your app gets hacked.
+                        <li><strong>Talk to your sysadmin</strong>!
+                        <li><strong>Get a separate server</strong>.
+                    </ul>
+                </section>
+            </section>
+            <section>
+                <section>
+                    <h1>Thank You</h1>
+                    <p>For more information, the <a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a> is an excellent resource.
+                </section>
+            </section>
+
+			</div>
+		</div>
+
+		<script src="reveal.js/lib/js/head.min.js"></script>
+		<script src="reveal.js/js/reveal.min.js"></script>
+
+        <!--
+    <script src="//cdn.jsdelivr.net/reveal.js/latest/lib/js/head.min.js"></script>
+    <script src="//cdn.jsdelivr.net/reveal.js/latest/js/reveal.min.js"></script>
+        -->
+		<script>
+              // var cdn = "//cdn.jsdelivr.net/reveal.js/latest/";
+              var cdn = "reveal.js/";
+
+			// Full list of configuration options available here:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+				transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+				// Optional libraries used to extend on reveal.js
+				dependencies: [
+					{ src: cdn + 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: cdn + 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: cdn + 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: cdn + 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: cdn + 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: cdn + 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+				]
+			});
+		</script>
+
+	</body>
+</html>
