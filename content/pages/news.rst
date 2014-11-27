@@ -6,6 +6,8 @@ categories: about-me
 News Archive
 ============
 
+**October 22** `O'Reilly webcast on Penalised Regression in Python
+<http://www.oreilly.com/pub/e/3117>`__
 
 **November 2014** I am the lead organizer for a `software carpentry workshop at
 EMBL <http://www.embl.de/training/events/2014/SWC14-01/index.html>`__.
