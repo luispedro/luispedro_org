@@ -24,12 +24,15 @@ children:
         -   name: Generalization of Subcellular Location
             title: Generalization of Subcellular Location
             url: /projects/gen-classification
-        -   name: SLIF
-            title: Structured Literature Image Finder
-            url: /projects/slif
+        -   name: Datasets
+            title: Publicly available datasets
+            url: /projects/datasets
         -   name: Programming for Scientists
             title: A course for scientists who write code
             url: /projects/pfs
+        -   name: SLIF
+            title: Structured Literature Image Finder
+            url: /projects/slif
         -   name: All Projects
             title: All projects
             url: /projects/
@@ -45,15 +48,6 @@ children:
         -   name: Jug
             title: Task based parallelization framework for Python
             url: /software/jug
-        -   name: Milk
-            title: Machine Learning Toolkit for Python
-            url: /software/milk
-        -   name: Milksets
-            title: Machine Learning Datasets for Python
-            url: /software/milksets
-        -   name: git-cms
-            title: Do a website with django and git
-            url: /software/git-cms
     -   name: Other Stuff
         url: other/
         children:
