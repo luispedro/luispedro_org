@@ -38,6 +38,8 @@ The paper describing this work has been published in Bioinformatics:
 
 (For BibTeX citation_, see below.)
 
+`Download from Data Dryad <http://datadryad.org/resource/doi:10.5061/dryad.2vm70>`__
+
 Local Features for Bioimage Analysis
 ------------------------------------
 
