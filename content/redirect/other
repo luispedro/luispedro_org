@@ -1,5 +1,0 @@
-source: jug
-target: software/jug
----
-source: software/django-gitcms
-target: software/git-cms
