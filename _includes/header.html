@@ -1,17 +1,19 @@
-<header id="header">
+<header>
+    <div id="header">
+        <ul id='navigation'>
+            <li><a href="/">Home</a></li>
+            <li><a href="http://metarabbit.wordpress.com/">Blog</a></li>
+            <li><a href="/biography">Biography</a></li>
+            <li><a href="/publications">Papers</a></li>
+            <li><a href="/projects">Projects</a></li>
+            <li><a href="/software">Software</a></li>
+            <li><a href="/contact">Contact</a></li>
+        </ul>
+    </div>
+    <div id="header2">
+        <div class="logo">luispedro.org</div>
+        <div class="banner"><span>computational biology &amp;c</span></div>
+    </div>
 
-  <div class="wrap">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <div class="trigger">
-        {% for page in site.pages %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endfor %}
-      </div>
-    </nav>
-
-  </div>
 
 </header>
