@@ -1,0 +1,18 @@
+---
+title: Software Carpentry at Southern Denmark University (SDU)
+categories: talks work
+permalink: talks/2014/sdu
+---
+
+Software Carpentry Workshop at SDU
+==================================
+
+**Apr 3-4 2014**
+
+1. `Introduction to Python I </files/talks/2014/04-sdu/python-01.pdf>`__
+2. `Introduction to Python II </files/talks/2014/04-sdu/python-02.pdf>`__
+3. `Unit Testing in Python </files/talks/2014/04-sdu/testing.pdf>`__
+4. `Short intro to databases & SQL </files/talks/2014/04-sdu/sql.pdf>`__
+
+I'm releasing them as CC-BY.
+

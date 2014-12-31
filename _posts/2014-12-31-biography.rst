@@ -1,5 +1,7 @@
+---
+layout: default
 title: Biography
-url: biography
+permalink: biography
 categories: about-me
 meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
 ---

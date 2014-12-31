@@ -1,6 +1,7 @@
+---
 title: Milksets: Machine Learning Datasets for Python
-url: software/milksets
 categories: software work python
+permalink: software/milksets
 ---
 
 .. raw:: html

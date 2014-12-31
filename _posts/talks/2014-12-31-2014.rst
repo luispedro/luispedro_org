@@ -1,8 +1,9 @@
-title: Talks
-url: talks/2014
-categories: talks work
+---
 meta: List of talks with slides & more information
-..
+title: Talks
+categories: talks work
+permalink: talks/2014
+---
 
 Talks in 2014
 =============
