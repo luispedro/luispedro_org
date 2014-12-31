@@ -3,4 +3,4 @@
 	url = https://github.com/xdissent/jekyll-rst.git
 [submodule "_plugins/jekyll-pageless-redirects"]
 	path = _plugins/jekyll-pageless-redirects
-	url = https://github.com/nquinlan/jekyll-pageless-redirects
+    url = https://github.com/dcac/jekyll-pageless-redirects
