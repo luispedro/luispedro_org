@@ -1,3 +1,2 @@
 *.pyc
-luispedro.db
-local_settings.py
+_site
