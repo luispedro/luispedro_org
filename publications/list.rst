@@ -1,6 +1,7 @@
+---
 title: Full List of Publications
-url: publications
 categories: about-me
+permalink: publications/
 ---
 
 `My google scholar profile <scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__

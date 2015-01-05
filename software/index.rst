@@ -1,7 +1,7 @@
 ---
 title: Software
 categories: work software
-permalink: software
+permalink: software/
 ---
 
 Software

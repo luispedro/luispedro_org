@@ -1,7 +1,6 @@
 ---
 title: Luis Pedro Coelho
 layout: default
-url: 
 meta: Luis Pedro Coelho is a computational biologist at the EMBL working on combining metagenomics and image analysis.
 categories: about-me
 ---

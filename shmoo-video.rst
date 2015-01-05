@@ -1,7 +1,7 @@
 ---
 title: Shmoo Video
 categories: work art
-permalink: work/shmoo-video
+permalink: work/shmoo-video/
 ---
 
 Yeast Mating Video

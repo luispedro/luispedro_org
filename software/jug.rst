@@ -1,7 +1,8 @@
+---
 title: Jug
-url: software/jug
 categories: software python
-..
+permalink: software/jug/
+---
 
 .. raw:: html
 

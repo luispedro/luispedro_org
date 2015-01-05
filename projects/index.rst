@@ -1,7 +1,7 @@
 ---
 title: Projects
 categories: work
-permalink: projects
+permalink: projects/
 ---
 
 Projects

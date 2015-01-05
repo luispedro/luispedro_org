@@ -1,7 +1,7 @@
 ---
 title: Talks in 2012
 categories: talks work
-permalink: talks/2012
+permalink: talks/2012/
 ---
 
 Talks I gave in 2012
