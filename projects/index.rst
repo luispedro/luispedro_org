@@ -29,9 +29,6 @@ A manuscript describing this project and its results `is in press
 
 `Read more </projects/gen-classification>`__
 
-RandTag
--------
-
 Unsupervised Subcellular Pattern Unmixing
 -----------------------------------------
 
