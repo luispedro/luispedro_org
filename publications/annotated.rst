@@ -1,7 +1,7 @@
 ---
 title: Publications
 categories: research
-permalink: publications/annotated
+permalink: publications/annotated/
 ---
 
 Annotated List of Selected Publications

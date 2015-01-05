@@ -1,7 +1,7 @@
 ---
 title: Nuclear Mapping in Plasmodium
 categories: work
-permalink: projects/plasmodium
+permalink: projects/plasmodium/
 ---
 
 Nuclear Mapping in Plasmodium

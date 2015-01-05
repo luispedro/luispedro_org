@@ -1,7 +1,7 @@
 ---
 title: Software Carpentry at Southern Denmark University (SDU)
 categories: talks work
-permalink: talks/2014/sdu
+permalink: talks/2014/sdu/
 ---
 
 Software Carpentry Workshop at SDU

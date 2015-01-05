@@ -1,7 +1,7 @@
 ---
 title: Jug Tutorial
 categories: software
-permalink: software/jug/tutorial
+permalink: software/jug/tutorial/
 ---
 
 ============

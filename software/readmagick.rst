@@ -1,7 +1,7 @@
 ---
 title: Readmagick
 categories: software python
-permalink: software/readmagick
+permalink: software/readmagick/
 ---
 
 .. raw:: html

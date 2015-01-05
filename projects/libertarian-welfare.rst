@@ -1,7 +1,7 @@
 ---
 title: Libertarian Welfare State
 categories: work
-permalink: projects/libertarian-welfare
+permalink: projects/libertarian-welfare/
 ---
 
 =========================

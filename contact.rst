@@ -1,7 +1,7 @@
 ---
 title: Luis Pedro Coelho's Contact Information
 categories: None
-permalink: contact
+permalink: contact/
 ---
 
 Contact Me

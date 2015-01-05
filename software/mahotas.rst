@@ -1,7 +1,7 @@
 ---
 title: Mahotas
 categories: software python
-permalink: software/mahotas
+permalink: software/mahotas/
 ---
 
 .. raw:: html

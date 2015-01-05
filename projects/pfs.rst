@@ -1,7 +1,7 @@
 ---
 title: Programming for Scientists
 categories: work
-permalink: projects/pfs
+permalink: projects/pfs/
 ---
 
 Programming for Scientists

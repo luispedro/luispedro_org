@@ -1,7 +1,7 @@
 ---
 title: Photos
 categories: about-me
-permalink: photos
+permalink: photos/
 ---
 
 Photos of Me

@@ -1,7 +1,7 @@
 ---
 title: No Copy Reduce
 categories: software
-permalink: software/ncreduce
+permalink: software/ncreduce/
 ---
 
 No Copy Reduce Operations for Numpy

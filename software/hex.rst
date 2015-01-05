@@ -1,7 +1,7 @@
 ---
 title: Hex
 categories: software
-permalink: software/hex
+permalink: software/hex/
 ---
 
 .. raw:: html

@@ -1,7 +1,7 @@
 ---
 title: News
 categories: about-me
-permalink: news
+permalink: news/
 ---
 
 News Archive

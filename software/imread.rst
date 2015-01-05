@@ -1,7 +1,7 @@
 ---
 title: Imread
 categories: software python
-permalink: software/imread
+permalink: software/imread/
 ---
 
 .. raw:: html

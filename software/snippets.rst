@@ -1,7 +1,7 @@
 ---
 title: Python Snippets
 categories: python software
-permalink: software/snippets
+permalink: software/snippets/
 ---
 
 Python Snippets

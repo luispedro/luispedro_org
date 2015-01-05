@@ -1,7 +1,7 @@
 ---
 title: Reproducible Research
 categories: software python
-permalink: software/reproducible
+permalink: software/reproducible/
 ---
 
 Reproducible Research

@@ -1,7 +1,7 @@
 ---
 title: Python Morphology Toolbox
 categories: work software
-permalink: software/pymorph
+permalink: software/pymorph/
 ---
 
 .. raw:: html

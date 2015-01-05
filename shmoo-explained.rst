@@ -1,7 +1,7 @@
 ---
 title: Yeast Mating
 categories: work art
-permalink: work/shmoo-video/explanation
+permalink: work/shmoo-video/explanation/
 ---
 
 Yeast Mating

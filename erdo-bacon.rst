@@ -1,7 +1,7 @@
 ---
 title: Erdös-Bacon
 categories: about-me
-permalink: erdos-bacon
+permalink: erdos-bacon/
 ---
 
 Erdös-Bacon Number

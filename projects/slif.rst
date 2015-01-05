@@ -1,7 +1,7 @@
 ---
 title: SLIF
 categories: work
-permalink: projects/slif
+permalink: projects/slif/
 ---
 
 SLIF: Structured Literature Image Finder

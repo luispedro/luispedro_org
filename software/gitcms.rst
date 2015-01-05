@@ -1,7 +1,7 @@
 ---
 title: Git CMS
 categories: software
-permalink: software/git-cms
+permalink: software/git-cms/
 ---
 
 .. raw:: html

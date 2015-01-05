@@ -1,7 +1,7 @@
 ---
 title: NGH
 categories: software
-permalink: software/ngh
+permalink: software/ngh/
 ---
 
 .. raw:: html

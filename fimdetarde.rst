@@ -1,7 +1,7 @@
 ---
 title: Fim de Tarde
 categories: art
-permalink: fimdetarde
+permalink: fimdetarde/
 ---
 
 Fim de Tarde

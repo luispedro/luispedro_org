@@ -1,7 +1,7 @@
 ---
 title: "Milk: Machine Learning Toolkit for Python"
 categories: software work python
-permalink: software/milk
+permalink: software/milk/
 ---
 
 .. raw:: html

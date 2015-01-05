@@ -1,7 +1,7 @@
 ---
 title: FASTA Reader
 categories: software python
-permalink: software/fasta
+permalink: software/fasta/
 ---
 
 FASTA Reader in Python

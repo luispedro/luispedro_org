@@ -1,7 +1,7 @@
 ---
 title: Unsupervised Subcellular Pattern Unmixing
 categories: work
-permalink: projects/unsupervised-unmixing
+permalink: projects/unsupervised-unmixing/
 ---
 
 =========================================

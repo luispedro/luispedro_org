@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 categories: about-me
-permalink: faq
+permalink: faq/
 ---
 
 ==========================

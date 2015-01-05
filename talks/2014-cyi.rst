@@ -1,7 +1,7 @@
 ---
 title: Software Carpentry at Cyprus Institute
 categories: talks work
-permalink: talks/2014/cyi
+permalink: talks/2014/cyi/
 ---
 
 Software Carpentry Workshop at CYI

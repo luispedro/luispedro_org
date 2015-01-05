@@ -1,7 +1,7 @@
 ---
 title: "Merge: Merge two directories without losing files"
 categories: software python
-permalink: software/merge
+permalink: software/merge/
 ---
 
 .. raw:: html

@@ -1,7 +1,7 @@
 ---
 title: Software Carpentry at Cyprus Institute
 categories: talks work
-permalink: talks/2014/sesame
+permalink: talks/2014/sesame/
 ---
 
 Software Carpentry Workshop at Sesame (Amman)

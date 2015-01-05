@@ -1,7 +1,7 @@
 ---
 title: Jug
 categories: talks work software
-permalink: talks/2013/jug-meetup
+permalink: talks/2013/jug-meetup/
 ---
 
 Parallel Processing With Python & Jug

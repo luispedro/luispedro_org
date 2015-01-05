@@ -1,7 +1,7 @@
 ---
 title: Elgreco
 categories: software python
-permalink: software/elgreco
+permalink: software/elgreco/
 ---
 
 .. raw:: html

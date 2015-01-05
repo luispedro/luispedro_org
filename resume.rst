@@ -1,7 +1,7 @@
 ---
 title: Resumé
 categories: about-me
-permalink: resume
+permalink: resume/
 ---
 
 Resume

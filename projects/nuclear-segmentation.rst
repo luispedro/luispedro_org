@@ -2,7 +2,7 @@
 meta: We present a benchmark dataset for segmentation of nuclei in fluorescent microscopy images of cells and a comparison of several algorithms.
 title: Nuclear Segmentation
 categories: work
-permalink: projects/nuclear-segmentation
+permalink: projects/nuclear-segmentation/
 ---
 
 Nuclear Segmentation

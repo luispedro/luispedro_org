@@ -1,7 +1,7 @@
 ---
 title: KDBIO Talk
 categories: talks work
-permalink: talks/2012/kdbio
+permalink: talks/2012/kdbio/
 ---
 
 References
