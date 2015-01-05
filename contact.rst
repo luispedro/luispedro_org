@@ -7,7 +7,8 @@ permalink: contact/
 Contact Me
 ==========
 
-My personal email is luis@luispedro.org
+My work/institutional email is coelho@embl.de, while personal email is
+luis@luispedro.org
 
 You can send me postal mail at::
 
@@ -16,6 +17,8 @@ You can send me postal mail at::
     European Molecular Biology Laboratory
     Meyerhofst., Heidelberg
     69117 Heidelberg, Germany
+
+I think we have a fax machine somewhere too.
 
 `Download a vCard </files/Luis_Pedro_Coelho.vcf>`_
 

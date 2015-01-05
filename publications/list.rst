@@ -40,12 +40,13 @@ Selected Publications
 
 Full List of Publications
 =========================
-In reverse chronological order
 
-Also available as a `BibTeX file </publications/bibtex>`__.
 
 Peer Reviewed Research Papers
 -----------------------------
+
+In reverse chronological order
+
 15. Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,
     Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
     Coelho**, Maria Carmo-Fonseca, Nuno L. Barbosa-Morais, Luisa M. Figueiredo
@@ -229,6 +230,8 @@ Technical Reports
 
     *One sentence summary*: Everything about `SLIF </projects/slif>`__ which
     could not be fit into the papers (because of page limits).
+
+Also available as a `BibTeX file </publications/bibtex>`__.
 
 Invited Talks
 -------------
