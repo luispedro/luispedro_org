@@ -7,11 +7,15 @@ permalink: news/
 News Archive
 ============
 
-**October 22** `O'Reilly webcast on Penalised Regression in Python
-<http://www.oreilly.com/pub/e/3117>`__
+**February 2015** I will be in Granada for the *2015 Aquatic Sciences Meeting*,
+giving `a talk on the 26th on our metagenomics work
+<http://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075>`__
 
-**November 2014** I am the lead organizer for a `software carpentry workshop at
+**November 2014** I was the lead organizer for a `software carpentry workshop at
 EMBL <http://www.embl.de/training/events/2014/SWC14-01/index.html>`__.
+
+**October 22 2014** `O'Reilly webcast on Penalised Regression in Python
+<http://www.oreilly.com/pub/e/3117>`__
 
 **September 2014** Keynote talk in `Python San Sebastien <http://pyss.org/>`__
 

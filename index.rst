@@ -29,10 +29,6 @@ I blog about science at `metarabbit.wordpress.com
 
 My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
-In November 2014, I am organizing a `Software Carpentry Workshop at EMBL
-<http://www.embl.de/training/events/2014/SWC14-01/index.html>`__. Apply to
-learn best practices of computer usage by scientists.
-
 Research Interests
 ==================
 
@@ -123,10 +119,15 @@ This is what I published in 2013/2014:
 Upcoming Travels & Talks
 ========================
 
-I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-.. of these opportunities.
+
+**February 2015** I will be in Granada for the *2015 Aquatic Sciences Meeting*,
+giving `a talk on the 26th on our metagenomics work
+<http://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075>`__
+
+`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
+of these opportunities.
 
 Other News
 ==========
