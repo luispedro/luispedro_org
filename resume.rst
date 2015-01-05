@@ -166,7 +166,7 @@ Open Source Programming
 .......................
 I publish and maintainx many open source projects of interest to his research,
 such as image processing or machine learning code. In particular `mahotas
-<https://github.com/luispedro/mahotas>`__ (ca. 5,000 downloads per month) is a
+<https://github.com/luispedro/mahotas>`__ (ca. 6,000 downloads per month) is a
 `computer vision library in Python
 <http://openresearchsoftware.metajnl.com/article/view/jors.ac>`__ 
 
