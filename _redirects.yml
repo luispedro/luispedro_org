@@ -4,4 +4,4 @@ pymorph                     : software/pymorph
 "software/python/FASTA"     : software/fasta
 jug                         : software/jug
 "software/django-gitcms"    : software/git-cms
-talks                       : talks/2014
+"talks/"                    : talks/2014
