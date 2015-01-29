@@ -1,7 +1,7 @@
 ---
 title: Some Derivations
 categories: work
-permalink: derivations
+permalink: derivations/
 ---
 
 .. raw:: html
