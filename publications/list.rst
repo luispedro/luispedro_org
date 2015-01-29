@@ -36,7 +36,7 @@ Selected Publications
 5.  **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
     Structure for Approximate Text Indexing* SPIRE (2006)
 
-(`Annotated list of selected publications <publications/annotated>`__)
+(`Annotated list of selected publications </publications/annotated>`__)
 
 Full List of Publications
 =========================

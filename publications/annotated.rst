@@ -169,12 +169,12 @@ Slif is available at `http://slif.cbi.cmu.edu <http://slif.cbi.cmu.edu>`__.
         </div>
     </div>
 
--- Luis Pedro Coelho, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
-   Sheikk, Eric P. Xing, William W. Cohen, and Robert F. Murphy. **Structured
-   Literature Image Finder: Extracting Information from Text and Images in
-   Biomedical  Literature.** by Luis Pedro Coelho, Amr Ahmed, Andrew Arnold,
-   Joshua Kangas, Abdul-Saboor Sheikk, Eric P. Xing, William W. Cohen, and
-   Robert F. Murphy. *in* Lecture Notes in Bioinformatics, 2010 (to appear)
+- Luis Pedro Coelho, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
+  Sheikk, Eric P. Xing, William W. Cohen, and Robert F. Murphy. **Structured
+  Literature Image Finder: Extracting Information from Text and Images in
+  Biomedical  Literature.** by Luis Pedro Coelho, Amr Ahmed, Andrew Arnold,
+  Joshua Kangas, Abdul-Saboor Sheikk, Eric P. Xing, William W. Cohen, and
+  Robert F. Murphy. *in* Lecture Notes in Bioinformatics, 2010
 
 .. raw:: html
 
