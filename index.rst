@@ -126,6 +126,15 @@ Upcoming Travels & Talks
 giving `a talk on the 26th on our metagenomics work
 <http://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075>`__
 
+**March 31-April 2** I will be in Luxembourg at the `International Human
+Microbiome Congress (IHMC) <http://www.ihmc2015.org/>`__
+
+**15-17 June 2015** I will be in beautiful San Sebastian (Spain) for a software
+carpentry workshop (and some holiday time).
+
+**16 July 2015** I will be teaching at the `Lisbon Machine Learning School
+<http://lxmls.it.pt/2015/>`__
+
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities.
 
