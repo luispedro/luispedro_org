@@ -122,10 +122,6 @@ Upcoming Travels & Talks
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
 
-**February 2015** I will be in Granada for the *2015 Aquatic Sciences Meeting*,
-giving `a talk on the 26th on our metagenomics work
-<http://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075>`__
-
 **March 31-April 2** I will be in Luxembourg at the `International Human
 Microbiome Congress (IHMC) <http://www.ihmc2015.org/>`__
 
@@ -143,10 +139,17 @@ Other News
 
 .. When updating this, update news.rst
 
-(See above for papers & travels)
+(See above for papers)
+
+**February 2015** I was in Granada for the *2015 Aquatic Sciences Meeting*,
+giving `a talk on the 26th on our metagenomics work
+<http://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075>`__
 
 **November 2014** I am the lead organizer for a `software carpentry workshop at
 EMBL <http://www.embl.de/training/events/2014/SWC14-01/index.html>`__.
+
+**September 2014** Keynote talk in `Python San Sebastien <http://pyss.org/>`__
+[`Online talk </files/talks/2014/09-pyss/pyss14.html>`__]
 
 **July 2014** Progression (in which I played the character *Luis*) has been
 released at New Filmmakers in NYC. See the film at the `Big Bear Film festival
