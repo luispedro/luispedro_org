@@ -47,6 +47,11 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+16. **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
+    von Köckritz-Blickwede Mário Ramirez , João André Carriço, *Automatic
+    Determination of NET (Neutrophil Extracellular Traps) Coverage in
+    Fluorescent Microscopy Images* in Bioinformatics (2015), (accepted).
+
 15. Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,
     Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
     Coelho**, Maria Carmo-Fonseca, Nuno L. Barbosa-Morais, Luisa M. Figueiredo
