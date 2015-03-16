@@ -7,6 +7,8 @@ permalink: news/
 News Archive
 ============
 
+**March 2015** Paper accepted in Bioinformatics! (more details to follow)
+
 **February 2015** I was in Granada for the *2015 Aquatic Sciences Meeting*,
 giving `a talk on the 26th on our metagenomics work
 <http://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075>`__
