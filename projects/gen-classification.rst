@@ -89,6 +89,11 @@ Here is the full bibtex citation::
 
     year = {2013},
     doi = {10.1093/bioinformatics/btt392},
+    volume = {29}, 
+    number = {18}, 
+    pages = {2343-2349}, 
+    year = {2013}, 
+
     abstract ={Motivation: Evaluation of previous systems for automated
         determination of subcellular location from microscope images has been done
         using datasets in which each location class consisted of multiple images of

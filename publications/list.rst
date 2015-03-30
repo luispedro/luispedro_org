@@ -13,7 +13,7 @@ Selected Publications
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
     the subcellular location of new proteins from microscope images using local
-    features* in Bioinformatics, 2013 [`DOI
+    features* in Bioinformatics, 2013, Sep 15;29(18):2343-9  [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__] [`Video Abstract
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`open access version
     <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/>`__] [`mendeley
