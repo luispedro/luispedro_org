@@ -9,7 +9,16 @@ Reproducible Research
 
 This is code for reproducing results in some of my published papers:
 
-1.  `Local features for subcellular location determination
+1.  `Automatic Determination of NET Coverage
+    <https://github.com/luispedro/Coelho2015_NetsDetermination>`__ **Luis Pedro
+    Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren von
+    Köckritz-Blickwede Mário Ramirez , João André Carriço, *Automatic
+    Determination of NET (Neutrophil Extracellular Traps) Coverage in
+    Fluorescent Microscopy Images* in Bioinformatics (2015), [`DOI
+    <http://doi.org/10.1093/bioinformatics/btv156>`__] [`Request reprint
+    <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Automatic%20Determion%20of%20NET%Coverage)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%of%Automatic%20Determination%20of%20NET%20(Neutrophil%20Extracellular%20Traps)%20Coverage%20in%20Fluorescent%20Microscopy%20Images?%0A%0AThank%20you,%0A>`__].
+
+2.  `Local features for subcellular location determination
     <https://github.com/luispedro/Coelho2013_Bioinformatics>`__ for the paper
     *Determining the subcellular location of new proteins from microscope
     images using local features* by **Luis Pedro Coelho**, Joshua D. Kangas,
@@ -18,14 +27,14 @@ This is code for reproducing results in some of my published papers:
     Murphy (2013).  Bioinformatics, [`DOI
     <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
 
-2.  `segmentation
+3.  `Cell Nuclear segmentation
     <http://github.com/luispedro/Coelho2009_ISBI_NuclearSegmentation>`__ for
     the paper **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;
     *Nuclear segmentation in microscope cell images: A hand-segmented dataset
     and comparison of algorithms* ISBI 2009 [`online version
     <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]. Includes data.
 
-3.  `Dotted Suffix Trees <https://github.com/luispedro/dot-link>`__ for  the
+4.  `Dotted Suffix Trees <https://github.com/luispedro/dot-link>`__ for  the
     paper *Dotted suffix trees a structure for approximate text indexing* by
     **Luis Pedro Coelho** and Arlindo L. Olveira, SPIRE 2006 [`DOI Link
     <http://dx.doi.org/10.1007/11880561_27>`__]
