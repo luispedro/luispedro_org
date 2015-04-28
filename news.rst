@@ -7,7 +7,11 @@ permalink: news/
 News Archive
 ============
 
-**March 2015** Paper accepted in Bioinformatics! (more details to follow)
+**March 31-April 2** I attended the `International Human
+Microbiome Congress (IHMC) <http://www.ihmc2015.org/>`__ in Luxembourg
+
+**March 2015** Paper accepted in `Bioinformatics
+<http://doi.org/10.1093/bioinformatics/btv156>`__
 
 **February 2015** I was in Granada for the *2015 Aquatic Sciences Meeting*,
 giving `a talk on the 26th on our metagenomics work
