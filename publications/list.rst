@@ -8,8 +8,22 @@ permalink: publications/
 
 Selected Publications
 =====================
+1.  Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
+    Kultima, Karine Labadie, Guillem Salazar, Bardya Djahanschiri, Georg
+    Zeller, Daniel R. Mende, Adriana Alberti, Francisco M. Cornejo-Castillo,
+    Paul I. Costea, Corinne Cruaud, Francesco d'Ovidio, Stefan Engelen, Isabel
+    Ferrera, Josep M. Gasol, Lionel Guidi, Falk Hildebrand, Florian Kokoszka,
+    Cyrille Lepoivre, Gipsi Lima-Mendez, Julie Poulain, Bonnie T. Poulos, Marta
+    Royo-Llonch, Hugo Sarmento, Sara Vieira-Silva, Céline Dimier, Marc
+    Picheral, Sarah Searson, Stefanie Kandels-Lewis, Tara Oceans coordinators,
+    Chris Bowler, Colomban de Vargas, Gabriel Gorsky, Nigel Grimsley, Pascal
+    Hingamp, Daniele Iudicone, Olivier Jaillon, Fabrice Not, Hiroyuki Ogata,
+    Stephane Pesant, Sabrina Speich, Lars Stemmann, Matthew B. Sullivan,§, Jean
+    Weissenbach, Patrick Wincker, Eric Karsenti, Jeroen Raes, Silvia G. Acinas,
+    Peer Bork, *Structure and function of the global ocean microbiome* in
+    Science (2015) [`DOI <http://doi.org/10.1126/science.1261359>`__]
 
-1.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
+2.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
     the subcellular location of new proteins from microscope images using local
@@ -18,23 +32,16 @@ Selected Publications
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`open access version
     <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/>`__] [`mendeley
     <http://www.mendeley.com/research/determining-subcellular-location-new-proteins-microscope-images-using-local-features/>`__]
-2.  **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying
+3.  **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying
     the distribution of probes between subcellular locations using unsupervised
     pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online
     version
     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
     [`mendeley
     <http://www.mendeley.com/catalog/quantifying-distribution-probes-between-subcellular-locations-using-unsupervised-pattern-unmixing/>`__]
-3.  **Luis Pedro Coelho**, Amr Ahmed, Andrew Arnold, Joshua Kangas, Abdul-Saboor
-    Sheikh, Eric P. Xing, William W. Cohen, and Robert F. Murphy, *Structured
-    Literature Image  Finder: Extracting Information from Text and Images in
-    Biomedical  Literature* in Lecture Notes in Bioinformatics vol. 6004 [`PDF
-    version </files/papers/2010/lpc-slif-lncs-2010.pdf>`__] [`mendeley <http://www.mendeley.com/catalog/structured-literature-image-finder-extracting-information-text-images-biomedical-literature/>`__]
 4.  **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
     segmentation in microscope cell images: A hand-segmented dataset and
     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
-5.  **Luis Pedro Coelho** and Arlindo Oliveira; *Dotted Suffix Trees: A
-    Structure for Approximate Text Indexing* SPIRE (2006)
 
 (`Annotated list of selected publications </publications/annotated>`__)
 
@@ -46,6 +53,21 @@ Peer Reviewed Research Papers
 -----------------------------
 
 In reverse chronological order
+
+17. Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
+    Kultima, Karine Labadie, Guillem Salazar, Bardya Djahanschiri, Georg
+    Zeller, Daniel R. Mende, Adriana Alberti, Francisco M. Cornejo-Castillo,
+    Paul I. Costea, Corinne Cruaud, Francesco d'Ovidio, Stefan Engelen, Isabel
+    Ferrera, Josep M. Gasol, Lionel Guidi, Falk Hildebrand, Florian Kokoszka,
+    Cyrille Lepoivre, Gipsi Lima-Mendez, Julie Poulain, Bonnie T. Poulos, Marta
+    Royo-Llonch, Hugo Sarmento, Sara Vieira-Silva, Céline Dimier, Marc
+    Picheral, Sarah Searson, Stefanie Kandels-Lewis, Tara Oceans coordinators,
+    Chris Bowler, Colomban de Vargas, Gabriel Gorsky, Nigel Grimsley, Pascal
+    Hingamp, Daniele Iudicone, Olivier Jaillon, Fabrice Not, Hiroyuki Ogata,
+    Stephane Pesant, Sabrina Speich, Lars Stemmann, Matthew B. Sullivan,§, Jean
+    Weissenbach, Patrick Wincker, Eric Karsenti, Jeroen Raes, Silvia G. Acinas,
+    Peer Bork, *Structure and function of the global ocean microbiome* in
+    Science (2015) [`DOI <http://doi.org/10.1126/science.1261359>`__]
 
 16. **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
     von Köckritz-Blickwede Mário Ramirez , João André Carriço, *Automatic

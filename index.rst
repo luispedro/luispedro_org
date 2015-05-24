@@ -64,6 +64,21 @@ Recent Publications
 
 This is what I published in 2014/2015:
 
+5.  Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
+    Kultima, Karine Labadie, Guillem Salazar, Bardya Djahanschiri, Georg
+    Zeller, Daniel R. Mende, Adriana Alberti, Francisco M. Cornejo-Castillo,
+    Paul I. Costea, Corinne Cruaud, Francesco d'Ovidio, Stefan Engelen, Isabel
+    Ferrera, Josep M. Gasol, Lionel Guidi, Falk Hildebrand, Florian Kokoszka,
+    Cyrille Lepoivre, Gipsi Lima-Mendez, Julie Poulain, Bonnie T. Poulos, Marta
+    Royo-Llonch, Hugo Sarmento, Sara Vieira-Silva, Céline Dimier, Marc
+    Picheral, Sarah Searson, Stefanie Kandels-Lewis, Tara Oceans coordinators,
+    Chris Bowler, Colomban de Vargas, Gabriel Gorsky, Nigel Grimsley, Pascal
+    Hingamp, Daniele Iudicone, Olivier Jaillon, Fabrice Not, Hiroyuki Ogata,
+    Stephane Pesant, Sabrina Speich, Lars Stemmann, Matthew B. Sullivan,§, Jean
+    Weissenbach, Patrick Wincker, Eric Karsenti, Jeroen Raes, Silvia G. Acinas,
+    Peer Bork, *Structure and function of the global ocean microbiome* in
+    Science (2015) [`DOI <http://doi.org/10.1126/science.1261359>`__]
+
 4.  **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
     von Köckritz-Blickwede Mário Ramirez , João André Carriço, *Automatic
     Determination of NET (Neutrophil Extracellular Traps) Coverage in
