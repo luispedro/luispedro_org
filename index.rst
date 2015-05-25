@@ -34,20 +34,16 @@ Research Interests
 
 **Technical version:** I am interested in combining meta'omics (methods that
 obtain high-throughput information on microbial communities such as
-metagenomics and metatranscriptomics) analysis with bioimage informatics using
-machine learning approaches. In particular, in obtaining biological knowledge
-by exploiting large-scale datasets of mixed communities by a sequencing and
-imaging to be able to derive observations about the relationship between the
-genotypes and phenotypes. This research can answer questions such as *do the
-measures of genomic biodiversity agree with measures of phenotypic
-biodiversity?*
+metagenomics and metatranscriptomics) analysis with machine learning approaches
+to learn about microbial communities in different environments.
 
 My work is a mix of of `method development
 <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__ and
-applications. In methodological terms, I worry a lot about `correct evaluation
-of methods <http://luispedro.org/projects/gen-classification>`__ and avoiding
+`applications <http://doi.org/10.1126/science.1261359>`__.  In methodological
+terms, I worry a lot about `correct evaluation of methods
+<http://luispedro.org/projects/gen-classification>`__ and avoiding
 over-inflated measures of performance. I also work in scaling up methods to
-work on large-scale environments.
+work on large-scale problems.
 
 **Not-so technical version:** With modern technology, namely robotic
 instruments, it is easy to acquire a lot of microscopic pictures. It is also
@@ -56,8 +52,9 @@ use these two families of technologies to investigate what is happening in
 mixed microbial communities such as the one in our guts, the `microbiome
 <http://en.wikipedia.org/wiki/Microbiome>`__.
 
-I work both on developing new computer methods (software) for these tasks as
-well as on specific biological problems.
+In order to be able to use these data, I also need to develop new computer
+methods (software) for these tasks. Thus my work is a mix of solving biological
+problems and tackling the software issues that stand in the way of doing so.
 
 Recent Publications
 ===================
