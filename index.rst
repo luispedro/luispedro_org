@@ -111,6 +111,9 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
+**2 June 2015** I will attend the `Scien of TARA Oceans conference
+<http://www.embl.de/tara-oceans/start/conference-2015/index.html>`__ in Paris
+
 **15-17 June 2015** I will be in beautiful San Sebastian (Spain) for a software
 carpentry workshop (and some holiday time).
 
