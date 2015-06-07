@@ -1,2 +1,3 @@
 *.pyc
-_site
+/_site
+/mtime_hash.pkl
