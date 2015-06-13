@@ -6,53 +6,69 @@ categories: about-me
 meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
 ---
 
-Biography
-=========
+# Biography
 
-Also see my `resume </resume>`__ and `CV [PDF format] </files/vita.pdf>`__
+Also see my [resume](/resume) and [CV (PDF format)](/files/vita.pdf)
 
-Shorter Version
-...............
+## Shorter Version
 
-Luis Pedro Coelho is postdoctoral researcher at the European Molecular Biology
-Laboratory (EMBL). He works in metagenomics and bioimage informatics (the
-application of computer vision to biological samples). Luis has a PhD in
-computational biology from Carnegie Mellon University, a BS and MS in computer
-science from Instituto Superior Técnico. He is a Fulbright Scholar, a Siebel
-Scholar, and has won multiple awards for academic or research excellence.
+
+Luis Pedro Coelho is a postdoctoral researcher in Peer Bork's group at
+the European Molecular Biology Laboratory (EMBL). He has a PhD from
+Carnegie Mellon University where he worked under the supervision of
+Prof. Bob Murphy and a MSc from Instituto Superior Técnico in Lisbon, where he
+worked with Prof Arlindo Oliveira. He currently works on the analysis of
+microbial communities in different environments, such as the [marine
+environment](http://www.sciencemag.org/content/348/6237/1261359.full) or the
+[human gut](http://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full)
+using computational methods, namely [metagenomic
+analysis](http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html) and
+[fluorescence microscopy
+analysis](http://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
+Luis is a Fulbright Scholar, a Siebel Scholar, and has won multiple awards for
+academic or research excellence.
 
 Outside academia, Luis has been involved in theatre (having produced the
 student group at IST and starred in several productions), as well as received a
 prize in a short story competition. He has taught computer usage in
 underprivileged neighbourhoods and designed Webpages for nonprofits. In Summer
-2010, was in Mozambique, volunteering with local organisations there (see
-`beiraproject.org <http://beiraproject.org>`_).
+2010, was in Mozambique, volunteering with local organisations there
+[beiraproject.org](http://beiraproject.org).
 
-Luis can be found at `luispedro.org <http://luispedro.org>`__ and blogs
-at `metarabbit.wordpress.com <http://metarabbit.wordpress.com>`__.
+Luis can be found at [luispedro.org](http://luispedro.org) and blogs
+at [metarabbit.wordpress.com](http://metarabbit.wordpress.com).
 
-Longer Version (Academic)
-.........................
+## Longer Version (Academic)
 
 Luis Pedro Coelho is postdoctoral researcher at the European Molecular Biology
 Laboratory (EMBL). He works in metagenomics and bioimage informatics (the
-application of computer vision to biological samples).
+application of computer vision to biological samples). He has worked on the
+TARA Oceans projects, analysing the [microbial communities in the marine
+environment](http://www.sciencemag.org/content/348/6237/1261359.full) and their
+relationship to the environment. He has also worked on the microbial
+communities in the [human
+gut](http://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full) and worked
+on the development of computational methods for [the analysis of metagenomic
+data](http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html). He
+continues to work on [computational methods for fluorescence microscopy
+analysis](http://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
 
 Luis holds a PhD in computational biology from Carnegie Mellon University. His
 doctoral research consisted of modeling images from fluorescent microsocpy. The
 models he developed integrate several sources of image and non-image
-information into a single model. Also at CMU, he was involved in the Structure
-Literature Image Finder (SLIF) project, a project which mined the academic
-literature using both the text of the papers and the images therein. This
-project was one of the finalists in the Elsevier Grand Challenge.
+information into a single model. Also at CMU, he was involved in the [Structure
+Literature Image Finder
+(SLIF)](http://link.springer.com/chapter/10.1007/978-3-642-13131-8_4) project;
+SLIF mined the academic literature using both the text of the papers and the
+images therein. This project was one of the finalists in the Elsevier Grand
+Challenge.
 
 Luis also holds a BS and an MS from Instituto Superior Técnico, in Lisbon. His
 MS research was on learning from noisy data with Bayesian networks. He is a
 Fulbright Scholar, a Siebel Scholar, and has won multiple awards for academic
 or research excellence.
 
-Longer Version (Less Academic)
-..............................
+## Longer Version (Less Academic)
 
 **This version is slightly out of date**
 
@@ -90,9 +106,8 @@ a short story competition and also written open source software for the KDE
 project. He has taught computer usage in underprivileged neighbourhoods and
 designed webpages for nonprofits.
 
-Photos
-......
+### Photos
 
-If you need photos of me (for press purposes &c), please check `this page
-</photos>`__.
+If you need photos of me (for press purposes &c), please check (this
+page)[/photos].
 
