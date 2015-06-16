@@ -7,6 +7,12 @@ permalink: news/
 News Archive
 ============
 
+**15-17 June 2015** I was in beautiful San Sebastian (Spain) for a software
+carpentry workshop (and some holiday time).
+
+**2 June 2015** I attendedd the `Science of TARA Oceans conference
+<http://www.embl.de/tara-oceans/start/conference-2015/index.html>`__ in Paris
+
 **March 31-April 2** I attended the `International Human
 Microbiome Congress (IHMC) <http://www.ihmc2015.org/>`__ in Luxembourg
 
