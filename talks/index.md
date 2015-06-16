@@ -5,6 +5,9 @@ categories: talks work
 permalink: talks/
 ---
 
+# Talks in 2015
+June 2015. [Software carpentry workshop in San Sebastian](/talks/2015/06-swc-donostia)
+
 # Talks in 2014
 
 This is a list with slides and sometimes references &c for talks I gave in the
