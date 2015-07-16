@@ -7,7 +7,7 @@ permalink: talks/
 
 # Talks in 2015
 
-- July 2015. [Introduction to Python](/talks/2015/LxMLS-python-intro.pdf) at
+- July 2015. [Introduction to Python](/files/talks/2015/LxMLS-python-intro.pdf) at
   [LxMLS 2015](http://lxmls.it.pt/2015/)
 - July 2015 *Structure and function of the global ocean microbiome* at Station
   Biologique de Roscoff. Slides are not available, but check our [paper in
