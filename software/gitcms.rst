@@ -11,6 +11,8 @@ permalink: software/git-cms/
     </a>
 
 
+**NOTE**: this is kept for historical purposes, I switched to using `jekyll <http://jekyllrb.com/>`__ now.
+
 Git Content Management System
 =============================
 
