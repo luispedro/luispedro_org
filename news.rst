@@ -7,13 +7,19 @@ permalink: news/
 News Archive
 ============
 
+**16 July 2015** I taught at the `Lisbon Machine Learning School
+<http://lxmls.it.pt/2015/>`__
+
 **15-17 June 2015** I was in beautiful San Sebastian (Spain) for a software
 carpentry workshop (and some holiday time).
 
-**2 June 2015** I attendedd the `Science of TARA Oceans conference
+**2 June 2015** I attended the `Science of TARA Oceans conference
 <http://www.embl.de/tara-oceans/start/conference-2015/index.html>`__ in Paris
 
-**March 31-April 2** I attended the `International Human
+**22 May 2015** Paper out in `Science
+<sciencemag.org/content/348/6237/1261359.full>`__
+
+**March 31-April 2 2015** I attended the `International Human
 Microbiome Congress (IHMC) <http://www.ihmc2015.org/>`__ in Luxembourg
 
 **March 2015** Paper accepted in `Bioinformatics

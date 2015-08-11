@@ -111,16 +111,10 @@ This is what I published in 2014/2015:
 Upcoming Travels & Talks
 ========================
 
-.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**15-17 June 2015** I will be in beautiful San Sebastian (Spain) for a software
-carpentry workshop (and some holiday time).
-
-**16 July 2015** I will be teaching at the `Lisbon Machine Learning School
-<http://lxmls.it.pt/2015/>`__
-
-`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-of these opportunities (or to invite me for other opportunities).
+.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
+.. of these opportunities (or to invite me for other opportunities).
 
 Other News
 ==========
@@ -128,6 +122,12 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**16 July 2015** I will be teaching at the `Lisbon Machine Learning School
+<http://lxmls.it.pt/2015/>`__
+
+**15-17 June 2015** I will be in beautiful San Sebastian (Spain) for a software
+carpentry workshop (and some holiday time).
 
 **March 31-April 2** I attended the `International Human
 Microbiome Congress (IHMC) <http://www.ihmc2015.org/>`__ in Luxembourg
