@@ -64,9 +64,6 @@ li {
 #content>p {
     margin:0px;
 }
-#content>p+p {
-    text-indent:30px;
-}
 
 a {
 	color:#CC6600;
