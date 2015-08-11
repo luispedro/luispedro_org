@@ -64,7 +64,7 @@ In reverse chronological order
     Picheral, Sarah Searson, Stefanie Kandels-Lewis, Tara Oceans coordinators,
     Chris Bowler, Colomban de Vargas, Gabriel Gorsky, Nigel Grimsley, Pascal
     Hingamp, Daniele Iudicone, Olivier Jaillon, Fabrice Not, Hiroyuki Ogata,
-    Stephane Pesant, Sabrina Speich, Lars Stemmann, Matthew B. Sullivan,§, Jean
+    Stephane Pesant, Sabrina Speich, Lars Stemmann, Matthew B. Sullivan, Jean
     Weissenbach, Patrick Wincker, Eric Karsenti, Jeroen Raes, Silvia G. Acinas,
     Peer Bork, *Structure and function of the global ocean microbiome* in
     Science (2015) [`DOI <http://doi.org/10.1126/science.1261359>`__]
@@ -72,9 +72,10 @@ In reverse chronological order
 16. **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
     von Köckritz-Blickwede Mário Ramirez , João André Carriço, *Automatic
     Determination of NET (Neutrophil Extracellular Traps) Coverage in
-    Fluorescent Microscopy Images* in Bioinformatics (2015), (advance online
-    publication).  [`DOI <http://doi.org/10.1093/bioinformatics/btv156>`__]
-    [`Request reprint <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Automatic%20Determination%20of%20NET%Coverage)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%20of%20Automatic%20Determination%20of%20NET%20(Neutrophil%20Extracellular%20Traps)%20Coverage%20in%20Fluorescent%20Microscopy%20Images?%0A%0AThank%20you,%0A>`__].
+    Fluorescent Microscopy Images* in Bioinformatics (2015), 31 (14):
+    2364-2370. [`DOI <http://doi.org/10.1093/bioinformatics/btv156>`__]
+    [`Request reprint
+    <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Automatic%20Determination%20of%20NET%Coverage)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%20of%20Automatic%20Determination%20of%20NET%20(Neutrophil%20Extracellular%20Traps)%20Coverage%20in%20Fluorescent%20Microscopy%20Images?%0A%0AThank%20you,%0A>`__].
 
 15. Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,
     Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
