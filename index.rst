@@ -126,7 +126,7 @@ Other News
 (See above for papers)
 
 **17 August 2015** The project `ngless is now open source
-    <http://luispedro.github.io/ngless/>`__
+<http://luispedro.github.io/ngless/>`__
 
 **16 July 2015** I will be teaching at the `Lisbon Machine Learning School
 <http://lxmls.it.pt/2015/>`__
