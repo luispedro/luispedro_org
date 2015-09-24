@@ -61,6 +61,12 @@ Recent Publications
 
 This is what I published in 2014/2015:
 
+6.  Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
+    Cabezas-Cruz, James J. Valdés, Virgílio do Rosário, José de la Fuente4 and
+    Ana Domingos, *Gene expression changes in the salivary glands of Anopheles
+    coluzzii elicited by Plasmodium berghei infection* in Parasites & Vectors
+    (2015) [`DOI <doi.org/10.1186/s13071-015-1079-8>`__]
+
 5.  Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
     Kultima, Karine Labadie, Guillem Salazar, Bardya Djahanschiri, Georg
     Zeller, Daniel R. Mende, Adriana Alberti, Francisco M. Cornejo-Castillo,
