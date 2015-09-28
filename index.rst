@@ -117,12 +117,10 @@ This is what I published in 2014/2015:
 Upcoming Travels & Talks
 ========================
 
-.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**22-25 August 2015**  Visiting Tallinn (Estonia)
-
-`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-of these opportunities (or to invite me for other opportunities).
+.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
+    of these opportunities (or to invite me for other opportunities).
 
 Other News
 ==========
@@ -130,6 +128,8 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**22-25 August 2015**  Visiting Tallinn (Estonia)
 
 **17 August 2015** The project `ngless is now open source
 <http://luispedro.github.io/ngless/>`__
