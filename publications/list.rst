@@ -58,7 +58,7 @@ In reverse chronological order
     Cabezas-Cruz, James J. Valdés, Virgílio do Rosário, José de la Fuente5 and
     Ana Domingos, *Gene expression changes in the salivary glands of Anopheles
     coluzzii elicited by Plasmodium berghei infection* in Parasites & Vectors
-    (2015) [`DOI <doi.org/10.1186/s13071-015-1079-8>`__]
+    (2015) [`DOI <http://doi.org/10.1186/s13071-015-1079-8>`__]
 
 
 17. Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
