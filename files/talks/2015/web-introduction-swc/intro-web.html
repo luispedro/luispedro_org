@@ -319,7 +319,7 @@ app.run()
 &lt;html&gt;
     &lt;body&gt;
     &lt;p&gt;Value is {{ value }}&lt;/p&gt;
-    &lt;p&gt;&lt;img src="pow-fig?value={{ value }}"&lt;/p&gt;
+    &lt;p&gt;&lt;img src="pow-fig?value={{ value }}" /&gt;&lt;/p&gt;
 
     &lt;/body&gt;
 &lt;/html&gt;
@@ -339,7 +339,7 @@ def index():
     return render_template('pow.html', value=value)
 
 
-@app.route('/pow-fig'):
+@app.route('/pow-fig')
 def pow_fig():
     value = float(request.args.get('value', 2.0))
     fig,ax = plt.subplots()
