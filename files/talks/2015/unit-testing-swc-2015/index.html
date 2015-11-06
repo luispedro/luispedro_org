@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+
+        <title>Unit testing with Python</title>
+
+        <meta name="description" content="" />
+        <meta name="author" content="Luis Pedro Coelho" />
+
+        <link rel="stylesheet" href="reveal.js/css/reveal.css">
+        <link rel="stylesheet" href="reveal.js/css/theme/beige.css" id="theme">
+
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+        <style>
+            .reveal h1 { text-transform: none; font-size: 3em; }
+            .reveal h3 { text-transform: none; }
+            .reveal p { text-align: left; }
+        </style>
+        <!-- Code syntax highlighting -->
+        <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+        <!-- Printing and PDF exports -->
+        <script>
+            var link = document.createElement( 'link' );
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+            document.getElementsByTagName( 'head' )[0].appendChild( link );
+        </script>
+
+        <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <div class="reveal">
+
+            <!-- Any section element inside of this container is displayed as a slide -->
+            <div class="slides">
+                <section>
+                    <h1>Defensive Programming &amp; unit testing with Python</h1>
+                    <p>
+                        Luis Pedro Coelho<br />
+                        <hr />
+                        On twitter: <a href="https://twitter.com/luispedrocoelho">@luispedrocoelho</a>
+                    </p>
+                </section>
+                <section>
+                    <section>
+                        <h2>Scientific code must not just produce nice looking output, but ideally should be correct</h2>
+                        <p>You should be able to do more than say <cite>it just works</cite>...
+                    </section>
+                    <section>
+                        <h2>Why can things go wrong?</h2>
+                        <ul>
+                            <li>Your code is correct, but input files are wrong/missing/..., the network goes down...
+                            <li>Your code is buggy.
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Defensive programming</h2>
+                        <p>Mistakes will be made, file formats will change, computers will crash, ...
+                    </section>
+                    <section>
+                        <h2>Never fail silently</h2>
+                        <ul>
+                        <li><strong>Worst possible thing</strong>: you work on data that is wrong without realizing it.
+                        <li>Give your code the <cite>Michael Bay treatment</cite>
+                        </ul>
+
+                        <div style="position: relative">
+                            <img class="fragment"  src="waffle.gif" />
+                            <img class="fragment" style="position:absolute; margin-left: auto; margin-right: auto; left: 0; right: 0;" src="waffle-explode-small.gif" />
+                        </div>
+
+                        <ul class="fragment">
+                        <li>More seriously, though: check for errors.
+                        <li>Good error messages are important.
+                        <li>The Unix tradition is that success is silent, error are noisy.
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Check for files, errors, &amp;c</h2>
+<pre><code data-trim>
+from os import path
+fname = 'my-input-file.txt'
+if not path.exists(fname):
+    raise ValueError("File not found '{}'".format(fname))
+</code></pre>
+                    <p>This is more important in shell scripts! (we will talk about it in the next session).</p>
+                    </section>
+                    <section>
+                        <h2>Check for possible bugs</h2>
+                        <p>Assertion as a programming tool</p>
+                        <ul>
+                            <li><code>assert</code> means that <strong>you, the programmer,</strong> are assuming that something is true.
+                            <li>When an assertion fails, this means you have a bug.
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Assertions in other languages</h2>
+                        <ul>
+                            <li>C/C++ <code>#include &lt;assert.h&gt;</code>
+                            <li>D <code>assert</code> and <code>static assert</code>
+                            <li>C# <code>Debug.assert</code>
+                            <li>Java <code>assert</code>
+                            <li>Matlab <code>assert()</code>
+                            <li>...
+                        </ul>
+
+                    </section>
+                    <section>
+                        <h2>Assertions versus error checking</h2>
+                        <ul>
+                            <li>Error handling protects against outside events;
+                                assertions protect against programmer mistakes.
+                            <li>Assertions <strong>should never</strong> be false.
+                        </ul>
+                        <p>
+                    </section>
+                    <section>
+                        <h2>Some concepts and nomenclature</h2>
+                        <ol>
+                            <li>pre-conditions. What must be true <em>before</em> calling a function.
+                            <li>post-conditions. What will be true <em>after</em> calling a function.
+                            <li>invariants. What the function <em>does not</em> change.
+                        </ol>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        <h2>Do you test your code?</h2>
+                        <p>Of course you test your code, the goal of this session is to teach you how to do it in a more formal/structured fashion.
+                        <p>The big advantage is that this can then be kept and automated.
+                        <p>Again, we use Python/nose as a technology, but there are similar tools in all programming languages.
+                    </section>
+                    <section>
+                        <h2>Example</h2>
+
+<pre><code data-trim>
+def add_double(x, y):
+    '''Returns the double of the sum of its inputs'''
+    return 2. * (x + y)
+</code></pre>
+                    </section>
+                    <section>
+                        <h2>A smoke test</h2>
+<pre><code data-trim>
+In [1]: from add_double import add_double
+
+In [2]: add_double(1, 1)
+Out[2]: 4.0
+</code></pre>
+                    <p>Yeah, it ran.
+
+                    </section>
+                    <section>
+                        <h2>Using nosetests</h2>
+<pre><code data-trim>
+def add_double(x, y):
+    '''Returns the double of the sum of its inputs'''
+    return 2. * (x + y)
+
+def test_smoke():
+    assert add_double(1, 1) == 4
+</code></pre>
+                    <p>Now, run on the *Terminal*: <tt>nosetest -v</tt>.
+                    </section>
+                    <section>
+                        <h2>Case tests</h2>
+<pre><code data-trim>
+def test_basic():
+    assert add_double(1, 1) == 4
+    assert add_double(2, 1) == 6
+    assert add_double(1, 2) == 6
+</code></pre>
+                    <p>Just check a few easy cases (which you can compute by hand)
+                    <p>Alternative: use a small test file (part of a larger one).
+                    </section>
+                    <section>
+                        <h2>Edge/corner cases</h2>
+<pre><code data-trim>
+def test_corner():
+    assert add_double(0, 0) == 0
+    assert add_double(-1, -1) == 2
+</code></pre>
+                    </section>
+                    <section>
+                        <h2>Great, I have more things to type now!</h2>
+                        <ul>
+                            <li>When you are debugging, you can repeatedly run a test</li>
+                            <li>Avoid the short blanket problem<br />
+                                Fix a problem here, break something over there...
+                            <li>True story: updating code to parse a file after the file format changed.
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Regression testing</h2>
+
+                        <p>Make sure bugs only appear once!</p>
+                        <p>Bugs often cluster together.
+
+                        <p>Building a test is often the first step in debugging (either your bug or someone else's).
+                    </section>
+                    <section>
+                        <h2>Testing philosophies</h2>
+                        <ul>
+                            <li>Write tests first (<cite>All code is guilty until proven innocent</cite>)
+                            <li>Test everything. Test it twice
+                            <li>Continuous integration
+                            <li>Regression testing only
+                            <li>Ad-hoc testing
+                        </ul>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        <h2>Practical session</h2>
+                        <ol>
+                            <li>Either start from scratch or take the file from github</li>
+                            <li>Write tests for a function which computes a
+                                <em>robust mean</em>, i.e., the mean value of a
+                                set of numbers <strong>except the maximum and
+                                minimum values</strong>.</li>
+                        </ol>
+                        <div class="fragment">
+                            <h3>Types of tests (summary)</h3>
+                            <ul>
+                                <li><strong>Smoke test</strong> just check it runs
+                                <li><strong>Case testing</strong> test a "known case" (like a control in the wet lab)
+                                <li><strong>Corner/edge cases</strong> check "complex" cases.
+                                <li><strong>Regression testing</strong> create a test when you find a bug.
+                                <li><strong>Integration test</strong> test that different parts work together.
+                            </ul>
+                        </div>
+                    </section>
+                    <section>
+                        <h2>Writing testable code</h2>
+                        <ol>
+                            <li>Using testing makes your code look different<br />
+                                (Mostly better, but also just different)
+                            <li>Split data-loading/computation/plotting (hard to test plotting)
+                        </ol>
+                    </section>
+                </section>
+                <section>
+                    <section>
+                        <h2>Summary</h2>
+                        <ul>
+                            <li>Defensive programming means you prepare for inevitable mistakes
+                            <li>Automate testing to avoid wasted/repeated effort
+                            <li>Testing forces you to be more precise about what your functions do
+                    </section>
+                    <section>
+                        <h1>Thank You</h1>
+                    </section>
+                </section>
+
+
+
+            </div>
+
+        </div>
+
+        <script src="reveal.js/lib/js/head.min.js"></script>
+        <script src="reveal.js/js/reveal.js"></script>
+
+        <script>
+
+            // Full list of configuration options available at:
+            // https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                history: true,
+                center: true,
+
+                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+                transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+                // Optional reveal.js plugins
+                dependencies: [
+                    { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                    { src: 'reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+                    { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+                    { src: 'reveal.js/plugin/notes/notes.js', async: true }
+                ]
+            });
+
+        </script>
+
+    </body>
+</html>

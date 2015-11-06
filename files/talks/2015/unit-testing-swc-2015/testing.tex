@@ -1,0 +1,159 @@
+\begin{frame}[fragile]
+\frametitle{Assertions}
+\begin{python}
+def stddev(values):
+    '''
+    S = stddev(values)
+
+    Compute standard deviation
+    '''
+    assert len(values) > 0, 'stddev: got empty list.'
+    ...
+\end{python}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Assertions}
+
+\begin{python}
+def stddev(values):
+    '''
+    S = stddev(values)
+
+    Compute standard deviation
+    '''
+    if len(values) <= 0:
+        raise AssertionError(
+            'stddev: got empty list.')
+    ...
+\end{python}
+
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Preconditions}
+
+\begin{quote}
+In computer programming, a precondition is a condition or predicate that must always be true just prior to the execution of some section of code.
+\end{quote}
+
+\begin{flushright}
+(Wikipedia)
+\end{flushright}
+
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Assertions Are Not Error Handling!}
+
+\begin{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Programming by Contract}
+\begin{enumerate}
+\end{enumerate}
+\end{frame}
+
+\begin{frame}[fragile]
+
+\begin{block}{Pre-condition}
+What must be true before calling a function.
+\end{block}
+
+\begin{block}{Post-condition}
+What is true after calling a function.
+\end{block}
+
+\end{frame}
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{Unit Testing}
+
+\begin{python}
+def test_stddev_const():
+    assert stddev([1]*100) < 1e-3
+
+def test_stddev_positive():
+    assert stddev(range(20)) > 0.
+\end{python}
+
+\end{frame}
+
+\end{enumerate}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Practical Session: some preliminaries}
+\begin{block}{statistics.py}
+\begin{python}
+def stddev(xs):
+    . . .
+\end{python}
+\end{block}
+
+\begin{block}{test\_statistics.py}
+
+\begin{python}
+
+def test_stddev_const():
+    assert stddev([1]*100) < 1e-3
+
+def test_stddev_positive():
+    assert stddev(range(20)) > 0.
+\end{python}
+\end{block}
+
+\end{frame}
+\begin{frame}[fragile]
+\frametitle{Practical Session: some preliminaries}
+\begin{block}{statistics.py}
+\begin{python}
+def stddev(xs):
+    . . .
+\end{python}
+\end{block}
+
+\begin{block}{test\_statistics.py}
+
+\begin{python}
+import statistics
+def test_stddev_const():
+    assert statistics.stddev([1]*100) < 1e-3
+
+def test_stddev_positive():
+    assert statistics.stddev(range(20)) > 0.
+\end{python}
+\end{block}
+
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Practical: Python III \& Unit testing}
+
+\begin{enumerate}
+\item You can either start from scratch or check the files I give you\\
+    (or any combination of both).
+\item Goal is to write code to do a simple task \& test it.
+\end{enumerate}
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+\frametitle{Goals}
+\begin{enumerate}
+\item Copy files from scratch.
+\item There is a data file (\texttt{data.txt})
+\item See the code in \texttt{main.py}, which loads it.
+\item Write a function \emph{average} in a file called \texttt{robust.py}, which computes the average of a sequence of numbers, whilst ignoring the maximum and minimum.
+\item Write tests for \texttt{robust.average}.
+\item (If you have the time, you can look at \texttt{plots.py})
+\end{enumerate}
+\end{frame}
+
+\end{document}
