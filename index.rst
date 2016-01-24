@@ -117,10 +117,17 @@ This is what I published in 2014/2015:
 Upcoming Travels & Talks
 ========================
 
-I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-.. `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-    of these opportunities (or to invite me for other opportunities).
+**21-26 February 2016** I will be in New Orleans for the `2016 Ocean Sciences
+Meeting <http://osm.agu.org/2016/>`__. I will be presenting a poster on our
+`metagenomics work on Feb 22 (Monday) at 4pm
+<https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/89657>`__ and giving a
+talk on our `environmental imaging work on Feb 26 (Friday) at 10.45am
+<https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/92480>`__
+
+`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
+of these opportunities (or to invite me for other opportunities).
 
 Other News
 ==========
