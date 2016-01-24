@@ -11,8 +11,8 @@ url: "http://luispedro.org"
 twitter_username: luispedrocoelho
 github_username:  luispedro
 # Build settings
-markdown: kramdown
 permalink: pretty
+encoding: utf-8
 
 defaults:
     -
