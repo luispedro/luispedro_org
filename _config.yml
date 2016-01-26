@@ -20,3 +20,12 @@ defaults:
             path: ""
         values:
             layout: default
+exclude:
+    - update.sh
+    - upload.sh
+    - fix-mtimes.py
+    - mtime_hash.pkl
+    - default.nix
+    - gemsets.nix
+    - Gemset
+    - Gemset.lock
