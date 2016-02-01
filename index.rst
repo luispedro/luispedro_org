@@ -119,6 +119,9 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
+**17 April 2016** I will be in Florence (Italy) for a keynote at `PYCON Sette
+<https://www.pycon.it/en/>`__
+
 **21-26 February 2016** I will be in New Orleans for the `2016 Ocean Sciences
 Meeting <http://osm.agu.org/2016/>`__. I will be presenting a poster on our
 `metagenomics work on Feb 22 (Monday) at 4pm
