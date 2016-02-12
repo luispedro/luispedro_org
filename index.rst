@@ -71,7 +71,7 @@ This is what I published in 2015/2016:
     Weissenbach, Patrick Wincker, Silvia G. Acinas, Peer Bork, Colomban de
     Vargas, Daniele Iudicone, Matthew B. Sullivan, Jeroen Raes, Eric Karsenti,
     Chris Bowler & Gabriel Gorsky; *Plankton networks driving carbon export in
-    the oligotrophic ocean* in Nature (2015) [`DOI
+    the oligotrophic ocean* in Nature (2016) [`DOI
     <http://doi.org/10.1038/nature16942>`__]
 
 3.  Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
