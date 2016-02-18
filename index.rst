@@ -109,6 +109,11 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
+**26-29 April 2016** I will be attending the `Sloan Early Career Workshop on
+the Microbiology of the Built Environment
+<http://microbe.net/2015/11/03/early-career-workshop-on-microbiology-of-the-built-environment/>`__
+in Chicago.
+
 **17 April 2016** I will be in Florence (Italy) for a keynote at `PYCON Sette
 <https://www.pycon.it/en/>`__
 
