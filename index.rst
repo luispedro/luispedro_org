@@ -140,6 +140,10 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
+**21-28 June 2016** I will be in Lisbon for the 2016 edition of the `Lisbon
+Machine Learning Summer School <http://lxmls.it.pt/2016/?page_id=64>`__,
+presenting a tutorial on the first day
+
 **26-29 April 2016** I will be attending the `Sloan Early Career Workshop on
 the Microbiology of the Built Environment
 <http://microbe.net/2015/11/03/early-career-workshop-on-microbiology-of-the-built-environment/>`__
@@ -147,6 +151,8 @@ in Chicago.
 
 **17 April 2016** I will be in Florence (Italy) for an invited keynote at
 `PYCON Sette <https://www.pycon.it/en/>`__
+
+**6-8 April 2016** I will be at the EBI in Hinxton.
 
 **21-26 February 2016** I will be in New Orleans for the `2016 Ocean Sciences
 Meeting <http://osm.agu.org/2016/>`__. I will be presenting a poster on our
