@@ -16,6 +16,7 @@ stdenv.mkDerivation {
 
   buildInputs = with pkgs; [
     jenv
+    bundler
     zsh
     python
     python27Packages.docutils
