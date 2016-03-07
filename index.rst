@@ -171,6 +171,9 @@ Other News
 
 (See above for papers)
 
+**7 March 2016** I am now an Associate Editor of the `Journal of Open Research
+Software <http://openresearchsoftware.metajnl.com/>`__
+
 **22-25 August 2015**  Visiting Tallinn (Estonia)
 
 **17 August 2015** The project `ngless is now open source
