@@ -53,6 +53,23 @@ Do be careful, the 28 is notorious for pick-pockets (I used to ride it all the
 time as I lived in Graça and never had any problems, but I don't really looked
 like a tourist either).
 
+If you want to do a day outside the city, you can go to
+[Sintra](https://www.wikiwand.com/en/Sintra). That is the typical day-trip from
+Lisbon. I personally prefer Évora as Sintra comes across to me as too much as
+Disneyland.  You'll need to rent a car, but then you can drive to Évora, see
+the city, including the [Capela dos
+Ossos](https://en.wikipedia.org/wiki/Capela_dos_Ossos), eat at some of the nice
+restaurants (you can't really get decent traditional Portuguese food in Lisbon
+anymore, it's either not great or too modern [which is fine, but if you want to
+try the more traditional stuff, get outside the city]). Then the whole region
+is a wine region , so you can drive around, see the vineyards, the small towns,
+&c. It's a lovely part of Europe. I recommend you take the highway from Lisbon
+to Évora without stopping on the way there and, then, if you feel like it you
+can drive back through the smaller roads. If you have more time, and want to
+spend a night in the middle of Alentejo, you can drive diagonally down to Sines
+and then back up to Lisbon, stopping at places like Reguengos de Monsaraz,
+Aljustrel, Aljezur, Sesimbra... In the summer, expect heat (as high as 40~43°C).
+
 ## How do you have the time to do all this stuff?
 
 I do not own a television. Never have.
