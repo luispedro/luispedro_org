@@ -65,7 +65,7 @@ This is what I published in 2014-2016:
     Huerta-Cepas, Simone S. Li, Marja Driessen, Anita Yvonne Voigt, Georg
     Zeller, Shinichi Sunagawa and Peer Bork; `MOCAT2: a metagenomic assembly,
     annotation and profiling framework
-    <http://doi.org/10.1093/bioinformatics/btw183`__ in Bioinformatics (2016)
+    <http://doi.org/10.1093/bioinformatics/btw183>`__ in Bioinformatics (2016)
     [`DOI <http://doi.org/10.1093/bioinformatics/btw183>`__]
 
 7.  Lionel Guidi, Samuel Chaffron, Lucie Bittner, Damien Eveillard, Abdelhalim
