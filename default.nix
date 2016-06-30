@@ -1,4 +1,4 @@
-with import ../nixpkgs/pkgs/top-level/all-packages.nix {};
+with import <nixpkgs> {};
 
 let
 
