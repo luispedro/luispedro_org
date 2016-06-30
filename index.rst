@@ -61,6 +61,13 @@ Recent Publications
 
 This is what I published in 2014-2016:
 
+8.  Jens Roat Kultima, Luis Pedro Coelho, Kristoffer Forslund, Jaime
+    Huerta-Cepas, Simone S. Li, Marja Driessen, Anita Yvonne Voigt, Georg
+    Zeller, Shinichi Sunagawa and Peer Bork; `MOCAT2: a metagenomic assembly,
+    annotation and profiling framework
+    <http://doi.org/10.1093/bioinformatics/btw183`__ in Bioinformatics (2016)
+    [`DOI <http://doi.org/10.1093/bioinformatics/btw183>`__]
+
 7.  Lionel Guidi, Samuel Chaffron, Lucie Bittner, Damien Eveillard, Abdelhalim
     Larhlimi, Simon Roux, Youssef Darzi, Stephane Audic, Léo Berline, Jennifer
     Brum, **Luis Pedro Coelho**, Julio Cesar Ignacio Espinoza, Shruti Malviya,
@@ -140,26 +147,10 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**21-28 June 2016** I will be in Lisbon for the 2016 edition of the `Lisbon
+**21-28 July 2016** I will be in Lisbon for the 2016 edition of the `Lisbon
 Machine Learning Summer School <http://lxmls.it.pt/2016/?page_id=64>`__,
 presenting a tutorial on the first day
 
-**26-29 April 2016** I will be attending the `Sloan Early Career Workshop on
-the Microbiology of the Built Environment
-<http://microbe.net/2015/11/03/early-career-workshop-on-microbiology-of-the-built-environment/>`__
-in Chicago.
-
-**17 April 2016** I will be in Florence (Italy) for an invited keynote at
-`PYCON Sette <https://www.pycon.it/en/>`__
-
-**6-8 April 2016** I will be at the EBI in Hinxton.
-
-**21-26 February 2016** I will be in New Orleans for the `2016 Ocean Sciences
-Meeting <http://osm.agu.org/2016/>`__. I will be presenting a poster on our
-`metagenomics work on Feb 22 (Monday) at 4pm
-<https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/89657>`__ and giving a
-talk on our `environmental imaging work on Feb 26 (Friday) at 10.45am
-<https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/92480>`__
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities (or to invite me for other opportunities).

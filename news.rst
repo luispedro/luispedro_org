@@ -7,6 +7,21 @@ permalink: news/
 News Archive
 ============
 
+**26-29 April 2016** I attended the `Sloan Early Career Workshop on
+the Microbiology of the Built Environment
+<http://microbe.net/2015/11/03/early-career-workshop-on-microbiology-of-the-built-environment/>`__
+in Chicago.
+
+**17 April 2016** I gave an invited keynote in Florence ate
+`PYCON Sette <https://www.pycon.it/en/>`__
+
+
+**21-26 February 2016** I was New Orleans for the `2016 Ocean Sciences Meeting
+<http://osm.agu.org/2016/>`__. I presented a poster on our `metagenomics work
+<https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/89657>`__ and gave a talk
+on our `environmental imaging work
+<https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/92480>`__
+
 **16 July 2015** I taught at the `Lisbon Machine Learning School
 <http://lxmls.it.pt/2015/>`__
 
