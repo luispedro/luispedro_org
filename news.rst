@@ -7,6 +7,11 @@ permalink: news/
 News Archive
 ============
 
+**21-28 July 2016** I was in Lisbon for the 2016 edition of the `Lisbon
+Machine Learning Summer School <http://lxmls.it.pt/2016/?page_id=64>`__,
+presenting a tutorial on the first day
+
+
 **26-29 April 2016** I attended the `Sloan Early Career Workshop on
 the Microbiology of the Built Environment
 <http://microbe.net/2015/11/03/early-career-workshop-on-microbiology-of-the-built-environment/>`__

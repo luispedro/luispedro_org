@@ -147,10 +147,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**21-28 July 2016** I will be in Lisbon for the 2016 edition of the `Lisbon
-Machine Learning Summer School <http://lxmls.it.pt/2016/?page_id=64>`__,
-presenting a tutorial on the first day
-
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities (or to invite me for other opportunities).
