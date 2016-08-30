@@ -147,6 +147,8 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
+**23-25 November 2016** Zurich (Switzerland)
+
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities (or to invite me for other opportunities).
