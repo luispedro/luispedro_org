@@ -61,7 +61,7 @@ Recent Publications
 
 This is what I published in 2014-2016:
 
-8.  Jens Roat Kultima, Luis Pedro Coelho, Kristoffer Forslund, Jaime
+8.  Jens Roat Kultima, **Luis Pedro Coelho**, Kristoffer Forslund, Jaime
     Huerta-Cepas, Simone S. Li, Marja Driessen, Anita Yvonne Voigt, Georg
     Zeller, Shinichi Sunagawa and Peer Bork; `MOCAT2: a metagenomic assembly,
     annotation and profiling framework
