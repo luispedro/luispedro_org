@@ -147,7 +147,9 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**23-25 November 2016** Zurich (Switzerland)
+**23-25 November 2016** I will be in Zurich (Switzerland) for the course
+`Machine learning for bioinformatics and computational biology
+<http://www.sib.swiss/training/for-sib-phd-students/phd-training-events/training-for-phds/ml-for-bioinformatics-and-computational-biology>`__
 
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
