@@ -147,10 +147,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**23-25 November 2016** I will be in Zurich (Switzerland) for the course
-`Machine learning for bioinformatics and computational biology
-<http://www.sib.swiss/training/for-sib-phd-students/phd-training-events/training-for-phds/ml-for-bioinformatics-and-computational-biology>`__
-
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities (or to invite me for other opportunities).
@@ -161,6 +157,11 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**23-25 November 2016** I visited Zurich (Switzerland) for the course `Machine
+learning for bioinformatics and computational biology
+<http://www.sib.swiss/training/for-sib-phd-students/phd-training-events/training-for-phds/ml-for-bioinformatics-and-computational-biology>`__
+
 
 **7 March 2016** I am now an Associate Editor of the `Journal of Open Research
 Software <http://openresearchsoftware.metajnl.com/>`__
