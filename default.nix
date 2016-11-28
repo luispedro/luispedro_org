@@ -10,6 +10,12 @@ jenv = bundlerEnv {
   lockfile = ./Gemfile.lock;
  };
 
+py27 = python27.withPackages (pp: [
+      pp.docutils
+      pp.pygments
+      pp.awscli
+      ]);
+
 in
 stdenv.mkDerivation {
   name = "luispedro_org";
@@ -18,9 +24,8 @@ stdenv.mkDerivation {
     jenv
     bundler
     zsh
-    python
-    python27Packages.docutils
-    python27Packages.pygments
+    py27
+    python3
     glibcLocales
   ];
   # When used as `nix-shell --pure`
