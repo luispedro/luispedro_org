@@ -54,6 +54,13 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+20. Jens Roat Kultima, **Luis Pedro Coelho**, Kristoffer Forslund, Jaime
+    Huerta-Cepas, Simone S. Li, Marja Driessen, Anita Yvonne Voigt, Georg
+    Zeller, Shinichi Sunagawa and Peer Bork; `MOCAT2: a metagenomic assembly,
+    annotation and profiling framework
+    <http://doi.org/10.1093/bioinformatics/btw183>`__ in Bioinformatics (2016)
+    [`DOI <http://doi.org/10.1093/bioinformatics/btw183>`__]
+
 19. Lionel Guidi, Samuel Chaffron, Lucie Bittner, Damien Eveillard, Abdelhalim
     Larhlimi, Simon Roux, Youssef Darzi, Stephane Audic, Léo Berline, Jennifer
     Brum, **Luis Pedro Coelho**, Julio Cesar Ignacio Espinoza, Shruti Malviya,
@@ -95,7 +102,9 @@ In reverse chronological order
     Fluorescent Microscopy Images* in Bioinformatics (2015), 31 (14):
     2364-2370. [`DOI <http://doi.org/10.1093/bioinformatics/btv156>`__]
     [`Request reprint
-    <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Automatic%20Determination%20of%20NET%Coverage)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%20of%20Automatic%20Determination%20of%20NET%20(Neutrophil%20Extracellular%20Traps)%20Coverage%20in%20Fluorescent%20Microscopy%20Images?%0A%0AThank%20you,%0A>`__].
+    <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Automatic%20Determination%20of%20NET%Coverage)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%20of%20Automatic%20Determination%20of%20NET%20(Neutrophil%20Extracellular%20Traps)%20Coverage%20in%20Fluorescent%20Microscopy%20Images?%0A%0AThank%20you,%0A>`__]
+    [`RG Link
+    <https://www.researchgate.net/profile/Luis_Pedro_Coelho/publication/273778581_Automatic_Determination_of_NET_Neutrophil_Extracellular_Traps_Coverage_in_Fluorescent_Microscopy_Images/links/57a305ac08ae5f8b258d986d/Automatic-Determination-of-NET-Neutrophil-Extracellular-Traps-Coverage-in-Fluorescent-Microscopy-Images.pdf>`__].
 
 15. Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,
     Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
