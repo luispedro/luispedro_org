@@ -54,6 +54,23 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+22. Jaime Huerta-Cepas, Kristoffer Forslund, **Luis Pedro Coelho**, Damian
+    Szklarczyk, Lars Juhl Jensen, Christian von Mering, and Peer Bork `Fast
+    genome-wide functional annotation through orthology assignment by
+    eggNOG-mapper
+    <https://academic.oup.com/mbe/article/3782716/Fast-genome-wide-functional-annotation-through>`__
+    in Molecular Biology & Evolution (2017) [`DOI
+    <https://doi.org/10.1093/molbev/msx148>`__]
+
+21. Janis Rebecca Bedarf, Falk Hildebrand, **Luis Pedro Coelho**, Shinichi
+    Sunagawa, Mohammad Bahram, Felix Goeser, Peer Bork, Ullrich Wüllner
+    `Functional implications of microbial and viral gut metagenome changes in
+    early stage L-DOPA naive Parkinson's Disease patients
+    <https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0428-y>`__
+    in Genome Medicine (2017) [`DOI
+    <https://doi.org/10.1186/s13073-017-0428-y>`__]
+
+
 20. Jens Roat Kultima, **Luis Pedro Coelho**, Kristoffer Forslund, Jaime
     Huerta-Cepas, Simone S. Li, Marja Driessen, Anita Yvonne Voigt, Georg
     Zeller, Shinichi Sunagawa and Peer Bork; `MOCAT2: a metagenomic assembly,

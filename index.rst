@@ -59,16 +59,31 @@ problems and tackling the software issues that stand in the way of doing so.
 Recent Publications
 ===================
 
-This is what I published in 2014-2016:
+This is what I published in 2015-2017:
 
-8.  Jens Roat Kultima, **Luis Pedro Coelho**, Kristoffer Forslund, Jaime
+7.  Jaime Huerta-Cepas, Kristoffer Forslund, **Luis Pedro Coelho**, Damian
+    Szklarczyk, Lars Juhl Jensen, Christian von Mering, and Peer Bork `Fast
+    genome-wide functional annotation through orthology assignment by
+    eggNOG-mapper
+    <https://academic.oup.com/mbe/article/3782716/Fast-genome-wide-functional-annotation-through>`__
+    in Molecular Biology & Evolution (2017) [`DOI
+    <https://doi.org/10.1093/molbev/msx148>`__]
+
+6.  Janis Rebecca Bedarf, Falk Hildebrand, **Luis Pedro Coelho**, Shinichi
+    Sunagawa, Mohammad Bahram, Felix Goeser, Peer Bork, Ullrich Wüllner
+    `Functional implications of microbial and viral gut metagenome changes in
+    early stage L-DOPA naive Parkinson's Disease patients <https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0428-y>`__ in Genome Medicine
+    (2017) [`DOI
+    <https://doi.org/10.1186/s13073-017-0428-y>`__]
+
+5.  Jens Roat Kultima, **Luis Pedro Coelho**, Kristoffer Forslund, Jaime
     Huerta-Cepas, Simone S. Li, Marja Driessen, Anita Yvonne Voigt, Georg
     Zeller, Shinichi Sunagawa and Peer Bork; `MOCAT2: a metagenomic assembly,
     annotation and profiling framework
     <http://doi.org/10.1093/bioinformatics/btw183>`__ in Bioinformatics (2016)
     [`DOI <http://doi.org/10.1093/bioinformatics/btw183>`__]
 
-7.  Lionel Guidi, Samuel Chaffron, Lucie Bittner, Damien Eveillard, Abdelhalim
+4.  Lionel Guidi, Samuel Chaffron, Lucie Bittner, Damien Eveillard, Abdelhalim
     Larhlimi, Simon Roux, Youssef Darzi, Stephane Audic, Léo Berline, Jennifer
     Brum, **Luis Pedro Coelho**, Julio Cesar Ignacio Espinoza, Shruti Malviya,
     Shinichi Sunagawa, Céline Dimier, Stefanie Kandels-Lewis, Marc Picheral,
@@ -81,14 +96,14 @@ This is what I published in 2014-2016:
     the oligotrophic ocean <http://doi.org/10.1038/nature16942>`__ in Nature
     (2016) [`DOI <http://doi.org/10.1038/nature16942>`__]
 
-6.  Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
+3.  Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
     Cabezas-Cruz, James J. Valdés, Virgílio do Rosário, José de la Fuente4 and
     Ana Domingos, `Gene expression changes in the salivary glands of Anopheles
     coluzzii elicited by Plasmodium berghei infection
     <http://doi.org/10.1186/s13071-015-1079-8>`__ in Parasites & Vectors (2015)
     [`DOI <http://doi.org/10.1186/s13071-015-1079-8>`__]
 
-5.  Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
+2.  Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
     Kultima, Karine Labadie, Guillem Salazar, Bardya Djahanschiri, Georg
     Zeller, Daniel R. Mende, Adriana Alberti, Francisco M. Cornejo-Castillo,
     Paul I. Costea, Corinne Cruaud, Francesco d'Ovidio, Stefan Engelen, Isabel
@@ -106,7 +121,7 @@ This is what I published in 2014-2016:
     [`Request reprint
     <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Structure%20and%20Function%20of%20global%20ocean%20microbiome)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%20of%20Structure%20and%20Function%20of%20the%20Global%20Ocean%20Microbiome?%0A%0AThank%20you,%0A>`__].
 
-4.  **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
+1.  **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
     von Köckritz-Blickwede Mário Ramirez , João André Carriço, `Automatic
     Determination of NET (Neutrophil Extracellular Traps) Coverage in
     Fluorescent Microscopy Images
@@ -116,31 +131,6 @@ This is what I published in 2014-2016:
     [`RG Link
     <https://www.researchgate.net/profile/Luis_Pedro_Coelho/publication/273778581_Automatic_Determination_of_NET_Neutrophil_Extracellular_Traps_Coverage_in_Fluorescent_Microscopy_Images/links/57a305ac08ae5f8b258d986d/Automatic-Determination-of-NET-Neutrophil-Extracellular-Traps-Coverage-in-Fluorescent-Microscopy-Images.pdf>`__].
 
-3.  Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,
-    Francisco Aresta-Branco, Filipa R. Ferreira, Fabien Guegan, **Luis Pedro
-    Coelho**, Maria Carmo-Fonseca, Nuno L. Barbosa-Morais, Luisa M. Figueiredo
-    `Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and
-    is important for parasite fitness in vivo
-    <http://doi.org/10.1111/mmi.12677>`__ in Molecular Microbiology (2014)
-    [`DOI <http://doi.org/10.1111/mmi.12677>`__].
-
-2.  Kristoffer Forslund, Shinichi Sunagawa, **Luis P. Coelho**, Peer Bork,
-    `Metagenomic insights into the human gut resistome and the forces that shape
-    it <http://doi.org/10.1002/bies.201300143>`__ in Bioessays (2014). [`DOI
-    <http://doi.org/10.1002/bies.201300143>`__] [`Preprint
-    <http://www.bork.embl.de/publication/pdf/24474281.pdf>`__]
-
-1.  Peter Liehl,  Vanessa Zuzarte-Luís,  Jennie Chan,  Thomas Zillinger,
-    Fernanda Baptista,  Daniel Carapau,  Madlen Konert, Kirsten K Hanson,
-    Céline Carret,  Caroline Lassnig,  Mathias Müller,  Ulrich Kalinke, Mohsan
-    Saeed, Angelo Ferreira Chora,  Douglas T Golenbock,  Birgit Strobl, Miguel
-    Prudêncio, **Luis P Coelho**,  Stefan H Kappe,  Giulio Superti-Furga,
-    Andreas Pichlmair,  Ana M Vigário,  Charles M Rice, Katherine A Fitzgerald,
-    Winfried Barchet, and Maria M Mota, `Host-cell sensors for Plasmodium
-    activate innate immunity against liver-stage infection
-    <http://www.nature.com/nm/journal/vaop/ncurrent/abs/nm.3424.html>`__ in
-    Nature Medicine 20, 47–53 (2014)  [`DOI
-    <http://doi.org/10.1038/nm.3424>`__]
 
 `Older publications... </publications>`__
 
