@@ -139,6 +139,26 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
+**July 2017**
+
+- I will be in Valencia for `FEMS 2017 <http://fems-microbiology2017.kenes.com>`__, **July 9-13**
+
+- I will be in Lisbon on **July 20** for `LxMLS 2017 <http://lxmls.it.pt/2017/>`__
+
+- I will be in Prague on **July 21-25** for `ECCB/ISMB 2017 <https://www.iscb.org/ismbeccb2017>`__
+
+**October 2017**
+
+- I will be in Copenhagen, **Oct 25-26** teaching people how to use `ngless
+  <https://ngless.readthedocs.io>`__ at the `Microbiome data interpretation
+  workshop
+  <https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763>`__
+
+**November 2017**
+
+- I will be in Schwarzenber, Switzerland for the `Autumn School "Machine
+  Learning applied to Systems Biology"
+  <http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn-school>`__
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities (or to invite me for other opportunities).
