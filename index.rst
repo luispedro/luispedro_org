@@ -70,6 +70,12 @@ Upcoming Travels & Talks
 
 - I will be in Prague on **July 21-25** for `ECCB/ISMB 2017 <https://www.iscb.org/ismbeccb2017>`__
 
+**September 2017**
+
+- I will be in Delft **Sept 12-13** for a `workshop on data-driven cell factory
+  and community design
+  <https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-factory-and-community-design-tickets-35694722877>`__
+
 **October 2017**
 
 - I will be in Copenhagen, **Oct 25-26** teaching people how to use `ngless
