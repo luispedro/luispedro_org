@@ -64,9 +64,6 @@ Upcoming Travels & Talks
 
 **July 2017**
 
-- I will be in Valencia for `FEMS 2017 <http://fems-microbiology2017.kenes.com>`__, **July 9-13**
-
-- I will be in Lisbon on **July 20** for `LxMLS 2017 <http://lxmls.it.pt/2017/>`__
 
 - I will be in Prague on **July 21-25** for `ECCB/ISMB 2017 <https://www.iscb.org/ismbeccb2017>`__
 
@@ -177,6 +174,12 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**July 20 2017** I was in Lisbon on **July 20** for `LxMLS 2017
+<http://lxmls.it.pt/2017/>`__
+
+**July 9-13 2017** I was in Valencia for `FEMS 2017
+<http://fems-microbiology2017.kenes.com>`__
 
 **23-25 November 2016** I visited Zurich (Switzerland) for the course `Machine
 learning for bioinformatics and computational biology
