@@ -62,10 +62,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**July 2017**
-
-
-- I will be in Prague on **July 21-25** for `ECCB/ISMB 2017 <https://www.iscb.org/ismbeccb2017>`__
 
 **September 2017**
 
@@ -93,6 +89,12 @@ Recent Publications
 ===================
 
 This is what I published in 2015-2017:
+
+8.  Paul Igor Costea*, Robin Munch*, **Luis Pedro Coelho**, Lucas Paoli,
+    Shinichi Sunagawa, Peer Bork `metaSNV: A tool for metagenomic strain level
+    analysis
+    <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182392>`__
+    in PLoS One (2017) [`DOI <https://doi.org/10.1371/journal.pone.0182392>`__]
 
 7.  Jaime Huerta-Cepas, Kristoffer Forslund, **Luis Pedro Coelho**, Damian
     Szklarczyk, Lars Juhl Jensen, Christian von Mering, and Peer Bork `Fast
@@ -174,6 +176,11 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+
+**July 21-25** I was in Prague for `ECCB/ISMB 2017
+<https://www.iscb.org/ismbeccb2017>`__ with a poster on `NGLess
+<http://ngless.embl.de>`__
 
 **July 20 2017** I was in Lisbon on **July 20** for `LxMLS 2017
 <http://lxmls.it.pt/2017/>`__
