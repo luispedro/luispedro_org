@@ -54,6 +54,12 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+23. Paul Igor Costea*, Robin Munch*, **Luis Pedro Coelho**, Lucas Paoli,
+    Shinichi Sunagawa, Peer Bork `metaSNV: A tool for metagenomic strain level
+    analysis
+    <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182392>`__
+    in PLoS One (2017) [`DOI <https://doi.org/10.1371/journal.pone.0182392>`__]
+
 22. Jaime Huerta-Cepas, Kristoffer Forslund, **Luis Pedro Coelho**, Damian
     Szklarczyk, Lars Juhl Jensen, Christian von Mering, and Peer Bork `Fast
     genome-wide functional annotation through orthology assignment by
