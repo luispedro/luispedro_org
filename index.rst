@@ -35,15 +35,18 @@ Research Interests
 **Technical version:** I am interested in combining meta'omics (methods that
 obtain high-throughput information on microbial communities such as
 metagenomics and metatranscriptomics) analysis with machine learning approaches
-to learn about microbial communities in different environments.
+to learn about microbial communities in different environments. I wish to
+answer basic questions on what determines the structure of a microbial
+community in a given environment and what are the differences/similarities
+between different environments.
 
 My work is a mix of of `method development
 <http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__ and
 `applications <http://doi.org/10.1126/science.1261359>`__.  In methodological
 terms, I worry a lot about `correct evaluation of methods
 <http://luispedro.org/projects/gen-classification>`__ and avoiding
-over-inflated measures of performance. I also work in scaling up methods to
-work on large-scale problems.
+over-inflated measures of performance. A large fraction of my time is spent
+scaling up methods to work on very-large problems.
 
 **Not-so technical version:** With modern technology, namely robotic
 instruments, it is easy to acquire a lot of microscopic pictures. It is also
@@ -62,19 +65,13 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-
-**September 2017**
-
-- I will be in Delft **Sept 12-13** for a `workshop on data-driven cell factory
-  and community design
-  <https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-factory-and-community-design-tickets-35694722877>`__
-
 **October 2017**
 
-- I will be in Copenhagen, **Oct 25-26** teaching people how to use `ngless
+- I will be in Copenhagen, **Oct 24-26** teaching people how to use `ngless
   <https://ngless.readthedocs.io>`__ at the `Microbiome data interpretation
   workshop
   <https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763>`__
+  and a scientific talk on my work.
 
 **November 2017**
 
@@ -177,6 +174,9 @@ Other News
 
 (See above for papers)
 
+**Sept 12-13** I was in Delft 12-13** for a `workshop on data-driven cell
+factory and community design
+<https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-factory-and-community-design-tickets-35694722877>`__
 
 **July 21-25** I was in Prague for `ECCB/ISMB 2017
 <https://www.iscb.org/ismbeccb2017>`__ with a poster on `NGLess
