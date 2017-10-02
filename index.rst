@@ -87,6 +87,24 @@ Recent Publications
 
 This is what I published in 2015-2017:
 
+9.  Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
+    Alberti, Florence Levenez, Melanie Tramontano, Marja Driessen, Rajna
+    Hercog, Ferris-Elias Jung, Jens Roat Kultima, Matthew R Hayward, **Luis
+    Pedro Coelho**, Emma Allen-Vercoe, Laurie Bertrand, Michael Blaut, Jillian
+    R M Brown, Thomas Carton, Stéphanie Cools-Portier, Michelle Daigneault,
+    Muriel Derrien, Anne Druesne, Willem M de Vos, B Brett Finlay, Harry J
+    Flint, Francisco Guarner, Masahira Hattori, Hans Heilig, Ruth Ann Luna,
+    Johan van Hylckama Vlieg, Jana Junick, Ingeborg Klymiuk, Philippe Langella,
+    Emmanuelle Le Chatelier, Volker Mai, Chaysavanh Manichanh, Jennifer C
+    Martin, Clémentine Mery, Hidetoshi Morita, Paul W O'Toole, Céline Orvain,
+    Kiran Raosaheb Patil, John Penders, Søren Persson, Nicolas Pons, Milena
+    Popova, Anne Salonen, Delphine Saulnier, Karen P Scott, Bhagirath Singh,
+    Kathleen Slezak, Patrick Veiga, James Versalovic, Liping Zhao, Erwin G
+    Zoetendal, S Dusko Ehrlich, Joel Dore, and Peer Bork `Towards standards for
+    human fecal sample processing in metagenomic studies
+    <https://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3960.html>`__
+    (2017) [`DOI <https://doi.org/10.1038/nbt.3960>`__]
+
 8.  Paul Igor Costea*, Robin Munch*, **Luis Pedro Coelho**, Lucas Paoli,
     Shinichi Sunagawa, Peer Bork `metaSNV: A tool for metagenomic strain level
     analysis
