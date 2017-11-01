@@ -186,7 +186,7 @@ Publications in 2015-2017:
     <https://www.researchgate.net/profile/Luis_Pedro_Coelho/publication/273778581_Automatic_Determination_of_NET_Neutrophil_Extracellular_Traps_Coverage_in_Fluorescent_Microscopy_Images/links/57a305ac08ae5f8b258d986d/Automatic-Determination-of-NET-Neutrophil-Extracellular-Traps-Coverage-in-Fluorescent-Microscopy-Images.pdf>`__].
 
 
-`All publications... </publications>`__ (`Google Scholar profile <scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__)
+`All publications... </publications>`__ (`Google Scholar profile <https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__)
 
 
 Other News
