@@ -13,14 +13,15 @@ permalink: software/jug/
 Jug: A Task-Based Parallelization Framework
 ===========================================
 
-Talks About Jug
----------------
+Citation
+--------
 
-Two talks about jug coming up:
+If you use Jug to generate results for a scientific publication, please cite:
 
-1. **21 May** at the `Heidelberg Python Meetup <http://www.meetup.com/HeidelbergPython/events/114607062/>`__.
-2. **19 or 20 July** in Berlin at `BOSC <http://www.open-bio.org/wiki/BOSC_2013>`__
-   (Bioinformatics Open Source Conference).
+    Coelho, L.P., (2017). Jug: Software for Parallel Reproducible Computation in
+    Python. Journal of Open Research Software. 5(1), p.30.
+
+    http://doi.org/10.5334/jors.161
 
 
 What is it?
