@@ -65,14 +65,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**October 2017**
-
-- I will be in Copenhagen, **Oct 24-26** teaching people how to use `ngless
-  <https://ngless.readthedocs.io>`__ at the `Microbiome data interpretation
-  workshop
-  <https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763>`__
-  and a scientific talk on my work.
-
 **November 2017**
 
 - I will be in Schwarzenber, Switzerland for the `Autumn School "Machine
@@ -82,10 +74,22 @@ Upcoming Travels & Talks
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
 of these opportunities (or to invite me for other opportunities).
 
-Recent Publications
-===================
+Publications
+============
 
-This is what I published in 2015-2017:
+Publications in 2015-2017:
+
+11. **Luis Pedro Coelho** `Jug: Software for parallel reproducible computation
+    in Python
+    <https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/>`__ in
+    the Journal for Open Research Software (2017) [`DOI
+    <http://doi.org/10.5334/jors.161>`__]
+
+10. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
+    Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de Vargas,
+    *Quantitative 3D-Imaging of Environmental Microbial Eukaryotes using
+    Automated Fluorescence Microscopy*  in eLife (2017) [`DOI
+    <http://doi.org/10.7554/eLife.26066.001>`__]
 
 9.  Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
     Alberti, Florence Levenez, Melanie Tramontano, Marja Driessen, Rajna
@@ -103,7 +107,7 @@ This is what I published in 2015-2017:
     Zoetendal, S Dusko Ehrlich, Joel Dore, and Peer Bork `Towards standards for
     human fecal sample processing in metagenomic studies
     <https://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3960.html>`__
-    (2017) [`DOI <https://doi.org/10.1038/nbt.3960>`__]
+    in Nature Biotechnology (2017) [`DOI <https://doi.org/10.1038/nbt.3960>`__]
 
 8.  Paul Igor Costea*, Robin Munch*, **Luis Pedro Coelho**, Lucas Paoli,
     Shinichi Sunagawa, Peer Bork `metaSNV: A tool for metagenomic strain level
@@ -182,7 +186,7 @@ This is what I published in 2015-2017:
     <https://www.researchgate.net/profile/Luis_Pedro_Coelho/publication/273778581_Automatic_Determination_of_NET_Neutrophil_Extracellular_Traps_Coverage_in_Fluorescent_Microscopy_Images/links/57a305ac08ae5f8b258d986d/Automatic-Determination-of-NET-Neutrophil-Extracellular-Traps-Coverage-in-Fluorescent-Microscopy-Images.pdf>`__].
 
 
-`Older publications... </publications>`__
+`All publications... </publications>`__ (`Google Scholar profile <scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__)
 
 
 Other News
@@ -191,6 +195,13 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**Oct 24-26** I was in Copenhagen teaching people how to use `ngless
+<http://ngless.embl.de>`__ at the `Microbiome data interpretation workshop
+<https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763>`__
+(slides `here
+<http://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html>`__)
+and giving a scientific talk on my work.
 
 **Sept 12-13** I was in Delft 12-13** for a `workshop on data-driven cell
 factory and community design
