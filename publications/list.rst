@@ -54,6 +54,19 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+26. **Luis Pedro Coelho** `Jug: Software for parallel reproducible computation
+    in Python
+    <https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/>`__ in
+    the Journal for Open Research Software (2017) [`DOI
+    <http://doi.org/10.5334/jors.161>`__]
+
+25. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
+    Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de Vargas,
+    *Quantitative 3D-imaging for cell biology and ecology of environmental
+    microbial eukaryotes* in eLife (2017) [`DOI
+    <http://doi.org/10.7554/eLife.26066.001>`__]
+
+
 24. Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
     Alberti, Florence Levenez, Melanie Tramontano, Marja Driessen, Rajna
     Hercog, Ferris-Elias Jung, Jens Roat Kultima, Matthew R Hayward, **Luis

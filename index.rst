@@ -87,8 +87,8 @@ Publications in 2015-2017:
 
 10. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
     Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de Vargas,
-    *Quantitative 3D-Imaging of Environmental Microbial Eukaryotes using
-    Automated Fluorescence Microscopy*  in eLife (2017) [`DOI
+    *Quantitative 3D-imaging for cell biology and ecology of environmental
+    microbial eukaryotes* in eLife (2017) [`DOI
     <http://doi.org/10.7554/eLife.26066.001>`__]
 
 9.  Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
