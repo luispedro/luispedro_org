@@ -11,6 +11,15 @@ part of my research.
 
 ## Currently Active Projects
 
+### [NGLess](/software/ngless)
+
+NGLess is a domain specific language for Next-Generation Sequencing (NGS)
+processing, with a focus on metagenomics.
+
+More information: [http://ngless.embl.de](http://ngless.embl.de)
+
+License: MIT.
+
 ### [mahotas](/software/mahotas)
 
 mahotas is a computer vision package for Python. It operates on numpy arrays.

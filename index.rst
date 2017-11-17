@@ -40,13 +40,15 @@ answer basic questions on what determines the structure of a microbial
 community in a given environment and what are the differences/similarities
 between different environments.
 
-My work is a mix of of `method development
-<http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__ and
-`applications <http://doi.org/10.1126/science.1261359>`__.  In methodological
-terms, I worry a lot about `correct evaluation of methods
+My work is a mix of of `method
+<http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html>`__ and `tool
+<http://ngless.embl.de>`__ development with `applications
+<http://doi.org/10.1126/science.1261359>`__.  In methodological terms, I worry
+a lot about `correct evaluation of methods
 <http://luispedro.org/projects/gen-classification>`__ and avoiding
 over-inflated measures of performance. A large fraction of my time is spent
-scaling up methods to work on very-large problems.
+scaling up algorithms and `pipelines <http://doi.org/10.5334/jors.161>`__ to
+work on very-large problems.
 
 **Not-so technical version:** With modern technology, namely robotic
 instruments, it is easy to acquire a lot of microscopic pictures. It is also
