@@ -30,9 +30,9 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `ORCID ID <https://orcid.org/0000-0002-9280-7885>`__
 - `google scholar page <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`_
 - `github <http://www.github.com/luispedro>`_
-- `my research blog <http://metarabbit.wordpress.com>`__
+- `Twitter <http://www.twitter.com/luispedrocoelho>`_
 - `github resume <http://resume.github.com/?luispedro>`_
-- `Freshmeat <http://freshmeat.net/users/luispedro>`__
+- `my research blog <http://metarabbit.wordpress.com>`__
 - `Researchgate <http://www.researchgate.net/profile/Luis_Pedro_Coelho/>`__
 - `DBLP <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Lu=iacute=s_Pedro.html>`__
    This is very incomplete. And `this entry <http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html>`__
@@ -45,7 +45,7 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `Mendeley Profile <http://www.mendeley.com/profiles/luis-pedro-coelho/>`_
 - `my old blog <http://blog.luispedro.org>`__
 - `my older blog <http://www.mutualinformation.org>`_
-- `Twitter <http://www.twitter.com/luispedrocoelho>`_
+- `Freshmeat <http://freshmeat.net/users/luispedro>`__
 - `kiva <http://www.kiva.org/>`_ `lender page <http://www.kiva.org/lender/luispedro>`_.
    Also, I started a `CMU kiva team <http://www.kiva.org/community/viewTeam?team_id=414>`_
 
