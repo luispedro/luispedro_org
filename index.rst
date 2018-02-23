@@ -78,6 +78,12 @@ Publications
 
 Publications in 2015-2017:
 
+12. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin Munch, Jaime
+    Huerta‐Cepas, Kristoffer Forslund, Falk Hildebrand, Almagul Kushugulova,
+    Georg Zeller, Peer Bork `Subspecies in the global human gut microbiome
+    <http://msb.embopress.org/content/13/12/960>`__ in Molecular Systems
+    Biology (2017) [`DOI <http://doi.org/10.15252/msb.20177589>`__]
+
 11. **Luis Pedro Coelho** `Jug: Software for parallel reproducible computation
     in Python
     <https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/>`__ in
