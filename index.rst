@@ -32,8 +32,8 @@ My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 Research Interests
 ==================
 
-**Technical version:** I am interested in combining meta'omics (methods that
-obtain high-throughput information on microbial communities such as
+**More technical version:** I am interested in combining meta'omics (methods
+that obtain high-throughput information on microbial communities such as
 metagenomics and metatranscriptomics) analysis with machine learning approaches
 to learn about microbial communities in different environments. I wish to
 answer basic questions on what determines the structure of a microbial
@@ -67,14 +67,11 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**November 2017**
+**June 14**: `Lisbon (Portugal) Machine Learning Summer School
+<http://lxmls.it.pt/2018/>`__
 
-- I will be in Schwarzenber, Switzerland for the `Autumn School "Machine
-  Learning applied to Systems Biology"
-  <http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn-school>`__
-
-`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at any
-of these opportunities (or to invite me for other opportunities).
+`Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
+any of these opportunities (or to invite me for other opportunities).
 
 Publications
 ============
@@ -197,6 +194,14 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**2017**
+
+**Nov 22-24** I was in Schwarzenber, Switzerland for the `Autumn School
+"Machine Learning applied to Systems Biology"
+<http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn-school>`__.
+I also visited the University of Bern and presented my scientific work.
+
 
 **Oct 24-26** I was in Copenhagen teaching people how to use `ngless
 <http://ngless.embl.de>`__ at the `Microbiome data interpretation workshop
