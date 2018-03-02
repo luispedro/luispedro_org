@@ -76,7 +76,20 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications in 2015-2017:
+Publications in 2015-2018:
+
+14. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+    Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Kristoffer Forslund,
+    Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork *Similarity of
+    the dog and human gut microbiomes in gene content and response to diet*
+    (accepted at Microbiome)
+
+13. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
+    Kandels-Lewis, Gonneke Willemsen, Dorret I Boomsma, Nicola Segata, and Peer
+    Bork `Selective maternal seeding and environment shape the human gut
+    microbiome
+    <https://genome.cshlp.org/content/early/2018/03/01/gr.233940.117.abstract>`__
+    in Genome Research (2017) [`DOI <https://doi.org/10.1101/gr.233940.117>`__]
 
 12. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin Munch, Jaime
     Huerta‐Cepas, Kristoffer Forslund, Falk Hildebrand, Almagul Kushugulova,
