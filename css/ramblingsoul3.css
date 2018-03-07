@@ -50,6 +50,7 @@ h1 {
 p {
 	margin:0px 0px 16px 0px;
 	padding:0px;
+    padding-bottom: 8px;
 	font-family: verdana, arial, helvetica, sans-serif;
 	font-size: 12px;
 	line-height: 25px;
