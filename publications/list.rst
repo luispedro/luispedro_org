@@ -81,9 +81,9 @@ In reverse chronological order
 
 25. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
     Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de Vargas,
-    *Quantitative 3D-imaging for cell biology and ecology of environmental
-    microbial eukaryotes* in eLife (2017) [`DOI
-    <http://doi.org/10.7554/eLife.26066.001>`__]
+    `Quantitative 3D-imaging for cell biology and ecology of environmental
+    microbial eukaryotes <http://doi.org/10.7554/eLife.26066.001>`__ in eLife
+    (2017) [`DOI <http://doi.org/10.7554/eLife.26066.001>`__]
 
 
 24. Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
@@ -134,17 +134,17 @@ In reverse chronological order
     <http://doi.org/10.1093/bioinformatics/btw183>`__ in Bioinformatics (2016)
     [`DOI <http://doi.org/10.1093/bioinformatics/btw183>`__]
 
-19. Lionel Guidi, Samuel Chaffron, Lucie Bittner, Damien Eveillard, Abdelhalim
-    Larhlimi, Simon Roux, Youssef Darzi, Stephane Audic, Léo Berline, Jennifer
-    Brum, **Luis Pedro Coelho**, Julio Cesar Ignacio Espinoza, Shruti Malviya,
-    Shinichi Sunagawa, Céline Dimier, Stefanie Kandels-Lewis, Marc Picheral,
-    Julie Poulain, Sarah Searson, Tara Oceans Consortium Coordinators, Lars
-    Stemmann, Fabrice Not, Pascal Hingamp, Sabrina Speich, Mick Follows, Lee
-    Karp-Boss, Emmanuel Boss, Hiroyuki Ogata, Stephane Pesant, Jean
-    Weissenbach, Patrick Wincker, Silvia G. Acinas, Peer Bork, Colomban de
-    Vargas, Daniele Iudicone, Matthew B. Sullivan, Jeroen Raes, Eric Karsenti,
-    Chris Bowler & Gabriel Gorsky; *Plankton networks driving carbon export in
-    the oligotrophic ocean* in Nature (2016) [`DOI
+19. Lionel Guidi\*, Samuel Chaffron\*, Lucie Bittner\*, Damien Eveillard,
+    Abdelhalim Larhlimi, Simon Roux, Youssef Darzi, Stephane Audic, Léo
+    Berline, Jennifer Brum, **Luis Pedro Coelho**, Julio Cesar Ignacio
+    Espinoza, Shruti Malviya, Shinichi Sunagawa, Céline Dimier, Stefanie
+    Kandels-Lewis, Marc Picheral, Julie Poulain, Sarah Searson, Tara Oceans
+    Consortium Coordinators, Lars Stemmann, Fabrice Not, Pascal Hingamp,
+    Sabrina Speich, Mick Follows, Lee Karp-Boss, Emmanuel Boss, Hiroyuki Ogata,
+    Stephane Pesant, Jean Weissenbach, Patrick Wincker, Silvia G. Acinas, Peer
+    Bork, Colomban de Vargas, Daniele Iudicone, Matthew B. Sullivan, Jeroen
+    Raes, Eric Karsenti, Chris Bowler & Gabriel Gorsky; *Plankton networks
+    driving carbon export in the oligotrophic ocean* in Nature (2016) [`DOI
     <http://doi.org/10.1038/nature16942>`__]
 
 18. Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
