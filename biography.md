@@ -8,10 +8,11 @@ meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
 
 # Biography
 
-Also see my [resume](/resume) and [CV (PDF format)](/files/vita.pdf)
+Also see my [resume](/resume) and [CV (PDF format)](/files/vita.pdf) or my
+[scientific biography](biography/scientific.html) which is a longer document
+with a focus on the scientific work performed.
 
 ## Shorter Version
-
 
 Luis Pedro Coelho is a postdoctoral researcher in Peer Bork's group at
 the European Molecular Biology Laboratory (EMBL). He has a PhD from
