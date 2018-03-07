@@ -79,9 +79,9 @@ Publications
 Publications in 2015-2018:
 
 14. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
-    Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Kristoffer Forslund,
-    Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork *Similarity of
-    the dog and human gut microbiomes in gene content and response to diet*
+    Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
+    Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
+    the dog and human gut microbiomes in gene content and response to diet </>`__
     (accepted at Microbiome)
 
 13. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
@@ -89,7 +89,7 @@ Publications in 2015-2018:
     Bork `Selective maternal seeding and environment shape the human gut
     microbiome
     <https://genome.cshlp.org/content/early/2018/03/01/gr.233940.117.abstract>`__
-    in Genome Research (2017) [`DOI <https://doi.org/10.1101/gr.233940.117>`__]
+    in Genome Research (2018) [`DOI <https://doi.org/10.1101/gr.233940.117>`__]
 
 12. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin Munch, Jaime
     Huerta‐Cepas, Kristoffer Forslund, Falk Hildebrand, Almagul Kushugulova,
@@ -105,9 +105,9 @@ Publications in 2015-2018:
 
 10. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
     Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de Vargas,
-    *Quantitative 3D-imaging for cell biology and ecology of environmental
-    microbial eukaryotes* in eLife (2017) [`DOI
-    <http://doi.org/10.7554/eLife.26066.001>`__]
+    `Quantitative 3D-imaging for cell biology and ecology of environmental
+    microbial eukaryotes <http://doi.org/10.7554/eLife.26066.001>`__ in eLife
+    (2017) [`DOI <http://doi.org/10.7554/eLife.26066.001>`__]
 
 9.  Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
     Alberti, Florence Levenez, Melanie Tramontano, Marja Driessen, Rajna
@@ -133,7 +133,7 @@ Publications in 2015-2018:
     <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182392>`__
     in PLoS One (2017) [`DOI <https://doi.org/10.1371/journal.pone.0182392>`__]
 
-7.  Jaime Huerta-Cepas, Kristoffer Forslund, **Luis Pedro Coelho**, Damian
+7.  Jaime Huerta-Cepas\*, Kristoffer Forslund\*, **Luis Pedro Coelho**, Damian
     Szklarczyk, Lars Juhl Jensen, Christian von Mering, and Peer Bork `Fast
     genome-wide functional annotation through orthology assignment by
     eggNOG-mapper
