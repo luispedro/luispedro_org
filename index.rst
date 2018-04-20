@@ -81,8 +81,9 @@ Publications in 2015-2018:
 14. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
     Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
-    the dog and human gut microbiomes in gene content and response to diet </>`__
-    (accepted at Microbiome)
+    the dog and human gut microbiomes in gene content and response to diet
+    <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3>`__
+    in Microbiome (2018) [`DOI <https://doi.org/10.1186/s40168-018-0450-3>`__]
 
 13. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
     Kandels-Lewis, Gonneke Willemsen, Dorret I Boomsma, Nicola Segata, and Peer

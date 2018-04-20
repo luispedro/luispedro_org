@@ -54,6 +54,13 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+30. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+    Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
+    Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
+    the dog and human gut microbiomes in gene content and response to diet
+    <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3>`__
+    in Microbiome (2018) [`DOI <https://doi.org/10.1186/s40168-018-0450-3>`__]
+
 29. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Kristoffer Forslund,
     Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork *Similarity of
