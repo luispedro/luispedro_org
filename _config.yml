@@ -1,11 +1,12 @@
 # Site settings
 title: Luis Pedro Coelho
 email: luis@luispedro.org
-description: "Luis Pedro Coelho is a postdoctoral researcher in Peer Bork's group at
-the European Molecular Biology Laboratory (EMBL) studying microbial communities
-in the ocean and inside the human gut. Luis has also developed scientific open
-source software such as the mahotas computer vision library and co-wrote the
-book 'Building Machine Learning Systems With Python'"
+description: "Luis Pedro Coelho will be starting his research group at Fudan
+University in mid-2018.  Currently, he is a postdoctoral researcher in Peer
+Bork's group at the European Molecular Biology Laboratory (EMBL) studying
+microbial communities in the ocean and inside the human gut. Luis has also
+developed scientific open source software such as the mahotas computer vision
+library and co-wrote the book 'Building Machine Learning Systems With Python'"
 baseurl: ""
 url: "http://luispedro.org"
 twitter_username: luispedrocoelho

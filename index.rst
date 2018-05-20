@@ -13,6 +13,9 @@ Who am I?
    :alt: Luis Pedro Coelho
    :class: float-right
 
+I will be starting `my own research group <http://big-data-biology.org>`__ at
+Fudan University (Shanghai) in mid-2018.
+
 I am a computational biologist. I work at the European Molecular Biology
 Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__ in
 microbial community analysis using metagenomics. I have a PhD from `Carnegie
