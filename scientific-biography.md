@@ -148,8 +148,8 @@ novel finding, however, was that the microbiome of overweight/obese dogs
 shifted more in compositional space upon a change of diet, when compared to the
 microbiome of lean/normal dogs. This is consistent with the so called Anna
 Karenina hypothesis that dysbiotic microbiomes are more diverse than healthy
-ones and it is a finding that should be tested in humans (Coelho et al., in
-press at Microbiome).
+ones and it is a finding that should be tested in humans ([Coelho et al.,
+2018](https://doi.org/10.1186/s40168-018-0450-3)).
 
 To analyse these datasets, I have developed a tool, called NGLess (see
 [http://ngless.embl.de](http://ngless.embl.de)) which is based on a new
