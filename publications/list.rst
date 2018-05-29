@@ -8,7 +8,14 @@ permalink: publications/
 
 Selected Publications
 =====================
-1.  Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
+1.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+    Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
+    Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
+    the dog and human gut microbiomes in gene content and response to diet
+    <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3>`__
+    in Microbiome (2018) [`DOI <https://doi.org/10.1186/s40168-018-0450-3>`__]
+
+2.  Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
     Kultima, Karine Labadie, Guillem Salazar, Bardya Djahanschiri, Georg
     Zeller, Daniel R. Mende, Adriana Alberti, Francisco M. Cornejo-Castillo,
     Paul I. Costea, Corinne Cruaud, Francesco d'Ovidio, Stefan Engelen, Isabel
@@ -23,7 +30,7 @@ Selected Publications
     Peer Bork, *Structure and function of the global ocean microbiome* in
     Science (2015) [`DOI <http://doi.org/10.1126/science.1261359>`__]
 
-2.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
+3.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
     the subcellular location of new proteins from microscope images using local
@@ -32,14 +39,16 @@ Selected Publications
     <http://dx.doi.org/10.6084/m9.figshare.744842>`__] [`open access version
     <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/>`__] [`mendeley
     <http://www.mendeley.com/research/determining-subcellular-location-new-proteins-microscope-images-using-local-features/>`__]
-3.  **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying
+
+4.  **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying
     the distribution of probes between subcellular locations using unsupervised
     pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [`online
     version
     <http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7>`__]
     [`mendeley
     <http://www.mendeley.com/catalog/quantifying-distribution-probes-between-subcellular-locations-using-unsupervised-pattern-unmixing/>`__]
-4.  **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
+
+5.  **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
     segmentation in microscope cell images: A hand-segmented dataset and
     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
 
@@ -54,18 +63,12 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
-30. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+29. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
     Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
     the dog and human gut microbiomes in gene content and response to diet
     <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3>`__
     in Microbiome (2018) [`DOI <https://doi.org/10.1186/s40168-018-0450-3>`__]
-
-29. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
-    Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Kristoffer Forslund,
-    Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork *Similarity of
-    the dog and human gut microbiomes in gene content and response to diet*
-    (accepted at Microbiome)
 
 28. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
     Kandels-Lewis, Gonneke Willemsen, Dorret I Boomsma, Nicola Segata, and Peer
