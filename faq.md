@@ -69,8 +69,3 @@ can drive back through the smaller roads. If you have more time, and want to
 spend a night in the middle of Alentejo, you can drive diagonally down to Sines
 and then back up to Lisbon, stopping at places like Reguengos de Monsaraz,
 Aljustrel, Aljezur, Sesimbra... In the summer, expect heat (as high as 40~43°C).
-
-## How do you have the time to do all this stuff?
-
-I do not own a television. Never have.
-
