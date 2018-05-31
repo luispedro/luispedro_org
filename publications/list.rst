@@ -29,6 +29,7 @@ Selected Publications
     Weissenbach, Patrick Wincker, Eric Karsenti, Jeroen Raes, Silvia G. Acinas,
     Peer Bork, *Structure and function of the global ocean microbiome* in
     Science (2015) [`DOI <http://doi.org/10.1126/science.1261359>`__]
+    [`PDF <http://www.bork.embl.de/publication/pdf/25999513.pdf>`__]
 
 3.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
@@ -178,15 +179,14 @@ In reverse chronological order
     Weissenbach, Patrick Wincker, Eric Karsenti, Jeroen Raes, Silvia G. Acinas,
     Peer Bork, *Structure and function of the global ocean microbiome* in
     Science (2015) [`DOI <http://doi.org/10.1126/science.1261359>`__]
+    [`PDF <http://www.bork.embl.de/publication/pdf/25999513.pdf>`__]
 
 16. **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
     von Köckritz-Blickwede Mário Ramirez , João André Carriço, *Automatic
     Determination of NET (Neutrophil Extracellular Traps) Coverage in
     Fluorescent Microscopy Images* in Bioinformatics (2015), 31 (14):
     2364-2370. [`DOI <http://doi.org/10.1093/bioinformatics/btv156>`__]
-    [`Request reprint
-    <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Automatic%20Determination%20of%20NET%Coverage)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%20of%20Automatic%20Determination%20of%20NET%20(Neutrophil%20Extracellular%20Traps)%20Coverage%20in%20Fluorescent%20Microscopy%20Images?%0A%0AThank%20you,%0A>`__]
-    [`RG Link
+    [`PDF
     <https://www.researchgate.net/profile/Luis_Pedro_Coelho/publication/273778581_Automatic_Determination_of_NET_Neutrophil_Extracellular_Traps_Coverage_in_Fluorescent_Microscopy_Images/links/57a305ac08ae5f8b258d986d/Automatic-Determination-of-NET-Neutrophil-Extracellular-Traps-Coverage-in-Fluorescent-Microscopy-Images.pdf>`__].
 
 15. Ana C. Pena, Mafalda R. Pimentel, Helena Manso, Rita Vaz-Drago, Daniel Neves,

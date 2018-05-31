@@ -130,6 +130,7 @@ Publications in 2015-2018:
     human fecal sample processing in metagenomic studies
     <https://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3960.html>`__
     in Nature Biotechnology (2017) [`DOI <https://doi.org/10.1038/nbt.3960>`__]
+    [`PDF <http://www.bork.embl.de/publication/pdf/28967887.pdf>`__
 
 8.  Paul Igor Costea*, Robin Munch*, **Luis Pedro Coelho**, Lucas Paoli,
     Shinichi Sunagawa, Peer Bork `metaSNV: A tool for metagenomic strain level
@@ -170,7 +171,8 @@ Publications in 2015-2018:
     Vargas, Daniele Iudicone, Matthew B. Sullivan, Jeroen Raes, Eric Karsenti,
     Chris Bowler & Gabriel Gorsky; `Plankton networks driving carbon export in
     the oligotrophic ocean <http://doi.org/10.1038/nature16942>`__ in Nature
-    (2016) [`DOI <http://doi.org/10.1038/nature16942>`__]
+    (2016) [`DOI <http://doi.org/10.1038/nature16942>`__] [`PDF
+    <http://www.bork.embl.de/publication/pdf/26863193.pdf>`__]
 
 3.  Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
     Cabezas-Cruz, James J. Valdés, Virgílio do Rosário, José de la Fuente4 and
@@ -194,17 +196,15 @@ Publications in 2015-2018:
     Peer Bork, `Structure and function of the global ocean microbiome
     <http://doi.org/10.1126/science.1261359>`__ in Science (2015) [`DOI
     <http://doi.org/10.1126/science.1261359>`__]
-    [`Request reprint
-    <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Structure%20and%20Function%20of%20global%20ocean%20microbiome)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%20of%20Structure%20and%20Function%20of%20the%20Global%20Ocean%20Microbiome?%0A%0AThank%20you,%0A>`__].
+    [`PDF <http://www.bork.embl.de/publication/pdf/25999513.pdf>`__]
 
 1.  **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
     von Köckritz-Blickwede Mário Ramirez , João André Carriço, `Automatic
     Determination of NET (Neutrophil Extracellular Traps) Coverage in
     Fluorescent Microscopy Images
     <http://doi.org/10.1093/bioinformatics/btv156>`__ in Bioinformatics (2015),
-    [`DOI <http://doi.org/10.1093/bioinformatics/btv156>`__] [`Request reprint
-    <mailto:luis@luispedro.org?subject=Request%20for%20reprint%20(Automatic%20Determination%20of%20NET%Coverage)&body=Dear%20Luis,%0A%0ACan%20you%20please%20send%20me%20a%20reprint%20of%20Automatic%20Determination%20of%20NET%20(Neutrophil%20Extracellular%20Traps)%20Coverage%20in%20Fluorescent%20Microscopy%20Images?%0A%0AThank%20you,%0A>`__]
-    [`RG Link
+    [`DOI <http://doi.org/10.1093/bioinformatics/btv156>`__]
+    [`PDF
     <https://www.researchgate.net/profile/Luis_Pedro_Coelho/publication/273778581_Automatic_Determination_of_NET_Neutrophil_Extracellular_Traps_Coverage_in_Fluorescent_Microscopy_Images/links/57a305ac08ae5f8b258d986d/Automatic-Determination-of-NET-Neutrophil-Extracellular-Traps-Coverage-in-Fluorescent-Microscopy-Images.pdf>`__].
 
 
