@@ -13,8 +13,9 @@ Who am I?
    :alt: Luis Pedro Coelho
    :class: float-right
 
-I will be starting `my own research group <http://big-data-biology.org>`__ at
-Fudan University (Shanghai) in mid-2018.
+
+**Moving to Fudan University**: I will be starting `my own research group
+<http://big-data-biology.org>`__ at Fudan University (Shanghai) in mid-2018.
 
 I am a computational biologist. I work at the European Molecular Biology
 Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__ in
@@ -258,7 +259,7 @@ Software <http://openresearchsoftware.metajnl.com/>`__
 **22-25 August 2015**  Visiting Tallinn (Estonia)
 
 **17 August 2015** The project `ngless is now open source
-<http://luispedro.github.io/ngless/>`__
+<http://ngless.embl.de/>`__
 
 **16 July 2015** I will be teaching at the `Lisbon Machine Learning School
 <http://lxmls.it.pt/2015/>`__
