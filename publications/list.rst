@@ -71,6 +71,10 @@ In reverse chronological order
     <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3>`__
     in Microbiome (2018) [`DOI <https://doi.org/10.1186/s40168-018-0450-3>`__]
 
+    *One sentence summary*: The gut microbiome of dogs is more similar to that
+    of humans (compared to pigs or mice). Most strains are, however,
+    host-specific.
+
 28. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
     Kandels-Lewis, Gonneke Willemsen, Dorret I Boomsma, Nicola Segata, and Peer
     Bork `Selective maternal seeding and environment shape the human gut
@@ -78,11 +82,18 @@ In reverse chronological order
     <https://genome.cshlp.org/content/early/2018/03/01/gr.233940.117.abstract>`__
     in Genome Research (2018) [`DOI <https://doi.org/10.1101/gr.233940.117>`__]
 
+    *One sentence summary*: Infants get some microbes from their mothers, but
+    not all and it's not random: Actinobacteria and Bacteroidia are transmitted
+    more than Clostridia. Fathers matter too.
+
 27. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin Munch, Jaime
     Huerta‐Cepas, Kristoffer Forslund, Falk Hildebrand, Almagul Kushugulova,
     Georg Zeller, Peer Bork `Subspecies in the global human gut microbiome
     <http://msb.embopress.org/content/13/12/960>`__ in Molecular Systems
     Biology (2017) [`DOI <http://doi.org/10.15252/msb.20177589>`__]
+
+    *One sentence summary*: We infer subspecies in the human gut microbiome,
+    which can be linked to phenotypic effects.
 
 26. **Luis Pedro Coelho** `Jug: Software for parallel reproducible computation
     in Python
@@ -90,12 +101,17 @@ In reverse chronological order
     the Journal for Open Research Software (2017) [`DOI
     <http://doi.org/10.5334/jors.161>`__]
 
+    *One sentence summary*: Jug uses hashing as the basis of a strong
+    Python-based pipeline framework.
+
 25. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
     Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de Vargas,
     `Quantitative 3D-imaging for cell biology and ecology of environmental
     microbial eukaryotes <http://doi.org/10.7554/eLife.26066.001>`__ in eLife
     (2017) [`DOI <http://doi.org/10.7554/eLife.26066.001>`__]
 
+    *One sentence summary*: We can image mixed communities of microbes to
+    extract phenotypic information at a single-cell level.
 
 24. Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
     Alberti, Florence Levenez, Melanie Tramontano, Marja Driessen, Rajna
@@ -114,6 +130,9 @@ In reverse chronological order
     human fecal sample processing in metagenomic studies
     <https://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3960.html>`__
     (2017) [`DOI <https://doi.org/10.1038/nbt.3960>`__]
+
+    *One sentence summary*: Use our metagenomics protocol as it is unbiased and
+    robust.
 
 23. Paul Igor Costea*, Robin Munch*, **Luis Pedro Coelho**, Lucas Paoli,
     Shinichi Sunagawa, Peer Bork `metaSNV: A tool for metagenomic strain level
