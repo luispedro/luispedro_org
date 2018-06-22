@@ -40,6 +40,14 @@ Imread serves to read and save image files to and from numpy arrays.
 
 License: MIT.
 
+
+### [conduit-algorithms](/software/conduit-algorithms)
+
+A series of [conduit](http://hackage.haskell.org/package/conduit) based
+algorithms in Haskell.
+
+License: MIT
+
 ## Reproducible Research
 
 I have also made some [code available for reproducible research](/software/reproducible).
@@ -71,12 +79,6 @@ Milk is a Pythonic *machine learning toolkit*
 
 License: MIT.
 
-
-### [NGH](/software/ngh)
-
-NGH is an NGS package for Haskell
-
-License: MIT.
 
 ### [Hex](/software/hex)
 
