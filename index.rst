@@ -70,9 +70,8 @@ Upcoming Travels & Talks
 ========================
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
-
-**June 14**: `Lisbon (Portugal) Machine Learning Summer School
-<http://lxmls.it.pt/2018/>`__
+**June 26-29**: `Ireland IHMC2018: International Human Microbiome Consortium
+<http://apc.ucc.ie/ihmc-2018/>`__
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -218,6 +217,14 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**2018**
+
+I will start the `Big Data Biology Lab <http://big-data-biology.org/>`__ at
+Fudan University.
+
+**June 14**: I taugh the *Introduction to Python* lecture at the `Lisbon
+(Portugal) Machine Learning Summer School <http://lxmls.it.pt/2018/>`__
 
 **2017**
 
