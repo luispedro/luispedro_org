@@ -70,8 +70,6 @@ Upcoming Travels & Talks
 ========================
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
-**June 26-29**: `Ireland IHMC2018: International Human Microbiome Consortium
-<http://apc.ucc.ie/ihmc-2018/>`__
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -80,6 +78,11 @@ Publications
 ============
 
 Publications in 2015-2018:
+
+15. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
+    Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
+    metagenomes using NGLess, a domain-specific language
+    <https://doi.org/10.1101/367755>`__ (PREPRINT)
 
 14. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
@@ -219,6 +222,9 @@ Other News
 (See above for papers)
 
 **2018**
+
+**June 26-29**: `Ireland IHMC2018: International Human Microbiome Consortium
+<http://apc.ucc.ie/ihmc-2018/>`__
 
 I will start the `Big Data Biology Lab <http://big-data-biology.org/>`__ at
 Fudan University.
