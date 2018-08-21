@@ -79,6 +79,15 @@ Publications
 
 Publications in 2015-2018:
 
+16.  Mohammad Bahram\*, Falk Hildebrand\*, Sofia K Forslund, Jennifer L
+     Anderson, Nadejda A Soudzilovskaia, Peter M Bodegom, Johan
+     Bengtsson-Palme, Sten Anslan, **Luis Pedro Coelho**, Helery Harend, Jaime
+     Huerta-Cepas, Marnix H Medema, Mia R Maltz, Sunil Mundra, Pål Axel Olsson,
+     Mari Pent, Sergei Põlme, Shinichi Sunagawa, Martin Ryberg, Leho Tedersoo,
+     Peer Bork `Structure and function of the global topsoil microbiome
+     <https://www.nature.com/articles/s41586-018-0386-6>`__ in Nature (2018)
+     [`DOI <https://doi.org/10.1038/s41586-018-0386-6>`__]
+
 15. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
