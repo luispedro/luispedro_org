@@ -71,6 +71,9 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
+**Oct 4 2018** I will be in Paris talking about `single cell approaches
+<https://pasic-2018.sciencesconf.org/>`__
+
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
 
