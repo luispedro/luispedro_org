@@ -14,12 +14,14 @@ with a focus on the scientific work performed.
 
 ## Shorter Version
 
-Luis Pedro Coelho is a postdoctoral researcher in Peer Bork's group at
-the European Molecular Biology Laboratory (EMBL). He has a PhD from
-Carnegie Mellon University where he worked under the supervision of
-Prof. Bob Murphy and a MSc from Instituto Superior Técnico in Lisbon, where he
-worked with Prof Arlindo Oliveira. He currently works on the analysis of
-microbial communities in different environments, such as the [marine
+Luis Pedro Coelho is  the principal investigator (PI) of the [Big Data Biology
+Lab](http://big-data-biology.org) at Fudan University. Previously, he worked as
+a postdoctoral researcher in Peer Bork's group at the European Molecular
+Biology Laboratory (EMBL). He has a PhD from Carnegie Mellon University where
+he worked under the supervision of Prof. Bob Murphy and a MSc from Instituto
+Superior Técnico in Lisbon, where he worked with Prof Arlindo Oliveira. He
+currently works on the analysis of microbial communities in different
+environments, such as the [marine
 environment](http://www.sciencemag.org/content/348/6237/1261359.full) or the
 [human gut](http://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full)
 using computational methods, namely [metagenomic
@@ -27,7 +29,7 @@ analysis](http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html) and
 [fluorescence microscopy
 analysis](http://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
 Luis is a Fulbright Scholar, a Siebel Scholar, and has won multiple awards for
-academic or research excellence.
+academic and research excellence.
 
 Outside academia, Luis has been involved in theatre (having produced the
 student group at IST and starred in several productions), as well as received a

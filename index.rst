@@ -14,10 +14,12 @@ Who am I?
    :class: float-right
 
 
-**Moving to Fudan University**: I will be starting `my own research group
-<http://big-data-biology.org>`__ at Fudan University (Shanghai) in mid-2018.
+I am the principal investigator of the `Big Data Biology Lab
+<http://big-data-biology.org>`__ at Fudan University (Shanghai) since September
+2018. Our group works in computational biology, with a focus on the very
+large-scale.
 
-I am a computational biologist. I work at the European Molecular Biology
+Previously, I worked at the European Molecular Biology
 Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__ in
 microbial community analysis using metagenomics. I have a PhD from `Carnegie
 Mellon University <http://www.compbio.cmu.edu/>`_ (2011), where I worked on
