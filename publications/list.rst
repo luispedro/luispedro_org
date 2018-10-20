@@ -64,6 +64,17 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+30. Mohammad Bahram\*, Falk Hildebrand\*, Sofia K. Forslund, Jennifer L.
+    Anderson, Nadejda A. Soudzilovskaia, Peter M. Bodegom, Johan
+    Bengtsson-Palme, Sten Anslan, **Luis Pedro Coelho**, Helery Harend, Jaime
+    Huerta-Cepas, Marnix H. Medema, Mia R. Maltz, Sunil Mundra, Pål Axel
+    Olsson, Mari Pent, Sergei Põlme, Shinichi Sunagawa, Martin Ryberg, Leho
+    Tedersoo & Peer Bork  `Structure and function of the global topsoil
+    microbiome <https://www.nature.com/articles/s41586-018-0386-6>`__ in Nature
+    (2018) [`DOI <https://doi.org/10.1038/s41586-018-0386-6>`__]
+
+    *One sentence summary*: in soil, bacteria and fungi fight.
+
 29. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
     Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
