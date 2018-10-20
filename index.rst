@@ -73,8 +73,9 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**Oct 4 2018** I will be in Paris talking about `single cell approaches
-<https://pasic-2018.sciencesconf.org/>`__
+**April 16-18 2019** I will be in Utrecht (Netherlands) for the
+`International Conference on One Health Antimicrobial Resistance (ICOHAR)
+<http://www.icohar2019.org/icohar2019.html>`__
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -236,6 +237,12 @@ Other News
 (See above for papers)
 
 **2018**
+
+**Sep 16-19 2018** I was be in Heidelberg for the *Human Microbiome
+Conference*
+
+**Oct 4 2018** I was in Paris talking about `single cell approaches
+<https://pasic-2018.sciencesconf.org/>`__
 
 **June 26-29**: `Ireland IHMC2018: International Human Microbiome Consortium
 <http://apc.ucc.ie/ihmc-2018/>`__
