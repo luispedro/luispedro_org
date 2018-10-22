@@ -40,12 +40,10 @@ It is a modern curse that profiles in disparate websites multiply, often unused.
 - `IMDB <http://www.imdb.com/name/nm5460142/>`__
 - `Stackoverflow <http://stackoverflow.com/users/248279/luispedro>`__
 - `stackoverflow Careers <http://careers.stackoverflow.com/luispedro>`__
-- `Epernicus <http://www.epernicus.com/people/luispedro>`_
 - `LinkedIn <http://www.linkedin.com/in/luispedrocoelho>`_
 - `Mendeley Profile <http://www.mendeley.com/profiles/luis-pedro-coelho/>`_
 - `my old blog <http://blog.luispedro.org>`__
 - `my older blog <http://www.mutualinformation.org>`_
-- `Freshmeat <http://freshmeat.net/users/luispedro>`__
 - `kiva <http://www.kiva.org/>`_ `lender page <http://www.kiva.org/lender/luispedro>`_.
    Also, I started a `CMU kiva team <http://www.kiva.org/community/viewTeam?team_id=414>`_
 
