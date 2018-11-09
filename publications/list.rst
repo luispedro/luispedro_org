@@ -64,6 +64,22 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+32. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
+    Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
+    metagenomes using NGLess, a domain-specific language
+    <https://doi.org/10.1101/367755>`__ (PREPRINT)
+
+31.  Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
+     Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
+     Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, Luis Pedro Coelho, Huanming
+     Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik Bjorn
+     Nielsen, Peer Bork, Jun Wang, Tina Vilsbøll, Torben Hansen, Filip K. Knop,
+     Manimozhiyan Arumugam & Oluf Pedersen `Recovery of gut microbiota of
+     healthy adults following antibiotic exposure
+     <https://www.nature.com/articles/s41564-018-0257-9>`__ in Nature
+     Microbiology (2018) [`DOI < https://doi.org/10.1038/s41564-018-0257-9>`__]
+
+
 30. Mohammad Bahram\*, Falk Hildebrand\*, Sofia K. Forslund, Jennifer L.
     Anderson, Nadejda A. Soudzilovskaia, Peter M. Bodegom, Johan
     Bengtsson-Palme, Sten Anslan, **Luis Pedro Coelho**, Helery Harend, Jaime
