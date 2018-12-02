@@ -248,8 +248,7 @@ Other News
 
 **2018**
 
-**Sep 16-19 2018** I was be in Heidelberg for the *Human Microbiome
-Conference*
+**Sep 16-19 2018** I was in Heidelberg for the *Human Microbiome Conference*
 
 **Oct 4 2018** I was in Paris talking about `single cell approaches
 <https://pasic-2018.sciencesconf.org/>`__
