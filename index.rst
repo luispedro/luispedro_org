@@ -1,7 +1,7 @@
 ---
 title: Luis Pedro Coelho
 layout: default
-meta: Luis Pedro Coelho is a computational biologist at the EMBL working on combining metagenomics and image analysis.
+meta: Luis Pedro Coelho is the principal investigator (PI) of the Big Data Biology Lab at Fudan University (Shanghai).
 categories: about-me
 ---
 
