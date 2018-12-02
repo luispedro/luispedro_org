@@ -256,10 +256,7 @@ Other News
 **June 26-29**: `Ireland IHMC2018: International Human Microbiome Consortium
 <http://apc.ucc.ie/ihmc-2018/>`__
 
-I will start the `Big Data Biology Lab <http://big-data-biology.org/>`__ at
-Fudan University.
-
-**June 14**: I taugh the *Introduction to Python* lecture at the `Lisbon
+**June 14**: I taught the *Introduction to Python* lecture at the `Lisbon
 (Portugal) Machine Learning Summer School <http://lxmls.it.pt/2018/>`__
 
 **2017**

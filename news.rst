@@ -7,23 +7,32 @@ permalink: news/
 News Archive
 ============
 
-**Nov 22-24** I was in Schwarzenber, Switzerland for the `Autumn School
+**Sep 16-19 2018** I was in Heidelberg for the *Human Microbiome Conference*
+
+**Nov 22-24 2017** I was in Schwarzenber, Switzerland for the `Autumn School
 "Machine Learning applied to Systems Biology"
 <http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn-school>`__.
 I also visited the University of Bern and presented my scientific work.
 
-**Oct 24-26** I was in Copenhagen teaching people how to use `ngless
+**June 26-29 2018**: `Ireland IHMC2018: International Human Microbiome Consortium
+<http://apc.ucc.ie/ihmc-2018/>`__
+
+**June 14 2018**: I taught the *Introduction to Python* lecture at the `Lisbon
+(Portugal) Machine Learning Summer School <http://lxmls.it.pt/2018/>`__
+
+
+**Oct 24-26 2017** I was in Copenhagen teaching people how to use `ngless
 <http://ngless.embl.de>`__ at the `Microbiome data interpretation workshop
 <https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763>`__
 (slides `here
 <http://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html>`__)
 and giving a scientific talk on my work.
 
-**Sept 12-13** I was in Delft 12-13** for a `workshop on data-driven cell
+**Sept 12-13 2017** I was in Delft 12-13** for a `workshop on data-driven cell
 factory and community design
 <https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-factory-and-community-design-tickets-35694722877>`__
 
-**July 21-25** I was in Prague for `ECCB/ISMB 2017
+**July 21-25 2017** I was in Prague for `ECCB/ISMB 2017
 <https://www.iscb.org/ismbeccb2017>`__ with a poster on `NGLess
 <http://ngless.embl.de>`__
 
