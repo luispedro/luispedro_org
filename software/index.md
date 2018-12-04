@@ -4,8 +4,6 @@ categories: work software
 permalink: software/
 ---
 
-# Software
-
 I have written some open-source software, some to scratch an itch, and some as
 part of my research.
 

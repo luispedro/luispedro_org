@@ -10,9 +10,6 @@ permalink: derivations/
         <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
     </a>
 
-Some Useful Derivations
-=======================
-
 Here are a few things I use all the time, so I decided to start writing them
 down instead of always re-deriving them on the fly.
 

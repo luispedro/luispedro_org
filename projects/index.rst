@@ -4,8 +4,7 @@ categories: work
 permalink: projects/
 ---
 
-Projects
-========
+(Out of date)
 
 Generalisable Subcellular Location Analysis
 -------------------------------------------

@@ -4,8 +4,6 @@ categories: about-me
 permalink: faq/
 ---
 
-# Frequently Asked Questions
-
 ## What is Computational Biology?
 
 It is the field of studying biology by using computers. It involves, for

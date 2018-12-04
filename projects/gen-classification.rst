@@ -5,8 +5,6 @@ categories: work
 permalink: projects/gen-classification/
 ---
 
-Generalisable Subcellular Location Analysis
-===========================================
 
 See the `video abstract`_ for the highlights.
 

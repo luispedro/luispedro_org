@@ -4,10 +4,6 @@ categories: work
 permalink: projects/unsupervised-unmixing/
 ---
 
-=========================================
-Unsupervised Subcellular Pattern Unmixing
-=========================================
-
 The abstract of the `paper <http://bioinformatics.oxfordjournals.org/content/26/12/i7.full>`__ summarises the problem/solution well:
 
     Proteins exhibit complex subcellular distributions, which may include

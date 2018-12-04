@@ -4,9 +4,6 @@ categories: work
 permalink: projects/pfs-09-2012/
 ---
 
-Programming for Scientists: Autumn 2012
-=======================================
-
 Dates & Times
 -------------
 

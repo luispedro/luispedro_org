@@ -1,11 +1,8 @@
 ---
-title: News
+title: News Archive
 categories: about-me
 permalink: news/
 ---
-
-News Archive
-============
 
 **Sep 16-19 2018** I was in Heidelberg for the *Human Microbiome Conference*
 

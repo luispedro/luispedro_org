@@ -10,8 +10,6 @@ permalink: software/merge/
         <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
     </a>
 
-Merge: Merge two directories without losing files
-=================================================
 
 This small script is used to merge two directories which may overlap in files
 (mostly because they were originally copies which have since diverged).

@@ -4,8 +4,6 @@ categories: software python
 permalink: software/reproducible/
 ---
 
-Reproducible Research
-=====================
 
 This is code for reproducing results in some of my published papers:
 

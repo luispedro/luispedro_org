@@ -1,11 +1,8 @@
 ---
-title: Photos
+title: Photos of me
 categories: about-me
 permalink: photos/
 ---
-
-Photos of Me
-============
 
 If you need to use a photo of me (for media usage or conference hand-out &c),
 you can use the ones below (including cropping, of course):

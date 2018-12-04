@@ -4,8 +4,6 @@ categories: art
 permalink: fimdetarde/
 ---
 
-# Fim de Tarde
-
 para a inês,
 :   linda inês,
     :   por tudo.

@@ -4,8 +4,8 @@ pkgs = let
   pinnedPkgs = hostPkgs.fetchFromGitHub {
     owner = "NixOS";
     repo = "nixpkgs-channels";
-    rev = "00335098a5cde0b221db83e555019a251d3d40f9";
-    sha256 = "0nsrp0ardrimac64qsqy5rymvychzzkwripgrw8g9gvfa5kgv3xr";
+    rev = "c9e13806267f7fd3351d52a19cc6db5fa2985ca9";
+    sha256 = "0qsa3j4i2ndiw4yxla3y4i5f8r12waj34h2z84xjig4l54cx184q";
   };
 in import pinnedPkgs {};
 
@@ -20,7 +20,6 @@ jenv = pkgs.bundlerEnv {
 py27 = pkgs.python27.withPackages (pp: [
       pp.docutils
       pp.pygments
-      pp.awscli
       ]);
 
 in
@@ -32,6 +31,7 @@ pkgs.stdenv.mkDerivation {
     bundler
     zsh
     py27
+    awscli
     python3
     glibcLocales
   ];

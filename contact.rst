@@ -4,9 +4,6 @@ categories: None
 permalink: contact/
 ---
 
-Contact Me
-==========
-
 My work/institutional email is coelho@embl.de, while personal email is
 luis@luispedro.org
 

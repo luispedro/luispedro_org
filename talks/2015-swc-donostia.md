@@ -1,5 +1,5 @@
 ---
-title: Software Carpentry at Cyprus Institute
+title: Software Carpentry in San Sebastian/Donostia
 categories: talks work
 permalink: talks/2015/06-swc-donostia/
 ---

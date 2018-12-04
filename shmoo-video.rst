@@ -4,9 +4,6 @@ categories: work art
 permalink: work/shmoo-video/
 ---
 
-Yeast Mating Video
-==================
-
 .. raw:: html
 
     <div id="video-player">

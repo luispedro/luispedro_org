@@ -1,7 +1,7 @@
 ---
 title: Luis Pedro Coelho
-layout: default
 meta: Luis Pedro Coelho is the principal investigator (PI) of the Big Data Biology Lab at Fudan University (Shanghai).
+classes: wide
 categories: about-me
 ---
 

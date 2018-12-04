@@ -4,10 +4,6 @@ categories: work
 permalink: projects/libertarian-welfare/
 ---
 
-=========================
-Libertarian Welfare State
-=========================
-
 This is a book which will be called *The Libertarian Welfare State.* The major
 thesis is explained in the following quote from Hayek:
 

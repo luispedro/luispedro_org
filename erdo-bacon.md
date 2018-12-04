@@ -1,10 +1,8 @@
 ---
-title: Erdös-Bacon
+title: My Erdös-Bacon Number
 categories: about-me
 permalink: erdos-bacon/
 ---
-
-#Erdös-Bacon Number
 
 My Erdös-Bacon number is **7**.
 

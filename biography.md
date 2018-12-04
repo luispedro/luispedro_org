@@ -1,12 +1,8 @@
 ---
-layout: default
-title: Biography
 permalink: biography/
 categories: about-me
 meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
 ---
-
-# Biography
 
 Also see my [resume](/resume) and [CV (PDF format)](/files/vita.pdf) or my
 [scientific biography](/biography/scientific.html) which is a longer document

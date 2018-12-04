@@ -1,12 +1,9 @@
 ---
-layout: default
 title: Scientific Biography
 permalink: biography/scientific
 categories: about-me
 meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
 ---
-
-# Scientific Biography
 
 My work spans two subfields of computational biology: biomage informatics and
 metagenomics-based microbial ecology.

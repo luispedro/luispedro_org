@@ -1,12 +1,11 @@
 ---
-layout: default
-title: Press
+title: Press mentions
 permalink: press
 categories: about-me
 meta: Press mentioning Luis Pedro Coelho
 ---
 
-# Press mentions
+## Coelho et al., 2018
 
 Our paper [Similarity of the dog and human gut microbiomes in gene content and
 response to diet](https://doi.org/10.1186/s40168-018-0450-3) was [widely

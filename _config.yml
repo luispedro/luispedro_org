@@ -7,6 +7,7 @@ at the European Molecular Biology Laboratory (EMBL) studying microbial
 communities in the ocean and inside the human gut. Luis has also developed
 scientific open source software such as the mahotas computer vision library and
 co-wrote the book 'Building Machine Learning Systems With Python'"
+theme: "minimal-mistakes-jekyll"
 baseurl: ""
 url: "http://luispedro.org"
 twitter_username: luispedrocoelho
@@ -15,12 +16,20 @@ github_username:  luispedro
 permalink: pretty
 encoding: utf-8
 
+plugins_dir: ./_plugins
+
+plugins:
+- jekyll-include-cache
+
 defaults:
     -
         scope:
             path: ""
         values:
-            layout: default
+            layout: single
+            sidebar:
+              nav: 'side'
+
 exclude:
     - update.sh
     - upload.sh

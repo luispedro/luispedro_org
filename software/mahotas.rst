@@ -1,5 +1,5 @@
 ---
-title: Mahotas
+title: Mahotas: computer vision in Python
 categories: software python
 permalink: software/mahotas/
 ---
@@ -10,8 +10,6 @@ permalink: software/mahotas/
         <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
     </a>
 
-Mahotas: Computer Vision in Python
-==================================
 
 A dedicated mahotas page with documentation is available at
 `http://mahotas.rtfd.org <http://mahotas.rtfd.org>`__. This page is just a

@@ -1,11 +1,8 @@
 ---
-title: Publications
+title: Annotated List of Selected Publications
 categories: research
 permalink: publications/annotated/
 ---
-
-Annotated List of Selected Publications
-=======================================
 
 (2013) Generalisable Subcellular Location Analysis
 --------------------------------------------------

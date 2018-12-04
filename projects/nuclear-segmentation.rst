@@ -5,9 +5,6 @@ categories: work
 permalink: projects/nuclear-segmentation/
 ---
 
-Nuclear Segmentation
---------------------
-
 The goal of this project was to quantitatively evaluate a series of nuclear
 segmentation algorithms for use in our work. We hand-segmented several images
 from two datasets and used those as gold standards to evaluate methods.

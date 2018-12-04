@@ -4,9 +4,6 @@ categories: work art
 permalink: work/shmoo-video/explanation/
 ---
 
-Yeast Mating
-============
-
 This is an explanation of my `yeast video </work/shmoo-video>`_ . See it and then come back. Or read this before seeing it to understand.
 
 This was a small project for my Cell Biology course at CMU. The goals are, according to the class `website <http://www.andrew.cmu.edu/course/03-240/Grading.htm>`_ :
