@@ -93,7 +93,7 @@ Publications in 2015-2018:
      Manimozhiyan Arumugam & Oluf Pedersen `Recovery of gut microbiota of
      healthy adults following antibiotic exposure
      <https://www.nature.com/articles/s41564-018-0257-9>`__ in Nature
-     Microbiology (2018) [`DOI < https://doi.org/10.1038/s41564-018-0257-9>`__]
+     Microbiology (2018) [`DOI <https://doi.org/10.1038/s41564-018-0257-9>`__]
 
 16.  Mohammad Bahram\*, Falk Hildebrand\*, Sofia K Forslund, Jennifer L
      Anderson, Nadejda A Soudzilovskaia, Peter M Bodegom, Johan
