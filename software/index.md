@@ -46,9 +46,22 @@ algorithms in Haskell.
 
 License: MIT
 
+
+### Diskhash
+
+Disk-based hashtable: [https://github.com/luispedro/diskhash](https://github.com/luispedro/diskhash)
+
+
+### fasta\_reader
+
+Uses diskhash to index a FASTA file making it very fast to retrieve a sequence:
+
+[https://github.com/luispedro/fasta\_reader](https://github.com/luispedro/fasta_reader)
+
 ## Reproducible Research
 
-I have also made some [code available for reproducible research](/software/reproducible).
+I have also made some [code available for reproducible research of published
+papers](/software/reproducible).
 
 
 ## Dormant Projects
