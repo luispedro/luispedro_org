@@ -85,6 +85,13 @@ Publications
 
 Publications in 2015-2018:
 
+18.  Thomas SB Schmidt\*, Matthew R Hayward\*, Luis P Coelho, Simone S Li, Paul
+     I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko, Renato J
+     Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna
+     Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork
+     `Extensive Transmission of Microbes along the Gastrointestinal Tract
+     <https://doi.org/10.1101/507194>`__ (PREPRINT)
+
 17.  Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
      Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
      Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, Luis Pedro Coelho, Huanming
