@@ -83,16 +83,23 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications in 2015-2018:
+Publications in 2017-2019:
 
-18.  Thomas SB Schmidt\*, Matthew R Hayward\*, Luis P Coelho, Simone S Li, Paul
+14.  Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos Kirilovsky\*, Eric
+     Pelletier\*, ..., **Luis Pedro Coelho**, ..., Chris Bowler\*, Daniele
+     Iudicone\* `Community‐Level Responses to Iron Availability in Open Ocean
+     Planktonic Ecosystems
+     <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006022>`__
+     in Global Biogeochemical Cycles (2019) [`DOI <https://doi.org/10.1029/2018GB006022>`__]
+
+13.  Thomas SB Schmidt\*, Matthew R Hayward\*, Luis P Coelho, Simone S Li, Paul
      I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko, Renato J
      Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna
      Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork
      `Extensive Transmission of Microbes along the Gastrointestinal Tract
      <https://doi.org/10.1101/507194>`__ (PREPRINT)
 
-17.  Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
+12.  Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
      Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
      Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, Luis Pedro Coelho, Huanming
      Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik Bjorn
@@ -102,7 +109,7 @@ Publications in 2015-2018:
      <https://www.nature.com/articles/s41564-018-0257-9>`__ in Nature
      Microbiology (2018) [`DOI <https://doi.org/10.1038/s41564-018-0257-9>`__]
 
-16.  Mohammad Bahram\*, Falk Hildebrand\*, Sofia K Forslund, Jennifer L
+11.  Mohammad Bahram\*, Falk Hildebrand\*, Sofia K Forslund, Jennifer L
      Anderson, Nadejda A Soudzilovskaia, Peter M Bodegom, Johan
      Bengtsson-Palme, Sten Anslan, **Luis Pedro Coelho**, Helery Harend, Jaime
      Huerta-Cepas, Marnix H Medema, Mia R Maltz, Sunil Mundra, Pål Axel Olsson,
@@ -111,44 +118,44 @@ Publications in 2015-2018:
      <https://www.nature.com/articles/s41586-018-0386-6>`__ in Nature (2018)
      [`DOI <https://doi.org/10.1038/s41586-018-0386-6>`__]
 
-15. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
+10. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
     <https://doi.org/10.1101/367755>`__ (PREPRINT)
 
-14. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+9. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
     Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
     the dog and human gut microbiomes in gene content and response to diet
     <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3>`__
     in Microbiome (2018) [`DOI <https://doi.org/10.1186/s40168-018-0450-3>`__]
 
-13. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
+8. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
     Kandels-Lewis, Gonneke Willemsen, Dorret I Boomsma, Nicola Segata, and Peer
     Bork `Selective maternal seeding and environment shape the human gut
     microbiome
     <https://genome.cshlp.org/content/early/2018/03/01/gr.233940.117.abstract>`__
     in Genome Research (2018) [`DOI <https://doi.org/10.1101/gr.233940.117>`__]
 
-12. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin Munch, Jaime
+7. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin Munch, Jaime
     Huerta‐Cepas, Kristoffer Forslund, Falk Hildebrand, Almagul Kushugulova,
     Georg Zeller, Peer Bork `Subspecies in the global human gut microbiome
     <http://msb.embopress.org/content/13/12/960>`__ in Molecular Systems
     Biology (2017) [`DOI <http://doi.org/10.15252/msb.20177589>`__]
 
-11. **Luis Pedro Coelho** `Jug: Software for parallel reproducible computation
-    in Python
-    <https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/>`__ in
-    the Journal for Open Research Software (2017) [`DOI
-    <http://doi.org/10.5334/jors.161>`__]
+6. **Luis Pedro Coelho** `Jug: Software for parallel reproducible computation
+   in Python
+   <https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/>`__ in
+   the Journal for Open Research Software (2017) [`DOI
+   <http://doi.org/10.5334/jors.161>`__]
 
-10. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
+5. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
     Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de Vargas,
     `Quantitative 3D-imaging for cell biology and ecology of environmental
     microbial eukaryotes <http://doi.org/10.7554/eLife.26066.001>`__ in eLife
     (2017) [`DOI <http://doi.org/10.7554/eLife.26066.001>`__]
 
-9.  Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
+4.  Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier, Adriana
     Alberti, Florence Levenez, Melanie Tramontano, Marja Driessen, Rajna
     Hercog, Ferris-Elias Jung, Jens Roat Kultima, Matthew R Hayward, **Luis
     Pedro Coelho**, Emma Allen-Vercoe, Laurie Bertrand, Michael Blaut, Jillian
@@ -167,13 +174,13 @@ Publications in 2015-2018:
     in Nature Biotechnology (2017) [`DOI <https://doi.org/10.1038/nbt.3960>`__]
     [`PDF <http://www.bork.embl.de/publication/pdf/28967887.pdf>`__
 
-8.  Paul Igor Costea*, Robin Munch*, **Luis Pedro Coelho**, Lucas Paoli,
+3.  Paul Igor Costea*, Robin Munch*, **Luis Pedro Coelho**, Lucas Paoli,
     Shinichi Sunagawa, Peer Bork `metaSNV: A tool for metagenomic strain level
     analysis
     <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182392>`__
     in PLoS One (2017) [`DOI <https://doi.org/10.1371/journal.pone.0182392>`__]
 
-7.  Jaime Huerta-Cepas\*, Kristoffer Forslund\*, **Luis Pedro Coelho**, Damian
+2.  Jaime Huerta-Cepas\*, Kristoffer Forslund\*, **Luis Pedro Coelho**, Damian
     Szklarczyk, Lars Juhl Jensen, Christian von Mering, and Peer Bork `Fast
     genome-wide functional annotation through orthology assignment by
     eggNOG-mapper
@@ -181,67 +188,12 @@ Publications in 2015-2018:
     in Molecular Biology & Evolution (2017) [`DOI
     <https://doi.org/10.1093/molbev/msx148>`__]
 
-6.  Janis Rebecca Bedarf, Falk Hildebrand, **Luis Pedro Coelho**, Shinichi
+1.  Janis Rebecca Bedarf, Falk Hildebrand, **Luis Pedro Coelho**, Shinichi
     Sunagawa, Mohammad Bahram, Felix Goeser, Peer Bork, Ullrich Wüllner
     `Functional implications of microbial and viral gut metagenome changes in
     early stage L-DOPA naive Parkinson's Disease patients <https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0428-y>`__ in Genome Medicine
     (2017) [`DOI
     <https://doi.org/10.1186/s13073-017-0428-y>`__]
-
-5.  Jens Roat Kultima, **Luis Pedro Coelho**, Kristoffer Forslund, Jaime
-    Huerta-Cepas, Simone S. Li, Marja Driessen, Anita Yvonne Voigt, Georg
-    Zeller, Shinichi Sunagawa and Peer Bork; `MOCAT2: a metagenomic assembly,
-    annotation and profiling framework
-    <http://doi.org/10.1093/bioinformatics/btw183>`__ in Bioinformatics (2016)
-    [`DOI <http://doi.org/10.1093/bioinformatics/btw183>`__]
-
-4.  Lionel Guidi, Samuel Chaffron, Lucie Bittner, Damien Eveillard, Abdelhalim
-    Larhlimi, Simon Roux, Youssef Darzi, Stephane Audic, Léo Berline, Jennifer
-    Brum, **Luis Pedro Coelho**, Julio Cesar Ignacio Espinoza, Shruti Malviya,
-    Shinichi Sunagawa, Céline Dimier, Stefanie Kandels-Lewis, Marc Picheral,
-    Julie Poulain, Sarah Searson, Tara Oceans Consortium Coordinators, Lars
-    Stemmann, Fabrice Not, Pascal Hingamp, Sabrina Speich, Mick Follows, Lee
-    Karp-Boss, Emmanuel Boss, Hiroyuki Ogata, Stephane Pesant, Jean
-    Weissenbach, Patrick Wincker, Silvia G. Acinas, Peer Bork, Colomban de
-    Vargas, Daniele Iudicone, Matthew B. Sullivan, Jeroen Raes, Eric Karsenti,
-    Chris Bowler & Gabriel Gorsky; `Plankton networks driving carbon export in
-    the oligotrophic ocean <http://doi.org/10.1038/nature16942>`__ in Nature
-    (2016) [`DOI <http://doi.org/10.1038/nature16942>`__] [`PDF
-    <http://www.bork.embl.de/publication/pdf/26863193.pdf>`__]
-
-3.  Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
-    Cabezas-Cruz, James J. Valdés, Virgílio do Rosário, José de la Fuente4 and
-    Ana Domingos, `Gene expression changes in the salivary glands of Anopheles
-    coluzzii elicited by Plasmodium berghei infection
-    <http://doi.org/10.1186/s13071-015-1079-8>`__ in Parasites & Vectors (2015)
-    [`DOI <http://doi.org/10.1186/s13071-015-1079-8>`__]
-
-2.  Shinichi Sunagawa,* **Luis Pedro Coelho**\*, Samuel Chaffron*, Jens Roat
-    Kultima, Karine Labadie, Guillem Salazar, Bardya Djahanschiri, Georg
-    Zeller, Daniel R. Mende, Adriana Alberti, Francisco M. Cornejo-Castillo,
-    Paul I. Costea, Corinne Cruaud, Francesco d'Ovidio, Stefan Engelen, Isabel
-    Ferrera, Josep M. Gasol, Lionel Guidi, Falk Hildebrand, Florian Kokoszka,
-    Cyrille Lepoivre, Gipsi Lima-Mendez, Julie Poulain, Bonnie T. Poulos, Marta
-    Royo-Llonch, Hugo Sarmento, Sara Vieira-Silva, Céline Dimier, Marc
-    Picheral, Sarah Searson, Stefanie Kandels-Lewis, Tara Oceans coordinators,
-    Chris Bowler, Colomban de Vargas, Gabriel Gorsky, Nigel Grimsley, Pascal
-    Hingamp, Daniele Iudicone, Olivier Jaillon, Fabrice Not, Hiroyuki Ogata,
-    Stephane Pesant, Sabrina Speich, Lars Stemmann, Matthew B. Sullivan, Jean
-    Weissenbach, Patrick Wincker, Eric Karsenti, Jeroen Raes, Silvia G. Acinas,
-    Peer Bork, `Structure and function of the global ocean microbiome
-    <http://doi.org/10.1126/science.1261359>`__ in Science (2015) [`DOI
-    <http://doi.org/10.1126/science.1261359>`__]
-    [`PDF <http://www.bork.embl.de/publication/pdf/25999513.pdf>`__]
-
-1.  **Luis Pedro Coelho**, Catarina Pato, Ana Friães, Ariane Neumann , Maren
-    von Köckritz-Blickwede Mário Ramirez , João André Carriço, `Automatic
-    Determination of NET (Neutrophil Extracellular Traps) Coverage in
-    Fluorescent Microscopy Images
-    <http://doi.org/10.1093/bioinformatics/btv156>`__ in Bioinformatics (2015),
-    [`DOI <http://doi.org/10.1093/bioinformatics/btv156>`__]
-    [`PDF
-    <https://www.researchgate.net/profile/Luis_Pedro_Coelho/publication/273778581_Automatic_Determination_of_NET_Neutrophil_Extracellular_Traps_Coverage_in_Fluorescent_Microscopy_Images/links/57a305ac08ae5f8b258d986d/Automatic-Determination-of-NET-Neutrophil-Extracellular-Traps-Coverage-in-Fluorescent-Microscopy-Images.pdf>`__].
-
 
 `All publications... </publications>`__ (`Google Scholar profile <https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__)
 
