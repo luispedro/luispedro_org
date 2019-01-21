@@ -1,5 +1,5 @@
 ---
-title: Mahotas: computer vision in Python
+title: "Mahotas: computer vision in Python"
 categories: software python
 permalink: software/mahotas/
 ---
