@@ -85,71 +85,71 @@ Publications
 
 Publications in 2017-2019:
 
-14.  Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos Kirilovsky\*, Eric
-     Pelletier\*, ..., **Luis Pedro Coelho**, ..., Chris Bowler\*, Daniele
-     Iudicone\* `Community‐Level Responses to Iron Availability in Open Ocean
-     Planktonic Ecosystems
-     <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006022>`__
-     in Global Biogeochemical Cycles (2019) [`DOI <https://doi.org/10.1029/2018GB006022>`__]
+14. Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos Kirilovsky\*, Eric
+    Pelletier\*, ..., **Luis Pedro Coelho**, ..., Chris Bowler\*, Daniele
+    Iudicone\* `Community‐Level Responses to Iron Availability in Open Ocean
+    Planktonic Ecosystems
+    <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006022>`__
+    in Global Biogeochemical Cycles (2019) [`DOI <https://doi.org/10.1029/2018GB006022>`__]
 
-13.  Thomas SB Schmidt\*, Matthew R Hayward\*, Luis P Coelho, Simone S Li, Paul
-     I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko, Renato J
-     Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna
-     Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork
-     `Extensive Transmission of Microbes along the Gastrointestinal Tract
-     <https://doi.org/10.1101/507194>`__ (PREPRINT)
+13. Thomas SB Schmidt\*, Matthew R Hayward\*, Luis P Coelho, Simone S Li, Paul
+    I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko, Renato J
+    Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna
+    Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork
+    `Extensive Transmission of Microbes along the Gastrointestinal Tract
+    <https://doi.org/10.1101/507194>`__ (PREPRINT)
 
-12.  Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
-     Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
-     Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, Luis Pedro Coelho, Huanming
-     Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik Bjorn
-     Nielsen, Peer Bork, Jun Wang, Tina Vilsbøll, Torben Hansen, Filip K. Knop,
-     Manimozhiyan Arumugam & Oluf Pedersen `Recovery of gut microbiota of
-     healthy adults following antibiotic exposure
-     <https://www.nature.com/articles/s41564-018-0257-9>`__ in Nature
-     Microbiology (2018) [`DOI <https://doi.org/10.1038/s41564-018-0257-9>`__]
+12. Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
+    Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
+    Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, Luis Pedro Coelho, Huanming
+    Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik Bjorn
+    Nielsen, Peer Bork, Jun Wang, Tina Vilsbøll, Torben Hansen, Filip K. Knop,
+    Manimozhiyan Arumugam & Oluf Pedersen `Recovery of gut microbiota of
+    healthy adults following antibiotic exposure
+    <https://www.nature.com/articles/s41564-018-0257-9>`__ in Nature
+    Microbiology (2018) [`DOI <https://doi.org/10.1038/s41564-018-0257-9>`__]
 
-11.  Mohammad Bahram\*, Falk Hildebrand\*, Sofia K Forslund, Jennifer L
-     Anderson, Nadejda A Soudzilovskaia, Peter M Bodegom, Johan
-     Bengtsson-Palme, Sten Anslan, **Luis Pedro Coelho**, Helery Harend, Jaime
-     Huerta-Cepas, Marnix H Medema, Mia R Maltz, Sunil Mundra, Pål Axel Olsson,
-     Mari Pent, Sergei Põlme, Shinichi Sunagawa, Martin Ryberg, Leho Tedersoo,
-     Peer Bork `Structure and function of the global topsoil microbiome
-     <https://www.nature.com/articles/s41586-018-0386-6>`__ in Nature (2018)
-     [`DOI <https://doi.org/10.1038/s41586-018-0386-6>`__]
+11. Mohammad Bahram\*, Falk Hildebrand\*, Sofia K Forslund, Jennifer L
+    Anderson, Nadejda A Soudzilovskaia, Peter M Bodegom, Johan
+    Bengtsson-Palme, Sten Anslan, **Luis Pedro Coelho**, Helery Harend, Jaime
+    Huerta-Cepas, Marnix H Medema, Mia R Maltz, Sunil Mundra, Pål Axel Olsson,
+    Mari Pent, Sergei Põlme, Shinichi Sunagawa, Martin Ryberg, Leho Tedersoo,
+    Peer Bork `Structure and function of the global topsoil microbiome
+    <https://www.nature.com/articles/s41586-018-0386-6>`__ in Nature (2018)
+    [`DOI <https://doi.org/10.1038/s41586-018-0386-6>`__]
 
 10. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
     <https://doi.org/10.1101/367755>`__ (PREPRINT)
 
-9. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+9.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
     Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
     the dog and human gut microbiomes in gene content and response to diet
     <https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3>`__
     in Microbiome (2018) [`DOI <https://doi.org/10.1186/s40168-018-0450-3>`__]
-
-8. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
+   
+8.  Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
     Kandels-Lewis, Gonneke Willemsen, Dorret I Boomsma, Nicola Segata, and Peer
     Bork `Selective maternal seeding and environment shape the human gut
     microbiome
     <https://genome.cshlp.org/content/early/2018/03/01/gr.233940.117.abstract>`__
     in Genome Research (2018) [`DOI <https://doi.org/10.1101/gr.233940.117>`__]
-
-7. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin Munch, Jaime
+   
+7.  Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin Munch, Jaime
     Huerta‐Cepas, Kristoffer Forslund, Falk Hildebrand, Almagul Kushugulova,
     Georg Zeller, Peer Bork `Subspecies in the global human gut microbiome
     <http://msb.embopress.org/content/13/12/960>`__ in Molecular Systems
     Biology (2017) [`DOI <http://doi.org/10.15252/msb.20177589>`__]
-
-6. **Luis Pedro Coelho** `Jug: Software for parallel reproducible computation
-   in Python
-   <https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/>`__ in
-   the Journal for Open Research Software (2017) [`DOI
-   <http://doi.org/10.5334/jors.161>`__]
-
-5. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
+   
+6.  **Luis Pedro Coelho** `Jug: Software for parallel reproducible computation
+    in Python
+    <https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/>`__ in
+    the Journal for Open Research Software (2017) [`DOI
+    <http://doi.org/10.5334/jors.161>`__]
+   
+5.  Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
     Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de Vargas,
     `Quantitative 3D-imaging for cell biology and ecology of environmental
     microbial eukaryotes <http://doi.org/10.7554/eLife.26066.001>`__ in eLife
