@@ -1,0 +1,63 @@
+main:
+    - url: "/resume"
+      title: "CV"
+    - url: "/publications"
+      title: "Publications"
+    - url: "/biography"
+      title: "Short Biography"
+
+side:
+  - title: About Me
+    children:
+    - url: "http://big-data-biology.org/"
+      title: "Big Data Biology Lab Website"
+    - url: "/resume"
+      title: "CV"
+    - url: "/publications"
+      title: "Publications"
+    - url: "/talks"
+      title: "Slides from talks"
+    - url: "http://metarabbit.wordpress.com/"
+      title: "Metarabbit"
+    - url: "/biography"
+      title: "Short Biography"
+    - url: "/erdos-bacon"
+      title: "My Erdös Bacon Number"
+  - title: Software
+    children:
+    - url: "http://ngless.embl.de/"
+      title: "NGLess"
+    - url: "/software/mahotas"
+      title: "Image processing with Python"
+    - url: "/software/imread"
+      title: "Loading images in Python"
+    - url: "/software/jug"
+      title: "Task based parallelization framework for Python"
+   
+  - title: Other Stuff
+    children:
+    - url: "/faq"
+      title: "Frequently Asked Questions"
+    - url: "/derivations"
+      title: "Some useful derivations"
+    - url: "/fimdetarde"
+      title: "Award-winning short story (in Portuguese)"
+    - url: "/work/shmoo-video/"
+      title: "Yeast Mating Claymation"
+    - url: "http://beiraproject.org/"
+      title: "Volunteering in Mozambique"
+    - url: "http://twitter.com/luispedrocoelho"
+      title: "@luispedrocoelho (twitter)"
+
+  - title: Older Projects
+    children:
+    - url: "/projects/gen-classification"
+      title: "Generalization of Subcellular Location"
+    - url: "/projects/datasets"
+      title: "Publicly available datasets"
+    - url: "/projects/pfs"
+      title: "A course for scientists who write code"
+    - url: "/projects/slif"
+      title: "Structured Literature Image Finder"
+    - url: "/projects/"
+      title: "All projects"
