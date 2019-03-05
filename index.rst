@@ -83,21 +83,22 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications in 2017-2019:
+Publications since 2017 (updated *26 Feb 2019*; `full list </publications>`__):
 
-14. Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos Kirilovsky\*, Eric
+14. Thomas SB Schmidt\*, Matthew R Hayward\*, **Luis Pedro Coelho**, Simone S
+    Li, Paul I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko,
+    Renato J Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna
+    Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork
+    `Extensive Transmission of Microbes along the Gastrointestinal Tract
+    <https://elifesciences.org/articles/42693>`__ in eLife (2019) [`DOI
+    <https://doi.org/10.7554/eLife.42693>`__]
+
+13. Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos Kirilovsky\*, Eric
     Pelletier\*, ..., **Luis Pedro Coelho**, ..., Chris Bowler\*, Daniele
     Iudicone\* `Community‐Level Responses to Iron Availability in Open Ocean
     Planktonic Ecosystems
     <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006022>`__
     in Global Biogeochemical Cycles (2019) [`DOI <https://doi.org/10.1029/2018GB006022>`__]
-
-13. Thomas SB Schmidt\*, Matthew R Hayward\*, Luis P Coelho, Simone S Li, Paul
-    I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko, Renato J
-    Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna
-    Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork
-    `Extensive Transmission of Microbes along the Gastrointestinal Tract
-    <https://doi.org/10.1101/507194>`__ (PREPRINT)
 
 12. Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
     Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
