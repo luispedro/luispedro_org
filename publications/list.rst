@@ -4,7 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
+Updated: **05 Mar 2019**
+
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
+
+Google Scholar total citations: 2559; h-index: 20
 
 Selected Publications
 =====================
@@ -64,10 +68,34 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
-32. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
+35. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
     <https://doi.org/10.1101/367755>`__ (PREPRINT)
+
+34. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
+    Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato Alves,
+    Paul I Costea, Luis Pedro Coelho, Thomas S B Schmidt, Alexandre Almeida,
+    Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork, Georg Zeller#
+    & Shinichi Sunagawa#. `Microbial abundance, activity and population genomic
+    profiling with mOTUs2 <https://doi.org/10.1038/s41467-019-08844-4>`__
+    Nature Communications 10, Article number: 1014 (2019).
+
+33. Thomas SB Schmidt\*, Matthew R Hayward\*, **Luis Pedro Coelho**, Simone S
+    Li, Paul I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko,
+    Renato J Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna
+    Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork
+    `Extensive Transmission of Microbes along the Gastrointestinal Tract
+    <https://elifesciences.org/articles/42693>`__ in eLife (2019) [`DOI
+    <https://doi.org/10.7554/eLife.42693>`__]
+
+32. Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos Kirilovsky\*, Eric
+    Pelletier\*, ..., **Luis Pedro Coelho**, ..., Chris Bowler\*, Daniele
+    Iudicone\* `Community‐Level Responses to Iron Availability in Open Ocean
+    Planktonic Ecosystems
+    <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006022>`__
+    in Global Biogeochemical Cycles (2019) [`DOI
+    <https://doi.org/10.1029/2018GB006022>`__]
 
 31.  Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
      Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
