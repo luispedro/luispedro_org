@@ -87,11 +87,12 @@ Publications since 2017 (updated *05 Mar 2019*; `full list </publications>`__):
 
 15. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
     Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato Alves,
-    Paul I Costea, Luis Pedro Coelho, Thomas S B Schmidt, Alexandre Almeida,
-    Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork, Georg Zeller#
-    & Shinichi Sunagawa#. `Microbial abundance, activity and population genomic
-    profiling with mOTUs2 <https://doi.org/10.1038/s41467-019-08844-4>`__
-    Nature Communications 10, Article number: 1014 (2019).
+    Paul I Costea, **Luis Pedro Coelho**, Thomas S B Schmidt, Alexandre
+    Almeida, Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork,
+    Georg Zeller# & Shinichi Sunagawa#. `Microbial abundance, activity and
+    population genomic profiling with mOTUs2
+    <https://doi.org/10.1038/s41467-019-08844-4>`__ Nature Communications 10,
+    Article number: 1014 (2019).
 
 14. Thomas SB Schmidt\*, Matthew R Hayward\*, **Luis Pedro Coelho**, Simone S
     Li, Paul I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko,
