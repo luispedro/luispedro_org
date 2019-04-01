@@ -73,6 +73,9 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
+**April 10-11 2019** I will be in Chengdu (China), visiting the University of
+Electronic Science and Technology of China.
+
 **April 16-18 2019** I will be in Utrecht (Netherlands) for the
 `International Conference on One Health Antimicrobial Resistance (ICOHAR)
 <http://www.icohar2019.org/icohar2019.html>`__
