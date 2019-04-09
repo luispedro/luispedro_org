@@ -89,7 +89,19 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *05 Mar 2019*; `full list </publications>`__):
+Publications since 2017 (updated *2 Apr 2019*; `full list </publications>`__):
+
+16. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
+    Kashani, Alessio Milanese, Jonas S Fleck, Anita Y Voigt, Albert Palleja,
+    Ruby P Ponnudurai, Shinichi Sunagawa, **Luis Pedro Coelho**, Petra
+    Schrotz-King, Emily Vogtmann, Nina Habermann, Emma Niméus, Andrew M Thomas,
+    Paolo Manghi, Sara Gandini, Davide Serrano, Sayaka Mizutani , Hirotsugu
+    Shiroma, Satoshi Shiba, Tatsuhiro Shibata, Shinichi Yachida, Takuji Yamada,
+    Levi Waldron, Alessio Naccarati, Nicola Segata, Rashmi Sinha, Cornelia M.
+    Ulrich, Hermann Brenner, Manimozhiyan Arumugam, Peer Bork, Georg Zeller
+    `Meta-analysis of fecal metagenomes reveals global microbial signatures
+    that are specific for colorectal cancer
+    <https://doi.org/10.1038/s41591-019-0406-6>`__, Nature Medicine (2019)
 
 15. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
     Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato Alves,

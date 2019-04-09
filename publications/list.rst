@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **05 Mar 2019**
+Updated: **03 Apr 2019**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 2559; h-index: 20
+Google Scholar total citations: 2661; h-index: 21
 
 Selected Publications
 =====================
@@ -68,10 +68,22 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
-35. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
+36. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
     <https://doi.org/10.1101/367755>`__ (PREPRINT)
+
+35. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
+    Kashani, Alessio Milanese, Jonas S Fleck, Anita Y Voigt, Albert Palleja,
+    Ruby P Ponnudurai, Shinichi Sunagawa, **Luis Pedro Coelho**, Petra
+    Schrotz-King, Emily Vogtmann, Nina Habermann, Emma Niméus, Andrew M Thomas,
+    Paolo Manghi, Sara Gandini, Davide Serrano, Sayaka Mizutani , Hirotsugu
+    Shiroma, Satoshi Shiba, Tatsuhiro Shibata, Shinichi Yachida, Takuji Yamada,
+    Levi Waldron, Alessio Naccarati, Nicola Segata, Rashmi Sinha, Cornelia M.
+    Ulrich, Hermann Brenner, Manimozhiyan Arumugam, Peer Bork, Georg Zeller
+    `Meta-analysis of fecal metagenomes reveals global microbial signatures
+    that are specific for colorectal cancer
+    <https://doi.org/10.1038/s41591-019-0406-6>`__, Nature Medicine (2019)
 
 34. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
     Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato Alves,
