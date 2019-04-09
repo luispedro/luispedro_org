@@ -8,7 +8,7 @@ categories: about-me
 Who am I?
 =========
 
-.. image:: /files/photos/luis-pedro-coelho-snow-bg.jpg
+.. image:: /files/photos/luis-pedro-coelho-snow-bg-smaller.jpg
    :width: 56%
    :alt: Luis Pedro Coelho
    :class: float-right
