@@ -83,6 +83,9 @@ Electronic Science and Technology of China.
 **June 20-24 2019** I will be in San Francisco for `ASM Microbe 2019
 <https://www.asm.org/index.php/asm-microbe-2019>`__
 
+**July 21-25 2019** I will be in Basel for `ECCB/ISMB 2019
+<https://www.iscb.org/ismbeccb2019>`__
+
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
 
