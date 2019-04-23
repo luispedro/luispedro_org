@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **03 Apr 2019**
+Updated: **23 Apr 2019**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 2661; h-index: 21
+Google Scholar total citations: 2739; h-index: 21
 
 Selected Publications
 =====================
@@ -69,9 +69,10 @@ Peer Reviewed Research Papers
 In reverse chronological order
 
 36. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
-    Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
+    Ana Teresa Freitas, and Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
-    <https://doi.org/10.1101/367755>`__ (PREPRINT)
+    <https://doi.org/10.1186/s40168-019-0684-8>`__, Microbiome (2019, in press)
+    (`PREPRINT <https://doi.org/10.1101/367755>`__)
 
 35. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
     Kashani, Alessio Milanese, Jonas S Fleck, Anita Y Voigt, Albert Palleja,

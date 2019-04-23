@@ -92,9 +92,15 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *2 Apr 2019*; `full list </publications>`__):
+Publications since 2017 (updated *23 Apr 2019*; `full list </publications>`__):
 
-16. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
+16. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
+    Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
+    metagenomes using NGLess, a domain-specific language
+    <https://doi.org/10.1186/s40168-019-0684-8>`__, Microbiome (2019, in press)
+    (`PREPRINT <https://doi.org/10.1101/367755>`__)
+
+15. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
     Kashani, Alessio Milanese, Jonas S Fleck, Anita Y Voigt, Albert Palleja,
     Ruby P Ponnudurai, Shinichi Sunagawa, **Luis Pedro Coelho**, Petra
     Schrotz-King, Emily Vogtmann, Nina Habermann, Emma Niméus, Andrew M Thomas,
@@ -106,7 +112,7 @@ Publications since 2017 (updated *2 Apr 2019*; `full list </publications>`__):
     that are specific for colorectal cancer
     <https://doi.org/10.1038/s41591-019-0406-6>`__, Nature Medicine (2019)
 
-15. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
+14. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
     Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato Alves,
     Paul I Costea, **Luis Pedro Coelho**, Thomas S B Schmidt, Alexandre
     Almeida, Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork,
@@ -115,7 +121,7 @@ Publications since 2017 (updated *2 Apr 2019*; `full list </publications>`__):
     <https://doi.org/10.1038/s41467-019-08844-4>`__ Nature Communications 10,
     Article number: 1014 (2019).
 
-14. Thomas SB Schmidt\*, Matthew R Hayward\*, **Luis Pedro Coelho**, Simone S
+13. Thomas SB Schmidt\*, Matthew R Hayward\*, **Luis Pedro Coelho**, Simone S
     Li, Paul I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko,
     Renato J Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna
     Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork
@@ -123,14 +129,14 @@ Publications since 2017 (updated *2 Apr 2019*; `full list </publications>`__):
     <https://elifesciences.org/articles/42693>`__ in eLife (2019) [`DOI
     <https://doi.org/10.7554/eLife.42693>`__]
 
-13. Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos Kirilovsky\*, Eric
+12. Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos Kirilovsky\*, Eric
     Pelletier\*, ..., **Luis Pedro Coelho**, ..., Chris Bowler\*, Daniele
     Iudicone\* `Community‐Level Responses to Iron Availability in Open Ocean
     Planktonic Ecosystems
     <https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006022>`__
     in Global Biogeochemical Cycles (2019) [`DOI <https://doi.org/10.1029/2018GB006022>`__]
 
-12. Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
+11. Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
     Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
     Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, Luis Pedro Coelho, Huanming
     Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik Bjorn
@@ -140,7 +146,7 @@ Publications since 2017 (updated *2 Apr 2019*; `full list </publications>`__):
     <https://www.nature.com/articles/s41564-018-0257-9>`__ in Nature
     Microbiology (2018) [`DOI <https://doi.org/10.1038/s41564-018-0257-9>`__]
 
-11. Mohammad Bahram\*, Falk Hildebrand\*, Sofia K Forslund, Jennifer L
+10. Mohammad Bahram\*, Falk Hildebrand\*, Sofia K Forslund, Jennifer L
     Anderson, Nadejda A Soudzilovskaia, Peter M Bodegom, Johan
     Bengtsson-Palme, Sten Anslan, **Luis Pedro Coelho**, Helery Harend, Jaime
     Huerta-Cepas, Marnix H Medema, Mia R Maltz, Sunil Mundra, Pål Axel Olsson,
@@ -148,11 +154,6 @@ Publications since 2017 (updated *2 Apr 2019*; `full list </publications>`__):
     Peer Bork `Structure and function of the global topsoil microbiome
     <https://www.nature.com/articles/s41586-018-0386-6>`__ in Nature (2018)
     [`DOI <https://doi.org/10.1038/s41586-018-0386-6>`__]
-
-10. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
-    Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
-    metagenomes using NGLess, a domain-specific language
-    <https://doi.org/10.1101/367755>`__ (PREPRINT)
 
 9.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
