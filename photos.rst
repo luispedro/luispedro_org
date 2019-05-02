@@ -5,16 +5,10 @@ permalink: photos/
 ---
 
 If you need to use a photo of me (for media usage or conference hand-out &c),
-you can use the ones below (including cropping, of course):
+you can use the one below (including appropriate cropping):
 
 
-.. image:: /files/photos/luis-pedro-coelho.jpg
+.. image:: /files/photos/2019-05-02/LuisPedroCoelho.jpeg
    :alt: Luis Pedro Coelho
    :width: 80%
-
-.. image:: /files/photos/luis-pedro-coelho-snow-bg.jpg
-   :alt: Luis Pedro Coelho
-   :width: 80%
-
-These photos were taken by Rita Reis.
 
