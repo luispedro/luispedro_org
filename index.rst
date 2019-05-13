@@ -73,13 +73,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**April 10-11 2019** I will be in Chengdu (China), visiting the University of
-Electronic Science and Technology of China.
-
-**April 16-18 2019** I will be in Utrecht (Netherlands) for the
-`International Conference on One Health Antimicrobial Resistance (ICOHAR)
-<http://www.icohar2019.org/icohar2019.html>`__
-
 **June 20-24 2019** I will be in San Francisco for `ASM Microbe 2019
 <https://www.asm.org/index.php/asm-microbe-2019>`__
 
@@ -236,6 +229,16 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**2019**
+
+**April 10-11 2019** I was in Chengdu (China), visiting the University of
+Electronic Science and Technology of China.
+
+**April 16-18 2019** I was in Utrecht (Netherlands) for the
+`International Conference on One Health Antimicrobial Resistance (ICOHAR)
+<http://www.icohar2019.org/icohar2019.html>`__ talking about our `dog
+microbiome work <https://doi.org/10.1186/s40168-018-0450-3>`__
 
 **2018**
 

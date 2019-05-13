@@ -4,6 +4,18 @@ categories: about-me
 permalink: news/
 ---
 
+### 2019
+
+**April 10-11 2019** I was in Chengdu (China), visiting the University of
+Electronic Science and Technology of China.
+
+**April 16-18 2019** I was in Utrecht (Netherlands) for the
+`International Conference on One Health Antimicrobial Resistance (ICOHAR)
+<http://www.icohar2019.org/icohar2019.html>`__ talking about our `dog
+microbiome work <https://doi.org/10.1186/s40168-018-0450-3>`__
+
+### 2018
+
 **Sep 16-19 2018** I was in Heidelberg for the *Human Microbiome Conference*
 
 **Nov 22-24 2017** I was in Schwarzenber, Switzerland for the `Autumn School
@@ -17,6 +29,7 @@ I also visited the University of Bern and presented my scientific work.
 **June 14 2018**: I taught the *Introduction to Python* lecture at the `Lisbon
 (Portugal) Machine Learning Summer School <http://lxmls.it.pt/2018/>`__
 
+### 2017
 
 **Oct 24-26 2017** I was in Copenhagen teaching people how to use `ngless
 <http://ngless.embl.de>`__ at the `Microbiome data interpretation workshop
