@@ -73,9 +73,6 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-**June 20-24 2019** I will be in San Francisco for `ASM Microbe 2019
-<https://www.asm.org/index.php/asm-microbe-2019>`__
-
 **July 21-25 2019** I will be in Basel for `ECCB/ISMB 2019
 <https://www.iscb.org/ismbeccb2019>`__
 
@@ -90,7 +87,7 @@ Publications since 2017 (updated *23 Apr 2019*; `full list </publications>`__):
 16. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
-    <https://doi.org/10.1186/s40168-019-0684-8>`__, Microbiome (2019, in press)
+    <https://doi.org/10.1186/s40168-019-0684-8>`__, Microbiome (2019)
     (`PREPRINT <https://doi.org/10.1101/367755>`__)
 
 15. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza

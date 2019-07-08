@@ -6,6 +6,9 @@ permalink: news/
 
 ### 2019
 
+**June 20-24 2019** I was in San Francisco for `ASM Microbe 2019
+<https://www.asm.org/index.php/asm-microbe-2019>`__
+
 **April 10-11 2019** I was in Chengdu (China), visiting the University of
 Electronic Science and Technology of China.
 
