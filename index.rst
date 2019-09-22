@@ -8,7 +8,7 @@ categories: about-me
 Who am I?
 =========
 
-.. image:: /files/photos/2019-05-02/LuisPedroCoelho-rescale.jpeg
+.. image:: /files/photos/2019-09-22/LuisPedroCoelho.jpeg
    :width: 36%
    :alt: Luis Pedro Coelho
    :class: float-right
