@@ -71,10 +71,7 @@ problems and tackling the software issues that stand in the way of doing so.
 Upcoming Travels & Talks
 ========================
 
-.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
-
-**July 21-25 2019** I will be in Basel for `ECCB/ISMB 2019
-<https://www.iscb.org/ismbeccb2019>`__
+I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -228,6 +225,12 @@ Other News
 (See above for papers)
 
 **2019**
+
+**July 21-25 2019** I was in Basel for `ECCB/ISMB 2019
+<https://www.iscb.org/ismbeccb2019>`__
+
+**June 21-26 2019** I was in San Francisco for `ASM Microbe 2019
+<https://asm.org/Events/ASM-Microbe/Home>`__
 
 **April 10-11 2019** I was in Chengdu (China), visiting the University of
 Electronic Science and Technology of China.
