@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **23 Apr 2019**
+Updated: **10 Apr 2019**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 2739; h-index: 21
+Google Scholar total citations: 3,403; h-index: 24
 
 Selected Publications
 =====================
@@ -57,8 +57,6 @@ Selected Publications
     segmentation in microscope cell images: A hand-segmented dataset and
     comparison of algorithms* ISBI 2009 [`online version <http://dx.doi.org/10.1109/ISBI.2009.5193098>`__]
 
-(`Annotated list of selected publications </publications/annotated>`__)
-
 Full List of Publications
 =========================
 
@@ -68,11 +66,16 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+37. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
+    Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
+    Huerta-Cepas, Shinichi Sunagawa, Peer Bork `Disentangling the impact of
+    environmental and phylogenetic constraints on prokaryotic strain diversity
+    <https://www.biorxiv.org/content/10.1101/735696v1>`__ (PREPRINT, 2019)
+
 36. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, and Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
-    <https://doi.org/10.1186/s40168-019-0684-8>`__, Microbiome (2019, in press)
-    (`PREPRINT <https://doi.org/10.1101/367755>`__)
+    <https://doi.org/10.1186/s40168-019-0684-8>`__, Microbiome (2019)
 
 35. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
     Kashani, Alessio Milanese, Jonas S Fleck, Anita Y Voigt, Albert Palleja,
@@ -88,11 +91,12 @@ In reverse chronological order
 
 34. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
     Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato Alves,
-    Paul I Costea, Luis Pedro Coelho, Thomas S B Schmidt, Alexandre Almeida,
-    Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork, Georg Zeller#
-    & Shinichi Sunagawa#. `Microbial abundance, activity and population genomic
-    profiling with mOTUs2 <https://doi.org/10.1038/s41467-019-08844-4>`__
-    Nature Communications 10, Article number: 1014 (2019).
+    Paul I Costea, **Luis Pedro Coelho**, Thomas S B Schmidt, Alexandre
+    Almeida, Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork,
+    Georg Zeller# & Shinichi Sunagawa#. `Microbial abundance, activity and
+    population genomic profiling with mOTUs2
+    <https://doi.org/10.1038/s41467-019-08844-4>`__ Nature Communications 10,
+    Article number: 1014 (2019).
 
 33. Thomas SB Schmidt\*, Matthew R Hayward\*, **Luis Pedro Coelho**, Simone S
     Li, Paul I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M Maistrenko,
@@ -112,10 +116,10 @@ In reverse chronological order
 
 31.  Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
      Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
-     Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, Luis Pedro Coelho, Huanming
-     Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik Bjorn
-     Nielsen, Peer Bork, Jun Wang, Tina Vilsbøll, Torben Hansen, Filip K. Knop,
-     Manimozhiyan Arumugam & Oluf Pedersen `Recovery of gut microbiota of
+     Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, **Luis Pedro Coelho**,
+     Huanming Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik
+     Bjorn Nielsen, Peer Bork, Jun Wang, Tina Vilsbøll, Torben Hansen, Filip K.
+     Knop, Manimozhiyan Arumugam & Oluf Pedersen `Recovery of gut microbiota of
      healthy adults following antibiotic exposure
      <https://www.nature.com/articles/s41564-018-0257-9>`__ in Nature
      Microbiology (2018) [`DOI <https://doi.org/10.1038/s41564-018-0257-9>`__]

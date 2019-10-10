@@ -79,13 +79,18 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *23 Apr 2019*; `full list </publications>`__):
+Publications since 2017 (updated *10 Oct 2019*; `full list </publications>`__):
+
+17. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
+    Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
+    Huerta-Cepas, Shinichi Sunagawa, Peer Bork `Disentangling the impact of
+    environmental and phylogenetic constraints on prokaryotic strain diversity
+    <https://www.biorxiv.org/content/10.1101/735696v1>`__ (PREPRINT, 2019)
 
 16. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of
     metagenomes using NGLess, a domain-specific language
     <https://doi.org/10.1186/s40168-019-0684-8>`__, Microbiome (2019)
-    (`PREPRINT <https://doi.org/10.1101/367755>`__)
 
 15. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
     Kashani, Alessio Milanese, Jonas S Fleck, Anita Y Voigt, Albert Palleja,
@@ -125,8 +130,8 @@ Publications since 2017 (updated *23 Apr 2019*; `full list </publications>`__):
 
 11. Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*, Alireza
     Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen, Suisha Liang,
-    Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, Luis Pedro Coelho, Huanming
-    Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik Bjorn
+    Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, **Luis Pedro Coelho**,
+    Huanming Yang, Jian Wang, Athanasios Typas, Morten F. Nielsen, Henrik Bjorn
     Nielsen, Peer Bork, Jun Wang, Tina Vilsbøll, Torben Hansen, Filip K. Knop,
     Manimozhiyan Arumugam & Oluf Pedersen `Recovery of gut microbiota of
     healthy adults following antibiotic exposure
