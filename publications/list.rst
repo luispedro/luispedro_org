@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **10 Apr 2019**
+Updated: **28 Apr 2019**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 3,403; h-index: 24
+Google Scholar total citations: 3,488; h-index: 24
 
 Selected Publications
 =====================
@@ -65,6 +65,14 @@ Peer Reviewed Research Papers
 -----------------------------
 
 In reverse chronological order
+
+38. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B Schmidt,
+    Alessio Milanese, Lucas Paoli, Ana Hernández-Plaza, Askarbek N Orakov,
+    Sofia K Forslund, Shinichi Sunagawa, Georg Zeller, Jaime Huerta-Cepas,
+    **Luis Pedro Coelho**, Peer Bork `proGenomes2: an improved database for
+    accurate and consistent habitat, taxonomic and functional annotations of
+    prokaryotic genomes <https://doi.org/10.1093/nar/gkz1002>`__, Nucleic Acids
+    Research, 2019
 
 37. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
     Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime

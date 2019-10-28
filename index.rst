@@ -79,7 +79,15 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *10 Oct 2019*; `full list </publications>`__):
+Publications since 2017 (updated *28 Oct 2019*; `full list </publications>`__):
+
+18. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B Schmidt,
+    Alessio Milanese, Lucas Paoli, Ana Hernández-Plaza, Askarbek N Orakov,
+    Sofia K Forslund, Shinichi Sunagawa, Georg Zeller, Jaime Huerta-Cepas,
+    **Luis Pedro Coelho**, Peer Bork `proGenomes2: an improved database for
+    accurate and consistent habitat, taxonomic and functional annotations of
+    prokaryotic genomes <https://doi.org/10.1093/nar/gkz1002>`__, Nucleic Acids
+    Research, 2019
 
 17. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
     Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
