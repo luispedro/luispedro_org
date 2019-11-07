@@ -71,7 +71,10 @@ problems and tackling the software issues that stand in the way of doing so.
 Upcoming Travels & Talks
 ========================
 
-I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
+
+
+**November 21-27 (approx.)** Sydney, Australia
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
