@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **28 Apr 2019**
+Updated: **15 Nov 2019**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 3,488; h-index: 24
+Google Scholar total citations: 3,623; h-index: 25
 
 Selected Publications
 =====================
@@ -65,6 +65,37 @@ Peer Reviewed Research Papers
 -----------------------------
 
 In reverse chronological order
+
+40. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
+    Greta Busseni, Hannah Byrne, **Luis Pedro Coelho**, Hisashi Endo, Josep M.
+    Gasol, Ann C. Gregory, Frédéric Mahé, Janaina Rigonato, Marta Royo-Llonch,
+    Guillem Salazar, Isabel Sanz-Sáez, Eleonora Scalco, Dodji Soviadan, Ahmed
+    A. Zayed, Adriana Zingone, Karine Labadie, Joannie Ferland, Claudie Marec,
+    Stefanie Kandels, Marc Picheral, Céline Dimier, Julie Poulain, Sergey
+    Pisarev, Margaux Carmichael, Stéphane Pesant, Tara Oceans Coordinators,
+    Marcel Babin, Emmanuel Boss, Daniele Iudicone, Olivier Jaillon, Silvia G.
+    Acinas, Hiroyuki Ogata, Eric Pelletier, Lars Stemmann, Matthew B. Sullivan,
+    Shinichi Sunagawa, Laurent Bopp, Colomban de Vargas, Lee Karp-Boss, Patrick
+    Wincker, Fabien Lombard, Chris Bowler#, and Lucie Zinger#
+    `Global Trends in Marine Plankton Diversity across Kingdoms of Life
+    <https://www.cell.com/cell/fulltext/S0092-8674(19)31124-9>`__, Cell 2019
+
+39. Guillem Salazar*, Lucas Paoli*, Adriana Alberti, Jaime Huerta-Cepas,
+    Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Christopher M. Field, **Luis
+    Pedro Coelho**, Corinne Cruaud, Stefan Engelen, Ann C. Gregory, Karine
+    Labadie, Claudie Marec, Eric Pelletier, Marta Royo-Llonch, Simon Roux,
+    Pablo Sánchez, Hideya Uehara, Ahmed A. Zayed, Georg Zeller,1Margaux
+    Carmichael, Céline Dimier, Joannie Ferland, Stefanie Kandels, Marc
+    Picheral, Sergey Pisarev, Julie Poulain, Tara Oceans Coordinators, Silvia
+    G. Acinas, Marcel Babin, Peer Bork, Chris Bowler, Colomban de Vargas,
+    Lionel Guidi, Pascal Hingamp, Daniele Iudicone, Lee Karp-Boss, Eric
+    Karsenti, Hiroyuki Ogata, Stephane Pesant, Sabrina Speich, Matthew B.
+    Sullivan, , Patrick Wincker, and Shinichi Sunagawa,* `Gene Expression
+    Changes and Community Turnover Differentially Shape the Global Ocean
+    Metatranscriptome
+    <https://www.cell.com/cell/fulltext/S0092-8674(19)31164-X>`__, Cell 2019
+
+
 
 38. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B Schmidt,
     Alessio Milanese, Lucas Paoli, Ana Hernández-Plaza, Askarbek N Orakov,
