@@ -5,6 +5,10 @@ classes: wide
 categories: about-me
 ---
 
+I am currently looking for postdocs to `join my group in Shanghai
+<http://big-data-biology.org/positions>`__. Come work with me on metagenomics,
+antimicrobial resistance, algorithms, or just propose your own project.
+
 Who am I?
 =========
 
@@ -18,6 +22,7 @@ I am the principal investigator of the `Big Data Biology Lab
 <http://big-data-biology.org>`__ at Fudan University (Shanghai) since September
 2018. Our group works in computational biology, with a focus on the very
 large-scale.
+
 
 Previously, I worked at the European Molecular Biology
 Laboratory (EMBL) in `Peer Bork's group <http://www.embl.de/~bork/>`__ in
