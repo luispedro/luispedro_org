@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **15 Nov 2019**
+Updated: **04 Jan 2020**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 3,623; h-index: 25
+Google Scholar total citations: 3,901; h-index: 25
 
 Selected Publications
 =====================
@@ -65,6 +65,11 @@ Peer Reviewed Research Papers
 -----------------------------
 
 In reverse chronological order
+
+41. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
+    Coelho**  `FACS: antimicrobial peptide screening in genomes and metagenomes
+    <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv PREPRINT
+    2019.12.17.880385)
 
 40. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
     Greta Busseni, Hannah Byrne, **Luis Pedro Coelho**, Hisashi Endo, Josep M.

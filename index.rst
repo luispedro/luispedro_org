@@ -78,8 +78,7 @@ Upcoming Travels & Talks
 
 .. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
-
-**November 21-27 (approx.)** Sydney, Australia
+**Jan 6-7** Gotenburg, Sweden
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -87,7 +86,12 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *14 Nov 2019*; `full list </publications>`__):
+Publications since 2017 (updated *25 Dec 2019*; `full list </publications>`__):
+
+21. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
+    Coelho**  `FACS: antimicrobial peptide screening in genomes and metagenomes
+    <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv PREPRINT
+    2019.12.17.880385)
 
 20. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
     Greta Busseni, Hannah Byrne, **Luis Pedro Coelho**, Hisashi Endo, Josep M.
@@ -275,6 +279,8 @@ Other News
 (See above for papers)
 
 **2019**
+
+**November 21-27** I was in Sydney, Australia
 
 **July 21-25 2019** I was in Basel for `ECCB/ISMB 2019
 <https://www.iscb.org/ismbeccb2019>`__
