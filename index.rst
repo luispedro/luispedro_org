@@ -76,9 +76,7 @@ problems and tackling the software issues that stand in the way of doing so.
 Upcoming Travels & Talks
 ========================
 
-.. I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
-
-**Jan 6-7** Gotenburg, Sweden
+I have no current travel plans (`invite me <mailto:luis@luispedro.org>`__).
 
 `Email me <mailto:luis@luispedro.org>`__ if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -277,6 +275,11 @@ Other News
 .. When updating this, update news.rst
 
 (See above for papers)
+
+**2020**
+
+**Jan 6-7** I was in Gotenburg, Sweden for the first meeting of the `EMBARK
+project <http://antimicrobialresistance.eu/>`__
 
 **2019**
 
