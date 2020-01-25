@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **04 Jan 2020**
+Updated: **25 Jan 2020**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 3,901; h-index: 25
+Google Scholar total citations: 4,083; h-index: 25
 
 Selected Publications
 =====================
@@ -67,7 +67,8 @@ Peer Reviewed Research Papers
 In reverse chronological order
 
 41. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
-    Coelho**  `FACS: antimicrobial peptide screening in genomes and metagenomes
+    Coelho** `MACREL: antimicrobial peptide screening in genomes and
+    metagenomes <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv
     <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv PREPRINT
     2019.12.17.880385)
 
@@ -108,7 +109,7 @@ In reverse chronological order
     **Luis Pedro Coelho**, Peer Bork `proGenomes2: an improved database for
     accurate and consistent habitat, taxonomic and functional annotations of
     prokaryotic genomes <https://doi.org/10.1093/nar/gkz1002>`__, Nucleic Acids
-    Research, 2019
+    Research, 2020
 
 37. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
     Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime

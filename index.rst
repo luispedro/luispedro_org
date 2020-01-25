@@ -87,9 +87,9 @@ Publications
 Publications since 2017 (updated *25 Dec 2019*; `full list </publications>`__):
 
 21. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
-    Coelho**  `FACS: antimicrobial peptide screening in genomes and metagenomes
-    <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv PREPRINT
-    2019.12.17.880385)
+    Coelho**  `MACREL: antimicrobial peptide screening in genomes and
+    metagenomes <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv
+    PREPRINT 2019.12.17.880385)
 
 20. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
     Greta Busseni, Hannah Byrne, **Luis Pedro Coelho**, Hisashi Endo, Josep M.
@@ -126,7 +126,7 @@ Publications since 2017 (updated *25 Dec 2019*; `full list </publications>`__):
     **Luis Pedro Coelho**, Peer Bork `proGenomes2: an improved database for
     accurate and consistent habitat, taxonomic and functional annotations of
     prokaryotic genomes <https://doi.org/10.1093/nar/gkz1002>`__, Nucleic Acids
-    Research, 2019
+    Research, 2020
 
 17. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
     Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
