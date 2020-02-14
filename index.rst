@@ -84,14 +84,20 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *25 Dec 2019*; `full list </publications>`__):
+Publications since 2017 (updated *14 Feb 2020*; `full list </publications>`__):
 
-21. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
+21. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
+    Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
+    Huerta-Cepas, Shinichi Sunagawa, Peer Bork `Disentangling the impact of
+    environmental and phylogenetic constraints on prokaryotic strain diversity
+    <https://www.nature.com/articles/s41396-020-0600-z>`__, ISME Journal 2020
+
+20. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
     Coelho**  `MACREL: antimicrobial peptide screening in genomes and
     metagenomes <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv
     PREPRINT 2019.12.17.880385)
 
-20. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
+19. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
     Greta Busseni, Hannah Byrne, **Luis Pedro Coelho**, Hisashi Endo, Josep M.
     Gasol, Ann C. Gregory, Frédéric Mahé, Janaina Rigonato, Marta Royo-Llonch,
     Guillem Salazar, Isabel Sanz-Sáez, Eleonora Scalco, Dodji Soviadan, Ahmed
@@ -105,7 +111,7 @@ Publications since 2017 (updated *25 Dec 2019*; `full list </publications>`__):
     `Global Trends in Marine Plankton Diversity across Kingdoms of Life
     <https://www.cell.com/cell/fulltext/S0092-8674(19)31124-9>`__, Cell 2019
 
-19. Guillem Salazar*, Lucas Paoli*, Adriana Alberti, Jaime Huerta-Cepas,
+18. Guillem Salazar*, Lucas Paoli*, Adriana Alberti, Jaime Huerta-Cepas,
     Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Christopher M. Field, **Luis
     Pedro Coelho**, Corinne Cruaud, Stefan Engelen, Ann C. Gregory, Karine
     Labadie, Claudie Marec, Eric Pelletier, Marta Royo-Llonch, Simon Roux,
@@ -120,19 +126,13 @@ Publications since 2017 (updated *25 Dec 2019*; `full list </publications>`__):
     Metatranscriptome
     <https://www.cell.com/cell/fulltext/S0092-8674(19)31164-X>`__, Cell 2019
 
-18. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B Schmidt,
+17. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B Schmidt,
     Alessio Milanese, Lucas Paoli, Ana Hernández-Plaza, Askarbek N Orakov,
     Sofia K Forslund, Shinichi Sunagawa, Georg Zeller, Jaime Huerta-Cepas,
     **Luis Pedro Coelho**, Peer Bork `proGenomes2: an improved database for
     accurate and consistent habitat, taxonomic and functional annotations of
     prokaryotic genomes <https://doi.org/10.1093/nar/gkz1002>`__, Nucleic Acids
     Research, 2020
-
-17. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
-    Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
-    Huerta-Cepas, Shinichi Sunagawa, Peer Bork `Disentangling the impact of
-    environmental and phylogenetic constraints on prokaryotic strain diversity
-    <https://www.biorxiv.org/content/10.1101/735696v1>`__ (PREPRINT, 2019)
 
 16. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, Peer Bork `NG-meta-profiler: fast processing of

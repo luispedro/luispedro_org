@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **25 Jan 2020**
+Updated: **14 Feb 2020**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 4,083; h-index: 25
+Google Scholar total citations: 4,205; h-index: 25
 
 Selected Publications
 =====================
@@ -66,13 +66,19 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
-41. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
+41. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
+    Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
+    Huerta-Cepas, Shinichi Sunagawa, Peer Bork `Disentangling the impact of
+    environmental and phylogenetic constraints on prokaryotic strain diversity
+    <https://www.nature.com/articles/s41396-020-0600-z>`__, ISME Journal 2020
+
+40. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
     Coelho** `MACREL: antimicrobial peptide screening in genomes and
     metagenomes <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv
     <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv PREPRINT
     2019.12.17.880385)
 
-40. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
+39. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
     Greta Busseni, Hannah Byrne, **Luis Pedro Coelho**, Hisashi Endo, Josep M.
     Gasol, Ann C. Gregory, Frédéric Mahé, Janaina Rigonato, Marta Royo-Llonch,
     Guillem Salazar, Isabel Sanz-Sáez, Eleonora Scalco, Dodji Soviadan, Ahmed
@@ -86,7 +92,7 @@ In reverse chronological order
     `Global Trends in Marine Plankton Diversity across Kingdoms of Life
     <https://www.cell.com/cell/fulltext/S0092-8674(19)31124-9>`__, Cell 2019
 
-39. Guillem Salazar*, Lucas Paoli*, Adriana Alberti, Jaime Huerta-Cepas,
+38. Guillem Salazar*, Lucas Paoli*, Adriana Alberti, Jaime Huerta-Cepas,
     Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Christopher M. Field, **Luis
     Pedro Coelho**, Corinne Cruaud, Stefan Engelen, Ann C. Gregory, Karine
     Labadie, Claudie Marec, Eric Pelletier, Marta Royo-Llonch, Simon Roux,
@@ -102,20 +108,13 @@ In reverse chronological order
     <https://www.cell.com/cell/fulltext/S0092-8674(19)31164-X>`__, Cell 2019
 
 
-
-38. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B Schmidt,
+37. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B Schmidt,
     Alessio Milanese, Lucas Paoli, Ana Hernández-Plaza, Askarbek N Orakov,
     Sofia K Forslund, Shinichi Sunagawa, Georg Zeller, Jaime Huerta-Cepas,
     **Luis Pedro Coelho**, Peer Bork `proGenomes2: an improved database for
     accurate and consistent habitat, taxonomic and functional annotations of
     prokaryotic genomes <https://doi.org/10.1093/nar/gkz1002>`__, Nucleic Acids
     Research, 2020
-
-37. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
-    Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
-    Huerta-Cepas, Shinichi Sunagawa, Peer Bork `Disentangling the impact of
-    environmental and phylogenetic constraints on prokaryotic strain diversity
-    <https://www.biorxiv.org/content/10.1101/735696v1>`__ (PREPRINT, 2019)
 
 36. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime Huerta-Cepas,
     Ana Teresa Freitas, and Peer Bork `NG-meta-profiler: fast processing of
