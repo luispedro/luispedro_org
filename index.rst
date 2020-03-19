@@ -9,6 +9,20 @@ I am currently looking for postdocs to `join my group in Shanghai
 <http://big-data-biology.org/positions>`__. Come work with me on metagenomics,
 antimicrobial resistance, algorithms, or just propose your own project.
 
+Open Office Hours
+=================
+
+During these times, I am publicly available for any conversation about science:
+
+All times in UTC (GMT)
+
+- `March 18 @ 2pm <https://us04web.zoom.us/j/756695245>`__
+- March 13 @ 2pm [*passed*]
+
+The meeting will last exactly 40 minutes, at which point Zoom will abruptly cut
+us off because I don't the premium version (please do not interpret it as
+rudeness on my part).
+
 Who am I?
 =========
 
@@ -71,6 +85,7 @@ mixed microbial communities such as the one in our guts, the `microbiome
 In order to be able to use these data, I also need to develop new computer
 methods (software) for these tasks. Thus my work is a mix of solving biological
 problems and tackling the software issues that stand in the way of doing so.
+
 
 
 Upcoming Travels & Talks
