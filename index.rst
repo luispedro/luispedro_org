@@ -12,16 +12,9 @@ antimicrobial resistance, algorithms, or just propose your own project.
 Open Office Hours
 =================
 
-During these times, I am publicly available for any conversation about science:
+During these times, I am publicly available for any conversation about science.
 
-All times in UTC (GMT)
-
-- `March 18 @ 2pm <https://us04web.zoom.us/j/756695245>`__
-- March 13 @ 2pm [*passed*]
-
-The meeting will last exactly 40 minutes, at which point Zoom will abruptly cut
-us off because I don't the premium version (please do not interpret it as
-rudeness on my part).
+Wednesdays at 2pm (UTC). See `office hours <office-hours/>`__
 
 Who am I?
 =========
