@@ -1,7 +1,7 @@
 ---
 permalink: biography/
 categories: about-me
-meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
+meta: Biography of Luis Pedro Coelho
 ---
 
 Also see my [resume](/resume) and [CV (PDF format)](/files/vita.pdf) or my
