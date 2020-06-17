@@ -4,11 +4,11 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **14 Feb 2020**
+Updated: **14 Jun 2020**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 4,205; h-index: 25
+Google Scholar total citations: 4,833; h-index: 27
 
 Selected Publications
 =====================
@@ -60,11 +60,25 @@ Selected Publications
 Full List of Publications
 =========================
 
-
 Peer Reviewed Research Papers
 -----------------------------
 
 In reverse chronological order
+
+42. Sara Vieira-Silva, Gwen Falony, Eugeni Belda, Trine Nielsen, Judith
+    Aron-Wisnewsky, Rima Chakaroun, Sofia K. Forslund, Karen Assmann, Mireia
+    Valles-Colomer, Thi Thuy Duyen Nguyen, Sebastian Proost, Edi Prifti,
+    Valentina Tremaroli, Nicolas Pons, Emmanuelle Le Chatelier, Fabrizio
+    Andreelli, Jean-Phillippe Bastard, **Luis Pedro Coelho**, Nathalie
+    Galleron, Tue H. Hansen, Jean-Sébastien Hulot, Christian Lewinter, Helle K.
+    Pedersen, Benoit Quinquis, Christine Rouault, Hugo Roume, Joe-Elie Salem,
+    Nadja B. Søndertoft, Sothea Touch, MetaCardis Consortium, Marc-Emmanuel
+    Dumas, Stanislav Dusko Ehrlich, Pilar Galan, Jens P. Gøtze, Torben Hansen,
+    Jens J. Holst, Lars Køber, Ivica Letunic, Jens Nielsen, Jean-Michel Oppert,
+    Michael Stumvoll, Henrik Vestergaard, Jean-Daniel Zucker, Peer Bork, Oluf
+    Pedersen, Fredrik Bäckhed, Karine Clément & Jeroen Raes `Statin therapy is
+    associated with lower prevalence of gut microbiota dysbiosis
+    <https://doi.org/10.1038/s41586-020-2269-x>`__, Nature 581, 310–315 (2020).
 
 41. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
     Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
