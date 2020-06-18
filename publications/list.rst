@@ -4,7 +4,7 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **14 Jun 2020**
+Updated: **17 Jun 2020**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
@@ -12,6 +12,7 @@ Google Scholar total citations: 4,833; h-index: 27
 
 Selected Publications
 =====================
+
 1.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K. Forslund,
     Patrick Descombes, Janet Jackson, Qinghong Li, and Peer Bork `Similarity of
@@ -498,6 +499,7 @@ In reverse chronological order
 
 Review Articles
 ---------------
+
 1.   **Luis Pedro Coelho**, Estelle Glory-Afshar, Joshua Kangas, Shannon Quinn,
      Aabid Shariff, and Robert F. Murphy; *Principles of Bioimage Informatics:
      Focus on machine learning of cell patterns* in Lecture Notes in Computer
@@ -508,6 +510,13 @@ Review Articles
      <http://dx.doi.org/10.1177/1087057110370894>`__]
      This was the *2013 JBS Authors' Choice Award* winner (reflects number of
      citations throughout 2012).
+
+Other
+-----
+
+1. **Luis Pedro Coelho** `Voices of the New Generation
+   <https://www.nature.com/articles/s41580-020-0265-5>`__ Nature Reviews
+   Molecular Cell Biology (2020)
 
 Technical Reports
 -----------------

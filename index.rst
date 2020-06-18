@@ -92,7 +92,11 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *16 Jun 2020*; `full list </publications>`__):
+Publications since 2017 (updated *17 Jun 2020*; `full list </publications>`__):
+
+23. **Luis Pedro Coelho** `Voices of the New Generation
+    <https://www.nature.com/articles/s41580-020-0265-5>`__ Nature Reviews
+    Molecular Cell Biology (2020)
 
 22. Sara Vieira-Silva, Gwen Falony, Eugeni Belda, Trine Nielsen, Judith
     Aron-Wisnewsky, Rima Chakaroun, Sofia K. Forslund, Karen Assmann, Mireia
