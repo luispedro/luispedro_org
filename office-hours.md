@@ -10,11 +10,6 @@ These are **open to anyone in the world**
 
 All times in UTC (GMT)
 
-- [April 7 @ 2pm](https://us04web.zoom.us/j/756695245)
-- March 25 @ 2pm [*passed*]
-- March 18 @ 2pm [*passed*]
-- March 13 @ 2pm [*passed*]
-
-The meeting will last exactly 40 minutes, at which point Zoom will abruptly cut
-us off because I don't the premium version (please do not interpret it as
-rudeness on my part).
+**Next slot**: September 9 2020 @ 11am UTC (check your timezone!). `Email
+<mailto:luis@luispedro.org>`__ or `join telegram group
+<https://t.me/luispedrocoelho_pub>`__ for Zoom invite link
