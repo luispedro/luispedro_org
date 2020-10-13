@@ -10,6 +10,5 @@ These are **open to anyone in the world**
 
 All times in UTC (GMT)
 
-**Next slot**: September 9 2020 @ 11am UTC (check your timezone!). `Email
-<mailto:luis@luispedro.org>`__ or `join telegram group
-<https://t.me/luispedrocoelho_pub>`__ for Zoom invite link
+**No current slots are planned**.  `Email
+<mailto:luis@luispedro.org> me`__ if you want to talk.
