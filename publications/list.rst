@@ -4,11 +4,13 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **17 Jun 2020**
+Updated: **11 Dec 2020**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 4,833; h-index: 27
+Google Scholar total citations: 6,049; h-index: 29 (`Web of science
+<https://publons.com/researcher/271636/luis-pedro-coelho/>`__: 3,284 citations;
+h-index: 24)
 
 Selected Publications
 =====================
@@ -66,7 +68,18 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
-42. Sara Vieira-Silva, Gwen Falony, Eugeni Belda, Trine Nielsen, Judith
+43. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
+    Coelho**  *MACREL: antimicrobial peptide screening in genomes and
+    metagenomes* in press at PeerJ (preprint available `at biorxiv
+    <https://doi.org/10.1101/2019.12.17.880385>`__)
+
+42. Mohammad Bahram, Tarquin Netherway, Clémence Frioux, Pamela Ferretti,
+    **Luis Pedro Coelho**, Stefan Geisen, Peer Bork, and Falk Hildebrand
+    `Metagenomic assessment of the global diversity and distribution of
+    bacteria and fungi <https://doi.org/10.1111/1462-2920.15314>`__ at
+    Environmental Microbiology (2020)
+
+41. Sara Vieira-Silva, Gwen Falony, Eugeni Belda, Trine Nielsen, Judith
     Aron-Wisnewsky, Rima Chakaroun, Sofia K. Forslund, Karen Assmann, Mireia
     Valles-Colomer, Thi Thuy Duyen Nguyen, Sebastian Proost, Edi Prifti,
     Valentina Tremaroli, Nicolas Pons, Emmanuelle Le Chatelier, Fabrizio
@@ -81,17 +94,11 @@ In reverse chronological order
     associated with lower prevalence of gut microbiota dysbiosis
     <https://doi.org/10.1038/s41586-020-2269-x>`__, Nature 581, 310–315 (2020).
 
-41. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
+40. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
     Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**, Jaime
     Huerta-Cepas, Shinichi Sunagawa, Peer Bork `Disentangling the impact of
     environmental and phylogenetic constraints on prokaryotic strain diversity
     <https://www.nature.com/articles/s41396-020-0600-z>`__, ISME Journal 2020
-
-40. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
-    Coelho** `MACREL: antimicrobial peptide screening in genomes and
-    metagenomes <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv
-    <https://doi.org/10.1101/2019.12.17.880385>`__ (bioRxiv PREPRINT
-    2019.12.17.880385)
 
 39. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine Martini,
     Greta Busseni, Hannah Byrne, **Luis Pedro Coelho**, Hisashi Endo, Josep M.
