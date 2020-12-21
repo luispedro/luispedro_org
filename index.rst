@@ -100,10 +100,15 @@ Publications
 
 Publications since 2017 (updated *11 Dec 2020*; `full list </publications>`__):
 
+25. Askarbek Orakov\*, Anthony Fullam\*, **Luis Pedro Coelho**, Supriya
+    Khedkar, Damian Szklarczyk, Daniel R Mende, Thomas SB Schmidt† and Peer
+    Bork† *GUNC: Detection of Chimerism and Contamination in Prokaryotic
+    Genomes* (biorXiv preprint at `doi:10.1101/2020.12.16.422776
+    <https://doi.org/10.1101/2020.12.16.422776>`__
+
 24. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
-    Coelho**  *MACREL: antimicrobial peptide screening in genomes and
-    metagenomes* in press at PeerJ (preprint available `at biorxiv
-    <https://doi.org/10.1101/2019.12.17.880385>`__)
+    Coelho**  `MACREL: antimicrobial peptide screening in genomes and
+    metagenomes <https://peerj.com/articles/10555/>`__ at PeerJ (2020)
 
 23. Mohammad Bahram, Tarquin Netherway, Clémence Frioux, Pamela Ferretti,
     **Luis Pedro Coelho**, Stefan Geisen, Peer Bork, and Falk Hildebrand
