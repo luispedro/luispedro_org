@@ -4,9 +4,7 @@ categories: art
 permalink: fimdetarde/
 ---
 
-para a inês,
-:   linda inês,
-    :   por tudo.
+para a inês, linda inês,por tudo.
 
 Só há duas coisas que Portugal tem e que mais ninguém tem: Fernando
 Pessoa e a luz de fim de tarde em Lisboa.
@@ -43,25 +41,24 @@ fosse ter com ele, que nos casássemos e vivêssemos lá. Nunca soube falar
 alemão (fui visitá-lo várias vezes a Berlim e nunca aprendi nada da
 língua).
 
-Uma vez, saída do avião - ao fim de várias chegadas, ele já não me ia
-sempre buscar - entrei num taxi para ir ter ao apartamento dele. Disse
-que era portuguesa no meu alemão muito arranhado. O taxista era daqueles
-portugueses que já nem se lembra se o Porto é no Sul ou no Norte e
-falou-me no seu mau português e pôs música portuguesa. Lá lhe expliquei
-em frases educadas - porque é que não fui desagradável e seca? Nunca
-consegui sê-lo, trato melhor os taxistas que os meus filhos, ou o meu
-marido - que estava ali para ver o meu noivo, português também.
-Contentíssimo, o taxista convidou-me para casa dele, para nos acolher.
-Esta oferta de acolhimento, trouxe-me à cabeça imagens da Feira Popular,
-com o cheiro a farturas - aquele óleo queimado de mais sempre me enojou
-- e a música alta, música como a que tocava no taxi. Percebi que não só
-não seria aceite naquele meio imigrante (ou talvez o meio me aceitasse,
-mas eu nunca o aceitaria), como seria sempre vista, pelos alemães, como
-associada àquele meio enquanto portuguesa. Por outro lado, aqueles
-alemães, grandes, louros, que se riem muito, fazem desporto, que se
-preocupam com o ambiente, que são tolerantes, uns cabrões de saudáveis
-com quem o Fernando se dava então não me diziam nada. A partir daí,
-decidi que não iria viver como imigrante, não o suportaria.
+Uma vez, saída do avião—ao fim de várias chegadas, ele já não me ia sempre
+buscar—entrei num taxi para ir ter ao apartamento dele. Disse que era
+portuguesa no meu alemão muito arranhado. O taxista era daqueles portugueses
+que já nem se lembra se o Porto é no Sul ou no Norte e falou-me no seu mau
+português e pôs música portuguesa. Lá lhe expliquei em frases educadas - porque
+é que não fui desagradável e seca? Nunca consegui sê-lo, trato melhor os
+taxistas que os meus filhos, ou o meu marido - que estava ali para ver o meu
+noivo, português também. Contentíssimo, o taxista convidou-me para casa dele,
+para nos acolher. Esta oferta de acolhimento, trouxe-me à cabeça imagens da
+Feira Popular, com o cheiro a farturas—aquele óleo queimado de mais sempre me
+enojou—e a música alta, música como a que tocava no taxi. Percebi que não só
+não seria aceite naquele meio imigrante (ou talvez o meio me aceitasse, mas eu
+nunca o aceitaria), como seria sempre vista, pelos alemães, como associada
+àquele meio enquanto portuguesa. Por outro lado, aqueles alemães, grandes,
+louros, que se riem muito, fazem desporto, que se preocupam com o ambiente, que
+são tolerantes, uns cabrões de saudáveis com quem o Fernando se dava então não
+me diziam nada. A partir daí, decidi que não iria viver como imigrante, não o
+suportaria.
 
 O Fernando não tem pátria. Orgulha-se disso. Fala mal sete ou oito
 línguas (inclusivé o português. Ainda ontem me perguntou Queres comer
