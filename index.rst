@@ -12,12 +12,12 @@ antimicrobial resistance, algorithms, or just propose your own project.
 Open Office Hours
 =================
 
-**Next slot**: September 9 2020 @ 11am UTC (check your timezone!). `Email
+**Next slot**: March 8 2020 @ Noon UTC (check your timezone!). `Email
 <mailto:luis@luispedro.org>`__ or `join telegram group
 <https://t.me/luispedrocoelho_pub>`__ for Zoom invite link
 
 During these times, I am publicly available for any conversation about science.
-The September session will be focusing on `Big Data Biology remote internships
+The March session will be focusing on `Big Data Biology remote internships
 <http://big-data-biology.org/positions/remote-internships/>`__ but other topics
 are welcome.
 
