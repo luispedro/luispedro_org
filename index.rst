@@ -9,19 +9,6 @@ I am currently looking for postdocs to `join my group in Shanghai
 <http://big-data-biology.org/positions>`__. Come work with me on metagenomics,
 antimicrobial resistance, algorithms, or just propose your own project.
 
-Open Office Hours
-=================
-
-**Next slot**: March 8 2020 @ Noon UTC (check your timezone!). `Email
-<mailto:luis@luispedro.org>`__ or `join telegram group
-<https://t.me/luispedrocoelho_pub>`__ for Zoom invite link
-
-During these times, I am publicly available for any conversation about science.
-The March session will be focusing on `Big Data Biology remote internships
-<http://big-data-biology.org/positions/remote-internships/>`__ but other topics
-are welcome.
-
-
 Who am I?
 =========
 
@@ -44,12 +31,6 @@ Mellon University <http://www.compbio.cmu.edu/>`_ (2011), where I worked on
 `bioimage informatics <http://en.wikipedia.org/wiki/Bioimage_informatics>`__
 for subcellular location analysis with `Bob Murphy
 <http://murphylab.web.cmu.edu/>`__.
-
-I blog about science at `metarabbit.wordpress.com
-<http://metarabbit.wordpress.com>`__ and tweet (mostly about sciency things) as
-`@luispedrocoelho <https://twitter.com/luispedrocoelho>`__. I co-wrote
-`Building Machine Learning Systems with Python
-<http://www.packtpub.com/building-machine-learning-systems-with-python/book>`__.
 
 My `Erdös-Bacon number is 7 </erdos-bacon>`__.
 
@@ -84,8 +65,6 @@ mixed microbial communities such as the one in our guts, the `microbiome
 In order to be able to use these data, I also need to develop new computer
 methods (software) for these tasks. Thus my work is a mix of solving biological
 problems and tackling the software issues that stand in the way of doing so.
-
-
 
 Upcoming Travels & Talks
 ========================
