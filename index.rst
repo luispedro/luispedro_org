@@ -77,13 +77,19 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *11 Dec 2020*; `full list </publications>`__):
+Publications since 2017 (updated *28 Jun 2021*; `full list </publications>`__):
+
+26. Senying Lai, Shaojun Pan, Luis Pedro Coelho, Wei-Hua Chen, Xing-Ming Zhao,
+    `metaMIC: reference-free Misassembly Identification and Correction of de
+    novo metagenomic assemblies
+    <https://www.biorxiv.org/content/10.1101/2021.06.22.449514v1>`__ BioRXiv
+    preprint (2021)
 
 25. Askarbek Orakov\*, Anthony Fullam\*, **Luis Pedro Coelho**, Supriya
     Khedkar, Damian Szklarczyk, Daniel R Mende, Thomas SB Schmidt† and Peer
-    Bork† *GUNC: Detection of Chimerism and Contamination in Prokaryotic
-    Genomes* (biorXiv preprint at `doi:10.1101/2020.12.16.422776
-    <https://doi.org/10.1101/2020.12.16.422776>`__
+    Bork† `GUNC: Detection of Chimerism and Contamination in Prokaryotic
+    Genomes <https://link.springer.com/article/10.1186/s13059-021-02393-0>`__
+    at Genome Biology (2021)
 
 24. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
     Coelho**  `MACREL: antimicrobial peptide screening in genomes and

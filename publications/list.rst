@@ -4,13 +4,13 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **11 Dec 2020**
+Updated: **28 Jun 2021**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 6,049; h-index: 29 (`Web of science
-<https://publons.com/researcher/271636/luis-pedro-coelho/>`__: 3,284 citations;
-h-index: 24)
+Google Scholar total citations: 7,545; h-index: 31 (`Web of science
+<https://publons.com/researcher/271636/luis-pedro-coelho/>`__: 4,265 citations;
+h-index: 27)
 
 Selected Publications
 =====================
@@ -68,10 +68,21 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
+45. Senying Lai, Shaojun Pan, Luis Pedro Coelho, Wei-Hua Chen, Xing-Ming Zhao,
+    `metaMIC: reference-free Misassembly Identification and Correction of de
+    novo metagenomic assemblies
+    <https://www.biorxiv.org/content/10.1101/2021.06.22.449514v1>`__ BioRXiv
+    preprint (2021)
+
+44. Askarbek Orakov\*, Anthony Fullam\*, **Luis Pedro Coelho**, Supriya
+    Khedkar, Damian Szklarczyk, Daniel R Mende, Thomas SB Schmidt† and Peer
+    Bork† `GUNC: Detection of Chimerism and Contamination in Prokaryotic
+    Genomes <https://link.springer.com/article/10.1186/s13059-021-02393-0>`__
+    at Genome Biology (2021)
+
 43. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
-    Coelho**  *MACREL: antimicrobial peptide screening in genomes and
-    metagenomes* in press at PeerJ (preprint available `at biorxiv
-    <https://doi.org/10.1101/2019.12.17.880385>`__)
+    Coelho**  `MACREL: antimicrobial peptide screening in genomes and
+    metagenomes <https://peerj.com/articles/10555/>`__ at PeerJ (2020)
 
 42. Mohammad Bahram, Tarquin Netherway, Clémence Frioux, Pamela Ferretti,
     **Luis Pedro Coelho**, Stefan Geisen, Peer Bork, and Falk Hildebrand
