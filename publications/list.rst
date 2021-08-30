@@ -4,12 +4,12 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **28 Jun 2021**
+Updated: **30 Aug 2021**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 7,545; h-index: 31 (`Web of science
-<https://publons.com/researcher/271636/luis-pedro-coelho/>`__: 4,265 citations;
+Google Scholar total citations: 7,979; h-index: 31 (`Web of science
+<https://publons.com/researcher/271636/luis-pedro-coelho/>`__: 4,596 citations;
 h-index: 27)
 
 Selected Publications
@@ -68,9 +68,15 @@ Peer Reviewed Research Papers
 
 In reverse chronological order
 
-45. Senying Lai, Shaojun Pan, Luis Pedro Coelho, Wei-Hua Chen, Xing-Ming Zhao,
-    `metaMIC: reference-free Misassembly Identification and Correction of de
-    novo metagenomic assemblies
+46. Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro Coelho** ⁺
+    `SemiBin: Incorporating information from reference genomes with
+    semi-supervised deep learning leads to better metagenomic assembled genomes
+    (MAGs) <https://doi.org/10.1101/2021.08.16.456517>`__ BioRxiv preprint
+    (2021)
+
+45. Senying Lai, Shaojun Pan, **Luis Pedro Coelho**, Wei-Hua Chen, Xing-Ming
+    Zhao, `metaMIC: reference-free Misassembly Identification and Correction of
+    de novo metagenomic assemblies
     <https://www.biorxiv.org/content/10.1101/2021.06.22.449514v1>`__ BioRXiv
     preprint (2021)
 

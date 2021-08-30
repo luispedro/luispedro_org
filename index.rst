@@ -77,7 +77,13 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *28 Jun 2021*; `full list </publications>`__):
+Publications since 2017 (updated *30 Aug 2021*; `full list </publications>`__):
+
+27. Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao, and **Luis Pedro Coelho**
+    `SemiBin: Incorporating information from reference genomes with
+    semi-supervised deep learning leads to better metagenomic assembled genomes
+    (MAGs) <https://doi.org/10.1101/2021.08.16.456517>`__ BioRxiv preprint
+    (2021)
 
 26. Senying Lai, Shaojun Pan, Luis Pedro Coelho, Wei-Hua Chen, Xing-Ming Zhao,
     `metaMIC: reference-free Misassembly Identification and Correction of de
