@@ -74,10 +74,10 @@ In reverse chronological order
     (MAGs) <https://doi.org/10.1101/2021.08.16.456517>`__ BioRxiv preprint
     (2021)
 
-45. Senying Lai, Shaojun Pan, **Luis Pedro Coelho**, Wei-Hua Chen, Xing-Ming
-    Zhao, `metaMIC: reference-free Misassembly Identification and Correction of
-    de novo metagenomic assemblies
-    <https://www.biorxiv.org/content/10.1101/2021.06.22.449514v1>`__ BioRXiv
+45. Senying Lai, Shaojun Pan, **Luis Pedro Coelho** ⁺, Wei-Hua Chen⁺, Xing-Ming
+    Zhao⁺, `metaMIC: reference-free Misassembly Identification and Correction
+    of de novo metagenomic assemblies
+    <https://www.biorxiv.org/content/10.1101/2021.06.22.449514v1>`__ BioRxiv
     preprint (2021)
 
 44. Askarbek Orakov\*, Anthony Fullam\*, **Luis Pedro Coelho**, Supriya
