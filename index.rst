@@ -77,7 +77,15 @@ any of these opportunities (or to invite me for other opportunities).
 Publications
 ============
 
-Publications since 2017 (updated *30 Aug 2021*; `full list </publications>`__):
+Publications since 2017 (updated *12 Oct 2021*; `full list </publications>`__):
+
+28.  Thomas SB Schmidt*, Simone S Li*, Oleksandr M Maistrenko, Wasiu Akanni,
+     Luis Pedro Coelho, Sibasish Dolai, Anthony Fullam, Anna M Glazek, Rajna
+     Hercog, Hilde Herrema, Ferris Jung, Stefanie Kandels, Askarbek Orakov,
+     Thea Van Rossum, Vladimir Benes, Thomas J Borody, Willem M de Vos, Cyriel
+     Y Ponsioen, Max Nieuwdorp, Peer Bork `Drivers and Determinants of Strain
+     Dynamics Following Faecal Microbiota Transplantation
+     <https://doi.org/10.1101/2021.09.30.462010>`__ bioRxiv preprint (2021)
 
 27. Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao, and **Luis Pedro Coelho**
     `SemiBin: Incorporating information from reference genomes with
@@ -85,7 +93,7 @@ Publications since 2017 (updated *30 Aug 2021*; `full list </publications>`__):
     (MAGs) <https://doi.org/10.1101/2021.08.16.456517>`__ BioRxiv preprint
     (2021)
 
-26. Senying Lai, Shaojun Pan, Luis Pedro Coelho, Wei-Hua Chen, Xing-Ming Zhao,
+26. Senying Lai, Shaojun Pan, **Luis Pedro Coelho**, Wei-Hua Chen, Xing-Ming Zhao,
     `metaMIC: reference-free Misassembly Identification and Correction of de
     novo metagenomic assemblies
     <https://www.biorxiv.org/content/10.1101/2021.06.22.449514v1>`__ BioRXiv

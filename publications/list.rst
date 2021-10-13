@@ -4,12 +4,12 @@ categories: about-me
 permalink: publications/
 ---
 
-Updated: **30 Aug 2021**
+Updated: **12 Oct 2021**
 
 `My google scholar profile <http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en>`__
 
-Google Scholar total citations: 7,979; h-index: 31 (`Web of science
-<https://publons.com/researcher/271636/luis-pedro-coelho/>`__: 4,596 citations;
+Google Scholar total citations: 8,293; h-index: 32 (`Web of science
+<https://publons.com/researcher/271636/luis-pedro-coelho/>`__: 4,839 citations;
 h-index: 27)
 
 Selected Publications
@@ -67,6 +67,14 @@ Peer Reviewed Research Papers
 -----------------------------
 
 In reverse chronological order
+
+47.  Thomas SB Schmidt*, Simone S Li*, Oleksandr M Maistrenko, Wasiu Akanni,
+     Luis Pedro Coelho, Sibasish Dolai, Anthony Fullam, Anna M Glazek, Rajna
+     Hercog, Hilde Herrema, Ferris Jung, Stefanie Kandels, Askarbek Orakov,
+     Thea Van Rossum, Vladimir Benes, Thomas J Borody, Willem M de Vos, Cyriel
+     Y Ponsioen, Max Nieuwdorp, Peer Bork `Drivers and Determinants of Strain
+     Dynamics Following Faecal Microbiota Transplantation
+     <https://doi.org/10.1101/2021.09.30.462010>`__ bioRxiv preprint (2021)
 
 46. Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro Coelho** ⁺
     `SemiBin: Incorporating information from reference genomes with
