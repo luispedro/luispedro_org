@@ -1,3 +1,8 @@
 *.pyc
 /_site
 /mtime_hash.pkl
+node_modules/
+elm-stuff/
+dist/
+.elm-pages/
+functions/render/elm-pages-cli.js
