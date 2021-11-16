@@ -10,6 +10,6 @@ title: Conduit-algorithms
 # Conduit-algorithms
 
 Conduit-algorithms is a collection of algorithms extracted from
-\[NGLess\](<http://ngless.embl.de>).
+[NGLess](https://ngless.embl.de).
 
 License: MIT
