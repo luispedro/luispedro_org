@@ -1,5 +1,10 @@
 module Shared exposing (Data, Model, Msg(..), SharedMsg(..), template)
 
+import Bootstrap.CDN as CDN
+import Bootstrap.Grid as Grid
+import Bootstrap.Grid.Col as Col
+import Bootstrap.Grid.Row as Row
+
 import Browser.Navigation
 import DataSource
 import Html exposing (Html)
@@ -9,6 +14,8 @@ import Path exposing (Path)
 import Route exposing (Route)
 import SharedTemplate exposing (SharedTemplate)
 import View exposing (View)
+import Html exposing (Html)
+import Html.Attributes as HtmlAttr
 
 
 template : SharedTemplate Msg Model Data msg
@@ -95,6 +102,54 @@ view :
     -> View msg
     -> { body : Html msg, title : String }
 view sharedData page model toMsg pageView =
-    { body = Html.div [] pageView.body
+    { body = Html.div []
+        [ CDN.stylesheet
+        , CDN.fontAwesome
+        , Grid.containerFluid []
+            [ Grid.simpleRow
+                [ Grid.col []
+                    [ Html.div [HtmlAttr.style "padding-top" "1em"] []
+                    , header
+                    , Grid.simpleRow
+                        [ Grid.col [Col.xs3]
+                            [Html.div []
+                                [Html.a
+                                    [HtmlAttr.class "twitter-timeline"
+                                    ,HtmlAttr.id "twitter-timeline-a"
+                                    ,HtmlAttr.attribute "data-width" "240"
+                                    ,HtmlAttr.attribute "data-height" "480"
+                                    ,HtmlAttr.href "https://twitter.com/luispedrocoelho?ref_src=twsrc%5Etfw"
+
+                                    ]
+                                    [Html.text "Tweets by @luispedrocoelho"]
+                                ,Html.div [HtmlAttr.id "twitter-injection-site"]
+                                    []
+                                ]
+                            ]
+                        , Grid.col [Col.lg8]
+                            [Html.div [] pageView.body]
+                        ]
+                    , Html.hr [] []
+                    , footer
+                    ]
+                ]
+            ]
+        ]
     , title = pageView.title
     }
+
+header =
+    let
+        link target name =
+            Grid.col []
+                [Html.a [HtmlAttr.href target] [Html.text name]]
+    in Html.div
+        [HtmlAttr.id "topbar"]
+        [Grid.simpleRow
+            [ link "/index" "Home"
+            , link "/publications/" "Publications"
+            ]]
+footer = Html.div []
+            [Html.p []
+                [Html.text "Copyright (c) 2009-2021. Luis Pedro Coelho and other group members. All rights reserved."]
+            ]
