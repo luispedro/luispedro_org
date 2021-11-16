@@ -1,5 +1,5 @@
 ---
-title: "Mergedirs: Merge two directories without losing files\"
+title: "Mergedirs: Merge two directories without losing files"
 ---
 
 <a href="http://github.com/luispedro/mergedirs">
