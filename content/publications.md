@@ -68,7 +68,7 @@ science](https://publons.com/researcher/271636/luis-pedro-coelho/):
 
 In reverse chronological order
 
-47. Thomas SB Schmidt\*, Simone S Li\*, Oleksandr M Maistrenko, Wasiu
+1. Thomas SB Schmidt\*, Simone S Li\*, Oleksandr M Maistrenko, Wasiu
     Akanni, Luis Pedro Coelho, Sibasish Dolai, Anthony Fullam, Anna M
     Glazek, Rajna Hercog, Hilde Herrema, Ferris Jung, Stefanie Kandels,
     Askarbek Orakov, Thea Van Rossum, Vladimir Benes, Thomas J Borody,
@@ -77,39 +77,33 @@ In reverse chronological order
     Microbiota
     Transplantation](https://doi.org/10.1101/2021.09.30.462010) bioRxiv
     preprint (2021)
-
-48. Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
+2. Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
     Coelho** ⁺ [SemiBin: Incorporating information from reference
     genomes with semi-supervised deep learning leads to better
     metagenomic assembled genomes
     (MAGs)](https://doi.org/10.1101/2021.08.16.456517) BioRxiv
     preprint (2021)
-
-49. Senying Lai, Shaojun Pan, **Luis Pedro Coelho** ⁺, Wei-Hua Chen⁺,
+3. Senying Lai, Shaojun Pan, **Luis Pedro Coelho** ⁺, Wei-Hua Chen⁺,
     Xing-Ming Zhao⁺, [metaMIC: reference-free Misassembly Identification
     and Correction of de novo metagenomic
     assemblies](https://www.biorxiv.org/content/10.1101/2021.06.22.449514v1)
     BioRxiv preprint (2021)
-
-50. Askarbek Orakov\*, Anthony Fullam\*, **Luis Pedro Coelho**, Supriya
+4. Askarbek Orakov\*, Anthony Fullam\*, **Luis Pedro Coelho**, Supriya
     Khedkar, Damian Szklarczyk, Daniel R Mende, Thomas SB Schmidt† and
     Peer Bork† [GUNC: Detection of Chimerism and Contamination in
     Prokaryotic
     Genomes](https://link.springer.com/article/10.1186/s13059-021-02393-0)
     at Genome Biology (2021)
-
-51. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
+5. Célio Dias Santos-Junior, Shaojun Pan, Xing-Ming Zhao, **Luis Pedro
     Coelho** [MACREL: antimicrobial peptide screening in genomes and
     metagenomes](https://peerj.com/articles/10555/) at PeerJ (2020)
-
-52. Mohammad Bahram, Tarquin Netherway, Clémence Frioux, Pamela
+6. Mohammad Bahram, Tarquin Netherway, Clémence Frioux, Pamela
     Ferretti, **Luis Pedro Coelho**, Stefan Geisen, Peer Bork, and Falk
     Hildebrand [Metagenomic assessment of the global diversity and
     distribution of bacteria and
     fungi](https://doi.org/10.1111/1462-2920.15314) at Environmental
     Microbiology (2020)
-
-53. Sara Vieira-Silva, Gwen Falony, Eugeni Belda, Trine Nielsen, Judith
+7. Sara Vieira-Silva, Gwen Falony, Eugeni Belda, Trine Nielsen, Judith
     Aron-Wisnewsky, Rima Chakaroun, Sofia K. Forslund, Karen Assmann,
     Mireia Valles-Colomer, Thi Thuy Duyen Nguyen, Sebastian Proost, Edi
     Prifti, Valentina Tremaroli, Nicolas Pons, Emmanuelle Le Chatelier,
@@ -125,21 +119,18 @@ In reverse chronological order
     therapy is associated with lower prevalence of gut microbiota
     dysbiosis](https://doi.org/10.1038/s41586-020-2269-x), Nature 581,
     310--315 (2020).
-
-54. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
+8. Oleksandr M Maistrenko\*, Daniel R Mende\*, Mechthild Luetge, Falk
     Hildebrand, Thomas SB Schmidt, Simone S Li, **Luis Pedro Coelho**,
     Jaime Huerta-Cepas, Shinichi Sunagawa, Peer Bork [Disentangling the
     impact of environmental and phylogenetic constraints on prokaryotic
     strain
     diversity](https://www.nature.com/articles/s41396-020-0600-z), ISME
     Journal 2020
-
-55. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine
+9. Federico M. Ibarbalz, Nicolas Henry, Manoela C. Brandão, Séverine
     Martini, Greta Busseni, Hannah Byrne, **Luis Pedro Coelho**, Hisashi
     Endo, Josep M. Gasol, Ann C. Gregory, Frédéric Mahé, Janaina
     Rigonato, Marta Royo-Llonch, Guillem Salazar, Isabel Sanz-Sáez,
     Eleonora Scalco, Dodji Soviadan, Ahmed
-
     A. Zayed, Adriana Zingone, Karine Labadie, Joannie Ferland, Claudie
     Marec, Stefanie Kandels, Marc Picheral, Céline Dimier, Julie
     Poulain, Sergey Pisarev, Margaux Carmichael, Stéphane Pesant, Tara
@@ -151,8 +142,7 @@ In reverse chronological order
     Diversity across Kingdoms of
     Life](https://www.cell.com/cell/fulltext/S0092-8674(19)31124-9),
     Cell 2019
-
-56. Guillem Salazar\*, Lucas Paoli\*, Adriana Alberti, Jaime
+10. Guillem Salazar\*, Lucas Paoli\*, Adriana Alberti, Jaime
     Huerta-Cepas, Hans-Joachim Ruscheweyh, Miguelangel Cuenca,
     Christopher M. Field, **Luis Pedro Coelho**, Corinne Cruaud, Stefan
     Engelen, Ann C. Gregory, Karine Labadie, Claudie Marec, Eric
@@ -160,7 +150,6 @@ In reverse chronological order
     Uehara, Ahmed A. Zayed, Georg Zeller,1Margaux Carmichael, Céline
     Dimier, Joannie Ferland, Stefanie Kandels, Marc Picheral, Sergey
     Pisarev, Julie Poulain, Tara Oceans Coordinators, Silvia
-
     G. Acinas, Marcel Babin, Peer Bork, Chris Bowler, Colomban de
     Vargas, Lionel Guidi, Pascal Hingamp, Daniele Iudicone, Lee
     Karp-Boss, Eric Karsenti, Hiroyuki Ogata, Stephane Pesant, Sabrina
@@ -169,8 +158,7 @@ In reverse chronological order
     Differentially Shape the Global Ocean
     Metatranscriptome](https://www.cell.com/cell/fulltext/S0092-8674(19)31164-X),
     Cell 2019
-
-57. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B
+11. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B
     Schmidt, Alessio Milanese, Lucas Paoli, Ana Hernández-Plaza,
     Askarbek N Orakov, Sofia K Forslund, Shinichi Sunagawa, Georg
     Zeller, Jaime Huerta-Cepas, **Luis Pedro Coelho**, Peer Bork
@@ -178,14 +166,12 @@ In reverse chronological order
     habitat, taxonomic and functional annotations of prokaryotic
     genomes](https://doi.org/10.1093/nar/gkz1002), Nucleic Acids
     Research, 2020
-
-58. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
+12. **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
     Huerta-Cepas, Ana Teresa Freitas, and Peer Bork [NG-meta-profiler:
     fast processing of metagenomes using NGLess, a domain-specific
     language](https://doi.org/10.1186/s40168-019-0684-8),
     Microbiome (2019)
-
-59. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
+13. Jakob Wirbel\*, Paul Theodor Pyl\*, Ece Kartal, Konrad Zych, Alireza
     Kashani, Alessio Milanese, Jonas S Fleck, Anita Y Voigt, Albert
     Palleja, Ruby P Ponnudurai, Shinichi Sunagawa, **Luis Pedro
     Coelho**, Petra Schrotz-King, Emily Vogtmann, Nina Habermann, Emma
@@ -198,8 +184,7 @@ In reverse chronological order
     signatures that are specific for colorectal
     cancer](https://doi.org/10.1038/s41591-019-0406-6), Nature
     Medicine (2019)
-
-60. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
+14. Alessio Milanese\*, Daniel R Mende\*, Lucas Paoli, Guillem Salazar,
     Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato
     Alves, Paul I Costea, **Luis Pedro Coelho**, Thomas S B Schmidt,
     Alexandre Almeida, Alex L Mitchell, Robert D Finn, Jaime
@@ -207,24 +192,21 @@ In reverse chronological order
     [Microbial abundance, activity and population genomic profiling with
     mOTUs2](https://doi.org/10.1038/s41467-019-08844-4) Nature
     Communications 10, Article number: 1014 (2019).
-
-61. Thomas SB Schmidt\*, Matthew R Hayward\*, **Luis Pedro Coelho**,
+15. Thomas SB Schmidt\*, Matthew R Hayward\*, **Luis Pedro Coelho**,
     Simone S Li, Paul I Costea, Anita Y Voigt, Jakob Wirbel, Oleksandr M
     Maistrenko, Renato J Alves, Emma Bergsten, Carine de Beaufort, Iradj
     Sobhani, Anna Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul
     Wilmes, Peer Bork [Extensive Transmission of Microbes along the
     Gastrointestinal Tract](https://elifesciences.org/articles/42693) in
     eLife (2019) \[[DOI](https://doi.org/10.7554/eLife.42693)\]
-
-62. Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos
+16. Luigi Caputi\*, Quentin Carradec\*, Damien Eveillard\*, Amos
     Kirilovsky\*, Eric Pelletier\*, \..., **Luis Pedro Coelho**, \...,
     Chris Bowler\*, Daniele Iudicone\* [Community‐Level Responses to
     Iron Availability in Open Ocean Planktonic
     Ecosystems](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GB006022)
     in Global Biogeochemical Cycles (2019)
     \[[DOI](https://doi.org/10.1029/2018GB006022)\]
-
-63. Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*,
+17. Albert Palleja\*, Kristian H. Mikkelsen\*, Sofia K. Forslund\*,
     Alireza Kashani, Kristine H. Allin, Trine Nielsen, Tue H. Hansen,
     Suisha Liang, Qiang Feng, Chenchen Zhang, Paul Theodor Pyl, **Luis
     Pedro Coelho**, Huanming Yang, Jian Wang, Athanasios Typas,
@@ -235,8 +217,7 @@ In reverse chronological order
     exposure](https://www.nature.com/articles/s41564-018-0257-9) in
     Nature Microbiology (2018)
     \[[DOI](https://doi.org/10.1038/s41564-018-0257-9)\]
-
-64. Mohammad Bahram\*, Falk Hildebrand\*, Sofia K. Forslund, Jennifer L.
+18. Mohammad Bahram\*, Falk Hildebrand\*, Sofia K. Forslund, Jennifer L.
     Anderson, Nadejda A. Soudzilovskaia, Peter M. Bodegom, Johan
     Bengtsson-Palme, Sten Anslan, **Luis Pedro Coelho**, Helery Harend,
     Jaime Huerta-Cepas, Marnix H. Medema, Mia R. Maltz, Sunil Mundra,
@@ -245,12 +226,11 @@ In reverse chronological order
     global topsoil
     microbiome](https://www.nature.com/articles/s41586-018-0386-6) in
     Nature
-
     (2018) \[[DOI](https://doi.org/10.1038/s41586-018-0386-6)\]
 
     *One sentence summary*: in soil, bacteria and fungi fight.
 
-65. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+19. **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K.
     Forslund, Patrick Descombes, Janet Jackson, Qinghong Li, and Peer
     Bork [Similarity of the dog and human gut microbiomes in gene
@@ -263,7 +243,7 @@ In reverse chronological order
     to that of humans (compared to pigs or mice). Most strains are,
     however, host-specific.
 
-66. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
+20. Katri Korpela, Paul Igor Costea, **Luis Pedro Coelho**, Stefanie
     Kandels-Lewis, Gonneke Willemsen, Dorret I Boomsma, Nicola Segata,
     and Peer Bork [Selective maternal seeding and environment shape the
     human gut
@@ -276,38 +256,31 @@ In reverse chronological order
     Bacteroidia are transmitted more than Clostridia. Fathers matter
     too.
 
-67. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin
+21. Paul I Costea, **Luis Pedro Coelho**, Shinichi Sunagawa, Robin
     Munch, Jaime Huerta‐Cepas, Kristoffer Forslund, Falk Hildebrand,
     Almagul Kushugulova, Georg Zeller, Peer Bork [Subspecies in the
     global human gut
     microbiome](http://msb.embopress.org/content/13/12/960) in Molecular
     Systems Biology (2017)
     \[[DOI](http://doi.org/10.15252/msb.20177589)\]
-
     *One sentence summary*: We infer subspecies in the human gut
     microbiome, which can be linked to phenotypic effects.
-
-68. **Luis Pedro Coelho** [Jug: Software for parallel reproducible
+22. **Luis Pedro Coelho** [Jug: Software for parallel reproducible
     computation in
     Python](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/)
     in the Journal for Open Research Software (2017)
     \[[DOI](http://doi.org/10.5334/jors.161)\]
-
     *One sentence summary*: Jug uses hashing as the basis of a strong
     Python-based pipeline framework.
-
-69. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
+23. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
     Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de
     Vargas, [Quantitative 3D-imaging for cell biology and ecology of
     environmental microbial
     eukaryotes](http://doi.org/10.7554/eLife.26066.001) in eLife
-
     (2017) \[[DOI](http://doi.org/10.7554/eLife.26066.001)\]
-
     *One sentence summary*: We can image mixed communities of microbes
     to extract phenotypic information at a single-cell level.
-
-70. Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier,
+24. Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier,
     Adriana Alberti, Florence Levenez, Melanie Tramontano, Marja
     Driessen, Rajna Hercog, Ferris-Elias Jung, Jens Roat Kultima,
     Matthew R Hayward, **Luis Pedro Coelho**, Emma Allen-Vercoe, Laurie
@@ -325,28 +298,23 @@ In reverse chronological order
     Bork [Towards standards for human fecal sample processing in
     metagenomic
     studies](https://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3960.html)
-
     (2017) \[[DOI](https://doi.org/10.1038/nbt.3960)\]
-
     *One sentence summary*: Use our metagenomics protocol as it is
     unbiased and robust.
-
-71. Paul Igor Costea\*, Robin Munch\*, **Luis Pedro Coelho**, Lucas
+25. Paul Igor Costea\*, Robin Munch\*, **Luis Pedro Coelho**, Lucas
     Paoli, Shinichi Sunagawa, Peer Bork [metaSNV: A tool for metagenomic
     strain level
     analysis](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182392)
     in PLoS One (2017)
     \[[DOI](https://doi.org/10.1371/journal.pone.0182392)\]
-
-72. Jaime Huerta-Cepas, Kristoffer Forslund, **Luis Pedro Coelho**,
+26. Jaime Huerta-Cepas, Kristoffer Forslund, **Luis Pedro Coelho**,
     Damian Szklarczyk, Lars Juhl Jensen, Christian von Mering, and Peer
     Bork [Fast genome-wide functional annotation through orthology
     assignment by
     eggNOG-mapper](https://academic.oup.com/mbe/article/3782716/Fast-genome-wide-functional-annotation-through)
     in Molecular Biology &amp; Evolution (2017)
     \[[DOI](https://doi.org/10.1093/molbev/msx148)\]
-
-73. Janis Rebecca Bedarf, Falk Hildebrand, **Luis Pedro Coelho**,
+27. Janis Rebecca Bedarf, Falk Hildebrand, **Luis Pedro Coelho**,
     Shinichi Sunagawa, Mohammad Bahram, Felix Goeser, Peer Bork, Ullrich
     Wüllner [Functional implications of microbial and viral gut
     metagenome changes in early stage L-DOPA naive Parkinson\'s Disease
@@ -354,7 +322,7 @@ In reverse chronological order
     in Genome Medicine (2017)
     \[[DOI](https://doi.org/10.1186/s13073-017-0428-y)\]
 
-74. Jens Roat Kultima, **Luis Pedro Coelho**, Kristoffer Forslund, Jaime
+28. Jens Roat Kultima, **Luis Pedro Coelho**, Kristoffer Forslund, Jaime
     Huerta-Cepas, Simone S. Li, Marja Driessen, Anita Yvonne Voigt,
     Georg Zeller, Shinichi Sunagawa and Peer Bork; [MOCAT2: a
     metagenomic assembly, annotation and profiling
@@ -362,7 +330,7 @@ In reverse chronological order
     Bioinformatics (2016)
     \[[DOI](http://doi.org/10.1093/bioinformatics/btw183)\]
 
-75. Lionel Guidi\*, Samuel Chaffron\*, Lucie Bittner\*, Damien
+29. Lionel Guidi\*, Samuel Chaffron\*, Lucie Bittner\*, Damien
     Eveillard, Abdelhalim Larhlimi, Simon Roux, Youssef Darzi, Stephane
     Audic, Léo Berline, Jennifer Brum, **Luis Pedro Coelho**, Julio
     Cesar Ignacio Espinoza, Shruti Malviya, Shinichi Sunagawa, Céline
@@ -376,7 +344,7 @@ In reverse chronological order
     export in the oligotrophic ocean* in Nature (2016)
     \[[DOI](http://doi.org/10.1038/nature16942)\]
 
-76. Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
+30. Renato Pinheiro-Silva, Lara Borges, **Luís Pedro Coelho**, Alejandro
     Cabezas-Cruz, James J. Valdés, Virgílio do Rosário, José de la
     Fuente5 and Ana Domingos, *Gene expression changes in the salivary
     glands of Anopheles coluzzii elicited by Plasmodium berghei
@@ -384,7 +352,7 @@ In reverse chronological order
 
     (2015) \[[DOI](http://doi.org/10.1186/s13071-015-1079-8)\]
 
-77. Shinichi Sunagawa,\* **Luis Pedro Coelho**\*, Samuel Chaffron\*,
+31. Shinichi Sunagawa,\* **Luis Pedro Coelho**\*, Samuel Chaffron\*,
     Jens Roat Kultima, Karine Labadie, Guillem Salazar, Bardya
     Djahanschiri, Georg Zeller, Daniel R. Mende, Adriana Alberti,
     Francisco M. Cornejo-Castillo, Paul I. Costea, Corinne Cruaud,
