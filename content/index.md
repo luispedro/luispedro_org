@@ -3,6 +3,9 @@ title: Luis Pedro Coelho
 meta: Luis Pedro Coelho is the principal investigator (PI) of the Big Data Biology Lab at Fudan University (Shanghai).
 ---
 
+<img src="/files/photos/2019-09-22/LuisPedroCoelho.jpeg" alt="Luis Pedro Coelho"
+    style="float: right; width:36.0%; border-radius: 50%;" />
+
 I am currently looking for postdocs to [join my group in
 Shanghai](http://big-data-biology.org/positions). Come work with me on
 metagenomics, antimicrobial resistance, algorithms, or just propose your
@@ -10,8 +13,6 @@ own project.
 
 # Who am I?
 
-<img src="/files/photos/2019-09-22/LuisPedroCoelho.jpeg" alt="Luis Pedro Coelho"
-    style="float: right; width:36.0%" />
 
 I am the principal investigator of the [Big Data Biology
 Lab](http://big-data-biology.org) at Fudan University (Shanghai) since

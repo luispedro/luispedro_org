@@ -112,7 +112,8 @@ view sharedData page model toMsg pageView =
                     , header
                     , Grid.simpleRow
                         [ Grid.col [Col.xs3]
-                            [Html.div []
+                            [navigation
+                            ,Html.div []
                                 [Html.a
                                     [HtmlAttr.class "twitter-timeline"
                                     ,HtmlAttr.id "twitter-timeline-a"
@@ -147,9 +148,61 @@ header =
         [HtmlAttr.id "topbar"]
         [Grid.simpleRow
             [ link "/index" "Home"
+            , link "https://big-data-biology.org" "Lab Website"
             , link "/publications/" "Publications"
+            , link "/vita" "CV"
             ]]
 footer = Html.div []
             [Html.p []
                 [Html.text "Copyright (c) 2009-2021. Luis Pedro Coelho and other group members. All rights reserved."]
             ]
+
+
+navigation =
+    let
+        liSection title links =
+            Html.div
+                []
+                [Html.h6 [] [Html.text title]
+                ,Html.ul
+                    []
+                    (links
+                        |> List.map (\(target,text)
+                                    -> Html.li
+                                        []
+                                        [Html.a [HtmlAttr.href target] [Html.text text]]))
+                ]
+    in Html.nav
+        []
+        [liSection "About Me"
+            [("http://big-data-biology.org/", "Big Data Biology Lab Website")
+            ,("/resume", "CV")
+            ,("/publications", "Publications")
+            ,("/teaching", "Teaching")
+            ,("/talks", "Slides from talks")
+            ,("http://metarabbit.wordpress.com/", "Metarabbit")
+            ,("/biography", "Short Biography")
+            ,("/erdos-bacon", "My Erdös Bacon Number")
+            ]
+        ,liSection "Software"
+            [("http://ngless.embl.de/", "NGLess")
+            ,("/software/mahotas", "Image processing with Python")
+            ,("/software/imread", "Loading images in Python")
+            ,("/software/jug", "Task based parallelization framework for Python")
+            ]
+        ,liSection "Other Stuff"
+            [("/faq", "Frequently Asked Questions")
+            ,("/derivations", "Some useful derivations")
+            ,("/fimdetarde", "Award-winning short story (in Portuguese)")
+            ,("/work/shmoo-video/", "Yeast Mating Claymation")
+            ,("http://beiraproject.org/", "Volunteering in Mozambique")
+            ,("http://twitter.com/luispedrocoelho", "@luispedrocoelho (twitter)")
+            ]
+        ,liSection "Older Projects"
+            [("/projects/gen-classification", "Generalization of Subcellular Location")
+            ,("/projects/datasets", "Publicly available datasets")
+            ,("/projects/pfs", "A course for scientists who write code")
+            ,("/projects/slif", "Structured Literature Image Finder")
+            ,("/projects/", "All projects")
+            ]
+        ]
