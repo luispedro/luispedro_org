@@ -63,7 +63,8 @@ in the way of doing so.
 
 # Upcoming Travels & Talks
 
-I have no current travel plans ([invite me](mailto:luis@luispedro.org)).
+**2021 April 6-9**: Keystone Symposium
+[Micropeptides: Biogenesis and Function](https://www.keystonesymposia.org/KS/Online/Events/Future/Details.aspx?EventKey=2022T5&Tabs=1)
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
