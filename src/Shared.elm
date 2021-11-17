@@ -194,15 +194,14 @@ navigation =
             [("/faq", "Frequently Asked Questions")
             ,("/derivations", "Some useful derivations")
             ,("/fimdetarde", "Award-winning short story (in Portuguese)")
-            ,("/work/shmoo-video/", "Yeast Mating Claymation")
-            ,("http://beiraproject.org/", "Volunteering in Mozambique")
+            ,("/shmoo-video/", "Yeast Mating Claymation")
             ,("http://twitter.com/luispedrocoelho", "@luispedrocoelho (twitter)")
             ]
-        ,liSection "Older Projects"
-            [("/projects/gen-classification", "Generalization of Subcellular Location")
-            ,("/projects/datasets", "Publicly available datasets")
-            ,("/projects/pfs", "A course for scientists who write code")
-            ,("/projects/slif", "Structured Literature Image Finder")
-            ,("/projects/", "All projects")
-            ]
+        --,liSection "Older Projects"
+        --    [("/projects/gen-classification", "Generalization of Subcellular Location")
+        --    ,("/projects/datasets", "Publicly available datasets")
+        --    ,("/projects/pfs", "A course for scientists who write code")
+        --    ,("/projects/slif", "Structured Literature Image Finder")
+        --    ,("/projects/", "All projects")
+        --    ]
         ]
