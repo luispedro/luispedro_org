@@ -53,7 +53,7 @@ head static =
             }
         , description = "Website Luis Pedro Coelho"
         , locale = Nothing
-        , title = "TODO title" -- metadata.title -- TODO
+        , title = "Luis Pedro Coelho"
         }
         |> Seo.website
 
