@@ -2,6 +2,9 @@ h1 {
     font-variant: small-caps;
     border-bottom: solid 1px #e6ab02;
 }
+h1,h2,h3,h4,h5,h6 {
+    color: #d95f02;
+}
 
 img {
     max-width : 90%
