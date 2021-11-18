@@ -240,12 +240,13 @@ showPapers : List Publication -> Model -> Grid.Column Msg
 showPapers papers model =
     let
         papersA = if model.onlyFirstLast
-            then List.filter (\p -> p.isFirstLast) papers
+            then List.filter .isFirstLast papers
             else papers
         papersYA = List.filter (matchPeriod model.activePeriod) papersA
     in Grid.col []
         [intro
         ,Html.h1 [] [Html.text "Complete List of Publications"]
+        ,Html.p [] [Html.text "In reverse chronological order"]
         ,showSelection model
         , if List.isEmpty papersYA
             then
