@@ -35,14 +35,14 @@ exchange student.
 
 **Currently (since 2013)** Postdoctoral researcher at the European Molecular
 Biology Laboratory (EMBL) with [Peer
-Bork](http://www.embl.de/research/units/scb/bork/members/index.php?s_personId=173).
+Bork](https://www.embl.de/research/units/scb/bork/members/index.php?s_personId=173).
 
 **2012** Postdoctoral researcher at the Institute for Molecular Medicine (IMM),
 Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
 
 ### Scholarships & Awards
 
-- [Siebel Scholar 2012](http://www.siebelscholars.com/scholars/785).
+- [Siebel Scholar 2012](https://www.siebelscholars.com/scholars/785).
 - Portugal's Science and Research Foundation Ph.D. scholarship 2007-2011
 - Outstanding Research Accomplishment
     Award for Research Excellence in the Joint CMU-University of Pittsburgh
@@ -71,23 +71,23 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
     Stephane Pesant, Sabrina Speich, Lars Stemmann, Matthew B. Sullivan, Jean
     Weissenbach, Patrick Wincker, Eric Karsenti, Jeroen Raes, Silvia G. Acinas,
     Peer Bork, _Structure and function of the global ocean microbiome_ in
-    Science (2015) [[DOI](http://doi.org/10.1126/science.1261359)].
+    Science (2015) [[DOI](https://doi.org/10.1126/science.1261359)].
 2.  **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan Naik, Elvira
     Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja Simha,
     Peter B.  Berget, Jonathan W. Jarvik, and Robert F.  Murphy, *Determining
     the subcellular location of new proteins from microscope images using local
     features* in Bioinformatics, 2013, Sep 15;29(18):2343-9
-    [[DOI](http://dx.doi.org/10.1093/bioinformatics/btt392)] [[Video
-    Abstract](http://dx.doi.org/10.6084/m9.figshare.744842)] [[open access
-    version](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/)]
+    [[DOI](https://dx.doi.org/10.1093/bioinformatics/btt392)] [[Video
+    Abstract](https://dx.doi.org/10.6084/m9.figshare.744842)] [[open access
+    version](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/)]
 3.  **Luis Pedro Coelho**\*, Tao Peng*, and Robert F. Murphy, *Quantifying
     the distribution of probes between subcellular locations using unsupervised
     pattern unmixing* in Bioinformatics, vol. 26(12), pp. i7-i12 [[online
-    version](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7)]
+    version](https://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7)]
 4.  **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy;  *Nuclear
     segmentation in microscope cell images: A hand-segmented dataset and
     comparison of algorithms* ISBI 2009 [[online
-    version](http://dx.doi.org/10.1109/ISBI.2009.5193098)]
+    version](https://dx.doi.org/10.1109/ISBI.2009.5193098)]
 
 See also my [full annotated list of publications](/publications) or my [full
 length CV](/files/vita.pdf).
@@ -107,7 +107,7 @@ length CV](/files/vita.pdf).
 at Carnegie Mellon University in Spring 2009 (as a student-taught course). In
 2012, I taught a shortened version of this at IMM as a two-and-a-half day
 workshop. I am a certified [software carpentry
-instructor](http://software-carpentry.org/pages/team.html)
+instructor](https://software-carpentry.org/pages/team.html)
 
 **Teaching Assistant** for Decision Support Systems at Technical University of
 Lisbon (Spring 2005). Co-designed and co-taught a Computer Initiation Course for
@@ -128,8 +128,8 @@ I publish and maintainx many open source projects of interest to his research,
 such as image processing or machine learning code. In particular
 [mahotas](https://github.com/luispedro/mahotas) (ca. 6,000 downloads per month)
 is a [computer vision library in
-Python](http://openresearchsoftware.metajnl.com/article/view/jors.ac).
+Python](https://openresearchsoftware.metajnl.com/article/view/jors.ac).
 
 See the full list of projects in my [github
-page](http://www.github.com/luispedro).
+page](https://www.github.com/luispedro).
 

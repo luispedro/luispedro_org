@@ -3,8 +3,8 @@ title: Jug
 ---
 
 
-<a href="http://github.com/luispedro/jug">
-    <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
+<a href="https://github.com/luispedro/jug">
+    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
 </a>
 
 # Jug: A Task-Based Parallelization Framework
@@ -17,7 +17,7 @@ cite:
 > Coelho, L.P., (2017). Jug: Software for Parallel Reproducible
 > Computation in Python. Journal of Open Research Software. 5(1), p.30.
 >
-> <http://doi.org/10.5334/jors.161>
+> <https://doi.org/10.5334/jors.161>
 
 ## What is it?
 
@@ -37,7 +37,7 @@ common redis server.
 Jug is a pure Python implementation and should work on any platform.
 Python 3 is supported (at least 3.3 and greater).
 
-[Jug Documentation and Tutorial](http://jug.rtfd.org)
+[Jug Documentation and Tutorial](https://jug.rtfd.org)
 
 ## Short Example
 
@@ -99,17 +99,17 @@ Here are the [full API docs](https://jug.readthedocs.org/en/latest/),
 which include several
 [worked](https://jug.readthedocs.org/en/latest/decrypt-example.html)
 [out](https://jug.readthedocs.org/en/latest/text-example.html)
-[examples](http://packages.python.org/Jug/text-example.html). There is
-also a *video* ([vimeo](http://vimeo.com/8972696) or
-[showmedo](http://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975)),
+[examples](https://packages.python.org/Jug/text-example.html). There is
+also a *video* ([vimeo](https://vimeo.com/8972696) or
+[showmedo](https://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975)),
 and a [presentation](/files/jug-decrypt-presentation.pdf).
 
-*Mailing List*: <http://groups.google.com/group/jug-users>
+*Mailing List*: <https://groups.google.com/group/jug-users>
 
 ## Where can I get this?
 
-[PyPI](http://pypi.python.org/pypi/Jug) for stable releases,
-[github](http://github.com/luispedro/jug) for the cutting edge. The code
+[PyPI](https://pypi.python.org/pypi/Jug) for stable releases,
+[github](https://github.com/luispedro/jug) for the cutting edge. The code
 is licensed MIT.
 
 You should be able to use `pip`:
@@ -132,5 +132,5 @@ You should be able to use `pip`:
 -   You can check up on the status of the computation at any time ([jug
     status]{.title-ref})
 -   Two backends: file-based if all the processors share a filesystem
-    (works over NFS too) or [redis](http://code.google.com/p/redis/)
+    (works over NFS too) or [redis](https://code.google.com/p/redis/)
     based if they can all connect to the same redis server.

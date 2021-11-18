@@ -7,7 +7,7 @@ meta: Luis Pedro Coelho is the principal investigator (PI) of the Big Data Biolo
     style="float: right; width:36.0%; border-radius: 50%;" />
 
 I am currently looking for postdocs to [join my group in
-Shanghai](http://big-data-biology.org/positions). Come work with me on
+Shanghai](https://big-data-biology.org/positions). Come work with me on
 metagenomics, antimicrobial resistance, algorithms, or just propose your
 own project.
 
@@ -15,16 +15,16 @@ own project.
 
 
 I am the principal investigator of the [Big Data Biology
-Lab](http://big-data-biology.org) at Fudan University (Shanghai) since
+Lab](https://big-data-biology.org) at Fudan University (Shanghai) since
 September 2018. Our group works in computational biology, with a focus
 on the very large-scale.
 
 Previously, I worked at the European Molecular Biology Laboratory (EMBL) in
-[Peer Bork's group](http://www.embl.de/~bork/) in microbial community analysis
+[Peer Bork's group](https://www.embl.de/~bork/) in microbial community analysis
 using metagenomics. I have a PhD from [Carnegie Mellon
-University](http://www.compbio.cmu.edu/) (2011), where I worked on [bioimage
-informatics](http://en.wikipedia.org/wiki/Bioimage_informatics) for subcellular
-location analysis with [Bob Murphy](http://murphylab.web.cmu.edu/).
+University](https://www.compbio.cmu.edu/) (2011), where I worked on [bioimage
+informatics](https://en.wikipedia.org/wiki/Bioimage_informatics) for subcellular
+location analysis with [Bob Murphy](https://murphylab.web.cmu.edu/).
 
 My [Erdös-Bacon number is 7](/erdos-bacon).
 
@@ -40,13 +40,13 @@ and what are the differences/similarities between different
 environments.
 
 My work is a mix of of
-[method](http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html) and
+[method](https://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html) and
 [tool](https://ngless.embl.de) development with
-[applications](http://doi.org/10.1126/science.1261359). In methodological
+[applications](https://doi.org/10.1126/science.1261359). In methodological
 terms, I worry a lot about [correct evaluation of
-methods](http://luispedro.org/projects/gen-classification) and avoiding
+methods](https://luispedro.org/projects/gen-classification) and avoiding
 over-inflated measures of performance. A large fraction of my time is spent
-scaling up algorithms and [pipelines](http://doi.org/10.5334/jors.161) to work
+scaling up algorithms and [pipelines](https://doi.org/10.5334/jors.161) to work
 on very-large problems.
 
 **Not-so technical version:** With modern technology, namely robotic
@@ -54,7 +54,7 @@ instruments, it is easy to acquire a lot of microscopic pictures. It is
 also possible to acquire large sequence datasets with the DNA of many
 organisms. I use these two families of technologies to investigate what
 is happening in mixed microbial communities such as the one in our guts,
-the [microbiome](http://en.wikipedia.org/wiki/Microbiome).
+the [microbiome](https://en.wikipedia.org/wiki/Microbiome).
 
 In order to be able to use these data, I also need to develop new
 computer methods (software) for these tasks. Thus my work is a mix of
@@ -253,20 +253,20 @@ list](/publications)):
     Munch, Jaime Huerta‐Cepas, Kristoffer Forslund, Falk Hildebrand,
     Almagul Kushugulova, Georg Zeller, Peer Bork [Subspecies in the
     global human gut
-    microbiome](http://msb.embopress.org/content/13/12/960) in Molecular
+    microbiome](https://msb.embopress.org/content/13/12/960) in Molecular
     Systems Biology (2017)
-    [[DOI](http://doi.org/10.15252/msb.20177589)\]
+    [[DOI](https://doi.org/10.15252/msb.20177589)\]
 50. **Luis Pedro Coelho** [Jug: Software for parallel reproducible
     computation in
     Python](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.161/)
     in the Journal for Open Research Software (2017)
-    \[[DOI](http://doi.org/10.5334/jors.161)\]
+    \[[DOI](https://doi.org/10.5334/jors.161)\]
 51. Sebastien Colin\*, **Luis Pedro Coelho**\*, Shinichi Sunagawa, Chris
     Bowler, Eric Karsenti, Peer Bork, Rainer Pepperkok, Colomban de
     Vargas, [Quantitative 3D-imaging for cell biology and ecology of
     environmental microbial
-    eukaryotes](http://doi.org/10.7554/eLife.26066.001) in eLife
-    (2017) \[[DOI](http://doi.org/10.7554/eLife.26066.001)\]
+    eukaryotes](https://doi.org/10.7554/eLife.26066.001) in eLife
+    (2017) \[[DOI](https://doi.org/10.7554/eLife.26066.001)\]
 52. Paul I Costea, Georg Zeller, Shinichi Sunagawa, Eric Pelletier,
     Adriana Alberti, Florence Levenez, Melanie Tramontano, Marja
     Driessen, Rajna Hercog, Ferris-Elias Jung, Jens Roat Kultima,
@@ -287,11 +287,11 @@ list](/publications)):
     studies](https://www.nature.com/nbt/journal/vaop/ncurrent/full/nbt.3960.html)
     in Nature Biotechnology (2017)
     \[[DOI](https://doi.org/10.1038/nbt.3960)\]
-    \[[PDF](http://www.bork.embl.de/publication/pdf/28967887.pdf)]
+    \[[PDF](https://www.bork.embl.de/publication/pdf/28967887.pdf)]
 53. Paul Igor Costea\*, Robin Munch\*, **Luis Pedro Coelho**, Lucas
     Paoli, Shinichi Sunagawa, Peer Bork [metaSNV: A tool for metagenomic
     strain level
-    analysis](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182392)
+    analysis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182392)
     in PLoS One (2017)
     \[[DOI](https://doi.org/10.1371/journal.pone.0182392)\]
 54. Jaime Huerta-Cepas\*, Kristoffer Forslund\*, **Luis Pedro Coelho**,
@@ -362,10 +362,10 @@ Biology\"](http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn
 I also visited the University of Bern and presented my scientific work.
 
 **Oct 24-26** I was in Copenhagen teaching people how to use
-[ngless](http://ngless.embl.de) at the [Microbiome data interpretation
+[ngless](https://ngless.embl.de) at the [Microbiome data interpretation
 workshop](https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763)
 (slides
-[here](http://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html))
+[here](https://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html))
 and giving a scientific talk on my work.
 
 **Sept 12-13** I was in Delft 12-13\*\* for a [workshop on data-driven
@@ -374,7 +374,7 @@ design](https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-f
 
 **July 21-25** I was in Prague for [ECCB/ISMB
 2017](https://www.iscb.org/ismbeccb2017) with a poster on
-[NGLess](http://ngless.embl.de)
+[NGLess](https://ngless.embl.de)
 
 **July 20 2017** I was in Lisbon on **July 20** for [LxMLS
 2017](http://lxmls.it.pt/2017/)
@@ -392,7 +392,7 @@ Research Software](http://openresearchsoftware.metajnl.com/)
 **22-25 August 2015** Visiting Tallinn (Estonia)
 
 **17 August 2015** The project [ngless is now open
-source](http://ngless.embl.de/)
+source](https://ngless.embl.de/)
 
 **16 July 2015** I will be teaching at the [Lisbon Machine Learning
 School](http://lxmls.it.pt/2015/)

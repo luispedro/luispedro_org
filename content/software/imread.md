@@ -3,8 +3,8 @@ title: Imread
 categories: software python
 ---
 
-<a href="http://github.com/luispedro/imread">
-    <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
+<a href="https://github.com/luispedro/imread">
+    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
 </a>
 
 # Mahotas-imread: Reads images into numpy arrays
@@ -41,7 +41,7 @@ variations such as STK or LSM).
 ## Where can I get it?
 
 <iframe
-src="http://ghbtns.com/github-btn.html?user=luispedro&repo=imread&type=watch&count=true&size=large"
+src="https://ghbtns.com/github-btn.html?user=luispedro&repo=imread&type=watch&count=true&size=large"
 allowtransparency="true" frameborder="0" scrolling="0" width="152px"
 height="30px"></iframe>
 

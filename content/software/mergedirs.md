@@ -2,8 +2,8 @@
 title: "Mergedirs: Merge two directories without losing files"
 ---
 
-<a href="http://github.com/luispedro/mergedirs">
-    <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
+<a href="https://github.com/luispedro/mergedirs">
+    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
 </a>
 
 This small script is used to merge two directories which may overlap in
@@ -48,4 +48,4 @@ There are a few helpful options, which you can read about using
 
 # Where can I get it?
 
-[Github](http://github.com/luispedro/mergedirs/) as usual.
+[Github](https://github.com/luispedro/mergedirs/) as usual.

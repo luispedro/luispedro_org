@@ -3,8 +3,8 @@ title: "Mahotas: computer vision in Python"
 categories: software python
 ---
 
-<a href="http://github.com/luispedro/mahotas">
-    <img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
+<a href="https://github.com/luispedro/mahotas">
+    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" />
 </a>
 
 A dedicated mahotas page with documentation is available at
@@ -55,8 +55,8 @@ informatics](/files/talks/2013/mahotas.html).
 
 # Install
 
-You can get the code from [pypi](http://pypi.python.org/pypi/mahotas) or
-the cutting edge from [github](http://www.github.com/luispedro/mahotas).
+You can get the code from [pypi](https://pypi.python.org/pypi/mahotas) or
+the cutting edge from [github](https://www.github.com/luispedro/mahotas).
 Instalation should be possible using::
 
     pip install mahotas
@@ -66,28 +66,28 @@ or:
     easy_install mahotas
 
 You can also find Windows packages
-[here](http://www.lfd.uci.edu/~gohlke/pythonlibs/) by Christoph Gohlke
+[here](https://www.lfd.uci.edu/~gohlke/pythonlibs/) by Christoph Gohlke
 at UCI. He also has other useful Python packages.
 
 For FreeBSD, mahotas is available in [the ports
-section](http://www.freshports.org/graphics/mahotas).
+section](https://www.freshports.org/graphics/mahotas).
 
 # Develop
 
-```{=html}
+
 <iframe
-src="http://ghbtns.com/github-btn.html?user=luispedro&repo=mahotas&type=watch&count=true&size=large"
+src="https://ghbtns.com/github-btn.html?user=luispedro&repo=mahotas&type=watch&count=true&size=large"
 allowtransparency="true" frameborder="0" scrolling="0" width="152px"
 height="30px"></iframe>
-```
+
 Development happens on [github](https://github.com/luispedro/mahotas)
 
 # Support
 
-Make sure you check out the [documentation](http://mahotas.rtfd.org/).
+Make sure you check out the [documentation](https://mahotas.rtfd.org/).
 
 The official forum for discussion of mahotas issues is the [pythonvision
-mailing list](http://groups.google.com/group/pythonvision). Also, check
+mailing list](https://groups.google.com/group/pythonvision). Also, check
 out [pythonvision.org](http://pythonvision.org) while you\'re at it.
 
 For bug reports and fixes use the [github issue

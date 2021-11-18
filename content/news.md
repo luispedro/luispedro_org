@@ -37,10 +37,10 @@ School](http://lxmls.it.pt/2018/)
 ##\# 2017
 
 **Oct 24-26 2017** I was in Copenhagen teaching people how to use
-[ngless](http://ngless.embl.de) at the [Microbiome data interpretation
+[ngless](https://ngless.embl.de) at the [Microbiome data interpretation
 workshop](https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763)
 (slides
-[here](http://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html))
+[here](https://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html))
 and giving a scientific talk on my work.
 
 **Sept 12-13 2017** I was in Delft 12-13\*\* for a [workshop on
@@ -49,7 +49,7 @@ design](https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-f
 
 **July 21-25 2017** I was in Prague for [ECCB/ISMB
 2017](https://www.iscb.org/ismbeccb2017) with a poster on
-[NGLess](http://ngless.embl.de)
+[NGLess](https://ngless.embl.de)
 
 **21-28 July 2016** I was in Lisbon for the 2016 edition of the [Lisbon
 Machine Learning Summer School](http://lxmls.it.pt/2016/?page_id=64),
@@ -77,7 +77,7 @@ School](http://lxmls.it.pt/2015/)
 software carpentry workshop (and some holiday time).
 
 **2 June 2015** I attended the [Science of TARA Oceans
-conference](http://www.embl.de/tara-oceans/start/conference-2015/index.html)
+conference](https://www.embl.de/tara-oceans/start/conference-2015/index.html)
 in Paris
 
 **22 May 2015** Paper out in
@@ -87,7 +87,7 @@ in Paris
 Congress (IHMC)](http://www.ihmc2015.org/) in Luxembourg
 
 **March 2015** Paper accepted in
-[Bioinformatics](http://doi.org/10.1093/bioinformatics/btv156)
+[Bioinformatics](https://doi.org/10.1093/bioinformatics/btv156)
 
 **February 2015** I was in Granada for the *2015 Aquatic Sciences
 Meeting*, giving [a talk on the 26th on our metagenomics
@@ -95,10 +95,10 @@ work](http://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075)
 
 **November 2014** I was the lead organizer for a [software carpentry
 workshop at
-EMBL](http://www.embl.de/training/events/2014/SWC14-01/index.html).
+EMBL](https://www.embl.de/training/events/2014/SWC14-01/index.html).
 
 **October 22 2014** [O\'Reilly webcast on Penalised Regression in
-Python](http://www.oreilly.com/pub/e/3117)
+Python](https://www.oreilly.com/pub/e/3117)
 
 **September 2014** Keynote talk in [Python San
 Sebastien](http://pyss.org/) \[[Online
@@ -115,7 +115,7 @@ been released at New Filmmakers in NYC.
 **July 2014** New paper: Pena et al., *Trypanosoma brucei histone H1
 inhibits RNA polymerase I transcription and is important for parasite
 fitness in vivo* in Molecular Microbiology
-\[[DOI](http://doi.org/10.1111/mmi.12677)\].
+\[[DOI](https://doi.org/10.1111/mmi.12677)\].
 
 **June 2014** I will be teaching at a software carpentry workshop in
 Cyprus and Amman (Jordan).
@@ -124,17 +124,17 @@ Cyprus and Amman (Jordan).
 software carpentry bootcamp.
 
 **February 2014** I\'m now a certified [Software Carpentry
-instructor](http://software-carpentry.org/pages/team.html)
+instructor](https://software-carpentry.org/pages/team.html)
 
 **January 2014** New publication: Kristoffer Forslund, Shinichi
 Sunagawa, **Luis P. Coelho**, Peer Bork, *Metagenomic insights into the
 human gut resistome and the forces that shape it* in Bioessays (2014).
-\[[DOI](http://doi.org/10.1002/bies.201300143)\]
+\[[DOI](https://doi.org/10.1002/bies.201300143)\]
 
 **December 2013** New publication: Peter Liehl et al., *Host-cell
 sensors for Plasmodium activate innate immunity against liver-stage
 infection* in Nature Medicine 20, 47--53 (2014)
-\[[DOI](http://doi.org/10.1038/nm.3424)\]
+\[[DOI](https://doi.org/10.1038/nm.3424)\]
 
 **November 2013** I attended the [CFAR New York
 workshop](http://rationality.org/)

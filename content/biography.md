@@ -12,19 +12,19 @@ with a focus on the scientific work performed.
 ## Shorter Version
 
 Luis Pedro Coelho is  the principal investigator (PI) of the [Big Data Biology
-Lab](http://big-data-biology.org) at Fudan University. Previously, he worked as
+Lab](https://big-data-biology.org) at Fudan University. Previously, he worked as
 a postdoctoral researcher in Peer Bork's group at the European Molecular
 Biology Laboratory (EMBL). He has a PhD from Carnegie Mellon University where
 he worked under the supervision of Prof. Bob Murphy and a MSc from Instituto
 Superior Técnico in Lisbon, where he worked with Prof Arlindo Oliveira. He
 currently works on the analysis of microbial communities in different
 environments, such as the [marine
-environment](http://www.sciencemag.org/content/348/6237/1261359.full) or the
-[human gut](http://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full)
+environment](https://www.sciencemag.org/content/348/6237/1261359.full) or the
+[human gut](https://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full)
 using computational methods, namely [metagenomic
-analysis](http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html) and
+analysis](https://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html) and
 [fluorescence microscopy
-analysis](http://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
+analysis](https://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
 Luis is a Fulbright Scholar, a Siebel Scholar, and has won multiple awards for
 academic and research excellence.
 
@@ -35,8 +35,8 @@ underprivileged neighbourhoods and designed Webpages for nonprofits. In Summer
 2010, was in Mozambique, volunteering with local organisations there
 [beiraproject.org](http://beiraproject.org).
 
-Luis can be found at [luispedro.org](http://luispedro.org) and blogs
-at [metarabbit.wordpress.com](http://metarabbit.wordpress.com).
+Luis can be found at [luispedro.org](https://luispedro.org) and blogs
+at [metarabbit.wordpress.com](https://metarabbit.wordpress.com).
 
 ## Longer Version (Academic)
 
@@ -44,21 +44,21 @@ Luis Pedro Coelho is postdoctoral researcher at the European Molecular Biology
 Laboratory (EMBL). He works in metagenomics and bioimage informatics (the
 application of computer vision to biological samples). He has worked on the
 TARA Oceans projects, analysing the [microbial communities in the marine
-environment](http://www.sciencemag.org/content/348/6237/1261359.full) and their
+environment](https://www.sciencemag.org/content/348/6237/1261359.full) and their
 relationship to the environment. He has also worked on the microbial
 communities in the [human
-gut](http://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full) and worked
+gut](https://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full) and worked
 on the development of computational methods for [the analysis of metagenomic
-data](http://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html). He
+data](https://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html). He
 continues to work on [computational methods for fluorescence microscopy
-analysis](http://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
+analysis](https://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
 
 Luis holds a PhD in computational biology from Carnegie Mellon University. His
 doctoral research consisted of modeling images from fluorescent microsocpy. The
 models he developed integrate several sources of image and non-image
 information into a single model. Also at CMU, he was involved in the [Structure
 Literature Image Finder
-(SLIF)](http://link.springer.com/chapter/10.1007/978-3-642-13131-8_4) project;
+(SLIF)](https://link.springer.com/chapter/10.1007/978-3-642-13131-8_4) project;
 SLIF mined the academic literature using both the text of the papers and the
 images therein. This project was one of the finalists in the Elsevier Grand
 Challenge.
