@@ -140,7 +140,7 @@ In reverse chronological order
     Colomban de Vargas, Lee Karp-Boss, Patrick Wincker, Fabien Lombard,
     Chris Bowler#, and Lucie Zinger# [Global Trends in Marine Plankton
     Diversity across Kingdoms of
-    Life](https://www.cell.com/cell/fulltext/S0092-8674(19)31124-9),
+    Life](https://www.cell.com/cell/fulltext/S0092-8674%2819%2931124-9),
     Cell 2019
 10. Guillem Salazar\*, Lucas Paoli\*, Adriana Alberti, Jaime
     Huerta-Cepas, Hans-Joachim Ruscheweyh, Miguelangel Cuenca,
@@ -156,7 +156,7 @@ In reverse chronological order
     Speich, Matthew B. Sullivan, , Patrick Wincker, and Shinichi
     Sunagawa,\* [Gene Expression Changes and Community Turnover
     Differentially Shape the Global Ocean
-    Metatranscriptome](https://www.cell.com/cell/fulltext/S0092-8674(19)31164-X),
+    Metatranscriptome](https://www.cell.com/cell/fulltext/S0092-8674%2819%2931164-X),
     Cell 2019
 11. Daniel R Mende, Ivica Letunic, Oleksandr M Maistrenko, Thomas S B
     Schmidt, Alessio Milanese, Lucas Paoli, Ana Hernández-Plaza,
