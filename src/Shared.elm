@@ -111,9 +111,9 @@ view sharedData page model toMsg pageView =
                     [ Html.div [HtmlAttr.style "padding-top" "1em"] []
                     , header
                     , Grid.simpleRow
-                        [ Grid.col [Col.xs3]
+                        [ Grid.col [Col.xs3, Col.attrs [HtmlAttr.id "leftbar"]]
                             [navigation
-                            ,Html.div []
+                            ,Html.div [HtmlAttr.id "twitter-timeline"]
                                 [Html.a
                                     [HtmlAttr.class "twitter-timeline"
                                     ,HtmlAttr.id "twitter-timeline-a"
@@ -127,7 +127,7 @@ view sharedData page model toMsg pageView =
                                     []
                                 ]
                             ]
-                        , Grid.col [Col.lg8]
+                        , Grid.col [Col.xs9]
                             [Html.div [] pageView.body]
                         ]
                     , Html.hr [] []
