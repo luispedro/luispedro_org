@@ -5,7 +5,7 @@ categories: about-me
 meta: Biography of Luis Pedro Coelho
 ---
 
-Also see my [resume](/resume) and [CV (PDF format)](/files/vita.pdf) or my
+Also see my [resume](/resume) and [CV (PDF format)](/vita.pdf) or my
 [scientific biography](/biography/scientific.html) which is a longer document
 with a focus on the scientific work performed.
 

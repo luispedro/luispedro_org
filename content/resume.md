@@ -4,7 +4,7 @@ categories: about-me
 permalink: resume/
 ---
 
-A long-form CV is available as a [PDF Version](/files/vita.pdf).
+A long-form CV is available as a [PDF Version](/vita.pdf).
 
 A narrative version is available as [my scientific biography](/biography/scientific.html).
 
@@ -90,7 +90,7 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
     version](https://dx.doi.org/10.1109/ISBI.2009.5193098)]
 
 See also my [full annotated list of publications](/publications) or my [full
-length CV](/files/vita.pdf).
+length CV](/vita.pdf).
 
 ### Languages
 

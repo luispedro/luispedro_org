@@ -152,7 +152,7 @@ header =
             [ link "/index" "Home"
             , link "https://big-data-biology.org" "Lab Website"
             , link "/publications/" "Publications"
-            , link "/vita" "CV"
+            , link "/vita.pdf" "CV"
             ]]
 footer = Html.div []
             [Html.p []
