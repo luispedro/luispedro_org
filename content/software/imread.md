@@ -27,13 +27,8 @@ imread contains).
 
 This is a simple module, which has two main functions
 
-imread
-
-:   reads an image from a file
-
-imsave
-
-:   saves an image to a file
+- `imread`: reads an image from a file
+- `imsave`: saves an image to a file
 
 It currently works on PNG, JPEG, and TIFF (including some TIFF
 variations such as STK or LSM).

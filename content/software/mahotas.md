@@ -72,7 +72,7 @@ at UCI. He also has other useful Python packages.
 For FreeBSD, mahotas is available in [the ports
 section](https://www.freshports.org/graphics/mahotas).
 
-# Develop
+# Development
 
 
 <iframe
