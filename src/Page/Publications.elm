@@ -198,8 +198,9 @@ science](https://publons.com/researcher/271636/luis-pedro-coelho/):
     Nigel Grimsley, Pascal Hingamp, Daniele Iudicone, Olivier Jaillon,
     Fabrice Not, Hiroyuki Ogata, Stephane Pesant, Sabrina Speich, Lars
     Stemmann, Matthew B. Sullivan, Jean Weissenbach, Patrick Wincker,
-    Eric Karsenti, Jeroen Raes, Silvia G. Acinas, Peer Bork, *Structure
-    and function of the global ocean microbiome* in Science (2015)
+    Eric Karsenti, Jeroen Raes, Silvia G. Acinas, Peer Bork, [Structure
+    and function of the global ocean microbiome](http://doi.org/10.1126/science.1261359)
+    in Science (2015)
     \\[[DOI](http://doi.org/10.1126/science.1261359)\\]
     \\[[PDF](http://www.bork.embl.de/publication/pdf/25999513.pdf)\\]
 """]
