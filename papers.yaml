@@ -8,7 +8,7 @@
   Publisher: IEEE
   Title: 'Nuclear segmentation in microscope cell images: a hand-segmented dataset and comparison of algorithms'
   Doi: 10.1109/ISBI.2009.5193098
-  Year: '2009'
+  Year: 2009
   isFirstLast: true
   type: Conference Proceedings
 - Accession: '1424414377'
@@ -29,7 +29,7 @@
   Title: An adaptive multiresolution approach to fingerprint recognition
   Doi: 10.1109/ICIP.2007.4378990
   Volume: '1'
-  Year: '2007'
+  Year: 2007
   isFirstLast: false
   type: Conference Proceedings
 - Accession: 1367-4803
@@ -44,7 +44,7 @@
   Title: Quantifying the distribution of probes between subcellular locations using unsupervised pattern unmixing
   Doi: 10.1093/bioinformatics/btq220
   Volume: '26'
-  Year: '2010'
+  Year: 2010
   isFirstLast: true
   type: Journal Article
 - Accession: '3642131301'
@@ -60,7 +60,7 @@
   Publisher: Springer Berlin Heidelberg
   Title: 'Principles of bioimage informatics: focus on machine learning of cell patterns'
   Doi: 10.1007/978-3-642-13131-8_2
-  Year: '2010'
+  Year: 2010
   isFirstLast: true
   type: Book Section
 - Accession: 1087-0571
@@ -77,7 +77,7 @@
   Title: Automated image analysis for high-content screening and analysis
   Doi: 10.1177/1087057110370894
   Volume: '15'
-  Year: '2010'
+  Year: 2010
   isFirstLast: false
   type: Journal Article
 - Accession: '1424432960'
@@ -95,7 +95,7 @@
   Publisher: IEEE
   Title: Cell cycle dependence of protein subcellular location inferred from static, asynchronous images
   Doi: 10.1109/IEMBS.2009.5332888
-  Year: '2009'
+  Year: 2009
   isFirstLast: false
   type: Conference Proceedings
 - Accession: 1570-8268
@@ -115,7 +115,7 @@
   Title: 'Structured literature image finder: Parsing text and figures in biomedical literature'
   Doi: 10.1016/j.websem.2010.04.002
   Volume: '8'
-  Year: '2010'
+  Year: 2010
   isFirstLast: false
   type: Journal Article
 - Accession: '3642131301'
@@ -133,7 +133,7 @@
   Publisher: Springer Berlin Heidelberg
   Title: 'Structured literature image finder: extracting information from text and images in biomedical literature'
   Doi: 10.1007/978-3-642-13131-8_4
-  Year: '2010'
+  Year: 2010
   isFirstLast: true
   type: Book Section
 - Authors:
@@ -144,7 +144,7 @@
   Publisher: Springer, Berlin, Heidelberg
   Title: Identifying Subcellular Locations from Images of Unknown Resolution
   Doi: 10.1007/978-3-540-70600-7_18
-  Year: '2008'
+  Year: 2008
   isFirstLast: true
   type: Conference Proceedings
 - Authors:
@@ -155,7 +155,7 @@
   Publisher: Springer
   Title: "Dotted suffix trees: a structure for approximate text indexing"
   Doi: 10.1007/11880561_27
-  Year: '2006'
+  Year: 2006
   isFirstLast: true
   type: Conference Proceedings
 - Authors:
@@ -166,7 +166,7 @@
   Title: 'Mahotas: Open source software for scriptable computer vision'
   Doi: 10.5334/jors.ac
   Volume: '1'
-  Year: '2013'
+  Year: 2013
   isFirstLast: true
   type: Journal Article
 - Accession: 1367-4803
@@ -188,7 +188,7 @@
   Title: Determining the subcellular location of new proteins from microscope images using local features
   Doi: 10.1093/bioinformatics/btt392
   Volume: '29'
-  Year: '2013'
+  Year: 2013
   isFirstLast: true
   type: Journal Article
 - Accession: 1548-7091
@@ -221,7 +221,7 @@
   Title: Metagenomic species profiling using universal phylogenetic marker genes
   Doi: 10.1038/nmeth.2693
   Volume: '10'
-  Year: '2013'
+  Year: 2013
   isFirstLast: false
   type: Journal Article
 - Accession: 1078-8956
@@ -259,7 +259,7 @@
   Title: Host-cell sensors for Plasmodium activate innate immunity against liver-stage infection
   Doi: 10.1038/nm.3424
   Volume: '20'
-  Year: '2014'
+  Year: 2014
   isFirstLast: false
   type: Journal Article
 - Accession: 1521-1878
@@ -274,7 +274,7 @@
   Title: Metagenomic insights into the human gut resistome and the forces that shape it
   Doi: 10.1002/bies.201300143
   Volume: '36'
-  Year: '2014'
+  Year: 2014
   isFirstLast: false
   type: Journal Article
 - Accession: 1365-2958
@@ -297,7 +297,7 @@
   Title: Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is important for parasite fitness in vivo
   Doi: 10.1111/mmi.12677
   Volume: '93'
-  Year: '2014'
+  Year: 2014
   isFirstLast: false
   type: Journal Article
 - Accession: 1460-2059
@@ -316,7 +316,7 @@
   Title: Automatic determination of NET (neutrophil extracellular traps) coverage in fluorescent microscopy images
   Doi: 10.1093/bioinformatics/btv156
   Volume: '31'
-  Year: '2015'
+  Year: 2015
   isFirstLast: true
   type: Journal Article
 - Accession: 0036-8075
@@ -377,7 +377,7 @@
   Title: Structure and function of the global ocean microbiome
   Doi: 10.1126/science.1261359
   Volume: '348'
-  Year: '2015'
+  Year: 2015
   isFirstLast: true
   type: Journal Article
 - Accession: 1756-3305
@@ -397,7 +397,7 @@
   Title: Gene expression changes in the salivary glands of Anopheles coluzzii elicited by Plasmodium berghei infection
   Doi: 10.1186/s13071-015-1079-8
   Volume: '8'
-  Year: '2015'
+  Year: 2015
   isFirstLast: false
   type: Journal Article
 - Accession: 0028-0836
@@ -416,7 +416,7 @@
   Publisher: Nature Publishing Group
   Title: Plankton networks driving carbon export in the oligotrophic ocean
   Doi: 10.1038/nature16942
-  Year: '2016'
+  Year: 2016
   isFirstLast: false
   type: Journal Article
 - Accession: 1367-4803
@@ -438,7 +438,7 @@
   Title: 'MOCAT2: a metagenomic assembly, annotation and profiling framework'
   Doi: 10.1093/bioinformatics/btw183
   Volume: '32'
-  Year: '2016'
+  Year: 2016
   isFirstLast: false
   type: Journal Article
 - Accession: 1756-994X
@@ -458,7 +458,7 @@
   Title: Functional implications of microbial and viral gut metagenome changes in early stage L-DOPA-naïve Parkinson’s disease patients
   Doi: 10.1186/s13073-017-0428-y
   Volume: '9'
-  Year: '2017'
+  Year: 2017
   isFirstLast: false
   type: Journal Article
 - Authors:
@@ -474,7 +474,7 @@
   Publisher: Oxford University Press
   Title: Fast genome-wide functional annotation through orthology assignment by eggNOG-mapper
   Doi: 10.1093/molbev/msx148
-  Year: '2017'
+  Year: 2017
   isFirstLast: false
   type: Journal Article
 - Accession: 1932-6203
@@ -492,7 +492,7 @@
   Title: 'metaSNV: A tool for metagenomic strain level analysis'
   Doi: 10.1371/journal.pone.0182392
   Volume: '12'
-  Year: '2017'
+  Year: 2017
   isFirstLast: false
   type: Journal Article
 - Accession: 1546-1696
@@ -559,7 +559,7 @@
   Journal: Nature biotechnology
   Title: Towards standards for human fecal sample processing in metagenomic studies
   Doi: 10.1038/nbt.3960
-  Year: '2017'
+  Year: 2017
   isFirstLast: false
   type: Journal Article
 - Accession: 2049-9647
@@ -571,7 +571,7 @@
   Title: 'Jug: Software for Parallel Reproducible Computation in Python'
   Doi: 10.5334/jors.161
   Volume: '5'
-  Year: '2017'
+  Year: 2017
   isFirstLast: true
   type: Journal Article
 - Accession: 2050-084X
@@ -590,7 +590,7 @@
   Title: Quantitative 3D-imaging for cell biology and ecology of environmental microbial eukaryotes
   Doi: 10.7554/eLife.26066.001
   Volume: '6'
-  Year: '2017'
+  Year: 2017
   isFirstLast: true
   type: Journal Article
 - Accession: 1744-4292
@@ -612,7 +612,7 @@
   Title: Subspecies in the global human gut microbiome
   Doi: 10.15252/msb.20177589
   Volume: '13'
-  Year: '2017'
+  Year: 2017
   isFirstLast: false
   type: Journal Article
 - Accession: 1088-9051
@@ -630,7 +630,7 @@
   Publisher: Cold Spring Harbor Lab
   Title: Selective maternal seeding and environment shape the human gut microbiome
   Doi: 10.1101/gr.233940.117
-  Year: '2018'
+  Year: 2018
   isFirstLast: false
   type: Journal Article
 - Accession: 2049-2618
@@ -655,7 +655,7 @@
   Title: Similarity of the dog and human gut microbiomes in gene content and response to diet
   Doi: 10.1186/s40168-018-0450-3
   Volume: '6'
-  Year: '2018'
+  Year: 2018
   isFirstLast: true
   type: Journal Article
 - Accession: 2049-2618
@@ -673,7 +673,7 @@
   Title: 'NG-meta-profiler: fast processing of metagenomes using NGLess, a domain-specific language'
   Doi: 10.1186/s40168-019-0684-8
   Volume: '7'
-  Year: '2019'
+  Year: 2019
   isFirstLast: true
   type: Journal Article
 - Accession: 1476-4687
@@ -706,7 +706,7 @@
   Title: Structure and function of the global topsoil microbiome
   Doi: 10.1038/s41586-018-0386-6
   Volume: '560'
-  Year: '2018'
+  Year: 2018
   isFirstLast: false
   type: Journal Article
 - Accession: 2058-5276
@@ -742,7 +742,7 @@
   Title: Recovery of gut microbiota of healthy adults following antibiotic exposure
   Doi: 10.1038/s41564-018-0257-9
   Volume: '3'
-  Year: '2018'
+  Year: 2018
   isFirstLast: false
   type: Journal Article
 - Accession: 2050-084X
@@ -770,7 +770,7 @@
   Title: Extensive transmission of microbes along the gastrointestinal tract
   Doi: 10.7554/eLife.42693
   Volume: '8'
-  Year: '2019'
+  Year: 2019
   isFirstLast: false
   type: Journal Article
 - Accession: 0886-6236
@@ -867,7 +867,7 @@
   Journal: Global Biogeochemical Cycles
   Title: Community‐Level Responses to Iron Availability in Open Ocean Planktonic Ecosystems
   Doi: 10.1029/2018GB006022
-  Year: '2019'
+  Year: 2019
   isFirstLast: false
   type: Journal Article
 - Accession: 2041-1723
@@ -897,7 +897,7 @@
   Title: Microbial abundance, activity and population genomic profiling with mOTUs2
   Doi: 10.1038/s41467-019-08844-4
   Volume: '10'
-  Year: '2019'
+  Year: 2019
   isFirstLast: false
   type: Journal Article
 - Accession: 1546-170X
@@ -944,7 +944,7 @@
   Title: Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer
   Doi: 10.1038/s41591-019-0406-6
   Volume: '25'
-  Year: '2019'
+  Year: 2019
   isFirstLast: false
   type: Journal Article
 - Accession: 0305-1048
@@ -970,7 +970,7 @@
   Title: 'proGenomes2: an improved database for accurate and consistent habitat, taxonomic and functional annotations of prokaryotic genomes'
   Doi: 10.1093/nar/gkz1002
   Volume: '48'
-  Year: '2020'
+  Year: 2020
   isFirstLast: false
   type: Journal Article
 - Accession: 0092-8674
@@ -992,7 +992,7 @@
   Title: Global trends in marine plankton diversity across kingdoms of life
   Doi: 10.1016/j.cell.2019.10.008
   Volume: '179'
-  Year: '2019'
+  Year: 2019
   isFirstLast: false
   type: Journal Article
 - Accession: 0092-8674
@@ -1048,7 +1048,7 @@
   Title: Gene Expression Changes and Community Turnover Differentially Shape the Global Ocean Metatranscriptome
   Doi: 10.1016/j.cell.2019.10.014
   Volume: '179'
-  Year: '2019'
+  Year: 2019
   isFirstLast: false
   type: Journal Article
 - Accession: 1751-7370
@@ -1072,7 +1072,7 @@
   Title: Disentangling the impact of environmental and phylogenetic constraints on prokaryotic within-species diversity
   Doi: 10.1038/s41396-020-0600-z
   Volume: '14'
-  Year: '2020'
+  Year: 2020
   isFirstLast: false
   type: Journal Article
 - Accession: 1476-4687
@@ -1132,7 +1132,7 @@
   Title: Statin therapy is associated with lower prevalence of gut microbiota dysbiosis
   Doi: 10.1038/s41586-020-2269-x
   Volume: '581'
-  Year: '2020'
+  Year: 2020
   isFirstLast: false
   type: Journal Article
 - Accession: 1471-0080
@@ -1145,7 +1145,7 @@
   Title: 'Voices of the new generation: science in a state of benign confusion'
   Doi: 10.1038/s41580-020-0265-5
   Volume: '21'
-  Year: '2020'
+  Year: 2020
   isFirstLast: true
   type: Journal Article
 - Accession: 1462-2912
@@ -1165,7 +1165,7 @@
   Title: Metagenomic assessment of the global diversity and distribution of bacteria and fungi
   Doi: 10.1111/1462-2920.15314
   Volume: '23'
-  Year: '2021'
+  Year: 2021
   isFirstLast: false
   type: Journal Article
 - Accession: 1474-760X
@@ -1185,7 +1185,7 @@
   Title: 'GUNC: detection of chimerism and contamination in prokaryotic genomes'
   Doi: 10.1186/s13059-021-02393-0
   Volume: '22'
-  Year: '2021'
+  Year: 2021
   isFirstLast: false
   type: Journal Article
 - Accession: 2167-8359
@@ -1200,7 +1200,7 @@
   Title: 'MACREL: antimicrobial peptide screening in genomes and metagenomes'
   Doi: 10.7717/peerj.10555
   Volume: '8'
-  Year: '2020'
+  Year: 2020
   isFirstLast: true
   type: Journal Article
 - Authors:
@@ -1213,7 +1213,7 @@
   Publisher: Cold Spring Harbor Laboratory
   Title: 'metaMIC: reference-free Misassembly Identification and Correction of de novo metagenomic assemblies'
   Doi: 10.1101/2021.06.22.449514v1
-  Year: '2021'
+  Year: 2021
   isFirstLast: true
   type: Journal Article
 - Authors:
@@ -1225,7 +1225,7 @@
   Publisher: Cold Spring Harbor Laboratory
   Title: 'SemiBin: Incorporating information from reference genomes with semi-supervised deep learning leads to better metagenomic assembled genomes (MAGs)'
   Doi: 10.1101/2021.08.16.456517
-  Year: '2021'
+  Year: 2021
   isFirstLast: true
   type: Journal Article
 - Authors:
@@ -1243,7 +1243,7 @@
   Publisher: Cold Spring Harbor Laboratory
   Title: Drivers and Determinants of Strain Dynamics Following Faecal Microbiota Transplantation
   Doi: 10.1101/2021.09.30.462010
-  Year: '2021'
+  Year: 2021
   isFirstLast: false
   type: Journal Article
 - Title: Combinatorial, additive and dose-dependent drug–microbiome associations
@@ -1370,7 +1370,7 @@
   - The MetaCardis Consortium*
   Journal: Nature
   Doi: 10.1038/s41586-021-04177-9
-  Year: '2021'
+  Year: 2021
   Date: 2021-12-8
   isFirstLast: false
 - Title: An open code pledge for the neuroscience community
@@ -1391,6 +1391,6 @@
   - Luis Pedro Coelho
   Journal: 'MetaArXiv Preprint'
   Doi: 10.31222/osf.io/vrwm7
-  Year: '2021'
+  Year: 2021
   Date: 2021-12-7
   isFirstLast: true

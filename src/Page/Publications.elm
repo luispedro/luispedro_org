@@ -32,7 +32,7 @@ type alias Publication =
     --, abstract : String
     , journal : String
     --, date : String
-    , year : String
+    , year : Int
     , doi : String
     , authors : List String
     , isFirstLast : Bool
@@ -42,7 +42,7 @@ readPublication =
     Decode.map6 Publication
         (Decode.field "Title" Decode.string)
         (Decode.field "Journal" Decode.string)
-        (Decode.field "Year" Decode.string)
+        (Decode.field "Year" Decode.int)
         (Decode.field "Doi" Decode.string)
         (Decode.field "Authors" (Decode.list Decode.string))
         (Decode.field "isFirstLast" Decode.bool)
@@ -70,10 +70,11 @@ showPeriod p = case p of
     Since2018 -> "Since 2018"
     Since2011 -> "Since 2011"
 
+matchPeriod : Maybe PeriodFilter -> Publication -> Bool
 matchPeriod mp pub = case mp of
     Nothing -> True
-    Just Since2018 -> Maybe.withDefault 0 (String.toInt pub.year) >= 2018
-    Just Since2011 -> Maybe.withDefault 0 (String.toInt pub.year) >= 2011
+    Just Since2018 -> pub.year >= 2018
+    Just Since2011 -> pub.year >= 2011
 
 type alias Model =
     { activePeriod : Maybe PeriodFilter
@@ -274,7 +275,7 @@ showPaper n ix p =
                 (showAuthors p.authors)
             ,Html.text " in "
             ,Html.span [HtmlAttr.style "font-variant" "small-caps"] [Html.text p.journal]
-            ,Html.text (" ("++p.year++").")
+            ,Html.text (" ("++String.fromInt p.year++").")
             ]
 
 showAuthors ax =
