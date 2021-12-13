@@ -20,46 +20,15 @@ import Html
 import Html.Attributes as HtmlAttr
 import Pages.Url
 
-import SiteMarkdown
-import Shared
-
 import Yaml.Decode as Decode
 
-type alias Publication =
-    { title : String
-    --, slug : String
-    --, short_description : String
-    --, abstract : String
-    , journal : String
-    --, date : String
-    , year : Int
-    , doi : String
-    , authors : List String
-    , isFirstLast : Bool
-    }
+import SiteMarkdown
+import Shared
+import Publications as Pub
 
-readPublication =
-    Decode.map6 Publication
-        (Decode.field "Title" Decode.string)
-        (Decode.field "Journal" Decode.string)
-        (Decode.field "Year" Decode.int)
-        (Decode.field "Doi" Decode.string)
-        (Decode.field "Authors" (Decode.list Decode.string))
-        (Decode.field "isFirstLast" Decode.bool)
 
-papersLPC : DataSource (List Publication)
-papersLPC =
-    DataSource.File.rawFile "papers.yaml"
-        |> DataSource.andThen (\raw ->
-            raw
-                |> Decode.fromString (Decode.list readPublication)
-                |> Result.mapError (\err -> case err of
-                                        Decode.Parsing s -> "Parse error: " ++ s
-                                        Decode.Decoding s -> "Decode error: " ++ s)
-                |> DataSource.fromResult)
-        |> DataSource.map List.reverse
 
-type alias Data = List Publication
+type alias Data = List Pub.Publication
 type alias RouteParams = {}
 
 type PeriodFilter =
@@ -70,7 +39,7 @@ showPeriod p = case p of
     Since2018 -> "Since 2018"
     Since2011 -> "Since 2011"
 
-matchPeriod : Maybe PeriodFilter -> Publication -> Bool
+matchPeriod : Maybe PeriodFilter -> Pub.Publication -> Bool
 matchPeriod mp pub = case mp of
     Nothing -> True
     Just Since2018 -> pub.year >= 2018
@@ -111,7 +80,7 @@ head static =
 page = Page.prerender
         { head = head
         , routes = DataSource.succeed [{}]
-        , data = \_ -> papersLPC
+        , data = \_ -> Pub.papersLPC
         }
         |> Page.buildWithLocalState
             { view = view
@@ -238,7 +207,7 @@ showSelection model =
                     ]
                 ]
 
-showPapers : List Publication -> Model -> Grid.Column Msg
+showPapers : List Pub.Publication -> Model -> Grid.Column Msg
 showPapers papers model =
     let
         papersA = if model.onlyFirstLast
@@ -272,17 +241,9 @@ showPaper n ix p =
                 [Html.cite [] [Html.text p.title]]
             ,Html.text " by "
             ,Html.span []
-                (showAuthors p.authors)
+                (Pub.showAuthors True p.authors)
             ,Html.text " in "
             ,Html.span [HtmlAttr.style "font-variant" "small-caps"] [Html.text p.journal]
             ,Html.text (" ("++String.fromInt p.year++").")
             ]
-
-showAuthors ax =
-    let
-        showAuthor a =
-            if String.contains "Coelho" a && String.startsWith "L" a
-                then Html.b [] [Html.text a]
-                else Html.text a
-    in List.intersperse (Html.text ", ") (List.map showAuthor ax)
 
