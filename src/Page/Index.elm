@@ -45,9 +45,9 @@ head static =
             , dimensions = Nothing
             , mimeType = Nothing
             }
-        , description = "Interactive list of the papers published by Luis Pedro Coelho"
+        , description = "Luis Pedro Coelho's Website"
         , locale = Nothing
-        , title = "Papers published by Luis Pedro Coelho"
+        , title = "Luis Pedro Coelho"
         }
         |> Seo.website
 
