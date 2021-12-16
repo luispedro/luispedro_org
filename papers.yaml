@@ -1394,3 +1394,52 @@
   Year: 2021
   Date: 2021-12-7
   isFirstLast: true
+- Title: 'EXPERT: Transfer Learning-enabled context-aware microbial source tracking'
+  Authors:
+  - Hui Chong
+  - Qingyang Yu
+  - Yuguo Zha
+  - Guangzhou Xiong
+  - Nan Wang
+  - Xinhe Huang
+  - Shijuan Huang
+  - Chuqing Sun
+  - Sicheng Wu
+  - Weihua Chen
+  - Luis Pedro Coelho
+  - Kang Ning
+  Journal: 'biorXiv'
+  Doi: 10.1101/2021.01.29.428751
+  Year: 2021
+  Date: 2021-01-31
+  isFirstLast: false
+- Title: Towards the biogeography of prokaryotic genes
+  Authors:
+  - Luis Pedro Coelho
+  - Renato Alves
+  - Álvaro Rodríguez del Río
+  - Pernille Neve Myers
+  - Carlos P. Cantalapiedra
+  - Joaquín Giner-Lamia
+  - Thomas Sebastian Schmidt
+  - Daniel R. Mende
+  - Askarbek Orakov
+  - Ivica Letunic
+  - Falk Hildebrand
+  - Thea Van Rossum
+  - Sofia K. Forslund
+  - Supriya Khedkar
+  - Oleksandr M. Maistrenko
+  - Shaojun Pan
+  - Longhao Jia
+  - Pamela Ferretti
+  - Shinichi Sunagawa
+  - Xing-Ming Zhao
+  - Henrik Bjørn Nielsen
+  - Jaime Huerta-Cepas
+  - Peer Bork
+  Journal: Nature
+  Doi: 10.1038/s41586-021-04233-4
+  Year: 2021
+  Date: '2021-12-15'
+  isFirstLast: true

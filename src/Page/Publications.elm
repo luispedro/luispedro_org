@@ -136,18 +136,26 @@ science](https://publons.com/researcher/271636/luis-pedro-coelho/):
 
 # Selected Publications
 
-1.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
+1.  **Luis Pedro Coelho**, Renato Alves, Álvaro Rodríguez del Río, Pernille
+    Neve Myers, Carlos P. Cantalapiedra, Joaquín Giner-Lamia, Thomas Sebastian
+    Schmidt, Daniel R. Mende, Askarbek Orakov, Ivica Letunic, Falk Hildebrand,
+    Thea Van Rossum, Sofia K. Forslund, Supriya Khedkar, Oleksandr M.
+    Maistrenko, Shaojun Pan, Longhao Jia, Pamela Ferretti, Shinichi Sunagawa,
+    Xing-Ming Zhao, Henrik Bjørn Nielsen, Jaime Huerta-Cepas⁺, Peer Bork⁺
+    [Towards the biogeography of prokaryotic genes
+    ](https://doi.org/10.1038/s41586-021-04233-4) in Nature (2021).
+2.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
     Coelho** ⁺ [SemiBin: Incorporating information from reference
     genomes with semi-supervised deep learning leads to better
     metagenomic assembled genomes
     (MAGs)](https://doi.org/10.1101/2021.08.16.456517) BioRxiv
     preprint (2021)
-2.  **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
+3.  **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
     Huerta-Cepas, Ana Teresa Freitas, and Peer Bork [NG-meta-profiler:
     fast processing of metagenomes using NGLess, a domain-specific
     language](https://doi.org/10.1186/s40168-019-0684-8),
     Microbiome (2019)
-3.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+4.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K.
     Forslund, Patrick Descombes, Janet Jackson, Qinghong Li, and Peer
     Bork [Similarity of the dog and human gut microbiomes in gene
@@ -155,7 +163,7 @@ science](https://publons.com/researcher/271636/luis-pedro-coelho/):
     diet](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3)
     in Microbiome (2018)
     \\[[DOI](https://doi.org/10.1186/s40168-018-0450-3)\\]
-4.  Shinichi Sunagawa,\\* **Luis Pedro Coelho**\\*, Samuel Chaffron\\*,
+5.  Shinichi Sunagawa,\\* **Luis Pedro Coelho**\\*, Samuel Chaffron\\*,
     Jens Roat Kultima, Karine Labadie, Guillem Salazar, Bardya
     Djahanschiri, Georg Zeller, Daniel R. Mende, Adriana Alberti,
     Francisco M. Cornejo-Castillo, Paul I. Costea, Corinne Cruaud,
