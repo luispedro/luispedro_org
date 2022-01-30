@@ -144,7 +144,7 @@ any of these opportunities (or to invite me for other opportunities).
 
 # Recent Publications
 
-Recent(ish) publications (last 5 years; updated *12 Dec 2021*; see [full
+Recent(ish) publications (last 5 years; updated *30 Jan 2022*; see [full
 list](/publications)):
 
 """]
