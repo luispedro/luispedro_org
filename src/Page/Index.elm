@@ -142,6 +142,9 @@ in the way of doing so.
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
 
+If you want to chat with me about science and such, you can use [my calendly
+link](https://calendly.com/luis-pedro-coelho/pub-zoom-15).
+
 # Recent Publications
 
 Recent(ish) publications (last 5 years; updated *30 Jan 2022*; see [full
