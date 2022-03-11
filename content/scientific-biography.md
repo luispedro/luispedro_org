@@ -21,7 +21,7 @@ image analysis and text modeling. I worked on the image analysis component,
 extending the system beyond fluorescence microscopy panels to encompass other
 types of images. The SLIF project was one of [4 finalists in the Elsevier Grand
 Challenge](https://www.elsevier.com/about/press-releases/corporate/finalists-announced-in-the-elsevier-grand-challenge)
-([Ahmed et al., 2009](http://dx.doi.org/10.1016/j.websem.2010.04.002); [Coelho
+([Ahmed et al., 2009](https://dx.doi.org/10.1016/j.websem.2010.04.002); [Coelho
 et al., 2010](https://link.springer.com/chapter/10.1007/978-3-642-13131-8_4)).
 
 
@@ -30,8 +30,8 @@ mixtures of location patterns (when a protein is present, in differing
 quantities, in more than one location, e.g., the nucleus and the cytoplasm). I
 extended previous work that solved the supervised version of this problem —when
 the basis patterns are known and given to the algorithm ([Peng et al.,
-2010](http://www.pnas.org/content/107/7/2944.short))—to work in an unsupervised
-fashion ([Coelho*, Peng*, et al., 2011](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7)).
+2010](https://www.pnas.org/content/107/7/2944.short))—to work in an unsupervised
+fashion ([Coelho*, Peng*, et al., 2011](https://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7)).
 
 One basic task in the field of biomage analysis is classification of
 subcellular patterns (and, more generally, supervised classification of
@@ -45,7 +45,7 @@ training and testing so that algorithms were learned on the training set and
 evaluated on the testing one. This is known as cross-validation and is an
 excellent way to measure of the accuracy when the task is to recognize the
 given protein. However, as I showed in ([Coelho et al.,
-2013](http://dx.doi.org/10.1093/bioinformatics/btt392)) this leads to an
+2013](https://dx.doi.org/10.1093/bioinformatics/btt392)) this leads to an
 over-inflated measure of performance when the real task
 is to extrapolate from the patterns exhibited by known proteins to proteins of
 unknown. In fact, the algorithm can obtain high accuracy by learning to
@@ -69,17 +69,17 @@ amount of NETs present in an image. Thus, I developed a method which uses
 imperfect segmentation and random forest regression to achieve a high
 correlation between the algorithm and the human operator; the cross-validated
 R² is 93% ([Coelho et al.,
-2015](http://doi.org/10.1093/bioinformatics/btv156)).
+2015](https://doi.org/10.1093/bioinformatics/btv156)).
 
 As part of this body of work, I developed the [mahotas Python library for
 computer vision](https://mahotas.readthedocs.io) ([Coelho,
-2013](http://dx.doi.org/10.5334/jors.ac)). This package includes several
+2013](https://dx.doi.org/10.5334/jors.ac)). This package includes several
 general-purpose algorithms for image processing and it has been used by others
 in bioimage analysis as well as in other domains.
 
 Recently, I have applied some of the same techniques in the context of
 identifying protists in high-throughput fluorescence microscopy ([Colin\*,
-Coelho\*, et al., 2017](http://doi.org/10.7554/eLife.26066.001)). In this work,
+Coelho\*, et al., 2017](https://doi.org/10.7554/eLife.26066.001)). In this work,
 I developed the computational pipeline for processing fluorescence microscopy
 images of environmental (marine) samples containing a mixture of protists. The
 system automatically segments the images to extract individual objects
@@ -104,12 +104,12 @@ Early on in the Bork lab, I was involved in developing the mOTUs tool
 (metagenomic OTUs), an approach for taxonomic quantification of metagenomic
 samples which extends reference based methods to be able to infer the existence
 of species for which there is no reference genome based on metagenomics data
-([Sunagawa et al., 2013](http://dx.doi.org/10.1038/nmeth.2693)).
+([Sunagawa et al., 2013](https://dx.doi.org/10.1038/nmeth.2693)).
 
 Subsequently, as part of the Tara Oceans project, I worked on analysing the
 relationship between prokaryotic community composition and environmental
 parameters ([Sunagawa\*, Coelho\*, Chaffron\* et al.,
-2015](http://doi.org/10.1126/science.1261359)). As part of this work, we built
+2015](https://doi.org/10.1126/science.1261359)). As part of this work, we built
 and presented a gene catalog of the marine prokaryotic world. When we related
 the taxonomic or functional profiles of each metagenome to environmental
 parameters of the sample (measured in situ), we concluded that
@@ -125,7 +125,7 @@ At the time, I also worked on improving the implementation of metagenomics data
 processing code in MOCAT (version 1 of the tool would not have been able to
 process the Tara oceans dataset in a reasonable timeframe). That work was later
 included in the next version of the tool, namely MOCAT2 ([Kultima et al.,
-2016](http://doi.org/10.1093/bioinformatics/btw183)).
+2016](https://doi.org/10.1093/bioinformatics/btw183)).
 
 More recently, I built a gene catalog of the dog gut microbiome as part of the
 analysis of a randomized diet study of dogs (high-protein low-carbohydrate vs.
@@ -149,13 +149,13 @@ ones and it is a finding that should be tested in humans ([Coelho et al.,
 2018](https://doi.org/10.1186/s40168-018-0450-3)).
 
 To analyse these datasets, I have developed a tool, called NGLess (see
-[http://ngless.embl.de](http://ngless.embl.de)) which is based on a new
+[https://ngless.embl.de](https://ngless.embl.de)) which is based on a new
 approach (a domain specific language for sequence processing) to ensure
 reproducibility of the processing pipelines. In addition to building upon the
 afore-mentioned MOCAT/MOCAT2 tools, this work incorporates ideas from a generic
 reproducible computational pipeline tool, Jug, that I have developed throughout
 the last decade as a support tool for my own projects, but which has since used
-by others as well ([Coelho, 2017](http://doi.org/10.5334/jors.161)).
+by others as well ([Coelho, 2017](https://doi.org/10.5334/jors.161)).
 
 I also worked on validating the use of the eggnog-mapper tool on metagenomics
 data ([Huerta-Cepas et al., 2017](https://doi.org/10.1093/molbev/msx148)),
@@ -163,11 +163,11 @@ which is now our state-of-the-art tool for gene annotation.
 
 I contributed to analysing how the planktonic community structure contributes
 to carbon capture ([Guidi\*, Chaffron\*, Bittner\* et al.,
-2016](http://doi.org/10.1038/nature16942)), how antibiotic resistance is
+2016](https://doi.org/10.1038/nature16942)), how antibiotic resistance is
 distributed across geography ([Forslund et al.,
-2014](http://doi.org/10.1002/bies.201300143)), how the infant microbiome is
+2014](https://doi.org/10.1002/bies.201300143)), how the infant microbiome is
 formed ([Korpela et al., 2018](https://doi.org/10.1101/gr.233940.117)), and how
 there is a natural structure to the bacterial world below species level, what
 we termed subspecies ([Costea et al.,
-2017](http://doi.org/10.15252/msb.20177589)).
+2017](https://doi.org/10.15252/msb.20177589)).
 

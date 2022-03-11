@@ -14,7 +14,7 @@ It also handles intermediate results for you.
 ## More Information
 
 After you\'ve read the example here, you can read the [full
-documentation](http://packages.python.org/Jug).
+documentation](https://packages.python.org/Jug).
 
 ## Example
 
