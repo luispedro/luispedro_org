@@ -1622,3 +1622,20 @@
   Year: 2022
   Date: '2022-01-27'
   isFirstLast: false
+- Title: 'Software testing in microbial bioinformatics: a call to action'
+  Authors:
+  - Boas C.L. van der Putten
+  - C. I. Mendes
+  - Brooke M. Talbot
+  - Jolinda de Korne-Elenbaas
+  - Rafael Mamede
+  - Pedro Vila-Cerqueira
+  - Luis Pedro Coelho
+  - Christopher A. Gulvik
+  - Lee S. Katz
+  - The ASM NGS 2020 Hackathon participants
+  Journal: Microbial Genomics
+  Doi: 10.1099/mgen.0.000790
+  Year: 2022
+  Date: '2022-03-08'
+  isFirstLast: false
