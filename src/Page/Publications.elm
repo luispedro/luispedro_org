@@ -125,14 +125,14 @@ intro =
         [SiteMarkdown.mdToHtml """
 # Full List of Publications
 
-Updated: **30 Jan 2022**
+Updated: **14 Mar 2022**
 
 [My google scholar
 profile](http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 
-Google Scholar total citations: 9,107; h-index: 32 ([Web of
+Google Scholar total citations: 9,494; h-index: 32 ([Web of
 science](https://publons.com/researcher/271636/luis-pedro-coelho/):
-5,391 citations; h-index: 27)
+5,624 citations; h-index: 27)
 
 # Selected Publications
 
@@ -143,25 +143,25 @@ science](https://publons.com/researcher/271636/luis-pedro-coelho/):
     Maistrenko, Shaojun Pan, Longhao Jia, Pamela Ferretti, Shinichi Sunagawa,
     Xing-Ming Zhao, Henrik Bjørn Nielsen, Jaime Huerta-Cepas⁺, Peer Bork⁺
     [Towards the biogeography of prokaryotic genes
-    ](https://doi.org/10.1038/s41586-021-04233-4) in Nature (2021).
+    ](https://doi.org/10.1038/s41586-021-04233-4) in _Nature_ (2022).
 2.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
     Coelho** ⁺ [SemiBin: Incorporating information from reference
     genomes with semi-supervised deep learning leads to better
     metagenomic assembled genomes
-    (MAGs)](https://doi.org/10.1101/2021.08.16.456517) BioRxiv
-    preprint (2021)
+    (MAGs)](https://doi.org/10.1101/2021.08.16.456517) _BioRxiv
+    preprint_ (2021)
 3.  **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
     Huerta-Cepas, Ana Teresa Freitas, and Peer Bork [NG-meta-profiler:
     fast processing of metagenomes using NGLess, a domain-specific
-    language](https://doi.org/10.1186/s40168-019-0684-8),
-    Microbiome (2019)
+    language](https://doi.org/10.1186/s40168-019-0684-8) in
+    _Microbiome_ (2019)
 4.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K.
     Forslund, Patrick Descombes, Janet Jackson, Qinghong Li, and Peer
     Bork [Similarity of the dog and human gut microbiomes in gene
     content and response to
     diet](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3)
-    in Microbiome (2018)
+    in _Microbiome_ (2018)
     \\[[DOI](https://doi.org/10.1186/s40168-018-0450-3)\\]
 5.  Shinichi Sunagawa,\\* **Luis Pedro Coelho**\\*, Samuel Chaffron\\*,
     Jens Roat Kultima, Karine Labadie, Guillem Salazar, Bardya
@@ -178,7 +178,7 @@ science](https://publons.com/researcher/271636/luis-pedro-coelho/):
     Stemmann, Matthew B. Sullivan, Jean Weissenbach, Patrick Wincker,
     Eric Karsenti, Jeroen Raes, Silvia G. Acinas, Peer Bork, [Structure
     and function of the global ocean microbiome](http://doi.org/10.1126/science.1261359)
-    in Science (2015)
+    in _Science_ (2015)
     \\[[DOI](http://doi.org/10.1126/science.1261359)\\]
     \\[[PDF](http://www.bork.embl.de/publication/pdf/25999513.pdf)\\]
 """]

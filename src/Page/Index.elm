@@ -147,7 +147,7 @@ link](https://calendly.com/luis-pedro-coelho/pub-zoom-15).
 
 # Recent Publications
 
-Recent(ish) publications (last 5 years; updated *30 Jan 2022*; see [full
+Recent(ish) publications (last 5 years; updated *14 Mar 2022*; see [full
 list](/publications)):
 
 """]
