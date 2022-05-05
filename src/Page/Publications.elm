@@ -125,14 +125,14 @@ intro =
         [SiteMarkdown.mdToHtml """
 # Full List of Publications
 
-Updated: **27 Mar 2022**
+Updated: **5 May 2022**
 
 [My google scholar
 profile](http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 
-Google Scholar total citations: 9,603; h-index: 34 ([Web of
+Google Scholar total citations: 9,933; h-index: 33 ([Web of
 science](https://publons.com/researcher/271636/luis-pedro-coelho/):
-5,718 citations; h-index: 27)
+5,903 citations; h-index: 27)
 
 # Selected Publications
 
@@ -145,11 +145,10 @@ science](https://publons.com/researcher/271636/luis-pedro-coelho/):
     [Towards the biogeography of prokaryotic genes
     ](https://doi.org/10.1038/s41586-021-04233-4) in _Nature_ (2022).
 2.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
-    Coelho** ⁺ [SemiBin: Incorporating information from reference
-    genomes with semi-supervised deep learning leads to better
-    metagenomic assembled genomes
-    (MAGs)](https://doi.org/10.1101/2021.08.16.456517) _BioRxiv
-    preprint_ (2021)
+    Coelho** ⁺ [A deep siamese neural network improves metagenome-assembled
+    genomes in microbiome datasets across different
+    environments](https://doi.org/10.1038/s41467-022-29843-y) in _Nature
+    Communications_ (2022).
 3.  **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
     Huerta-Cepas, Ana Teresa Freitas, and Peer Bork [NG-meta-profiler:
     fast processing of metagenomes using NGLess, a domain-specific

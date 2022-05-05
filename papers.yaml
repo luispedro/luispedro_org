@@ -1217,18 +1217,6 @@
   isFirstLast: true
   type: Journal Article
 - Authors:
-  - Shaojun Pan
-  - Chengkai Zhu
-  - Xing-Ming Zhao
-  - Luis Pedro Coelho
-  Journal: bioRxiv
-  Publisher: Cold Spring Harbor Laboratory
-  Title: 'SemiBin: Incorporating information from reference genomes with semi-supervised deep learning leads to better metagenomic assembled genomes (MAGs)'
-  Doi: 10.1101/2021.08.16.456517
-  Year: 2021
-  isFirstLast: true
-  type: Journal Article
-- Authors:
   - Thomas SB Schmidt
   - Simone S Li
   - Oleksandr M Maistrenko
@@ -1729,3 +1717,15 @@
   Year: 2022
   Date: '2022-03-22'
   isFirstLast: false
+- Title: A deep siamese neural network improves metagenome-assembled genomes in microbiome
+    datasets across different environments
+  Authors:
+  - Shaojun Pan
+  - Chengkai Zhu
+  - Xing-Ming Zhao
+  - Luis Pedro Coelho
+  Journal: Nature Communications
+  Doi: 10.1038/s41467-022-29843-y
+  Year: 2022
+  Date: '2022-04-28'
+  isFirstLast: true
