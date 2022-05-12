@@ -136,8 +136,7 @@ in the way of doing so.
 
 # Upcoming Travels & Talks
 
-**2021 April 6-9**: Keystone Symposium
-[Micropeptides: Biogenesis and Function](https://www.keystonesymposia.org/KS/Online/Events/Future/Details.aspx?EventKey=2022T5&Tabs=1)
+**2022 June 9**: [Novozymes Prize Awardee 2021 - Novozymes Prize Symposium](https://www.tilmeld.dk/novozymesprize/symposium-programme)
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -162,6 +161,11 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 # Other News
 
 (See above for papers)
+
+**2022**
+
+**April 6-9**: Keystone Symposium
+[Micropeptides: Biogenesis and Function](https://www.keystonesymposia.org/KS/Online/Events/Future/Details.aspx?EventKey=2022T5&Tabs=1)
 
 **2020**
 
