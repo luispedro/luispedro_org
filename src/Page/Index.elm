@@ -138,6 +138,8 @@ in the way of doing so.
 
 **2022 June 9**: [Novozymes Prize Awardee 2021 - Novozymes Prize Symposium](https://www.tilmeld.dk/novozymesprize/symposium-programme)
 
+**2022 June 2**: [Open Office Hours](https://us02web.zoom.us/meeting/register/tZIlc-qpqzMiG9RNqWXchILK34JSfqwKUDKA)
+
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
 
