@@ -125,14 +125,14 @@ intro =
         [SiteMarkdown.mdToHtml """
 # Full List of Publications
 
-Updated: **5 May 2022**
+Updated: **27 Aug 2022**
 
 [My google scholar
 profile](http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 
-Google Scholar total citations: 9,933; h-index: 33 ([Web of
-science](https://publons.com/researcher/271636/luis-pedro-coelho/):
-5,903 citations; h-index: 27)
+Google Scholar total citations: 11,044; h-index: 35 ([Web of
+science](https://www.webofscience.com/wos/author/record/1798261):
+7,009 citations; h-index: 28)
 
 # Selected Publications
 
