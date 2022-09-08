@@ -101,6 +101,20 @@ location analysis with [Bob Murphy](https://murphylab.web.cmu.edu/).
 
 My [Erdös-Bacon number is 7](/erdos-bacon).
 
+# Upcoming Travels & Talks
+
+**2022 September 17-21** [ECCB 2022](https://eccb2022.org/) I will present in
+the [Quest for Orthologs](https://eccb2022.org/ntb-w11/) workshop
+
+**2022 September 24-29** I will attend
+[EDAR](https://www.gu.se/en/care/edar6-gothenburg-2022)
+
+[Email me](mailto:luis@luispedro.org) if you want to set up meetings at
+any of these opportunities (or to invite me for other opportunities).
+
+If you want to chat with me about science and such, you can use [my calendly
+link](https://calendly.com/luis-pedro-coelho/pub-zoom-15).
+
 # Research Interests
 
 **More technical version:** I am interested in combining meta\'omics
@@ -134,17 +148,6 @@ computer methods (software) for these tasks. Thus my work is a mix of
 solving biological problems and tackling the software issues that stand
 in the way of doing so.
 
-# Upcoming Travels & Talks
-
-**2022 June 9**: [Novozymes Prize Awardee 2021 - Novozymes Prize Symposium](https://www.tilmeld.dk/novozymesprize/symposium-programme)
-
-**2022 June 2**: [Open Office Hours](https://us02web.zoom.us/meeting/register/tZIlc-qpqzMiG9RNqWXchILK34JSfqwKUDKA)
-
-[Email me](mailto:luis@luispedro.org) if you want to set up meetings at
-any of these opportunities (or to invite me for other opportunities).
-
-If you want to chat with me about science and such, you can use [my calendly
-link](https://calendly.com/luis-pedro-coelho/pub-zoom-15).
 
 # Recent Publications
 
@@ -165,6 +168,10 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 (See above for papers)
 
 **2022**
+
+**2022 June 9**: [Novozymes Prize Awardee 2021 - Novozymes Prize Symposium](https://www.tilmeld.dk/novozymesprize/symposium-programme)
+
+**2022 June 2**: [Open Office Hours](https://us02web.zoom.us/meeting/register/tZIlc-qpqzMiG9RNqWXchILK34JSfqwKUDKA)
 
 **April 6-9**: Keystone Symposium
 [Micropeptides: Biogenesis and Function](https://www.keystonesymposia.org/KS/Online/Events/Future/Details.aspx?EventKey=2022T5&Tabs=1)
