@@ -65,7 +65,7 @@ view :
     -> StaticPayload Data RouteParams
     -> View Msg
 view maybeUrl sharedModel static =
-    { title = "Luis Pedro Coelho Papers"
+    { title = "Luis Pedro Coelho"
     , body =
         [Grid.simpleRow
             [showPapers static.data
