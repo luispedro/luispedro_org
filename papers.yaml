@@ -1216,25 +1216,6 @@
   Year: 2021
   isFirstLast: true
   type: Journal Article
-- Authors:
-  - Thomas SB Schmidt
-  - Simone S Li
-  - Oleksandr M Maistrenko
-  - Wasiu Akkani
-  - Luis Pedro Coelho
-  - Sibasish Dolai
-  - Anthony Fullam
-  - Anna Glazek
-  - Rajna Hercog
-  - Hilde Herrema
-  Journal: Nature Medicine
-  Publisher: Cold Spring Harbor Laboratory
-  Title: Drivers and Determinants of Strain Dynamics Following Faecal Microbiota Transplantation
-  Doi: "10.1038/s41591-022-01913-0"
-  Year: 2022
-  isFirstLast: false
-  type: Journal Article
-  Date: 2022-09-15
 - Title: Combinatorial, additive and dose-dependent drug–microbiome associations
   Authors:
   - Sofia K. Forslund
@@ -1730,3 +1711,22 @@
   Year: 2022
   Date: '2022-04-28'
   isFirstLast: true
+- Title: Drivers and Determinants of Strain Dynamics Following Faecal Microbiota Transplantation
+  Authors:
+  - Thomas SB Schmidt
+  - Simone S Li
+  - Oleksandr M Maistrenko
+  - Wasiu Akkani
+  - Luis Pedro Coelho
+  - Sibasish Dolai
+  - Anthony Fullam
+  - Anna Glazek
+  - Rajna Hercog
+  - Hilde Herrema
+  Journal: Nature Medicine
+  Publisher: Cold Spring Harbor Laboratory
+  Doi: "10.1038/s41591-022-01913-0"
+  Year: 2022
+  isFirstLast: false
+  type: Journal Article
+  Date: 2022-09-15
