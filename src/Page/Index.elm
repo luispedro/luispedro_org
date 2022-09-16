@@ -86,20 +86,20 @@ own project.
 
 # Who am I?
 
-
 I am the principal investigator of the [Big Data Biology
 Lab](https://big-data-biology.org) at Fudan University (Shanghai) since
 September 2018. Our group works in computational biology, with a focus
-on the very large-scale.
+on large-scale microbiome analyses.
 
 Previously, I worked at the European Molecular Biology Laboratory (EMBL) in
-[Peer Bork's group](https://www.embl.de/~bork/) in microbial community analysis
-using metagenomics. I have a PhD from [Carnegie Mellon
+[Peer Bork's group](https://www.embl.de/~bork/). I have a PhD from [Carnegie Mellon
 University](https://www.compbio.cmu.edu/) (2011), where I worked on [bioimage
 informatics](https://en.wikipedia.org/wiki/Bioimage_informatics) for subcellular
 location analysis with [Bob Murphy](https://murphylab.web.cmu.edu/).
 
 My [Erdös-Bacon number is 7](/erdos-bacon).
+
+[Publication list](/publications)
 
 # Upcoming Travels & Talks
 
