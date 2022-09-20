@@ -1364,25 +1364,6 @@
   Year: 2021
   Date: 2021-12-7
   isFirstLast: true
-- Title: 'EXPERT: Transfer Learning-enabled context-aware microbial source tracking'
-  Authors:
-  - Hui Chong
-  - Qingyang Yu
-  - Yuguo Zha
-  - Guangzhou Xiong
-  - Nan Wang
-  - Xinhe Huang
-  - Shijuan Huang
-  - Chuqing Sun
-  - Sicheng Wu
-  - Weihua Chen
-  - Luis Pedro Coelho
-  - Kang Ning
-  Journal: 'biorXiv'
-  Doi: 10.1101/2021.01.29.428751
-  Year: 2021
-  Date: 2021-01-31
-  isFirstLast: false
 - Title: Towards the biogeography of prokaryotic genes
   Authors:
   - Luis Pedro Coelho
@@ -1730,3 +1711,23 @@
   isFirstLast: false
   type: Journal Article
   Date: 2022-09-15
+- Title: 'EXPERT: Transfer Learning-enabled context-aware microbial source tracking'
+  Authors:
+  - Hui Chong
+  - Yuguo Zha
+  - Qingyang Yu
+  - Mingyue Cheng
+  - Guangzhou Xiong
+  - Nan Wang
+  - Xinhe Huang
+  - Shijuan Huang
+  - Chuqing Sun
+  - Sicheng Wu
+  - Weihua Chen
+  - Luis Pedro Coelho
+  - Kang Ning
+  Journal: 'Briefings in Bioinformatics'
+  Doi: 10.1093/bib/bbac396
+  Year: 2022
+  Date: '2022-09-17'
+  isFirstLast: false
