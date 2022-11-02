@@ -1209,7 +1209,7 @@
   - Luis Pedro Coelho
   - Wei-hua Chen
   - Xing-Ming Zhao
-  Journal: bioRxiv
+  Journal: 'biorXiv (PREPRINT)'
   Publisher: Cold Spring Harbor Laboratory
   Title: 'metaMIC: reference-free Misassembly Identification and Correction of de novo metagenomic assemblies'
   Doi: 10.1101/2021.06.22.449514v1
@@ -1710,4 +1710,17 @@
   Doi: 10.1093/bib/bbac396
   Year: 2022
   Date: '2022-09-17'
+  isFirstLast: false
+- Title: 'ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics'
+  Authors:
+  - Rémi Gschwind
+  - Svetlana Ugarcina Perovic
+  - Marie Petitjean
+  - Julie Lao
+  - Luis Pedro Coelho
+  - Etienne Ruppé
+  Journal: 'biorXiv (PREPRINT)'
+  Doi: 10.1101/2022.10.19.512667
+  Year: 2022
+  Date: '2022-10-19'
   isFirstLast: false
