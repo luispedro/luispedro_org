@@ -291,13 +291,15 @@ showPapers papers model =
 addDimensionsBadge : Model -> String -> Html.Html Msg
 addDimensionsBadge model doi = case Dict.get (String.toLower doi) model.dimensionsData of
     Nothing -> Html.span [] []
-    Just citinfo -> Html.span [HtmlAttr.class "__dimensions_badge_embed__ "]
+    Just citinfo -> Html.span
+                [ HtmlAttr.class "__dimensions_badge_embed__ "
+                ,Html.Events.onMouseOver (SetActiveDOI doi)
+                ,Html.Events.onMouseOut ResetActiveDOI]
             [Html.a [HtmlAttr.href <| "https://badge.dimensions.ai/details/doi/" ++ doi ++ "?domain=https://luispedro.org"
-                    ,Html.Events.onMouseOver (SetActiveDOI doi)
                     ,HtmlAttr.class "__dimensions_Link"
                     ]
                 [Html.div
-                    [HtmlAttr.class "__dimensions_Badge __dimensions_Badge_style_small_rectangle"]
+                    [HtmlAttr.class "__dimensions_Badge __dimensions_Badge_style_rectangle"]
                     [Html.div [HtmlAttr.class "__dimensions_Badge_Image"]
                     [Html.img [HtmlAttr.src <|"https://badge.dimensions.ai/badge?style=rectangle&count=" ++ String.fromInt citinfo.times_cited
                             , HtmlAttr.alt <| String.fromInt citinfo.times_cited ++ " total citations on Dimensions."
