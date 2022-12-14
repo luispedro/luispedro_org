@@ -61,6 +61,7 @@ type alias DimensionsCitations =
 type alias Model =
     { activePeriod : Maybe PeriodFilter
     , onlyFirstLast : Bool
+    , expandAllDetails : Bool
     , activeDOI : Maybe String
     , dimensionsData : Dict.Dict String DimensionsCitations
     }
@@ -72,6 +73,7 @@ type Msg =
     | DeactivatePeriodFilter
     | SetIsLastFilter Bool
     | SetActiveDOI String
+    | SetExpandAllDetails Bool
     | ResetActiveDOI
     | ResetFilters
 
@@ -121,6 +123,7 @@ init : (List Pub.Publication) -> ( Model, Cmd Msg )
 init papers =
     ( { activePeriod = Nothing
       , onlyFirstLast = False
+      , expandAllDetails = False
       , activeDOI = Nothing
       , dimensionsData = Dict.empty
       }
@@ -142,6 +145,7 @@ update msg model = case msg of
     ResetFilters -> ( { model | activePeriod = Nothing, onlyFirstLast = False } , Cmd.none )
     SetActiveDOI doi -> ( { model | activeDOI = Just doi } , Cmd.none )
     ResetActiveDOI -> ( { model | activeDOI = Nothing } , Cmd.none )
+    SetExpandAllDetails b -> ( { model | expandAllDetails = b } , Cmd.none )
     DataReceived dt -> case dt of
         Ok d -> ( { model | dimensionsData = Dict.insert (String.toLower d.doi) d model.dimensionsData }, Cmd.none )
         Err _ -> ( model, Cmd.none )
@@ -255,6 +259,15 @@ showSelection model =
                                         else inactivateButton (SetIsLastFilter True)
                     in Button.button buttonStyle [Html.text "Only first/last"]
                     ]
+                ,Grid.col []
+                    [Html.h6 []
+                        [Html.text "Citation detail"]
+                    ,let
+                        buttonStyle = if model.expandAllDetails
+                                        then activeButton (SetExpandAllDetails False)
+                                        else inactivateButton (SetExpandAllDetails True)
+                    in Button.button buttonStyle [Html.text "Show citation details"]
+                    ]
                 ]
 
 showPapers : List Pub.Publication -> Model -> Grid.Column Msg
@@ -306,7 +319,7 @@ addDimensionsBadge model doi = case Dict.get (String.toLower doi) model.dimensio
                             , HtmlAttr.style "padding-left" "1em"]
                             []
                     ]]]
-            ,if model.activeDOI == Just doi
+            ,if model.expandAllDetails
               then dimensionsPopup citinfo
               else Html.span [] []
             ]
