@@ -17,6 +17,10 @@ export default {
     document.getElementById('google-injection-site').appendChild(sc);
 
     sc = document.createElement('script');
+    sc.setAttribute('src', "https://badge.dimensions.ai/badge.js");
+    sc.setAttribute('async', true);
+    document.getElementById('google-injection-site').appendChild(sc);
+    sc = document.createElement('script');
 
     window.dataLayer = window.dataLayer || [];
 
