@@ -125,14 +125,14 @@ intro =
         [SiteMarkdown.mdToHtml """
 # Full List of Publications
 
-Updated: **12 Nov 2022**
+Updated: **14 Dec 2022**
 
 [My google scholar
 profile](http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 
-Google Scholar total citations: 11,680; h-index: 37 ([Web of
+Google Scholar total citations: 11,997; h-index: 37 ([Web of
 science](https://www.webofscience.com/wos/author/record/1798261):
-7,466 citations; h-index: 29)
+7,661 citations; h-index: 29)
 
 # Selected Publications
 
@@ -143,7 +143,8 @@ science](https://www.webofscience.com/wos/author/record/1798261):
     Maistrenko, Shaojun Pan, Longhao Jia, Pamela Ferretti, Shinichi Sunagawa,
     Xing-Ming Zhao, Henrik Bjørn Nielsen, Jaime Huerta-Cepas⁺, Peer Bork⁺
     [Towards the biogeography of prokaryotic genes
-    ](https://doi.org/10.1038/s41586-021-04233-4) in _Nature_ (2022).
+    ](https://doi.org/10.1038/s41586-021-04233-4) in _Nature_ (2022) [[Open
+    Access version](https://europepmc.org/article/med/34912116)].
 2.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
     Coelho** ⁺ [A deep siamese neural network improves metagenome-assembled
     genomes in microbiome datasets across different
