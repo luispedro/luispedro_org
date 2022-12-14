@@ -291,24 +291,67 @@ showPapers papers model =
 addDimensionsBadge : Model -> String -> Html.Html Msg
 addDimensionsBadge model doi = case Dict.get (String.toLower doi) model.dimensionsData of
     Nothing -> Html.span [] []
-    Just citinfo -> Html.span []
+    Just citinfo -> Html.span [HtmlAttr.class "__dimensions_badge_embed__ "]
             [Html.a [HtmlAttr.href <| "https://badge.dimensions.ai/details/doi/" ++ doi ++ "?domain=https://luispedro.org"
                     ,Html.Events.onMouseOver (SetActiveDOI doi)
-                    ,Html.Events.onMouseOut ResetActiveDOI
+                    ,HtmlAttr.class "__dimensions_Link"
                     ]
-                [Html.img [HtmlAttr.src <|"https://badge.dimensions.ai/badge?style=rectangle&count=" ++ String.fromInt citinfo.times_cited
+                [Html.div
+                    [HtmlAttr.class "__dimensions_Badge __dimensions_Badge_style_small_rectangle"]
+                    [Html.div [HtmlAttr.class "__dimensions_Badge_Image"]
+                    [Html.img [HtmlAttr.src <|"https://badge.dimensions.ai/badge?style=rectangle&count=" ++ String.fromInt citinfo.times_cited
                             , HtmlAttr.alt <| String.fromInt citinfo.times_cited ++ " total citations on Dimensions."
                             , HtmlAttr.style "padding-left" "1em"]
                             []
-                ]
-            ,Html.em [HtmlAttr.class "citation-info"]
-                (if model.activeDOI == Just doi
-                then case (citinfo.relative_citation_ratio, citinfo.field_citation_ratio) of
-                        (Just rcr, Just fcr) ->
-                            [Html.text <| " Relative citation ratio: " ++ String.fromFloat rcr ++ ", Field citation ratio: " ++ String.fromFloat fcr ++ ""]
-                        _ -> [Html.text "No relative citation information"]
-                else [])
+                    ]]]
+            ,if model.activeDOI == Just doi
+              then dimensionsPopup citinfo
+              else Html.span [] []
             ]
+
+dimensionsPopup cit =
+
+    Html.div
+        [ HtmlAttr.class "__dimensions_Badge_Legend_padding __dimensions_Badge_Legend_hover-right  __dimensions_Badge_Legend_style_small_rectangle __dimensions_Badge_Legend_always"
+        ]
+        [ Html.div
+            [ HtmlAttr.class "__dimensions_Badge_Legend __dimensions_Badge_Legend_hover-right"]
+            [ Html.div
+                [ HtmlAttr.class "__dimensions_Badge_stat_group __dimensions_Badge_stat_group_citations" ]
+                [ Html.div
+                    [ HtmlAttr.class "__dimensions_Badge_stat __dimensions_Badge_stat_total_citations" ]
+                    [ Html.span [ HtmlAttr.class "__dimensions_Badge_stat_icon" ] []
+                    , Html.span [ HtmlAttr.class "__dimensions_Badge_stat_count" ]
+                        [ Html.text <| String.fromInt cit.times_cited ]
+                    , Html.span [ HtmlAttr.class "__dimensions_Badge_stat_text" ]
+                        [ Html.text "Total citations" ]
+                    ]
+                , Html.div [ HtmlAttr.class "__dimensions_Badge_stat __dimensions_Badge_stat_recent_citations" ]
+                    [ Html.span [ HtmlAttr.class "__dimensions_Badge_stat_icon" ] []
+                    , Html.span [ HtmlAttr.class "__dimensions_Badge_stat_count" ]
+                        [ Html.text <| String.fromInt cit.recent_citations ]
+                    , Html.span [ HtmlAttr.class "__dimensions_Badge_stat_text" ]
+                        [ Html.text "Recent citations" ]
+                    ]
+                ]
+            , Html.div [ HtmlAttr.class "__dimensions_Badge_stat_group __dimensions_Badge_stat_group_cr" ]
+                [ Html.div [ HtmlAttr.class "__dimensions_Badge_stat __dimensions_Badge_stat_fcr" ]
+                    [ Html.span [ HtmlAttr.class "__dimensions_Badge_stat_icon" ] []
+                    , Html.span [ HtmlAttr.class "__dimensions_Badge_stat_count" ]
+                        [ Html.text <| Maybe.withDefault "??" <|Maybe.map String.fromFloat cit.field_citation_ratio ]
+                    , Html.span [ HtmlAttr.class "__dimensions_Badge_stat_text" ]
+                        [ Html.text "Field Citation Ratio" ] ]
+                , Html.div
+                    [ HtmlAttr.class "__dimensions_Badge_stat __dimensions_Badge_stat_rcr" ]
+                    [ Html.span [ HtmlAttr.class "__dimensions_Badge_stat_icon" ] []
+                    , Html.span [ HtmlAttr.class "__dimensions_Badge_stat_count" ]
+                        [ Html.text <| Maybe.withDefault "??" <|Maybe.map String.fromFloat cit.relative_citation_ratio ]
+                    , Html.span [ HtmlAttr.class "__dimensions_Badge_stat_text" ]
+                        [ Html.text "Relative Citation Ratio" ]
+                    ]
+                ]
+            ]
+        ]
 
 showPaper model n ix p =
         Html.p []
