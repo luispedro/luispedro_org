@@ -1168,26 +1168,6 @@
   Year: 2021
   isFirstLast: false
   type: Journal Article
-- Accession: 1474-760X
-  Authors:
-  - Askarbek Orakov
-  - Anthony Fullam
-  - Luis Pedro Coelho
-  - Supriya Khedkar
-  - Damian Szklarczyk
-  - Daniel R Mende
-  - Thomas SB Schmidt
-  - Peer Bork
-  Journal: Genome Biology
-  Number: '1'
-  Pages: 1-19
-  Publisher: BioMed Central
-  Title: 'GUNC: detection of chimerism and contamination in prokaryotic genomes'
-  Doi: 10.1186/s13059-021-02393-0
-  Volume: '22'
-  Year: 2021
-  isFirstLast: false
-  type: Journal Article
 - Accession: 2167-8359
   Authors:
   - Célio Dias Santos-Junior
@@ -1215,6 +1195,26 @@
   Doi: 10.1101/2021.06.22.449514v1
   Year: 2021
   isFirstLast: true
+  type: Journal Article
+- Accession: 1474-760X
+  Authors:
+  - Askarbek Orakov
+  - Anthony Fullam
+  - Luis Pedro Coelho
+  - Supriya Khedkar
+  - Damian Szklarczyk
+  - Daniel R Mende
+  - Thomas SB Schmidt
+  - Peer Bork
+  Journal: Genome Biology
+  Number: '1'
+  Pages: 1-19
+  Publisher: BioMed Central
+  Title: 'GUNC: detection of chimerism and contamination in prokaryotic genomes'
+  Doi: 10.1186/s13059-021-02393-0
+  Volume: '22'
+  Year: 2021
+  isFirstLast: false
   type: Journal Article
 - Title: Combinatorial, additive and dose-dependent drug–microbiome associations
   Authors:
