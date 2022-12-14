@@ -72,3 +72,8 @@ nav h6 {
     text-transform: uppercase;
     font-weight: bold;
 }
+
+.citation-info {
+    font-weight: bold;
+    color: #7570b3;
+}

@@ -21,6 +21,7 @@ import Bootstrap.Alert as Alert
 import Bootstrap.Button as Button
 
 import Html
+import Html.Events
 import Html.Attributes as HtmlAttr
 import Pages.Url
 
@@ -52,14 +53,15 @@ matchPeriod mp pub = case mp of
 type alias DimensionsCitations =
         { doi : String
         , times_cited : Int
-        --, recent_citations : Int
-        --, relative_citation_ratio : Float
-        --, field_citation_ratio : Float
+        , recent_citations : Int
+        , relative_citation_ratio : Maybe Float
+        , field_citation_ratio : Maybe Float
         }
 
 type alias Model =
     { activePeriod : Maybe PeriodFilter
     , onlyFirstLast : Bool
+    , activeDOI : Maybe String
     , dimensionsData : Dict.Dict String DimensionsCitations
     }
 
@@ -69,16 +71,19 @@ type Msg =
     | ActivatePeriodFilter PeriodFilter
     | DeactivatePeriodFilter
     | SetIsLastFilter Bool
+    | SetActiveDOI String
+    | ResetActiveDOI
     | ResetFilters
+
 
 decodeDimensionsCitations : D.Decoder DimensionsCitations
 decodeDimensionsCitations =
-    D.map2 DimensionsCitations
+    D.map5 DimensionsCitations
         (D.field "doi" D.string)
         (D.field "times_cited" D.int)
-        --(D.field "recent_citations" D.int)
-        --(D.field "relative_citation_ratio" D.float)
-        --(D.field "field_citation_ratio" D.float)
+        (D.field "recent_citations" D.int)
+        (D.field "relative_citation_ratio" (D.nullable D.float))
+        (D.field "field_citation_ratio" (D.nullable D.float))
 
 head :
     StaticPayload Data RouteParams
@@ -116,6 +121,7 @@ init : (List Pub.Publication) -> ( Model, Cmd Msg )
 init papers =
     ( { activePeriod = Nothing
       , onlyFirstLast = False
+      , activeDOI = Nothing
       , dimensionsData = Dict.empty
       }
     , Cmd.batch (List.map queryDimensions papers)
@@ -134,6 +140,8 @@ update msg model = case msg of
     ActivatePeriodFilter pf -> ( { model | activePeriod = Just pf } , Cmd.none )
     SetIsLastFilter f -> ( { model | onlyFirstLast = f } , Cmd.none )
     ResetFilters -> ( { model | activePeriod = Nothing, onlyFirstLast = False } , Cmd.none )
+    SetActiveDOI doi -> ( { model | activeDOI = Just doi } , Cmd.none )
+    ResetActiveDOI -> ( { model | activeDOI = Nothing } , Cmd.none )
     DataReceived dt -> case dt of
         Ok d -> ( { model | dimensionsData = Dict.insert (String.toLower d.doi) d model.dimensionsData }, Cmd.none )
         Err _ -> ( model, Cmd.none )
@@ -283,11 +291,24 @@ showPapers papers model =
 addDimensionsBadge : Model -> String -> Html.Html Msg
 addDimensionsBadge model doi = case Dict.get (String.toLower doi) model.dimensionsData of
     Nothing -> Html.span [] []
-    Just citinfo -> Html.a [HtmlAttr.href <| "https://badge.dimensions.ai/details/doi/" ++ doi ++ "?domain=https://luispedro.org"]
-            [Html.img [HtmlAttr.src <|"https://badge.dimensions.ai/badge?style=rectangle&count=" ++ String.fromInt citinfo.times_cited
-                        , HtmlAttr.alt <| String.fromInt citinfo.times_cited ++ " total citations on Dimensions."
-                        , HtmlAttr.style "padding-left" "1em"]
-                        [] ]
+    Just citinfo -> Html.span []
+            [Html.a [HtmlAttr.href <| "https://badge.dimensions.ai/details/doi/" ++ doi ++ "?domain=https://luispedro.org"
+                    ,Html.Events.onMouseOver (SetActiveDOI doi)
+                    ,Html.Events.onMouseOut ResetActiveDOI
+                    ]
+                [Html.img [HtmlAttr.src <|"https://badge.dimensions.ai/badge?style=rectangle&count=" ++ String.fromInt citinfo.times_cited
+                            , HtmlAttr.alt <| String.fromInt citinfo.times_cited ++ " total citations on Dimensions."
+                            , HtmlAttr.style "padding-left" "1em"]
+                            []
+                ]
+            ,Html.em [HtmlAttr.class "citation-info"]
+                (if model.activeDOI == Just doi
+                then case (citinfo.relative_citation_ratio, citinfo.field_citation_ratio) of
+                        (Just rcr, Just fcr) ->
+                            [Html.text <| " Relative citation ratio: " ++ String.fromFloat rcr ++ ", Field citation ratio: " ++ String.fromFloat fcr ++ ""]
+                        _ -> [Html.text "No relative citation information"]
+                else [])
+            ]
 
 showPaper model n ix p =
         Html.p []
