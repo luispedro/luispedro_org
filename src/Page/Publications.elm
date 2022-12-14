@@ -135,7 +135,7 @@ update msg model = case msg of
     SetIsLastFilter f -> ( { model | onlyFirstLast = f } , Cmd.none )
     ResetFilters -> ( { model | activePeriod = Nothing, onlyFirstLast = False } , Cmd.none )
     DataReceived dt -> case dt of
-        Ok d -> ( { model | dimensionsData = Dict.insert d.doi d model.dimensionsData }, Cmd.none )
+        Ok d -> ( { model | dimensionsData = Dict.insert (String.toLower d.doi) d model.dimensionsData }, Cmd.none )
         Err _ -> ( model, Cmd.none )
     NoOp -> ( model , Cmd.none )
 
@@ -273,10 +273,15 @@ showPapers papers model =
             else Html.div
                         []
                         (List.indexedMap (showPaper model (List.length papersYA)) papersYA)
+        ,Html.p []
+            [Html.text "Citation information provided by "
+            ,Html.a [HtmlAttr.href "https://www.dimensions.ai/"] [Html.text "Dimensions.ai"]
+            ,Html.text "."
+            ]
         ]
 
 addDimensionsBadge : Model -> String -> Html.Html Msg
-addDimensionsBadge model doi = case Dict.get doi model.dimensionsData of
+addDimensionsBadge model doi = case Dict.get (String.toLower doi) model.dimensionsData of
     Nothing -> Html.span [] []
     Just citinfo -> Html.a [HtmlAttr.href <| "https://badge.dimensions.ai/details/doi/" ++ doi ++ "?domain=https://luispedro.org"]
             [Html.img [HtmlAttr.src <|"https://badge.dimensions.ai/badge?style=rectangle&count=" ++ String.fromInt citinfo.times_cited
