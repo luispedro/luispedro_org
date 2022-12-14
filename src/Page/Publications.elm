@@ -1,4 +1,8 @@
 module Page.Publications exposing (..)
+import Dict
+
+import Http
+import Json.Decode as D
 
 import DataSource exposing (DataSource)
 import Head
@@ -45,17 +49,36 @@ matchPeriod mp pub = case mp of
     Just Since2018 -> pub.year >= 2018
     Just Since2011 -> pub.year >= 2011
 
+type alias DimensionsCitations =
+        { doi : String
+        , times_cited : Int
+        --, recent_citations : Int
+        --, relative_citation_ratio : Float
+        --, field_citation_ratio : Float
+        }
+
 type alias Model =
     { activePeriod : Maybe PeriodFilter
     , onlyFirstLast : Bool
+    , dimensionsData : Dict.Dict String DimensionsCitations
     }
 
 type Msg =
     NoOp
+    | DataReceived (Result Http.Error DimensionsCitations)
     | ActivatePeriodFilter PeriodFilter
     | DeactivatePeriodFilter
     | SetIsLastFilter Bool
     | ResetFilters
+
+decodeDimensionsCitations : D.Decoder DimensionsCitations
+decodeDimensionsCitations =
+    D.map2 DimensionsCitations
+        (D.field "doi" D.string)
+        (D.field "times_cited" D.int)
+        --(D.field "recent_citations" D.int)
+        --(D.field "relative_citation_ratio" D.float)
+        --(D.field "field_citation_ratio" D.float)
 
 head :
     StaticPayload Data RouteParams
@@ -63,7 +86,7 @@ head :
 head static =
     Seo.summary
         { canonicalUrlOverride = Nothing
-        , siteName = "elm-pages"
+        , siteName = "Luis Pedro Coelho"
         , image =
             { url = Pages.Url.external "TODO"
             , alt = "elm-pages logo"
@@ -84,25 +107,36 @@ page = Page.prerender
         }
         |> Page.buildWithLocalState
             { view = view
-            , init = \_ _ staticPayload -> init ()
+            , init = \_ _ staticPayload -> init staticPayload.data
             , update = \_ _ _ _ -> update
             , subscriptions = \_ _ _ _-> Sub.none
             }
 
-init : () -> ( Model, Cmd Msg )
-init () =
+init : (List Pub.Publication) -> ( Model, Cmd Msg )
+init papers =
     ( { activePeriod = Nothing
       , onlyFirstLast = False
+      , dimensionsData = Dict.empty
       }
-    , Cmd.none
+    , Cmd.batch (List.map queryDimensions papers)
     )
+
+queryDimensions : Pub.Publication -> Cmd Msg
+queryDimensions p =
+    Http.get
+        { url = "https://metrics-api.dimensions.ai/doi/" ++ p.doi
+        , expect = Http.expectJson DataReceived decodeDimensionsCitations
+        }
 
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model = case msg of
     DeactivatePeriodFilter -> ( { model | activePeriod = Nothing } , Cmd.none )
     ActivatePeriodFilter pf -> ( { model | activePeriod = Just pf } , Cmd.none )
     SetIsLastFilter f -> ( { model | onlyFirstLast = f } , Cmd.none )
-    ResetFilters -> init ()
+    ResetFilters -> ( { model | activePeriod = Nothing, onlyFirstLast = False } , Cmd.none )
+    DataReceived dt -> case dt of
+        Ok d -> ( { model | dimensionsData = Dict.insert d.doi d model.dimensionsData }, Cmd.none )
+        Err _ -> ( model, Cmd.none )
     NoOp -> ( model , Cmd.none )
 
 view :
@@ -238,10 +272,19 @@ showPapers papers model =
                     ]
             else Html.div
                         []
-                        (List.indexedMap (showPaper (List.length papersYA)) papersYA)
+                        (List.indexedMap (showPaper model (List.length papersYA)) papersYA)
         ]
 
-showPaper n ix p =
+addDimensionsBadge : Model -> String -> Html.Html Msg
+addDimensionsBadge model doi = case Dict.get doi model.dimensionsData of
+    Nothing -> Html.span [] []
+    Just citinfo -> Html.a [HtmlAttr.href <| "https://badge.dimensions.ai/details/doi/" ++ doi ++ "?domain=https://luispedro.org"]
+            [Html.img [HtmlAttr.src <|"https://badge.dimensions.ai/badge?style=rectangle&count=" ++ String.fromInt citinfo.times_cited
+                        , HtmlAttr.alt <| String.fromInt citinfo.times_cited ++ " total citations on Dimensions."
+                        , HtmlAttr.style "padding-left" "1em"]
+                        [] ]
+
+showPaper model n ix p =
         Html.p []
             [Html.text (String.fromInt (n-ix) ++ ". ")
             ,Html.a
@@ -253,5 +296,6 @@ showPaper n ix p =
             ,Html.text " in "
             ,Html.span [HtmlAttr.style "font-variant" "small-caps"] [Html.text p.journal]
             ,Html.text (" ("++String.fromInt p.year++").")
+            ,addDimensionsBadge model p.doi
             ]
 
