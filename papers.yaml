@@ -1636,7 +1636,7 @@
   - Julie Lao
   - Luis Pedro Coelho
   - Etienne Ruppé
-  Journal: 'biorXiv (PREPRINT)'
+  Journal: 'bioRxiv (PREPRINT)'
   Doi: 10.1101/2022.10.19.512667
   Year: 2022
   Date: '2022-10-19'
@@ -1709,4 +1709,15 @@
   Doi: 10.1186/s13059-022-02810-y
   Year: 2022
   Date: '2022-11-14'
+  isFirstLast: true
+- Title: 'SemiBin2: self-supervised contrastive learning leads to better MAGs for
+    short- and long-read sequencing'
+  Authors:
+  - Shaojun Pan
+  - Xing-Ming Zhao
+  - Luis Pedro Coelho
+  Journal: 'bioRxiv (PREPRINT)'
+  Doi: 10.1101/2023.01.09.523201
+  Year: 2023
+  Date: '2023-01-09'
   isFirstLast: true
