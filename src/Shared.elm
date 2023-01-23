@@ -189,6 +189,7 @@ navigation =
             ]
         ,liSection "Software"
             [("http://ngless.embl.de/", "NGLess")
+            ,("/software/semibin", "SemiBin: Semi-supervised binning of metagenomic data")
             ,("/software/mahotas", "Image processing with Python")
             ,("/software/imread", "Loading images in Python")
             ,("/software/jug", "Task based parallelization framework for Python")
