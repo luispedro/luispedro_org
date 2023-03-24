@@ -17,15 +17,13 @@ of Electronic Science and Technology of China.
 (ICOHAR)](http://www.icohar2019.org/icohar2019.html) talking about our
 [dog microbiome work](https://doi.org/10.1186/s40168-018-0450-3)
 
-##\# 2018
+### 2018
+
+**Oct 4 2018** I was in Paris talking about [single cell
+approaches](https://pasic-2018.sciencesconf.org/)
 
 **Sep 16-19 2018** I was in Heidelberg for the *Human Microbiome
 Conference*
-
-**Nov 22-24 2017** I was in Schwarzenber, Switzerland for the [Autumn
-School \"Machine Learning applied to Systems
-Biology\"](http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn-school).
-I also visited the University of Bern and presented my scientific work.
 
 **June 26-29 2018**: [Ireland IHMC2018: International Human Microbiome
 Consortium](http://apc.ucc.ie/ihmc-2018/)
@@ -34,7 +32,12 @@ Consortium](http://apc.ucc.ie/ihmc-2018/)
 [Lisbon (Portugal) Machine Learning Summer
 School](https://lxmls.it.pt/2018/)
 
-##\# 2017
+### 2017
+
+**Nov 22-24 2017** I was in Schwarzenber, Switzerland for the [Autumn
+School \"Machine Learning applied to Systems
+Biology\"](http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn-school).
+I also visited the University of Bern and presented my scientific work.
 
 **Oct 24-26 2017** I was in Copenhagen teaching people how to use
 [ngless](https://ngless.embl.de) at the [Microbiome data interpretation
@@ -51,9 +54,23 @@ design](https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-f
 2017](https://www.iscb.org/ismbeccb2017) with a poster on
 [NGLess](https://ngless.embl.de)
 
+
+**July 20 2017** I was in Lisbon on **July 20** for [LxMLS
+2017](http://lxmls.it.pt/2017/)
+
+**July 9-13 2017** I was in Valencia for [FEMS
+2017](http://fems-microbiology2017.kenes.com)
+
 **21-28 July 2016** I was in Lisbon for the 2016 edition of the [Lisbon
 Machine Learning Summer School](https://lxmls.it.pt/2016/?page_id=64),
 presenting a tutorial on the first day
+
+
+**23-25 November 2016** I visited Zurich (Switzerland) for the course
+[Machine learning for bioinformatics and computational
+biology](http://www.sib.swiss/training/for-sib-phd-students/phd-training-events/training-for-phds/ml-for-bioinformatics-and-computational-biology)
+
+
 
 **26-29 April 2016** I attended the [Sloan Early Career Workshop on the
 Microbiology of the Built
@@ -63,12 +80,23 @@ in Chicago.
 **17 April 2016** I gave an invited keynote in Florence ate [PYCON
 Sette](https://www.pycon.it/en/)
 
+**7 March 2016** I am now an Associate Editor of the [Journal of Open
+Research Software](http://openresearchsoftware.metajnl.com/)
+
 **21-26 February 2016** I was New Orleans for the [2016 Ocean Sciences
 Meeting](https://osm.agu.org/2016/). I presented a poster on our
 [metagenomics
 work](https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/89657) and
 gave a talk on our [environmental imaging
 work](https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/92480)
+
+**22-25 August 2015** Visiting Tallinn (Estonia)
+
+**17 August 2015** The project [ngless is now open
+source](https://ngless.embl.de/)
+
+**16 July 2015** I will be teaching at the [Lisbon Machine Learning
+School](http://lxmls.it.pt/2015/)
 
 **16 July 2015** I taught at the [Lisbon Machine Learning
 School](https://lxmls.it.pt/2015/)
@@ -82,6 +110,9 @@ in Paris
 
 **22 May 2015** Paper out in
 [Science](sciencemag.org/content/348/6237/1261359.full)
+
+**March 31-April 2 2015** I attended the [International Human Microbiome
+Congress (IHMC)](http://www.ihmc2015.org/) in Luxembourg
 
 **March 31-April 2 2015** I attended the [International Human Microbiome
 Congress (IHMC)](https://www.ihmc2015.org/) in Luxembourg
@@ -108,7 +139,8 @@ talk](/files/talks/2014/09-pyss/pyss14.html)\]
 [TCMM2014](https://www.esat.kuleuven.be/stadius/tcmm2014/program.php)
 
 **July 2014** Progression (in which I played the character *Luis*) has
-been released at New Filmmakers in NYC.
+been released at New Filmmakers in NYC. See the film at the [Big Bear
+Film festival](http://www.bigbearfilmfestival.com/progression/)
 
 **July 2014** Speaking at Lisbon Machine Learning School (LxMLS) 2014.
 

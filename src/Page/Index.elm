@@ -103,7 +103,9 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
-**2023 Jan 9-13** At the University of Warwick
+- **April 2-6**: Paris (France)
+- **May 31-June 2**: Copenhagen (Denmark)
+
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -159,143 +161,13 @@ outro =
 [All publications\\...](/publications) ([Google Scholar
 profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
-# Other News
+# Past News
 
-(See above for papers)
+## 2023
 
-**2022**
+**Jan 9-13** At the University of Warwick
 
-**2022 September 17-21** [ECCB 2022](https://eccb2022.org/) I will present in
-the [Quest for Orthologs](https://eccb2022.org/ntb-w11/) workshop
-
-**2022 September 24-29** I will attend
-[EDAR](https://www.gu.se/en/care/edar6-gothenburg-2022)
-
-
-**2022 June 9**: [Novozymes Prize Awardee 2021 - Novozymes Prize Symposium](https://www.tilmeld.dk/novozymesprize/symposium-programme)
-
-**2022 June 2**: [Open Office Hours](https://us02web.zoom.us/meeting/register/tZIlc-qpqzMiG9RNqWXchILK34JSfqwKUDKA)
-
-**April 6-9**: Keystone Symposium
-[Micropeptides: Biogenesis and Function](https://www.keystonesymposia.org/KS/Online/Events/Future/Details.aspx?EventKey=2022T5&Tabs=1)
-
-**2020**
-
-**Jan 6-7** I was in Gotenburg, Sweden for the first meeting of the
-[EMBARK project](http://antimicrobialresistance.eu/)
-
-**2019**
-
-**November 21-27** I was in Sydney, Australia
-
-**July 21-25 2019** I was in Basel for [ECCB/ISMB
-2019](https://www.iscb.org/ismbeccb2019)
-
-**June 21-26 2019** I was in San Francisco for [ASM Microbe
-2019](https://asm.org/Events/ASM-Microbe/Home)
-
-**April 10-11 2019** I was in Chengdu (China), visiting the University
-of Electronic Science and Technology of China.
-
-**April 16-18 2019** I was in Utrecht (Netherlands) for the
-[International Conference on One Health Antimicrobial Resistance
-(ICOHAR)](http://www.icohar2019.org/icohar2019.html) talking about our
-[dog microbiome work](https://doi.org/10.1186/s40168-018-0450-3)
-
-**2018**
-
-**Sep 16-19 2018** I was in Heidelberg for the *Human Microbiome
-Conference*
-
-**Oct 4 2018** I was in Paris talking about [single cell
-approaches](https://pasic-2018.sciencesconf.org/)
-
-**June 26-29**: [Ireland IHMC2018: International Human Microbiome
-Consortium](http://apc.ucc.ie/ihmc-2018/)
-
-**June 14**: I taught the *Introduction to Python* lecture at the
-[Lisbon (Portugal) Machine Learning Summer
-School](http://lxmls.it.pt/2018/)
-
-**2017**
-
-**Nov 22-24** I was in Schwarzenber, Switzerland for the [Autumn School
-\\"Machine Learning applied to Systems
-Biology\\"](http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn-school).
-I also visited the University of Bern and presented my scientific work.
-
-**Oct 24-26** I was in Copenhagen teaching people how to use
-[ngless](https://ngless.embl.de) at the [Microbiome data interpretation
-workshop](https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763)
-(slides
-[here](https://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html))
-and giving a scientific talk on my work.
-
-**Sept 12-13** I was in Delft 12-13\\*\\* for a [workshop on data-driven
-cell factory and community
-design](https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-factory-and-community-design-tickets-35694722877)
-
-**July 21-25** I was in Prague for [ECCB/ISMB
-2017](https://www.iscb.org/ismbeccb2017) with a poster on
-[NGLess](https://ngless.embl.de)
-
-**July 20 2017** I was in Lisbon on **July 20** for [LxMLS
-2017](http://lxmls.it.pt/2017/)
-
-**July 9-13 2017** I was in Valencia for [FEMS
-2017](http://fems-microbiology2017.kenes.com)
-
-**23-25 November 2016** I visited Zurich (Switzerland) for the course
-[Machine learning for bioinformatics and computational
-biology](http://www.sib.swiss/training/for-sib-phd-students/phd-training-events/training-for-phds/ml-for-bioinformatics-and-computational-biology)
-
-**7 March 2016** I am now an Associate Editor of the [Journal of Open
-Research Software](http://openresearchsoftware.metajnl.com/)
-
-**22-25 August 2015** Visiting Tallinn (Estonia)
-
-**17 August 2015** The project [ngless is now open
-source](https://ngless.embl.de/)
-
-**16 July 2015** I will be teaching at the [Lisbon Machine Learning
-School](http://lxmls.it.pt/2015/)
-
-**15-17 June 2015** I will be in beautiful San Sebastian (Spain) for a
-software carpentry workshop (and some holiday time).
-
-**March 31-April 2** I attended the [International Human Microbiome
-Congress (IHMC)](http://www.ihmc2015.org/) in Luxembourg
-
-**February 2015** I was in Granada for the *2015 Aquatic Sciences
-Meeting*, giving [a talk on the 26th on our metagenomics
-work](http://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075)
-
-**November 2014** I am the lead organizer for a [software carpentry
-workshop at
-EMBL](http://www.embl.de/training/events/2014/SWC14-01/index.html).
-
-**September 2014** Keynote talk in [Python San
-Sebastien](http://pyss.org/) \\[[Online
-talk](/files/talks/2014/09-pyss/pyss14.html)\\]
-
-**July 2014** Progression (in which I played the character *Luis*) has
-been released at New Filmmakers in NYC. See the film at the [Big Bear
-Film festival](http://www.bigbearfilmfestival.com/progression/)
-
-**February 2014** I\\'m now a certified [Software Carpentry
-instructor](http://software-carpentry.org/pages/team.html)
-
-**November 2013** I\\'m a member of the [programme
-committee](http://dils2014.inesc-id.pt/?page_id=240) for [DILS
-2014](http://dils2014.inesc-id.pt/) (10th International Conference on
-Data Integration in the Life Sciences)
-
-**July 2013** I got a prize in the [ICSB Computational Biology Wikipedia
-Competition](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003242)
-for work on the [Bioimage Informatics
-page](http://en.wikipedia.org/wiki/Bioimage_informatics)
-
-[older news items \\...](/news)
+[older news items ...](/news)
 """]
 
 isRecent : Pub.Publication -> Bool
