@@ -105,6 +105,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 - **April 2-6**: Paris (France)
 - **May 31-June 2**: Copenhagen (Denmark)
+- **June 15-18**: [Vibecamp](https://vibe.camp/)
+- **July 23-27**: [ISMB](https://www.iscb.org/ismbeccb2023) (Lyon, France)
 
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
