@@ -79,17 +79,15 @@ intro =
 <img src="/files/photos/2019-09-22/LuisPedroCoelho.jpeg" alt="Luis Pedro Coelho"
     style="float: right; width:36.0%; border-radius: 50%;" />
 
-I am currently looking for postdocs to [join my group in
-Shanghai](https://big-data-biology.org/positions). Come work with me on
-metagenomics, antimicrobial resistance, algorithms, or just propose your
-own project.
-
 # Who am I?
 
 I am the principal investigator of the [Big Data Biology
 Lab](https://big-data-biology.org) at Fudan University (Shanghai) since
 September 2018. Our group works in computational biology, with a focus
 on large-scale microbiome analyses.
+
+I will move to the [Centre for Microbiome Research](https://research.qut.edu.au/cmr/) at Queensland University of Technology (QUT) in Brisbane Australia in August 2023.
+
 
 Previously, I worked at the European Molecular Biology Laboratory (EMBL) in
 [Peer Bork's group](https://www.embl.de/~bork/). I have a PhD from [Carnegie Mellon
@@ -103,7 +101,6 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
-- **April 2-6**: Paris (France)
 - **May 31-June 2**: Copenhagen (Denmark)
 - **June 15-18**: [Vibecamp](https://vibe.camp/)
 - **July 23-27**: [ISMB](https://www.iscb.org/ismbeccb2023) (Lyon, France)
@@ -166,6 +163,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 # Past News
 
 ## 2023
+
+- **April 2-6**: Paris (France) for EMBARK and visiting INRAE
 
 **Jan 9-13** At the University of Warwick
 
