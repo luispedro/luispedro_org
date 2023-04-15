@@ -38,20 +38,26 @@ head :
 head static =
     Seo.summary
         { canonicalUrlOverride = Nothing
-        , siteName = "elm-pages"
+        , siteName = "Luis Pedro Coelho's personal website"
         , image =
             { url = Pages.Url.external "TODO"
             , alt = "elm-pages logo"
             , dimensions = Nothing
             , mimeType = Nothing
             }
-        , description = "Luis Pedro Coelho's Website"
+        , description = websiteDescription
         , locale = Nothing
         , title = "Luis Pedro Coelho"
         }
         |> Seo.website
 
 
+websiteDescription : String
+websiteDescription = """
+Luis Pedro Coelho is a computational biologist focusing on the global microbiome.
+
+In August 2023, he is moving to the Centre for Microbiome Research at QUT (Brisbane, Australia).
+"""
 page = Page.prerender
         { head = head
         , routes = DataSource.succeed [{}]
