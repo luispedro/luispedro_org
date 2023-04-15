@@ -178,17 +178,17 @@ navigation =
     in Html.nav
         []
         [liSection "About Me"
-            [("http://big-data-biology.org/", "Big Data Biology Lab Website")
+            [("https://big-data-biology.org/", "Big Data Biology Lab Website")
             ,("/resume", "CV")
             ,("/publications", "Publications")
             ,("/teaching", "Teaching")
             ,("/talks", "Slides from talks")
-            ,("http://metarabbit.wordpress.com/", "Metarabbit")
+            ,("https://metarabbit.wordpress.com/", "Metarabbit")
             ,("/biography", "Short Biography")
             ,("/erdos-bacon", "My Erdös Bacon Number")
             ]
         ,liSection "Software"
-            [("http://ngless.embl.de/", "NGLess")
+            [("https://ngless.embl.de/", "NGLess")
             ,("/software/semibin", "SemiBin: Semi-supervised binning of metagenomic data")
             ,("/software/mahotas", "Image processing with Python")
             ,("/software/imread", "Loading images in Python")
@@ -199,7 +199,7 @@ navigation =
             ,("/derivations", "Some useful derivations")
             ,("/fimdetarde", "Award-winning short story (in Portuguese)")
             ,("/shmoo-video/", "Yeast Mating Claymation")
-            ,("http://twitter.com/luispedrocoelho", "@luispedrocoelho (twitter)")
+            ,("https://twitter.com/luispedrocoelho", "@luispedrocoelho (twitter)")
             ]
         --,liSection "Older Projects"
         --    [("/projects/gen-classification", "Generalization of Subcellular Location")
