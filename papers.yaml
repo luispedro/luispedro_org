@@ -1381,6 +1381,7 @@
   Year: 2021
   Date: '2021-12-15'
   isFirstLast: true
+  comment: "[[Open Access version](https://europepmc.org/article/med/34912116)]"
 - Title: 'Impairment of gut microbial biotin metabolism and host biotin status in severe obesity: effect of biotin and prebiotic supplementation on improved metabolism'
   Authors:
   - Eugeni Belda
@@ -1716,8 +1717,9 @@
   - Shaojun Pan
   - Xing-Ming Zhao
   - Luis Pedro Coelho
-  Journal: 'bioRxiv (Accepted at Bioinformatics)'
+  Journal: 'bioRxiv'
   Doi: 10.1101/2023.01.09.523201
   Year: 2023
   Date: '2023-01-09'
   isFirstLast: true
+  comment: "Accepted at _Bioinformatics_"

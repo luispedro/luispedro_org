@@ -379,7 +379,11 @@ showPaper model n ix p =
                 (Pub.showAuthors True p.authors)
             ,Html.text " in "
             ,Html.span [HtmlAttr.style "font-variant" "small-caps"] [Html.text p.journal]
-            ,Html.text (" ("++String.fromInt p.year++").")
+            ,Html.text (" ("++String.fromInt p.year++")" )
+            ,case p.comment of
+                Nothing -> Html.text ""
+                Just c -> SiteMarkdown.mdToInlineHtml (", " ++ c)
+            ,Html.text "."
             ,addDimensionsBadge model p.doi
             ]
 

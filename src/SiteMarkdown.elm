@@ -1,6 +1,9 @@
-module SiteMarkdown exposing (MarkdownFile, mdFiles, mdToHtml)
+module SiteMarkdown exposing (MarkdownFile, mdFiles, mdToHtml, mdToInlineHtml)
 
 import Markdown
+import Markdown.Inline
+import Markdown.Block
+import Html
 import DataSource exposing (DataSource)
 import DataSource.Glob as Glob
 
@@ -29,16 +32,18 @@ mdFiles root =
         |> DataSource.map (List.filter (\f -> f.slug /= "README"))
 
 
-markdownOptions : Markdown.Options
-markdownOptions =
-    { githubFlavored = Just { tables = True, breaks = False }
-    , defaultHighlighting = Nothing
-    , sanitize = False
-    , smartypants = False
-    }
-
 replaceBaseUrl body =
     body
         |> String.replace "{{ site.baseurl }}" ""
         |> String.replace "{{site.baseurl}}" ""
-mdToHtml body = Markdown.toHtmlWith markdownOptions [] (replaceBaseUrl body)
+
+mdToHtml body = Html.div [] (Markdown.toHtml Nothing (replaceBaseUrl body))
+
+mdToInlineHtml body =
+    let
+        inlines = case Markdown.Block.parse Nothing (replaceBaseUrl body) of
+                        [Markdown.Block.Paragraph text pinlines]
+                            -> pinlines
+                        other -> [Markdown.Inline.Text ("COULD NOT PARSE AS INLINE MARKDOWN : `" ++ body ++ "`")]
+    in Html.span [] (List.map Markdown.Inline.toHtml inlines)
+

@@ -16,7 +16,7 @@
             "elm/json": "1.1.3",
             "elm/url": "1.0.0",
             "elm-community/list-extra": "8.5.1",
-            "elm-explorations/markdown": "1.0.0",
+            "pablohirafuji/elm-markdown": "2.0.5",
             "rundis/elm-bootstrap": "5.2.0",
             "terezka/yaml": "1.0.1"
         },

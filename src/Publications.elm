@@ -19,16 +19,18 @@ type alias Publication =
     , doi : String
     , authors : List String
     , isFirstLast : Bool
+    , comment : Maybe String
     }
 
 readPublication =
-    Decode.map6 Publication
+    Decode.map7 Publication
         (Decode.field "Title" Decode.string)
         (Decode.field "Journal" Decode.string)
         (Decode.field "Year" Decode.int)
         (Decode.field "Doi" Decode.string)
         (Decode.field "Authors" (Decode.list Decode.string))
         (Decode.field "isFirstLast" Decode.bool)
+        (Decode.sometimes (Decode.field "comment" Decode.string))
 
 papersLPC : DataSource (List Publication)
 papersLPC =
