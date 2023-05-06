@@ -107,7 +107,7 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
-- **May 31-June 2**: Copenhagen (Denmark)
+- **May 31-June 2**: [microProteins 2023](https://plen.ku.dk/english/calendar/2022/microproteins-2023-unraveling-the-universe-of-microproteins---from-discovery-to-physiology-and-application/) (Copenhagen, Denmark)
 - **June 15-18**: [Vibecamp](https://vibe.camp/)
 - **July 23-27**: [ISMB](https://www.iscb.org/ismbeccb2023) (Lyon, France)
 
