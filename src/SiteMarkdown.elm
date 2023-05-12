@@ -2,6 +2,7 @@ module SiteMarkdown exposing (MarkdownFile, mdFiles, mdToHtml, mdToInlineHtml)
 
 import Markdown
 import Markdown.Inline
+import Markdown.Config as Markdown
 import Markdown.Block
 import Html
 import DataSource exposing (DataSource)
@@ -37,7 +38,18 @@ replaceBaseUrl body =
         |> String.replace "{{ site.baseurl }}" ""
         |> String.replace "{{site.baseurl}}" ""
 
-mdToHtml body = Html.div [] (Markdown.toHtml Nothing (replaceBaseUrl body))
+mdToHtml body =
+    let
+        defaultSanitizeOptions = Markdown.defaultSanitizeOptions
+        sanitizeOptions =
+            { allowedHtmlAttributes = "alt" :: "src" :: "style" :: defaultSanitizeOptions.allowedHtmlAttributes
+            , allowedHtmlElements = "img" :: defaultSanitizeOptions.allowedHtmlElements
+            }
+        options = Just {
+            softAsHardLineBreak = False
+            , rawHtml = Markdown.Sanitize sanitizeOptions
+            }
+    in Html.div [] (Markdown.toHtml options (replaceBaseUrl body))
 
 mdToInlineHtml body =
     let
