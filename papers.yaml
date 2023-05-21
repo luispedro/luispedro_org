@@ -1629,19 +1629,6 @@
   Year: 2022
   Date: '2022-09-17'
   isFirstLast: false
-- Title: 'ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics'
-  Authors:
-  - Rémi Gschwind
-  - Svetlana Ugarcina Perovic
-  - Marie Petitjean
-  - Julie Lao
-  - Luis Pedro Coelho
-  - Etienne Ruppé
-  Journal: 'bioRxiv (PREPRINT)'
-  Doi: 10.1101/2022.10.19.512667
-  Year: 2022
-  Date: '2022-10-19'
-  isFirstLast: false
 - Title: Evidence of a causal and modifiable relationship between kidney function
     and circulating trimethylamine N-oxide with implications for heart and kidney
     disorders
@@ -1723,3 +1710,18 @@
   Date: '2023-01-09'
   isFirstLast: true
   comment: "Accepted at _Bioinformatics_"
+- Title: 'ResFinderFG v2.0: a database of antibiotic resistance genes obtained by
+    functional metagenomics'
+  Authors:
+  - Rémi Gschwind
+  - Svetlana Ugarcina Perovic
+  - Maja Weiss
+  - Marie Petitjean
+  - Julie Lao
+  - Luis Pedro Coelho
+  - Etienne Ruppé
+  Journal: Nucleic Acids Research
+  Doi: 10.1093/nar/gkad384
+  Year: 2023
+  Date: '2023-05-19'
+  isFirstLast: false
