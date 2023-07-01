@@ -1704,12 +1704,11 @@
   - Shaojun Pan
   - Xing-Ming Zhao
   - Luis Pedro Coelho
-  Journal: 'bioRxiv'
-  Doi: 10.1101/2023.01.09.523201
+  Journal: Bioinformatics
+  Doi: 10.1093/bioinformatics/btad209
   Year: 2023
-  Date: '2023-01-09'
+  Date: '2023-06-30'
   isFirstLast: true
-  comment: "Accepted at _Bioinformatics_"
 - Title: 'ResFinderFG v2.0: a database of antibiotic resistance genes obtained by
     functional metagenomics'
   Authors:
