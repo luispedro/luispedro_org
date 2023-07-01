@@ -1724,3 +1724,16 @@
   Year: 2023
   Date: '2023-05-19'
   isFirstLast: false
+- Title: A global survey of eco-evolutionary pressures acting on horizontal gene transfer
+  Authors:
+  - Marija Dmitrijeva
+  - Janko Tackmann
+  - João Matias Rodrigues
+  - Jaime Huerta-Cepas
+  - Luis Pedro Coelho
+  - Christian von Mering
+  Journal: 'Research Square (PREPRINT)'
+  Doi: 10.21203/rs.3.rs-3062985/v1
+  Year: 2023
+  Date: '2023-06-26'
+  isFirstLast: true
