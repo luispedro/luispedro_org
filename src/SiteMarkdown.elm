@@ -43,7 +43,7 @@ mdToHtml body =
         defaultSanitizeOptions = Markdown.defaultSanitizeOptions
         sanitizeOptions =
             { allowedHtmlAttributes = "alt" :: "src" :: "style" :: defaultSanitizeOptions.allowedHtmlAttributes
-            , allowedHtmlElements = "img" :: defaultSanitizeOptions.allowedHtmlElements
+            , allowedHtmlElements = "a" :: "img" :: defaultSanitizeOptions.allowedHtmlElements
             }
         options = Just {
             softAsHardLineBreak = False
