@@ -12,7 +12,7 @@ export default {
     document.getElementById('twitter-injection-site').appendChild(sc);
 
     sc = document.createElement('script');
-    sc.setAttribute('src', "https://www.google-analytics.com/analytics.js");
+    sc.setAttribute('src', "https://www.googletagmanager.com/gtag/js?id=G-88H22CZHSL");
     sc.setAttribute('async', true);
     document.getElementById('google-injection-site').appendChild(sc);
 
@@ -20,17 +20,19 @@ export default {
     sc.setAttribute('src', "https://badge.dimensions.ai/badge.js");
     sc.setAttribute('async', true);
     document.getElementById('google-injection-site').appendChild(sc);
+
+
     sc = document.createElement('script');
 
     window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-88H22CZHSL');
 
-    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};
-    ga.l = +new Date;
-    ga('create', 'UA-11809251-1', 'auto');
-    ga('send', 'pageview');
+    gtag('send', 'pageview');
     app.ports.updatePath.subscribe(function(path) {
-        ga('set', 'page', '/'+path);
-        ga('send', 'pageview');
+        gtag('set', 'page', '/'+path);
+        gtag('send', 'pageview');
     });
   },
   flags: function () {
