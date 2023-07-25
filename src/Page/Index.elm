@@ -179,7 +179,7 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 """]
 
 isRecent : Pub.Publication -> Bool
-isRecent pub = pub.year >= 2018
+isRecent pub = pub.year >= 2019
 
 showPapers : List Pub.Publication -> Grid.Column Msg
 showPapers papers =
