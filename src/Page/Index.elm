@@ -107,8 +107,7 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
-- **July 23-27**: [ISMB](https://www.iscb.org/ismbeccb2023) (Lyon, France)
-
+- **July 23-27**: [ISMB](https://www.iscb.org/ismbeccb2023) (Lyon, France) - [talk](https://2023-07-25-talk-semibin.big-data-biology.org)
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
