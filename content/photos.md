@@ -1,5 +1,5 @@
 ---
-title: Photos of me
+title: Photos of Luis Pedro Coelho
 ---
 
 If you need to use a photo of me (for media usage or conference hand-out
