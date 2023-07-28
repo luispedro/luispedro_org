@@ -117,37 +117,22 @@ link](https://calendly.com/luis-pedro-coelho/pub-zoom-15).
 
 # Research Interests
 
-**More technical version:** I am interested in combining meta\'omics
-(methods that obtain high-throughput information on microbial
-communities such as metagenomics and metatranscriptomics) analysis with
-machine learning approaches to learn about microbial communities in
-different environments. I wish to answer basic questions on what
-determines the structure of a microbial community in a given environment
-and what are the differences/similarities between different
-environments.
+**More technical version:** I am interested in microbiomes. I wish to answer basic questions on what determines the structure of a microbial community in a given environment and what are the differences/similarities between different environments.
+Towards this, I pursue both method development (_e.g._ [SemiBin](https://doi.org/10.1038/s41467-022-29843-y) or [NGLess](https://doi.org/10.1186/s40168-019-0684-8)) and [biologically-driven projects](https://doi.org/10.1038/s41586-021-04233-4).
+Solving problems related to small proteins (those with fewer than 100 amino acids) is a particular interest of mine.
 
-My work is a mix of of
-[method](https://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html) and
-[tool](https://ngless.embl.de) development with
-[applications](https://doi.org/10.1126/science.1261359). In methodological
-terms, I worry a lot about [correct evaluation of
-methods](https://luispedro.org/projects/gen-classification) and avoiding
-over-inflated measures of performance. A large fraction of my time is spent
-scaling up algorithms and [pipelines](https://doi.org/10.5334/jors.161) to work
-on very-large problems.
+**Not-so technical version:** Microbes are all around us (including inside of us), what we call a [microbiome](https://en.wikipedia.org/wiki/Microbiome).
+With modern technology, it is possible to sequence the DNA of all the microbes in a sample (be it from a soil sample or from a human gut sample).
+This allows us to answer questions such as: _what are the microbes present in a given sample? How do they differ between samples? What are the functions of these microbes?_
 
-**Not-so technical version:** With modern technology, namely robotic
-instruments, it is easy to acquire a lot of microscopic pictures. It is
-also possible to acquire large sequence datasets with the DNA of many
-organisms. I use these two families of technologies to investigate what
-is happening in mixed microbial communities such as the one in our guts,
-the [microbiome](https://en.wikipedia.org/wiki/Microbiome).
+However, to achieve this, we need to develop computational methods to analyse these data.
+My work is focused on both developing these methods and applying them to answer biological questions.
 
-In order to be able to use these data, I also need to develop new
-computer methods (software) for these tasks. Thus my work is a mix of
-solving biological problems and tackling the software issues that stand
-in the way of doing so.
+Here is what chatGPT had to say about my research interests:
 
+    Luis Pedro Coelho is a computational biologist known for his work in developing bioinformatics tools and algorithms. As of my last update in September 2021, some specific contributions include his work on the development of machine learning algorithms for the analysis of large-scale molecular biology and metagenomics data.
+    He is the author of several open-source software packages used in bioinformatics. One notable tool he developed is Jug, a task-based parallelization framework that allows users to easily write and run complex, multi-step computational pipelines.
+    Coelho's research has spanned a range of topics in the field of bioinformatics and computational biology, such as image analysis, microbiome research, and genomics. His research often emphasizes methodological development, creating new tools and techniques that others in the field can use to more effectively analyze biological data.
 
 # Recent Publications
 
