@@ -107,6 +107,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
+- **Oct 15-20**: [International Peptide Symposium 2023](https://www.peptides2023.org/) in Brisbane. I will present the talk _A survey of antimicrobial peptides from the global microbiome_.
+
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
 
