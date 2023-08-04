@@ -107,7 +107,7 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
-- **Aug 21-24**: Norwich, UK.
+- **Aug 21-24**: [Quadram Institute](https://quadram.ac.uk/) in Norwich (UK).
 
 - **Oct 15-20**: [International Peptide Symposium 2023](https://www.peptides2023.org/) in Brisbane. I will present the talk _A survey of antimicrobial peptides from the global microbiome_.
 
