@@ -109,6 +109,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 - **Aug 21-24**: [Quadram Institute](https://quadram.ac.uk/) in Norwich (UK).
 
+- **Nov 12-15**: [The 22nd International Conference on Bioinformatics (InCoB 2023)](https://incob.apbionet.org/incob23/) in Brisbane. I will present a highlight talk on [SemiBin](https://doi.org/10.1038/s41467-022-29843-y) (including [SemiBin2](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i21/7210480)).
+
 - **Oct 15-20**: [International Peptide Symposium 2023](https://www.peptides2023.org/) in Brisbane. I will present the talk _A survey of antimicrobial peptides from the global microbiome_.
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
