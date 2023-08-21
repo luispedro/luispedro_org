@@ -4,7 +4,21 @@ categories: about-me
 permalink: news/
 ---
 
-##\# 2019
+## 2022
+
+**April 6-9**: Keystone Symposium
+[Micropeptides: Biogenesis and Function](https://www.keystonesymposia.org/KS/Online/Events/Future/Details.aspx?EventKey=2022T5&Tabs=1)
+
+## 2021
+
+(No travel)
+
+## 2020
+
+**Jan 6-7** I was in Gotenburg, Sweden for the first meeting of the
+[EMBARK project](http://antimicrobialresistance.eu/)
+
+## 2019
 
 **June 20-24 2019** I was in San Francisco for [ASM Microbe
 2019](https://www.asm.org/index.php/asm-microbe-2019)
