@@ -1765,3 +1765,27 @@
   Year: 2023
   Date: '2023-07-01'
   isFirstLast: false
+- Title: Computational exploration of the global microbiome for antibiotic discovery
+  Authors:
+  - Célio Dias Santos-Júnior
+  - Marcelo Der Torossian Torres
+  - Yiqian Duan
+  - Álvaro Rodríguez del Río
+  - Thomas S.B. Schmidt
+  - Hui Chong
+  - Anthony Fullam
+  - Michael Kuhn
+  - Chengkai Zhu
+  - Amy Houseman
+  - Jelena Somborski
+  - Anna Vines
+  - Xing-Ming Zhao
+  - Peer Bork
+  - Jaime Huerta-Cepas
+  - Cesar de la Fuente-Nunez
+  - Luis Pedro Coelho
+  Journal: 'biorXiv (PREPRINT)'
+  Doi: 10.1101/2023.08.31.555663
+  Year: 2023
+  Date: '2023-08-31'
+  isFirstLast: true
