@@ -116,8 +116,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
 
-If you want to chat with me about science and such, you can use [my calendly
-link](https://calendly.com/luis-pedro-coelho/pub-zoom-15).
+If you want to chat with me about science and such, you can use [my cal.com
+link](https://cal.com/luis-pedro-coelho/zoom-15).
 
 # Research Interests
 
