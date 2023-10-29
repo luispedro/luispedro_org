@@ -20,7 +20,7 @@ def get_doi_meta(doi):
     doi = norm_doi(doi)
     r = requests.get(base_url + doi)
     if r.status_code != 200:
-        raise IOError("yeah, something bad happened")
+        raise IOError(f"Something bad happened (status code = {r.status_code})")
     data = r.json()
     return data['message']
 

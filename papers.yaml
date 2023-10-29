@@ -1789,3 +1789,25 @@
   Year: 2023
   Date: '2023-08-31'
   isFirstLast: true
+- Title: 'SPIRE: a Searchable, Planetary-scale mIcrobiome REsource'
+  Authors:
+  - Thomas S B Schmidt
+  - Anthony Fullam
+  - Pamela Ferretti
+  - Askarbek Orakov
+  - Oleksandr M Maistrenko
+  - Hans-Joachim Ruscheweyh
+  - Ivica Letunic
+  - Yiqian Duan
+  - Thea Van Rossum
+  - Shinichi Sunagawa
+  - Daniel R Mende
+  - Robert D Finn
+  - Michael Kuhn
+  - Luis Pedro Coelho
+  - Peer Bork
+  Journal: Nucleic Acids Research
+  Doi: 10.1093/nar/gkad943
+  Year: 2023
+  Date: '2023-10-28'
+  isFirstLast: false
