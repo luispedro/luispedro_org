@@ -68,7 +68,7 @@ type alias Model =
 
 type Msg =
     NoOp
-    | DataReceived (Result Http.Error DimensionsCitations)
+    | DimensionsDataReceived (Result Http.Error DimensionsCitations)
     | ActivatePeriodFilter PeriodFilter
     | DeactivatePeriodFilter
     | SetIsLastFilter Bool
@@ -134,7 +134,7 @@ queryDimensions : Pub.Publication -> Cmd Msg
 queryDimensions p =
     Http.get
         { url = "https://metrics-api.dimensions.ai/doi/" ++ p.doi
-        , expect = Http.expectJson DataReceived decodeDimensionsCitations
+        , expect = Http.expectJson DimensionsDataReceived decodeDimensionsCitations
         }
 
 update : Msg -> Model -> ( Model, Cmd Msg )
@@ -146,7 +146,7 @@ update msg model = case msg of
     SetActiveDOI doi -> ( { model | activeDOI = Just doi } , Cmd.none )
     ResetActiveDOI -> ( { model | activeDOI = Nothing } , Cmd.none )
     SetExpandAllDetails b -> ( { model | expandAllDetails = b } , Cmd.none )
-    DataReceived dt -> case dt of
+    DimensionsDataReceived dt -> case dt of
         Ok d -> ( { model | dimensionsData = Dict.insert (String.toLower d.doi) d model.dimensionsData }, Cmd.none )
         Err _ -> ( model, Cmd.none )
     NoOp -> ( model , Cmd.none )
