@@ -87,19 +87,21 @@ intro =
 
 # Who am I?
 
-I am the principal investigator of the [Big Data Biology
-Lab](https://big-data-biology.org) at Fudan University (Shanghai) since
-September 2018. Our group works in computational biology, with a focus
-on large-scale microbiome analyses.
+I am the principal investigator (PI) of the [Big Data Biology
+Lab](https://big-data-biology.org) at the [Centre for Microbiome
+Research](https://research.qut.edu.au/cmr/) at the [Queensland University of
+Technology](https://www.qut.edu.au/) (Brisbane, Australia) where we study the
+global microbiome.
 
-I will move to the [Centre for Microbiome Research](https://research.qut.edu.au/cmr/) at Queensland University of Technology (QUT) in Brisbane Australia in August 2023.
+Previously, my lab was hosted at Fudan University in Shanghai (2018–2023).
 
-
-Previously, I worked at the European Molecular Biology Laboratory (EMBL) in
-[Peer Bork's group](https://www.embl.de/~bork/). I have a PhD from [Carnegie Mellon
-University](https://www.compbio.cmu.edu/) (2011), where I worked on [bioimage
-informatics](https://en.wikipedia.org/wiki/Bioimage_informatics) for subcellular
-location analysis with [Bob Murphy](https://murphylab.web.cmu.edu/).
+Before becoming a group leader, I worked at the European Molecular Biology
+Laboratory (EMBL) in [Peer Bork's group](https://www.embl.de/~bork/). I have a
+PhD from [Carnegie Mellon University](https://www.compbio.cmu.edu/) (2011),
+where I worked on [bioimage
+informatics](https://en.wikipedia.org/wiki/Bioimage_informatics) for
+subcellular location analysis with [Bob
+Murphy](https://murphylab.web.cmu.edu/).
 
 My [Erdös-Bacon number is 7](/erdos-bacon).
 

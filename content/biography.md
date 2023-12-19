@@ -11,14 +11,18 @@ with a focus on the scientific work performed.
 
 ## Shorter Version
 
-Luis Pedro Coelho is  the principal investigator (PI) of the [Big Data Biology
-Lab](https://big-data-biology.org) at Fudan University. Previously, he worked as
-a postdoctoral researcher in Peer Bork's group at the European Molecular
-Biology Laboratory (EMBL). He has a PhD from Carnegie Mellon University where
-he worked under the supervision of Prof. Bob Murphy and a MSc from Instituto
-Superior Técnico in Lisbon, where he worked with Prof Arlindo Oliveira. He
-currently works on the analysis of microbial communities in different
-environments, such as the [marine
+Luis Pedro Coelho is the principal investigator (PI) of the [Big Data Biology
+Lab](https://big-data-biology.org) at the [Centre for Microbiome
+Research](https://research.qut.edu.au/cmr/) at the [Queensland University of
+Technology](https://www.qut.edu.au/) (Brisbane, Australia). Previously, his lab
+was hosted at Fudan University in Shanghai (2018–2023).
+
+Prior to becoming a group leader, Luis worked as a postdoctoral researcher in
+Peer Bork's group at the European Molecular Biology Laboratory (EMBL). He has a
+PhD from Carnegie Mellon University where he worked under the supervision of
+Prof. Bob Murphy and a MSc from Instituto Superior Técnico in Lisbon, where he
+worked with Prof Arlindo Oliveira. He currently works on the analysis of
+microbial communities in different environments, such as the [marine
 environment](https://www.sciencemag.org/content/348/6237/1261359.full) or the
 [human gut](https://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full)
 using computational methods, namely [metagenomic
@@ -108,6 +112,6 @@ designed webpages for nonprofits.
 
 ### Photos
 
-If you need photos of me (for press purposes &c), please check (this
-page)[/photos].
+If you need photos of me (for press purposes &c), please check [this
+page](/photos).
 

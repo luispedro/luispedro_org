@@ -18,7 +18,6 @@ Dissertation topic: *Modeling the Space of Subcellular Location Patterns Using
 Images and Other Sources of Information*, advised by [Prof. Robert F.
 Murphy](http://murphylab.web.cmu.edu/).
 
-
 **MS in computer science, Instituto Superior Técnico (Technical University Lisbon), 2006**
 
 Dissertation topic: *Bayesian Network Parameter Estimation Using Noisy
@@ -33,7 +32,9 @@ exchange student.
 
 ### Postgraduate Experience
 
-**Currently (since 2018)** Junior Principal Investigator at Fudan University
+**Currently (since 2023)** Group Leader at Queensland University of Technology
+
+**2018-2023** Junior Principal Investigator at Fudan University
 
 **2013-2018** Postdoctoral researcher at the European Molecular Biology
 Laboratory (EMBL) with [Peer
