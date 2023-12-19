@@ -1452,25 +1452,6 @@
   Year: 2022
   Date: '2022-01-11'
   isFirstLast: false
-- Title: Functional and evolutionary significance of unknown genes from uncultivated taxa
-  Authors:
-  - Álvaro Rodríguez del Río
-  - Joaquín Giner-Lamia
-  - Carlos P. Cantalapiedra
-  - Jorge Botas
-  - Ziqi Deng
-  - Ana Hernández-Plaza
-  - Lucas Paoli
-  - Thomas S.B. Schmidt
-  - Shinichi Sunagawa
-  - Peer Bork
-  - Luis Pedro Coelho
-  - Jaime Huerta-Cepas
-  Journal: 'biorXiv (PREPRINT)'
-  Doi: 10.1101/2022.01.26.477801
-  Year: 2022
-  Date: '2022-01-27'
-  isFirstLast: false
 - Title: Microbiome and metabolome features of the cardiometabolic disease spectrum
   Authors:
   - Sebastien Fromentin
@@ -1810,4 +1791,29 @@
   Doi: 10.1093/nar/gkad943
   Year: 2023
   Date: '2023-10-28'
+  isFirstLast: false
+- Title: Functional and evolutionary significance of unknown genes from uncultivated
+    taxa
+  Authors:
+  - Álvaro Rodríguez del Río
+  - Joaquín Giner-Lamia
+  - Carlos P. Cantalapiedra
+  - Jorge Botas
+  - Ziqi Deng
+  - Ana Hernández-Plaza
+  - Martí Munar-Palmer
+  - Saray Santamaría-Hernando
+  - José J. Rodríguez-Herva
+  - Hans-Joachim Ruscheweyh
+  - Lucas Paoli
+  - Thomas S. B. Schmidt
+  - Shinichi Sunagawa
+  - Peer Bork
+  - Emilia López-Solanilla
+  - Luis Pedro Coelho
+  - Jaime Huerta-Cepas
+  Journal: Nature
+  Doi: 10.1038/s41586-023-06955-z
+  Year: 2023
+  Date: '2023-12-18'
   isFirstLast: false
