@@ -109,11 +109,7 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
-- **Aug 21-24**: [Quadram Institute](https://quadram.ac.uk/) in Norwich (UK).
-
-- **Nov 12-15**: [The 22nd International Conference on Bioinformatics (InCoB 2023)](https://incob.apbionet.org/incob23/) in Brisbane. I will present a highlight talk on [SemiBin](https://doi.org/10.1038/s41467-022-29843-y) (including [SemiBin2](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i21/7210480)).
-
-- **Oct 15-20**: [International Peptide Symposium 2023](https://www.peptides2023.org/) in Brisbane. I will present the talk _A survey of antimicrobial peptides from the global microbiome_.
+- **23-25 January (2024)** Berlin, Germany
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -157,6 +153,12 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 # Past News & Travels
 
 ## 2023
+
+- **Nov 12-15**: [The 22nd International Conference on Bioinformatics (InCoB 2023)](https://incob.apbionet.org/incob23/) in Brisbane. I presented a highlight talk on [SemiBin](https://doi.org/10.1038/s41467-022-29843-y) (including [SemiBin2](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i21/7210480)).
+
+- **Oct 15-20**: [International Peptide Symposium 2023](https://www.peptides2023.org/) in Brisbane. I presented the talk _A survey of antimicrobial peptides from the global microbiome_.
+
+- **Aug 21-24**: [Quadram Institute](https://quadram.ac.uk/) in Norwich (UK).
 
 - **July 27**: I was awarded an [ARC Future Fellowship](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/249) to work on small proteins of the global microbiome at QUT.
 

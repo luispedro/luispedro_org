@@ -109,9 +109,6 @@ work](https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/92480)
 **17 August 2015** The project [ngless is now open
 source](https://ngless.embl.de/)
 
-**16 July 2015** I will be teaching at the [Lisbon Machine Learning
-School](http://lxmls.it.pt/2015/)
-
 **16 July 2015** I taught at the [Lisbon Machine Learning
 School](https://lxmls.it.pt/2015/)
 
@@ -163,8 +160,8 @@ inhibits RNA polymerase I transcription and is important for parasite
 fitness in vivo* in Molecular Microbiology
 \[[DOI](https://doi.org/10.1111/mmi.12677)\].
 
-**June 2014** I will be teaching at a software carpentry workshop in
-Cyprus and Amman (Jordan).
+**June 2014** I taught at a software carpentry workshop in Cyprus and Amman
+(Jordan).
 
 **April 2014** Traveling to University of Southern Denmark for a
 software carpentry bootcamp.
