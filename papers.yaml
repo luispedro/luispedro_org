@@ -1705,19 +1705,6 @@
   Year: 2023
   Date: '2023-05-19'
   isFirstLast: false
-- Title: A global survey of eco-evolutionary pressures acting on horizontal gene transfer
-  Authors:
-  - Marija Dmitrijeva
-  - Janko Tackmann
-  - João Matias Rodrigues
-  - Jaime Huerta-Cepas
-  - Luis Pedro Coelho
-  - Christian von Mering
-  Journal: 'Research Square (PREPRINT)'
-  Doi: 10.21203/rs.3.rs-3062985/v1
-  Year: 2023
-  Date: '2023-06-26'
-  isFirstLast: true
 - Title: 'Towards Monitoring of Antimicrobial Resistance in the Environment: For what
     Reasons, How to Implement It, and What Are the Data Needs?'
   Authors:
@@ -1871,3 +1858,17 @@
   Year: 2024
   Date: '2024-02-12'
   isFirstLast: false
+- Title: A global survey of prokaryotic genomes reveals the eco-evolutionary pressures
+    driving horizontal gene transfer
+  Authors:
+  - Marija Dmitrijeva
+  - Janko Tackmann
+  - João Frederico Matias Rodrigues
+  - Jaime Huerta-Cepas
+  - Luis Pedro Coelho
+  - Christian von Mering
+  Journal: Nature Ecology &amp; Evolution
+  Doi: 10.1038/s41559-024-02357-0
+  Year: 2024
+  Date: '2024-03-05'
+  isFirstLast: true
