@@ -1882,3 +1882,11 @@
   Year: 2024
   Date: '2024-03-08'
   isFirstLast: true
+- Title: For long-term sustainable software in bioinformatics
+  Authors:
+  - Luis Pedro Coelho
+  Journal: PLOS Computational Biology
+  Doi: 10.1371/journal.pcbi.1011920
+  Year: 2024
+  Date: '2024-03-15'
+  isFirstLast: true
