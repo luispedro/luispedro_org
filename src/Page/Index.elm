@@ -56,7 +56,8 @@ websiteDescription : String
 websiteDescription = """
 Luis Pedro Coelho is a computational biologist focusing on the global microbiome.
 
-In August 2023, he is moving to the Centre for Microbiome Research at QUT (Brisbane, Australia).
+He is currently the principal investigator of the Big Data Biology Lab at the Centre for Microbiome Research at QUT (Brisbane, Australia).
+
 """
 page = Page.prerender
         { head = head
@@ -109,7 +110,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
-- **23-25 January (2024)** Berlin, Germany
+- **April 24** [open office hours](/office-hours) (Zoom)
+- **May 9** [open office hours](/office-hours) (Zoom)
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -151,6 +153,10 @@ outro =
 profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 # Past News & Travels
+
+## 2024
+
+- **23-25 January (2024)** Berlin, Germany
 
 ## 2023
 
