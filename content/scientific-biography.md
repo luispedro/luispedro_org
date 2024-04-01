@@ -2,8 +2,10 @@
 title: Scientific Biography
 permalink: biography/scientific
 categories: about-me
-meta: Biography of Luis Pedro Coelho, a postdoctoral researcher at EMBL.
+meta: Biography of Luis Pedro Coelho, a group leader at the Centre for Microbiome Research (QUT)
 ---
+
+*This is out of date*
 
 My work spans two subfields of computational biology: biomage informatics and
 metagenomics-based microbial ecology.
@@ -55,7 +57,6 @@ the SURF method ([Bay et al.,
 subcellular domain and showed that they perform significantly better in
 generalization. The image data used to validate this dataset was collected by
 myself and annotated by a 3 different experts, including myself.
-
 
 Another domain where I successfully developed machine learning techniques for
 bioimage analysis is that of quantifying neutrophil extracellular traps (NETs)

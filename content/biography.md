@@ -6,10 +6,8 @@ meta: Biography of Luis Pedro Coelho
 ---
 
 Also see my [resume](/resume) and [CV (PDF format)](/vita.pdf) or my
-[scientific biography](/biography/scientific.html) which is a longer document
+[scientific biography](/biography/scientific) which is a longer document
 with a focus on the scientific work performed.
-
-## Shorter Version
 
 Luis Pedro Coelho is the principal investigator (PI) of the [Big Data Biology
 Lab](https://big-data-biology.org) at the [Centre for Microbiome
@@ -40,8 +38,9 @@ underprivileged neighbourhoods and designed Webpages for nonprofits. In Summer
 [beiraproject.org](http://beiraproject.org).
 
 Luis can be found at [luispedro.org](https://luispedro.org) and blogs
-at [metarabbit.wordpress.com](https://metarabbit.wordpress.com).
+at [luispedro.substack.com](https://luispedro.substack.com)
 
+<!--
 ## Longer Version (Academic)
 
 Luis Pedro Coelho is postdoctoral researcher at the European Molecular Biology
