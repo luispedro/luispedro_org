@@ -1,5 +1,5 @@
 ---
-title: "Office Hours"
+title: "Open Office Hours"
 permalink: office-hours/
 categories: about-me
 meta: Open office hours
@@ -14,6 +14,3 @@ These are **open to anyone in the world**
 
 Registration is free (but required to avoid spam)
 
-
-<!-- **No current slots are planned**.  `Email
-<mailto:luis@luispedro.org> me`__ if you want to talk. -->
