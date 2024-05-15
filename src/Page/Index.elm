@@ -110,8 +110,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 # Upcoming Travels & Talks
 
-- **April 24** [open office hours](/office-hours) (Zoom)
-- **May 9** [open office hours](/office-hours) (Zoom)
+- **July 12-17**: [ISMB2024, followed by the Quest for Orthologs meeting](https://www.iscb.org/ismb2024/) in Montreal, Canada
+- **July 4**: [ASM (the Australian one)](https://asmicro-2024.p.asnevents.com.au/days/2024-07-04), in Brisbane, QLD, Australia
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at
 any of these opportunities (or to invite me for other opportunities).
@@ -156,6 +156,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 ## 2024
 
+- **9 May** [open office hours](/office-hours) (Zoom)
+- **24 April** [open office hours](/office-hours) (Zoom)
 - **23-25 January (2024)** Berlin, Germany
 
 ## 2023
