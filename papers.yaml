@@ -1733,30 +1733,6 @@
   Year: 2023
   Date: '2023-07-01'
   isFirstLast: false
-- Title: Computational exploration of the global microbiome for antibiotic discovery
-  Authors:
-  - Célio Dias Santos-Júnior
-  - Marcelo Der Torossian Torres
-  - Yiqian Duan
-  - Álvaro Rodríguez del Río
-  - Thomas S.B. Schmidt
-  - Hui Chong
-  - Anthony Fullam
-  - Michael Kuhn
-  - Chengkai Zhu
-  - Amy Houseman
-  - Jelena Somborski
-  - Anna Vines
-  - Xing-Ming Zhao
-  - Peer Bork
-  - Jaime Huerta-Cepas
-  - Cesar de la Fuente-Nunez
-  - Luis Pedro Coelho
-  Journal: 'biorXiv (PREPRINT)'
-  Doi: 10.1101/2023.08.31.555663
-  Year: 2023
-  Date: '2023-08-31'
-  isFirstLast: true
 - Title: 'SPIRE: a Searchable, Planetary-scale mIcrobiome REsource'
   Authors:
   - Thomas S B Schmidt
@@ -1889,4 +1865,29 @@
   Doi: 10.1371/journal.pcbi.1011920
   Year: 2024
   Date: '2024-03-15'
+  isFirstLast: true
+- Title: Discovery of antimicrobial peptides in the global microbiome with machine
+    learning
+  Authors:
+  - Célio Dias Santos-Júnior
+  - Marcelo D.T. Torres
+  - Yiqian Duan
+  - Álvaro Rodríguez del Río
+  - Thomas S.B. Schmidt
+  - Hui Chong
+  - Anthony Fullam
+  - Michael Kuhn
+  - Chengkai Zhu
+  - Amy Houseman
+  - Jelena Somborski
+  - Anna Vines
+  - Xing-Ming Zhao
+  - Peer Bork
+  - Jaime Huerta-Cepas
+  - Cesar de la Fuente-Nunez
+  - Luis Pedro Coelho
+  Journal: Cell
+  Doi: 10.1016/j.cell.2024.05.013
+  Year: 2024
+  Date: '2024-06-01'
   isFirstLast: true

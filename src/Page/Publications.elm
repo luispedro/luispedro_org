@@ -171,18 +171,25 @@ intro =
         [SiteMarkdown.mdToHtml """
 # Full List of Publications
 
-Updated: **17 March 2024**
+Updated: **6 June 2024**
 
 [My google scholar
 profile](http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 
-Google Scholar total citations: 16,167; h-index: 43 ([Web of
+Google Scholar total citations: 16,924; h-index: 44 ([Web of
 science](https://www.webofscience.com/wos/author/record/1798261):
-10,353 citations; h-index: 37)
+10,393 citations; h-index: 36)
 
 # Selected Publications
 
-1.  **Luis Pedro Coelho**, Renato Alves, Álvaro Rodríguez del Río, Pernille
+1.  Célio Dias Santos-Júnior\\*, Marcelo D.T. Torres\\*, Yiqian Duan, Álvaro
+    Rodríguez del Río, Thomas S.B. Schmidt, Hui Chong, Anthony Fullam, Michael
+    Kuhn, Chengkai Zhu, Amy Houseman, Jelena Somborski, Anna Vines, Xing-Ming
+    Zhao, Peer Bork, Jaime Huerta-Cepas, Cesar de la Fuente-Nunez⁺, and **Luis
+    Pedro Coelho⁺** [Discovery of antimicrobial peptides in the global
+    microbiome with machine
+    learning](https://doi.org/10.1016/j.cell.2024.05.013) in _Cell_ (2024)
+2.  **Luis Pedro Coelho**, Renato Alves, Álvaro Rodríguez del Río, Pernille
     Neve Myers, Carlos P. Cantalapiedra, Joaquín Giner-Lamia, Thomas Sebastian
     Schmidt, Daniel R. Mende, Askarbek Orakov, Ivica Letunic, Falk Hildebrand,
     Thea Van Rossum, Sofia K. Forslund, Supriya Khedkar, Oleksandr M.
@@ -191,16 +198,11 @@ science](https://www.webofscience.com/wos/author/record/1798261):
     [Towards the biogeography of prokaryotic genes
     ](https://doi.org/10.1038/s41586-021-04233-4) in _Nature_ (2022) [[Open
     Access version](https://europepmc.org/article/med/34912116)].
-2.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
+3.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
     Coelho** ⁺ [A deep siamese neural network improves metagenome-assembled
     genomes in microbiome datasets across different
     environments](https://doi.org/10.1038/s41467-022-29843-y) in _Nature
     Communications_ (2022).
-3.  **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
-    Huerta-Cepas, Ana Teresa Freitas, and Peer Bork [NG-meta-profiler:
-    fast processing of metagenomes using NGLess, a domain-specific
-    language](https://doi.org/10.1186/s40168-019-0684-8) in
-    _Microbiome_ (2019)
 4.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K.
     Forslund, Patrick Descombes, Janet Jackson, Qinghong Li, and Peer
