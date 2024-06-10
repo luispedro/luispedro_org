@@ -136,13 +136,13 @@ My work is focused on both developing these methods and applying them to answer 
 
 Here is what chatGPT had to say about my research interests:
 
-    Luis Pedro Coelho is a computational biologist known for his work in developing bioinformatics tools and algorithms. As of my last update in September 2021, some specific contributions include his work on the development of machine learning algorithms for the analysis of large-scale molecular biology and metagenomics data.
-    He is the author of several open-source software packages used in bioinformatics. One notable tool he developed is Jug, a task-based parallelization framework that allows users to easily write and run complex, multi-step computational pipelines.
-    Coelho's research has spanned a range of topics in the field of bioinformatics and computational biology, such as image analysis, microbiome research, and genomics. His research often emphasizes methodological development, creating new tools and techniques that others in the field can use to more effectively analyze biological data.
+>  Luis Pedro Coelho is a computational biologist known for his work in developing bioinformatics tools and algorithms. As of my last update in September 2021, some specific contributions include his work on the development of machine learning algorithms for the analysis of large-scale molecular biology and metagenomics data.
+>  He is the author of several open-source software packages used in bioinformatics. One notable tool he developed is Jug, a task-based parallelization framework that allows users to easily write and run complex, multi-step computational pipelines.
+>  Coelho's research has spanned a range of topics in the field of bioinformatics and computational biology, such as image analysis, microbiome research, and genomics. His research often emphasizes methodological development, creating new tools and techniques that others in the field can use to more effectively analyze biological data.
 
 # Recent Publications
 
-Recent(ish) publications (last 5 years; see [full list](/publications)):
+Recent(ish) publications (last 3 years; see [full list](/publications)):
 
 """]
 
@@ -158,6 +158,10 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 ## 2024
 
+- **Jun 11** The [AMPSphere manuscript](https://doi.org/10.1016/j.cell.2024.05.013) was featured in several news outlets, including the BBC ([*Science in Action*](https://www.bbc.co.uk/sounds/play/w3ct5vct)), [*Deutsche Welle*](https://www.dw.com/en/are-scientists-finally-beating-antimicrobial-resistance/a-69275675), [*Guardian*](https://www.theguardian.com/society/article/2024/jun/05/ai-antibiotic-resistance), [*El País*](https://elpais.com/ciencia/2024-06-05/desvelado-el-mayor-catalogo-de-nuevas-moleculas-antibioticas-casi-un-millon-de-compuestos-desconocidos.html), [*Folha de São Paulo*](https://www1.folha.uol.com.br/equilibrioesaude/2024/06/estudo-identifica-quase-1-milhao-de-substancias-potenciais-contra-bacterias-resistentes.shtml) as well as mentions as a [Nature Research Highlight](https://www.nature.com/articles/d41586-024-01654-9) and in the [Science Adviser](https://www.science.org/content/article/scienceadviser-kicking-trump-twitter-helped-reduce-fake-news).
+- **Jun 5** AMPSphere manuscript [published in Cell](https://doi.org/10.1016/j.cell.2024.05.013)
+- **May 14** New Season of [Extremely Open Science](/extremely-open-science/). See [episode 1](https://youtu.be/N-O3n63-fcY?si=LgNx5cabFEots3jA) and the [sardyne github repository](https://github.com/BigDataBiology/sardyne)
+- **Apr 27** [argNorm](https://github.com/BigDataBiology/argNorm) v0.3.0 has been released
 - **9 May** [open office hours](/office-hours) (Zoom)
 - **24 April** [open office hours](/office-hours) (Zoom)
 - **23-25 January (2024)** Berlin, Germany
@@ -186,7 +190,7 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 """]
 
 isRecent : Pub.Publication -> Bool
-isRecent pub = pub.year >= 2019
+isRecent pub = pub.year >= 2022
 
 showPapers : List Pub.Publication -> Grid.Column Msg
 showPapers papers =
