@@ -1,5 +1,5 @@
 ---
-title: Upcoming Travels &amp; Talks
+title: "Upcoming Travels & Talks"
 permalink: travel
 categories: about-me
 meta: Travel
