@@ -7,6 +7,7 @@ permalink: talks/
 
 # Recent
 
+- [#BOSC2024](https://youtu.be/yCgvvVQJE9I) on [sustainable research software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920)
 - [Introduction to Python](https://github.com/luispedro/talk-python-intro/)
 
 # Archives
