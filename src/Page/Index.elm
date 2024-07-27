@@ -117,9 +117,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 ## 2024
 
 - **Nov 11-15** I will be co-teaching a 1 week course on state-of-the-art bioinformatic approaches to analyze metagenomic data. Click [here](https://www.physalia-courses.org/courses-workshops/environmental-metagenomics/) to learn more and register.
-- **July 19-22**: I will be in San Francisco
-- **July 12-17**: [ISMB2024, followed by the Quest for Orthologs meeting](https://www.iscb.org/ismb2024/) in Montreal, Canada
-- **July 4**: [ASM (the Australian one)](https://asmicro-2024.p.asnevents.com.au/days/2024-07-04), in Brisbane, QLD, Australia
+- **Aug 18-23** I will be in Cape Town, South Africa for [ISME19](https://isme19.isme-microbes.org/).
+
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities).
 
@@ -163,6 +162,9 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 ## 2024
 
+- **July 19-22**: I will be in San Francisco
+- **July 12-17**: [ISMB2024, followed by the Quest for Orthologs meeting](https://www.iscb.org/ismb2024/) in Montreal, Canada
+- **July 4**: [ASM (the Australian one)](https://asmicro-2024.p.asnevents.com.au/days/2024-07-04), in Brisbane, QLD, Australia
 - **Jun 11** The [AMPSphere manuscript](https://doi.org/10.1016/j.cell.2024.05.013) was featured in several news outlets, including the BBC ([*Science in Action*](https://www.bbc.co.uk/sounds/play/w3ct5vct)), [*Deutsche Welle*](https://www.dw.com/en/are-scientists-finally-beating-antimicrobial-resistance/a-69275675), [*Guardian*](https://www.theguardian.com/society/article/2024/jun/05/ai-antibiotic-resistance), [*El País*](https://elpais.com/ciencia/2024-06-05/desvelado-el-mayor-catalogo-de-nuevas-moleculas-antibioticas-casi-un-millon-de-compuestos-desconocidos.html), [*Folha de São Paulo*](https://www1.folha.uol.com.br/equilibrioesaude/2024/06/estudo-identifica-quase-1-milhao-de-substancias-potenciais-contra-bacterias-resistentes.shtml) as well as mentions as a [Nature Research Highlight](https://www.nature.com/articles/d41586-024-01654-9) and in the [Science Adviser](https://www.science.org/content/article/scienceadviser-kicking-trump-twitter-helped-reduce-fake-news).
 - **Jun 5** AMPSphere manuscript [published in Cell](https://doi.org/10.1016/j.cell.2024.05.013)
 - **May 14** New Season of [Extremely Open Science](/extremely-open-science/). See [episode 1](https://youtu.be/N-O3n63-fcY?si=LgNx5cabFEots3jA) and the [sardyne github repository](https://github.com/BigDataBiology/sardyne)
