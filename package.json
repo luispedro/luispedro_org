@@ -10,5 +10,8 @@
     "elm-pages": "2.1.10",
     "elm-review": "^2.5.5",
     "elm-tooling": "^1.4.0"
+  },
+  "dependencies": {
+    "netlify-plugin-cache": "^1.0.3"
   }
 }
