@@ -1780,23 +1780,6 @@
   Year: 2023
   Date: '2023-12-18'
   isFirstLast: false
-- Title: A catalogue of small proteins from the global microbiome
-  Authors:
-  - Yiqian Duan
-  - Célio Dias Santos Júnior
-  - Thomas S.B. Schmidt
-  - Anthony Fullam
-  - Breno L. S. de Almeida
-  - Chengkai Zhu
-  - Kuhn Michael
-  - Xing-Ming Zhao
-  - Peer Bork
-  - Luis Pedro Coelho
-  Journal: 'bioRxiv (PREPRINT)'
-  Doi: 10.1101/2023.12.27.573469
-  Year: 2023
-  Date: '2023-12-28'
-  isFirstLast: true
 - Title: Ubiquity of inverted ’gelatinous’ ecosystem pyramids in the global ocean
   Authors:
   - Lombard Fabien
@@ -1890,4 +1873,21 @@
   Doi: 10.1016/j.cell.2024.05.013
   Year: 2024
   Date: '2024-06-01'
+  isFirstLast: true
+- Title: A catalog of small proteins from the global microbiome
+  Authors:
+  - Yiqian Duan
+  - Célio Dias Santos-Júnior
+  - Thomas Sebastian Schmidt
+  - Anthony Fullam
+  - Breno L. S. de Almeida
+  - Chengkai Zhu
+  - Michael Kuhn
+  - Xing-Ming Zhao
+  - Peer Bork
+  - Luis Pedro Coelho
+  Journal: Nature Communications
+  Doi: 10.1038/s41467-024-51894-6
+  Year: 2024
+  Date: '2024-08-31'
   isFirstLast: true
