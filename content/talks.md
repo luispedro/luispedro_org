@@ -9,6 +9,7 @@ permalink: talks/
 
 - [#BOSC2024](https://youtu.be/yCgvvVQJE9I) on [sustainable research software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920)
 - [Introduction to Python](https://github.com/luispedro/talk-python-intro/)
+- [Semi- and self-supervised learning for metageonmics binning with SemiBin](https://youtu.be/4sj4VrpXARs) at _ISMB/ECCB 2023_ ([slides](https://2023-07-25-talk-semibin.big-data-biology.org/), press `?` for help)
 
 # Archives
 
