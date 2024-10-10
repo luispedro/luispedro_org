@@ -6,7 +6,7 @@ permalink: resume/
 
 A long-form CV is available as a [PDF Version](/vita.pdf).
 
-A narrative version is available as [my scientific biography](/biography/scientific.html).
+A narrative version is available as [my scientific biography](scientific-biography).
 
 ## Luis Pedro Coelho
 
