@@ -45,7 +45,7 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
 
 ### Scholarships & Awards
 
--= Highly Cited Researcher (<em>Cross-field</em> category)
+- Highly Cited Researcher (_Cross-field_ category)
 - [Siebel Scholar 2012](https://www.siebelscholars.com/scholars/785).
 - Portugal's Science and Research Foundation Ph.D. scholarship 2007-2011
 - Outstanding Research Accomplishment
