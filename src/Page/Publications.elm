@@ -176,9 +176,9 @@ Updated: **2 September 2024**
 [My google scholar
 profile](http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 
-Google Scholar total citations: 17,868; h-index: 45 ([Web of
+Google Scholar total citations: 18,368; h-index: 45 ([Web of
 science](https://www.webofscience.com/wos/author/record/1798261):
-11,045 citations; h-index: 36)
+11,339 citations; h-index: 36)
 
 # Selected Publications
 

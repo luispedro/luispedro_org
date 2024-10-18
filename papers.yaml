@@ -1891,3 +1891,29 @@
   Year: 2024
   Date: '2024-08-31'
   isFirstLast: true
+- Title: Quest for Orthologs in the Era of Biodiversity Genomics
+  Authors:
+  - Felix Langschied
+  - Nicola Bordin
+  - Salvatore Cosentino
+  - Diego Fuentes-Palacios
+  - Natasha Glover
+  - Michael Hiller
+  - Yanhui Hu
+  - Jaime Huerta-Cepas
+  - Luis Pedro Coelho
+  - Wataru Iwasaki
+  - Sina Majidian
+  - Saioa Manzano-Morales
+  - Emma Persson
+  - Thomas A Richards
+  - Toni Gabaldón
+  - Erik Sonnhammer
+  - Paul D Thomas
+  - Christophe Dessimoz
+  - Ingo Ebersberger
+  Journal: Genome Biology and Evolution
+  Doi: 10.1093/gbe/evae224
+  Year: 2024
+  Date: '2024-10-15'
+  isFirstLast: false
