@@ -117,8 +117,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 ## 2024
 
 - **Nov 11-15** I will be co-teaching a 1 week course on state-of-the-art bioinformatic approaches to analyze metagenomic data. Click [here](https://www.physalia-courses.org/courses-workshops/environmental-metagenomics/) to learn more and register.
-- **Sep 24** I will be presenting online at [APBioNet](https://www.apbionet.org/news/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) on using machine learning to find antimicrobial peptides in the global microbiome. The talk will be on September 24, 2024 at 5am UTC (1pm SGT). [Learn more and register](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/)]
-
+- **Nov  3-6** I will be in Sydney. On the 4th, I will present at the [Symposium on Bioinformatics Excellence and Innovation](https://www.abacbs.org/conference2024/home) which is part of the ABACBS conference.
+- **Oct 14-24** I will be in Shanghai
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities).
 
@@ -162,6 +162,7 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 ## 2024
 
+- **Sep 24** I will be presenting online at [APBioNet](https://www.apbionet.org/news/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) on using machine learning to find antimicrobial peptides in the global microbiome. The talk will be on September 24, 2024 at 5am UTC (1pm SGT). [Learn more and register](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/)]
 - **Aug 18-23** I was in Cape Town, South Africa for [ISME19](https://isme19.isme-microbes.org/). I will present at the [Night of the Microbes event](https://www.sun.ac.za/english/Lists/Events/DispForm.aspx?ID=5882&RootFolder=%2Fenglish%2FLists%2FEvents&Source=http%3A%2F%2Fwww%2Esun%2Eac%2Eza%2Fenglish%2FPages%2Fdefault%2Easpx%3Ftid%3D23).
 - **July 19-22**: I was in San Francisco
 - **July 12-17**: [ISMB2024, followed by the Quest for Orthologs meeting](https://www.iscb.org/ismb2024/) in Montreal, Canada. I presented a talk on [AMPSphere](https://doi.org/10.1016/j.cell.2024.05.013) and on [long term sustainable research software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920) ([YouTube version](https://youtu.be/yCgvvVQJE9I)).
