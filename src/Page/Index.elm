@@ -112,13 +112,15 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 ## 2025
 
-- **Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
+**Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
 
 ## 2024
 
-- **Nov 11-15** I will be co-teaching a 1 week course on state-of-the-art bioinformatic approaches to analyze metagenomic data. Click [here](https://www.physalia-courses.org/courses-workshops/environmental-metagenomics/) to learn more and register.
-- **Nov  3-6** I will be in Sydney. On the 4th, I will present at the [Symposium on Bioinformatics Excellence and Innovation](https://www.abacbs.org/conference2024/home) which is part of the ABACBS conference.
-- **Oct 14-24** I will be in Shanghai
+**Dec 10 & 12**: _Open office hours_. Two sessions at different times of the day, so it works for all timezones. Attendance is free, but registration is required:
+- Dec 10 @ 9.30am UTC ([find your local time](https://everytimezone.com/s/af68ee61)): [Register now](https://qut.zoom.us/meeting/register/tZYpduitqjwtGdZydsw8CieA_UNn_5oDeaLB)
+- Dec 12 @ 9.30pm UTC ([find your local time](https://everytimezone.com/s/d4dac6a1)): [Register now](https://qut.zoom.us/meeting/register/tZwof-mrpzMvHNe7ljcCtSidpzoxkZMGjO2E)
+
+**Nov 11-15** I will be co-teaching a 1 week course on state-of-the-art bioinformatic approaches to analyze metagenomic data. Click [here](https://www.physalia-courses.org/courses-workshops/environmental-metagenomics/) to learn more and register.
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities).
 
@@ -161,7 +163,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 # Past News & Travels
 
 ## 2024
-
+- **Nov  3-6** I will be in Sydney. On the 4th, I will present at the [Symposium on Bioinformatics Excellence and Innovation](https://www.abacbs.org/conference2024/home) which is part of the ABACBS conference.
+- **Oct 14-24** I will be in Shanghai
 - **Sep 24** I will be presenting online at [APBioNet](https://www.apbionet.org/news/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) on using machine learning to find antimicrobial peptides in the global microbiome. The talk will be on September 24, 2024 at 5am UTC (1pm SGT). [Learn more and register](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/)]
 - **Aug 18-23** I was in Cape Town, South Africa for [ISME19](https://isme19.isme-microbes.org/). I will present at the [Night of the Microbes event](https://www.sun.ac.za/english/Lists/Events/DispForm.aspx?ID=5882&RootFolder=%2Fenglish%2FLists%2FEvents&Source=http%3A%2F%2Fwww%2Esun%2Eac%2Eza%2Fenglish%2FPages%2Fdefault%2Easpx%3Ftid%3D23).
 - **July 19-22**: I was in San Francisco
