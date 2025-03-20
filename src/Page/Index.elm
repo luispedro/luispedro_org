@@ -112,15 +112,14 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 ## 2025
 
+**Apr 15-18** I will be at the [Pakistan Society for Microbiology Conference](https://qau.edu.pk/events/15th-biennial-conference-organized-by-the-pakistan-society-for-microbiology/).
+
+**Jul 20-24** I will be at the [ISMB/ECCB 2025 – Intelligent Systems for Molecular Biology & European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025)
+
 **Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
 
-## 2024
+**Sep 16-19** I will be at the [EMBL Human Microbiome Symposium](https://www.embl.org/about/info/course-and-conference-office/events/ees25-08/).
 
-**Dec 10 & 12**: _Open office hours_. Two sessions at different times of the day, so it works for all timezones. Attendance is free, but registration is required:
-- Dec 10 @ 9.30am UTC ([find your local time](https://everytimezone.com/s/af68ee61)): [Register now](https://qut.zoom.us/meeting/register/tZYpduitqjwtGdZydsw8CieA_UNn_5oDeaLB)
-- Dec 12 @ 9.30pm UTC ([find your local time](https://everytimezone.com/s/d4dac6a1)): [Register now](https://qut.zoom.us/meeting/register/tZwof-mrpzMvHNe7ljcCtSidpzoxkZMGjO2E)
-
-**Nov 11-15** I will be co-teaching a 1 week course on state-of-the-art bioinformatic approaches to analyze metagenomic data. Click [here](https://www.physalia-courses.org/courses-workshops/environmental-metagenomics/) to learn more and register.
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities).
 
@@ -163,6 +162,13 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 # Past News & Travels
 
 ## 2024
+
+**Dec 10 & 12**: _Open office hours_. Two sessions at different times of the day, so it works for all timezones. Attendance is free, but registration is required:
+- Dec 10 @ 9.30am UTC ([find your local time](https://everytimezone.com/s/af68ee61)): [Register now](https://qut.zoom.us/meeting/register/tZYpduitqjwtGdZydsw8CieA_UNn_5oDeaLB)
+- Dec 12 @ 9.30pm UTC ([find your local time](https://everytimezone.com/s/d4dac6a1)): [Register now](https://qut.zoom.us/meeting/register/tZwof-mrpzMvHNe7ljcCtSidpzoxkZMGjO2E)
+
+**Nov 11-15** I co-taught a 1 week course on state-of-the-art bioinformatic approaches to analyze metagenomic data. Click [here](https://www.physalia-courses.org/courses-workshops/environmental-metagenomics/) to learn more and register.
+
 - **Nov  3-6** I will be in Sydney. On the 4th, I will present at the [Symposium on Bioinformatics Excellence and Innovation](https://www.abacbs.org/conference2024/home) which is part of the ABACBS conference.
 - **Oct 14-24** I will be in Shanghai
 - **Sep 24** I will be presenting online at [APBioNet](https://www.apbionet.org/news/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) on using machine learning to find antimicrobial peptides in the global microbiome. The talk will be on September 24, 2024 at 5am UTC (1pm SGT). [Learn more and register](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/)]
