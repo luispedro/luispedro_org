@@ -1891,19 +1891,6 @@
   Year: 2024
   Date: '2024-08-31'
   isFirstLast: true
-- Title: 'argNorm: Normalization of antibiotic resistance gene annotations to the
-    Antibiotic Resistance Ontology (ARO)'
-  Authors:
-  - Svetlana Ugarcina Perovic
-  - Vedanth Ramji
-  - Hui Chong
-  - Yiqian Duan
-  - Luis Pedro Coelho
-  Journal: 'QUT eprints (PREPRINT)'
-  Doi: 10.5204/rep.eprints.252448
-  Year: 2024
-  Date: '2024-10-09'
-  isFirstLast: true
 - Title: Quest for Orthologs in the Era of Biodiversity Genomics
   Authors:
   - Felix Langschied
@@ -1930,3 +1917,17 @@
   Year: 2024
   Date: '2024-10-15'
   isFirstLast: false
+- Title: 'argNorm: normalization of antibiotic resistance gene annotations to the
+    Antibiotic Resistance Ontology (ARO)'
+  Authors:
+  - Svetlana Ugarcina Perovic
+  - Vedanth Ramji
+  - Hui Chong
+  - Yiqian Duan
+  - Finlay Maguire
+  - Luis Pedro Coelho
+  Journal: Bioinformatics
+  Doi: 10.1093/bioinformatics/btaf173
+  Year: 2025
+  Date: '2025-04-16'
+  isFirstLast: true
