@@ -60,8 +60,8 @@ run the simulation for me. A small python program outputs LaTeX:
     \noindent'''
 
     symbols=['uparrow','to','downarrow','gets','nearrow','searrow','nwarrow','swarrow']
-    for i in xrange(800):
-        print r'$\%s$ ' % choice(symbols)
+    for i in range(800):
+        print(r'$\%s$ ' % choice(symbols))
 
 
     print r'''

@@ -1,10 +1,7 @@
 import sys
 import requests
-import json
 import yaml
-import shutil
 
-from glob import glob
 base_url = 'https://api.crossref.org/works/'
 doi = '10.1038/s41586-021-04177-9'
 

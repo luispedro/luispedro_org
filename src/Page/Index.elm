@@ -138,11 +138,9 @@ This allows us to answer questions such as: _what are the microbes present in a 
 However, to achieve this, we need to develop computational methods to analyse these data.
 My work is focused on both developing these methods and applying them to answer biological questions.
 
-Here is what chatGPT had to say about my research interests:
+Here is what o3 had to say about my research interests:
 
->  Luis Pedro Coelho is a computational biologist known for his work in developing bioinformatics tools and algorithms. As of my last update in September 2021, some specific contributions include his work on the development of machine learning algorithms for the analysis of large-scale molecular biology and metagenomics data.
->  He is the author of several open-source software packages used in bioinformatics. One notable tool he developed is Jug, a task-based parallelization framework that allows users to easily write and run complex, multi-step computational pipelines.
->  Coelho's research has spanned a range of topics in the field of bioinformatics and computational biology, such as image analysis, microbiome research, and genomics. His research often emphasizes methodological development, creating new tools and techniques that others in the field can use to more effectively analyze biological data.
+> I work at the nexus of microbiology, big data, and machine learning: my group mines massively scaled metagenomic datasets—tens of thousands of environmental and host-associated samples—to build global gene catalogs such as GMGC v1, capturing both canonical proteins and the overlooked “small gene” universe of short open-reading frames. Leveraging these resources, we uncover new biology, most recently assembling AMPSphere, the world’s largest collection of candidate antimicrobial peptides, and experimentally validating their therapeutic promise. In parallel, we create open-source, high-performance tools like SemiBin and SemiBin 2, which use self-supervised neural networks to reconstruct high-quality metagenome-assembled genomes from short- and long-read data with minimal computational cost. Together, these efforts aim to chart the diversity, ecology, and functional capacity of the global microbiome—and translate that knowledge into novel antibiotics and other bioactive molecules.
 
 # Recent Publications
 

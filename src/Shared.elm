@@ -156,7 +156,7 @@ header =
             ]]
 footer = Html.div []
             [Html.p []
-                [Html.text "Copyright (c) 2009-2023. Luis Pedro Coelho. All rights reserved."]
+                [Html.text "Copyright (c) 2009-2025. Luis Pedro Coelho. All rights reserved."]
             ,Html.div [HtmlAttr.id "google-injection-site"] []
             ]
 

@@ -5,6 +5,9 @@ categories: about-me
 meta: Open office hours
 ---
 
+No office hours currently scheduled. Feel free to email.
+
+<!--
 During these times, I am publicly available for any conversation about anything.
 
 These are **open to anyone in the world**
@@ -15,3 +18,4 @@ These are **open to anyone in the world**
 
 Registration is free (but required to avoid spam)
 
+-->
