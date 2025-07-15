@@ -63,6 +63,10 @@ def reformat_meta(meta):
     elif len(date_parts) == 2:
         year, month = date_parts
         day = 1
+    elif len(date_parts) == 1:
+        [year] = date_parts
+        month = 1
+        day = 1
     else:
         raise ValueError(f"Cannot parse date parts of form '{date_parts}'")
     return {
