@@ -120,6 +120,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 **Oct 13-15** I will be in Houston for the [SMBE Satellite Meeting: Evolutionary Biochemistry of Insect Antimicrobial Peptides](https://uh.edu/nsm/biology-biochemistry/news-events/smbe-meeting/).
 
+**Dec 15-18, 2025** I will give a keynote at the [19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO 2025)](https://dtmbio.net/) in Muju, Republic of Korea.
+
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities).
 
 If you want to chat with me about science and such, you can use [my cal.com
