@@ -112,8 +112,6 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 ## 2025
 
-**Jul 16-24** I will be in London July 15-20 and then in Liverpool for the [ISMB/ECCB 2025 – Intelligent Systems for Molecular Biology & European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025)
-
 **Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
 
 **Sep 16-19** I will be at the [EMBL Human Microbiome Symposium](https://www.embl.org/about/info/course-and-conference-office/events/ees25-08/).
@@ -165,6 +163,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 **Apr 15** [argNorm published at Bioinformatics](https://doi.org/10.1093/bioinformatics/btaf173)
 
 **Apr 15-18** I will be at the [Pakistan Society for Microbiology Conference](https://qau.edu.pk/events/15th-biennial-conference-organized-by-the-pakistan-society-for-microbiology/).
+
+**Jul 16-24** I was in London July 15-20 and then in Liverpool for the [ISMB/ECCB 2025 – Intelligent Systems for Molecular Biology & European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025)
 
 ## 2024
 
