@@ -1976,3 +1976,17 @@
   Year: 2025
   Date: '2025-01-01'
   isFirstLast: false
+- Title: 'AEMB: a computationally efficient abundance estimation method for metagenomic
+    binning'
+  Authors:
+  - Shaojun Pan
+  - Ivan Tolstoganov
+  - Kristoffer Sahlin
+  - Marcel Martin
+  - Xing-Ming Zhao
+  - Luis Pedro Coelho
+  Journal: 'biorXiv (PREPRINT)'
+  Doi: 10.1101/2025.07.30.667338
+  Year: 2025
+  Date: '2025-08-01'
+  isFirstLast: true
