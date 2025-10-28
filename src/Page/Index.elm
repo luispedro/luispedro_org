@@ -113,10 +113,6 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 ## 2025
 
 
-**Oct 13-15** I will be in Houston for the [SMBE Satellite Meeting: Evolutionary Biochemistry of Insect Antimicrobial Peptides](https://uh.edu/nsm/biology-biochemistry/news-events/smbe-meeting/).
-
-**Oct 23-24** I will be at the [Queensland Immunology Networking Symposium](https://www.qirc.com.au/qins25)
-
 **Dec 15-18, 2025** I will give a keynote at the [19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO 2025)](https://dtmbio.net/) in Muju, Republic of Korea.
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities).
@@ -159,9 +155,14 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 ## 2025
 
-**Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
+**Oct 23-24** I attended the [Queensland Immunology Networking Symposium](https://www.qirc.com.au/qins25)
+
+**Oct 13-15** I was in Houston for the [SMBE Satellite Meeting: Evolutionary Biochemistry of Insect Antimicrobial Peptides](https://uh.edu/nsm/biology-biochemistry/news-events/smbe-meeting/).
 
 **Sep 16-19** I will be at the [EMBL Human Microbiome Symposium](https://www.embl.org/about/info/course-and-conference-office/events/ees25-08/).
+
+**Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
+
 
 **Apr 15** [argNorm published at Bioinformatics](https://doi.org/10.1093/bioinformatics/btaf173)
 
