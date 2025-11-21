@@ -2009,3 +2009,23 @@
   Year: 2025
   Date: '2025-09-17'
   isFirstLast: true
+- Title: 'proGenomes4: providing 2 million accurately and consistently annotated high-quality prokaryotic genomes'
+  Authors:
+  - Anthony Fullam
+  - Ivica Letunic
+  - Oleksandr M Maistrenko
+  - Alexandre Areias Castro
+  - Luis Pedro Coelho
+  - Anastasiia Grekova
+  - Christian Schudoma
+  - Supriya Khedkar
+  - Mahdi Robbani
+  - Michael Kuhn
+  - Thomas S B Schmidt
+  - Peer Bork
+  - Daniel R Mende
+  Journal: Nucleic Acids Research
+  Doi: 10.1093/nar/gkaf1208
+  Year: 2025
+  Date: '2025-11-20'
+  isFirstLast: false
