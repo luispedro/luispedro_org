@@ -4,6 +4,10 @@ categories: about-me
 permalink: news/
 ---
 
+## 2026
+
+**Feb 25** Talk at [BRISJAMS](https://jams.org.au/index.php/jams-brisbane/) in Brisbane, Australia. "AI and big data in microbiology: the hype, the promise, and the disappointments"
+
 ## 2022
 
 **April 6-9**: Keystone Symposium
