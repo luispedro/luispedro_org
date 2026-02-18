@@ -48,7 +48,7 @@ School](https://lxmls.it.pt/2018/)
 
 ### 2017
 
-**Nov 22-24 2017** I was in Schwarzenber, Switzerland for the [Autumn
+**Nov 22-24 2017** I was in Schwarzenberg, Switzerland for the [Autumn
 School \"Machine Learning applied to Systems
 Biology\"](http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn-school).
 I also visited the University of Bern and presented my scientific work.
@@ -91,7 +91,7 @@ Microbiology of the Built
 Environment](https://microbe.net/2015/11/03/early-career-workshop-on-microbiology-of-the-built-environment/)
 in Chicago.
 
-**17 April 2016** I gave an invited keynote in Florence ate [PYCON
+**17 April 2016** I gave an invited keynote in Florence at [PYCON
 Sette](https://www.pycon.it/en/)
 
 **7 March 2016** I am now an Associate Editor of the [Journal of Open
@@ -121,9 +121,6 @@ in Paris
 
 **22 May 2015** Paper out in
 [Science](sciencemag.org/content/348/6237/1261359.full)
-
-**March 31-April 2 2015** I attended the [International Human Microbiome
-Congress (IHMC)](http://www.ihmc2015.org/) in Luxembourg
 
 **March 31-April 2 2015** I attended the [International Human Microbiome
 Congress (IHMC)](https://www.ihmc2015.org/) in Luxembourg

@@ -7,7 +7,7 @@ meta: Biography of Luis Pedro Coelho, a group leader at the Centre for Microbiom
 
 *This is out of date*
 
-My work spans two subfields of computational biology: biomage informatics and
+My work spans two subfields of computational biology: bioimage informatics and
 metagenomics-based microbial ecology.
 
 ## Bioimage informatics (fluorescence microscopy image analysis)
@@ -35,7 +35,7 @@ the basis patterns are known and given to the algorithm ([Peng et al.,
 2010](https://www.pnas.org/content/107/7/2944.short))—to work in an unsupervised
 fashion ([Coelho*, Peng*, et al., 2011](https://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7)).
 
-One basic task in the field of biomage analysis is classification of
+One basic task in the field of bioimage analysis is classification of
 subcellular patterns (and, more generally, supervised classification of
 phenotypes). Although this was one of the original problems that sparked the
 field ([Boland et al., 1998](https://www.ncbi.nlm.nih.gov/pubmed/9822349)),

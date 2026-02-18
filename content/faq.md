@@ -35,7 +35,7 @@ terms with me.
 
 ## I'm Going to Lisbon. What should I see?
 
-From Chiado, theres's a trolley, the 28, which goes down into downtown, then
+From Chiado, there's a trolley, the 28, which goes down into downtown, then
 back up to the castle area, and across to Graça. This is definitely worth
 doing, either on the trolley, on foot following the trolley route, or any
 combination of both.

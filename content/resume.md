@@ -142,7 +142,7 @@ participants from all around the US.
 
 ### Open Source Programming
 
-I publish and maintainx many open source projects of interest to his research,
+I publish and maintain many open source projects of interest to my research,
 such as image processing or machine learning code. In particular
 [mahotas](https://github.com/luispedro/mahotas) (ca. 6,000 downloads per month)
 is a [computer vision library in
