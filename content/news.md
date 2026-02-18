@@ -8,6 +8,10 @@ permalink: news/
 
 **Feb 25** Talk at [BRISJAMS](https://jams.org.au/index.php/jams-brisbane/) in Brisbane, Australia. "AI and big data in microbiology: the hype, the promise, and the disappointments"
 
+## 2025
+
+**Dec 15-18** Keynote at the [19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO 2025)](https://dtmbio.net/) in Muju, Republic of Korea.
+
 ## 2022
 
 **April 6-9**: Keystone Symposium
