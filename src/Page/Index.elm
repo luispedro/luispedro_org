@@ -154,6 +154,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 ## 2025
 
+**Dec 15-18** Keynote at the [19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO 2025)](https://dtmbio.net/) in Muju, Republic of Korea.
+
 **Oct 23-24** I attended the [Queensland Immunology Networking Symposium](https://www.qirc.com.au/qins25)
 
 **Oct 13-15** I was in Houston for the [SMBE Satellite Meeting: Evolutionary Biochemistry of Insect Antimicrobial Peptides](https://uh.edu/nsm/biology-biochemistry/news-events/smbe-meeting/).
