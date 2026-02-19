@@ -114,6 +114,8 @@ My [Erdös-Bacon number is 7](/erdos-bacon).
 
 **Feb 25, 2026** Talk at [BRISJAMS](https://jams.org.au/index.php/jams-brisbane/) in Brisbane, Australia. "AI and big data in microbiology: the hype, the promise, and the disappointments"
 
+**May 18, 2026** Talk at the [55th Annual Meeting of SBBq](https://www.sbbq.org.br/) in Águas de Lindóia, SP, Brazil. "Big data and small genes. The small proteins of the global microbiome"
+
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities).
 
 If you want to chat with me about science and such, you can use [my cal.com
