@@ -26,9 +26,11 @@ def is_lpc(n):
 
 def reformat_meta(meta):
     [title] = meta['title']
-    try:
+    if meta['container-title']:
         [journal] = meta['container-title']
-    except:
+    elif meta['subtype'] == 'preprint' and meta.get('institution', [{}])[0].get('name') == 'bioRxiv':
+        journal = 'bioRxiv (PREPRINT)'
+    else:
         print(f'Could not parse journal. Please add manually')
         journal = '?'
     doi = meta['DOI']
