@@ -14,7 +14,6 @@ import Path
 import Route exposing (Route)
 import SharedTemplate exposing (SharedTemplate)
 import View exposing (View)
-import Html exposing (Html)
 import Html.Attributes as HtmlAttr
 
 
@@ -115,19 +114,6 @@ view sharedData page model toMsg pageView =
                     , Grid.simpleRow
                         [ Grid.col [Col.xs3, Col.attrs [HtmlAttr.id "leftbar"]]
                             [navigation
-                            ,Html.div [HtmlAttr.id "twitter-timeline"]
-                                [Html.a
-                                    [HtmlAttr.class "twitter-timeline"
-                                    ,HtmlAttr.id "twitter-timeline-a"
-                                    ,HtmlAttr.attribute "data-width" "240"
-                                    ,HtmlAttr.attribute "data-height" "480"
-                                    ,HtmlAttr.href "https://twitter.com/luispedrocoelho?ref_src=twsrc%5Etfw"
-
-                                    ]
-                                    [Html.text "Tweets by @luispedrocoelho"]
-                                ,Html.div [HtmlAttr.id "twitter-injection-site"]
-                                    []
-                                ]
                             ]
                         , Grid.col [Col.xs9]
                             [Html.div [] pageView.body]
@@ -156,7 +142,7 @@ header =
             ]]
 footer = Html.div []
             [Html.p []
-                [Html.text "Copyright (c) 2009-2025. Luis Pedro Coelho. All rights reserved."]
+                [Html.text "Copyright (c) 2009-2026. Luis Pedro Coelho. All rights reserved."]
             ,Html.div [HtmlAttr.id "google-injection-site"] []
             ]
 
@@ -199,7 +185,6 @@ navigation =
             ,("/derivations", "Some useful derivations")
             ,("/fimdetarde", "Award-winning short story (in Portuguese)")
             ,("/shmoo-video/", "Yeast Mating Claymation")
-            ,("https://twitter.com/luispedrocoelho", "@luispedrocoelho (twitter)")
             ]
         --,liSection "Older Projects"
         --    [("/projects/gen-classification", "Generalization of Subcellular Location")
