@@ -140,7 +140,7 @@ Here is what o3 had to say about my research interests:
 
 # Recent Publications
 
-Recent(ish) publications (last 3 years; see [full list](/publications)):
+Recent(ish) publications (since 2024; see [full list](/publications)):
 
 """]
 
@@ -213,7 +213,7 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 """]
 
 isRecent : Pub.Publication -> Bool
-isRecent pub = pub.year >= 2022
+isRecent pub = pub.year >= 2024
 
 showPapers : List Pub.Publication -> Grid.Column Msg
 showPapers papers =
