@@ -48,7 +48,7 @@ stop, but not all of them do this). This is very much a ride of city vistas
 river, particularly in Spring and Fall---when it's nice, but not yet too hot).
 
 Do be careful, the 28 is notorious for pick-pockets (I used to ride it all the
-time as I lived in Graça and never had any problems, but I don't really looked
+time as I lived in Graça and never had any problems, but I don't really look
 like a tourist either).
 
 If you want to do a day outside the city, you can go to

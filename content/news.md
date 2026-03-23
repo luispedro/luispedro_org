@@ -39,7 +39,7 @@ of Electronic Science and Technology of China.
 (ICOHAR)](http://www.icohar2019.org/icohar2019.html) talking about our
 [dog microbiome work](https://doi.org/10.1186/s40168-018-0450-3)
 
-### 2018
+## 2018
 
 **Oct 4 2018** I was in Paris talking about [single cell
 approaches](https://pasic-2018.sciencesconf.org/)
@@ -54,7 +54,7 @@ Consortium](http://apc.ucc.ie/ihmc-2018/)
 [Lisbon (Portugal) Machine Learning Summer
 School](https://lxmls.it.pt/2018/)
 
-### 2017
+## 2017
 
 **Nov 22-24 2017** I was in Schwarzenberg, Switzerland for the [Autumn
 School \"Machine Learning applied to Systems
@@ -68,7 +68,7 @@ workshop](https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-t
 [here](https://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html))
 and giving a scientific talk on my work.
 
-**Sept 12-13 2017** I was in Delft 12-13\*\* for a [workshop on
+**Sept 12-13 2017** I was in Delft for a [workshop on
 data-driven cell factory and community
 design](https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-factory-and-community-design-tickets-35694722877)
 
@@ -82,6 +82,8 @@ design](https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-f
 
 **July 9-13 2017** I was in Valencia for [FEMS
 2017](http://fems-microbiology2017.kenes.com)
+
+## 2016
 
 **21-28 July 2016** I was in Lisbon for the 2016 edition of the [Lisbon
 Machine Learning Summer School](https://lxmls.it.pt/2016/?page_id=64),
@@ -112,6 +114,8 @@ work](https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/89657) and
 gave a talk on our [environmental imaging
 work](https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/92480)
 
+## 2015
+
 **22-25 August 2015** Visiting Tallinn (Estonia)
 
 **17 August 2015** The project [ngless is now open
@@ -128,7 +132,7 @@ conference](https://www.embl.de/tara-oceans/start/conference-2015/index.html)
 in Paris
 
 **22 May 2015** Paper out in
-[Science](sciencemag.org/content/348/6237/1261359.full)
+[Science](https://sciencemag.org/content/348/6237/1261359.full)
 
 **March 31-April 2 2015** I attended the [International Human Microbiome
 Congress (IHMC)](https://www.ihmc2015.org/) in Luxembourg
@@ -139,6 +143,8 @@ Congress (IHMC)](https://www.ihmc2015.org/) in Luxembourg
 **February 2015** I was in Granada for the *2015 Aquatic Sciences
 Meeting*, giving [a talk on the 26th on our metagenomics
 work](https://www.sgmeet.com/aslo/granada2015/sessionschedule.asp?SessionID=075)
+
+## 2014
 
 **November 2014** I was the lead organizer for a [software carpentry
 workshop at
@@ -178,6 +184,8 @@ instructor](https://software-carpentry.org/pages/team.html)
 Sunagawa, **Luis P. Coelho**, Peer Bork, *Metagenomic insights into the
 human gut resistome and the forces that shape it* in Bioessays (2014).
 \[[DOI](https://doi.org/10.1002/bies.201300143)\]
+
+## 2013
 
 **December 2013** New publication: Peter Liehl et al., *Host-cell
 sensors for Plasmodium activate innate immunity against liver-stage
@@ -235,6 +243,8 @@ group](https://www.embl.de/~bork/).
 edition of the [Lisbon Machine Learning
 School](https://lxmls.it.pt/2013/)
 
+## 2012
+
 **November 2012** I have a new manuscript up at the
 [arXiv](https://arxiv.org/abs/1211.4907) on my [computer vision software,
 mahotas](/software/mahotas/) \[Update in 2013: this is now a
@@ -249,6 +259,8 @@ Scientists Course](/projects/pfs-09-2012) at IMM.
 **January 2012** I am now based in Lisbon at
 [IMM](https://www.imm.fm.ul.pt/web/imm/geneexpressionandbiophysics) in
 Musa Mhlanga\'s lab.
+
+## 2011
 
 **November 2011** I start work as a postdoctoral researcher at [Musa
 Mhlanga\'s lab](https://mhlangalab.synbio.csir.co.za/).

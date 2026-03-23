@@ -10,7 +10,7 @@ categories: software python
 # Mahotas-imread: Reads images into numpy arrays
 
 A dedicated page with documentation is available at
-[https://imread.rftd.org](https://imread.rtfd.org). This page is just a
+[https://imread.rtfd.org](https://imread.rtfd.org). This page is just a
 summary.
 
 If you are using mahotas-imread in a scientific publication, please cite

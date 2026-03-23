@@ -8,7 +8,7 @@ permalink: software/suffix-trees/
 
 Suffix trees are a tree representation of a string and all its suffixes.
 Consider the string *mississippi\$* . It is convenient to make sure the
-strning ends in a symbol not found elsewhere. The suffixes of
+string ends in a symbol not found elsewhere. The suffixes of
 *mississippi\$* are:
 
 -   mississippi\$
@@ -99,8 +99,8 @@ String Depth
     passed *en route* to the node.
 
 In this representation, the edge reaching a node is labeled by the
-string which goes from \$Start+father.String_Depth\$ to
-\$Start+father.String_Depth\$.
+string which goes from \$Start+father.String\_Depth\$ to
+\$Start+String\_Depth\$.
 
 This seems awkward compared to the more direct Begin/End pair outlined
 above. However, for the price of a small inconvenience when accessing an

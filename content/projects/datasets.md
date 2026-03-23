@@ -11,7 +11,7 @@ required them and were labeled by myself and co-authors.
 
 ## Subcellular location determination
 
-This is a pair of **image classification** dataset, consisting of imgaes
+This is a pair of **image classification** dataset, consisting of images
 of fluorescently tagged proteins in NIH 3T3 cells.
 
 **Reference**
