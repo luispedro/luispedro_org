@@ -33,11 +33,6 @@ mdFiles root =
         |> DataSource.map (List.filter (\f -> f.slug /= "README"))
 
 
-replaceBaseUrl body =
-    body
-        |> String.replace "{{ site.baseurl }}" ""
-        |> String.replace "{{site.baseurl}}" ""
-
 mdToHtml body =
     let
         defaultSanitizeOptions = Markdown.defaultSanitizeOptions
@@ -49,11 +44,11 @@ mdToHtml body =
             softAsHardLineBreak = False
             , rawHtml = Markdown.Sanitize sanitizeOptions
             }
-    in Html.div [] (Markdown.toHtml options (replaceBaseUrl body))
+    in Html.div [] (Markdown.toHtml options body)
 
 mdToInlineHtml body =
     let
-        inlines = case Markdown.Block.parse Nothing (replaceBaseUrl body) of
+        inlines = case Markdown.Block.parse Nothing body of
                         [Markdown.Block.Paragraph text pinlines]
                             -> pinlines
                         other -> [Markdown.Inline.Text ("COULD NOT PARSE AS INLINE MARKDOWN : `" ++ body ++ "`")]
