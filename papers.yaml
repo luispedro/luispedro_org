@@ -1611,8 +1611,7 @@
   Date: '2022-09-17'
   isFirstLast: false
 - Title: Evidence of a causal and modifiable relationship between kidney function
-    and circulating trimethylamine N-oxide with implications for heart and kidney
-    disorders
+    and circulating trimethylamine N-oxide
   Authors:
   - Petros Andrikopoulos
   - Judith Aron-Wisnewsky
@@ -1644,6 +1643,65 @@
   - Dominique Gauguier
   - Jens Peter Gøtze
   - Edi Prifti
+  - Philippe Froguel
+  - The MetaCardis Consortium
+  - Rohia Alili
+  - Ehm Astrid Andersson Galijatovic
+  - Olivier Barthelemy
+  - Jean-Philippe Bastard
+  - Jean-Paul Batisse
+  - Pierre Bel-Lassen
+  - Magalie Berland
+  - Randa Bittar
+  - Hervé Blottière
+  - Frederic Bosquet
+  - Rachid Boubrit
+  - Olivier Bourron
+  - Mickael Camus
+  - Cecile Ciangura
+  - Jean-Philippe Collet
+  - Arne Dietrich
+  - Morad Djebbar
+  - Angélique Doré
+  - Line Engelbrechtsen
+  - Leopold Fezeu
+  - Sebastien Fromentin
+  - Nicolas Pons
+  - Marianne Graine
+  - Caroline Grünemann
+  - Agnes Hartemann
+  - Bolette Hartmann
+  - Malene Hornbak
+  - Sophie Jaqueminet
+  - Niklas Rye Jørgensen
+  - Hanna Julienne
+  - Johanne Justesen
+  - Judith Kammer
+  - Nikolaj Karup
+  - Ruby Kozlowski
+  - Michael Kuhn
+  - Véronique Lejard
+  - Ivica Letunic
+  - Florence Levenez
+  - Lajos Marko
+  - Laura Martinez-Gili
+  - Robin Massey
+  - Nicolas Maziers
+  - Lucas Moitinho-Silva
+  - Gilles Montalescot
+  - Ana Luisa Neves
+  - Laetitia Pasero Le Pavin
+  - Francoise Pousset
+  - Andrea Rodriguez-Martinez
+  - Sebastien Schmidt
+  - Tatjana Schütz
+  - Lucas Silva
+  - Johanne Silvain
+  - Mathilde Svendstrup
+  - Timothy D. Swartz
+  - Thierry Vanduyvenboden
+  - Eric O. Verger
+  - Stefanie Walther
   - Jean-Daniel Zucker
   - Fredrik Bäckhed
   - Henrik Vestergaard
@@ -1659,11 +1717,10 @@
   - S. Dusko Ehrlich
   - Karine Clément
   - Marc-Emmanuel Dumas
-  - MetaCardis Consortium
-  Journal: 'medRXiv (PREPRINT)'
-  Doi: 10.1101/2022.11.08.22282073
-  Year: 2022
-  Date: '2022-11-08'
+  Journal: Nature Communications
+  Doi: 10.1038/s41467-023-39824-4
+  Year: 2023
+  Date: '2023-09-20'
   isFirstLast: false
 - Title: 'metaMIC: reference-free misassembly identification and correction of de
     novo metagenomic assemblies'
