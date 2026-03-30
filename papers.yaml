@@ -2020,19 +2020,6 @@
   Year: 2025
   Date: '2025-06-26'
   isFirstLast: false
-- Title: Persistence of High-Risk Antimicrobial Resistance Genes in Extracellular
-    DNA Along an Urban Wastewater-River Continuum
-  Authors:
-  - John  P. Makumbi
-  - Samuel  K. Leareng
-  - Oliver  K. Bezuidt
-  - Luis Pedro Coelho
-  - Thulani  P. Makhalanyane
-  Journal: 'Sneak Peek (SSRN Preprints)'
-  Doi: 10.2139/ssrn.5342551
-  Year: 2025
-  Date: '2025-01-01'
-  isFirstLast: false
 - Title: 'AEMB: a computationally efficient abundance estimation method for metagenomic
     binning'
   Authors:
@@ -2249,3 +2236,16 @@
   Year: 2026
   Date: '2026-03-21'
   isFirstLast: true
+- Title: Persistence of high-risk antimicrobial resistance genes in extracellular
+    DNA along an urban wastewater-river continuum
+  Authors:
+  - John Paul Makumbi
+  - Samuel K. Leareng
+  - Oliver K. Bezuidt
+  - Luis Pedro Coelho
+  - Thulani P. Makhalanyane
+  Journal: Cell Reports
+  Doi: 10.1016/j.celrep.2026.117128
+  Year: 2026
+  Date: '2026-03-01'
+  isFirstLast: false
