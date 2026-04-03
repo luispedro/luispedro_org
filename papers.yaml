@@ -2003,23 +2003,6 @@
   Year: 2025
   Date: '2025-06-03'
   isFirstLast: false
-- Title: A census of hidden and discoverable microbial diversity beyond genome-centric
-    approaches
-  Authors:
-  - Vishnu Prasoodanan P K
-  - Oleksandr M Maistrenko
-  - Anthony Fullam
-  - Daniel R Mende
-  - Ece Kartal
-  - Luis Pedro Coelho
-  - Anja Spang
-  - Peer Bork
-  - Thomas S B Schmidt
-  Journal: 'bioRxiv (PREPRINT)'
-  Doi: 10.1101/2025.06.26.661807
-  Year: 2025
-  Date: '2025-06-26'
-  isFirstLast: false
 - Title: 'AEMB: a computationally efficient abundance estimation method for metagenomic
     binning'
   Authors:
@@ -2248,4 +2231,20 @@
   Doi: 10.1016/j.celrep.2026.117128
   Year: 2026
   Date: '2026-03-01'
+  isFirstLast: false
+- Title: Unbinned contigs expand known diversity in the global microbiome
+  Authors:
+  - Vishnu Prasoodanan PK
+  - Oleksandr M. Maistrenko
+  - Anthony Fullam
+  - Daniel R. Mende
+  - Ece Kartal
+  - Luis Pedro Coelho
+  - Anja Spang
+  - Peer Bork
+  - Thomas S. B. Schmidt
+  Journal: Nature Microbiology
+  Doi: 10.1038/s41564-026-02314-6
+  Year: 2026
+  Date: '2026-04-03'
   isFirstLast: false

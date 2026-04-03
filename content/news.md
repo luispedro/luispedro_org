@@ -6,6 +6,8 @@ permalink: news/
 
 ## 2026
 
+**Apr 3** Our paper [Unbinned contigs expand known diversity in the global microbiome](https://doi.org/10.1038/s41564-026-02314-6) is published in *Nature Microbiology*.
+
 **Feb 25** Talk at [BRISJAMS](https://jams.org.au/index.php/jams-brisbane/) in Brisbane, Australia. "AI and big data in microbiology: the hype, the promise, and the disappointments"
 
 ## 2025
