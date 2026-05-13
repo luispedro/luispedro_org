@@ -2272,3 +2272,19 @@
   Year: 2026
   Date: '2026-04-01'
   isFirstLast: false
+- Title: 'The elusive resistome: a global comparison reveals large discrepancies among
+    detection pipelines'
+  Authors:
+  - Juan Salvador Inda-Díaz
+  - Faith Adegoke
+  - Ulrike Löber
+  - Víctor Hugo Jarquín-Díaz
+  - Yiqian Duan
+  - Johan Bengtsson-Palme
+  - Svetlana Ugarcina Perovic
+  - Luis Pedro Coelho
+  Journal: bioRxiv (PREPRINT)
+  Doi: 10.64898/2026.05.11.724158
+  Year: 2026
+  Date: '2026-05-12'
+  isFirstLast: true
