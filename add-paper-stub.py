@@ -3,7 +3,6 @@ import requests
 import yaml
 
 base_url = 'https://api.crossref.org/works/'
-doi = '10.1038/s41586-021-04177-9'
 
 def norm_doi(doi):
     for prefix in ['http://doi.org/',
@@ -31,7 +30,7 @@ def reformat_meta(meta):
     elif meta['subtype'] == 'preprint' and meta.get('institution', [{}])[0].get('name') == 'bioRxiv':
         journal = 'bioRxiv (PREPRINT)'
     else:
-        print(f'Could not parse journal. Please add manually')
+        print('Could not parse journal. Please add manually')
         journal = '?'
     doi = meta['DOI']
     authors = []
@@ -44,11 +43,12 @@ def reformat_meta(meta):
             raise KeyError(f"Cannot format author: {aut}")
 
 
-    isFirstLast = is_lpc(authors[0]) or is_lpc(authors[-1])
     if not authors:
-        import sys
         sys.stderr.write("Author information is missing.\n")
         sys.stderr.write("Proceeding... but check results manually\n")
+        isFirstLast = False
+    else:
+        isFirstLast = is_lpc(authors[0]) or is_lpc(authors[-1])
     for pubkey in [
                 'published-print',
                 'published-online',
@@ -90,15 +90,14 @@ def main(argv):
 
     meta = get_doi_meta(doi)
     remeta = reformat_meta(meta)
-    ofile = f'PAPER_OUT.md'
+    ofile = 'PAPER_OUT.md'
     with open(ofile, 'wt') as out:
         out.write(yaml.dump([remeta], sort_keys=False, allow_unicode=True))
 
     print(f'Wrote output to {ofile}')
-    print(f'Please do the following')
-    print(f'    1. Manually check the content therein (in particular the abstract)')
+    print('Please do the following')
+    print('    1. Manually check the content therein')
 
 if __name__ == '__main__':
-    import sys
     main(sys.argv)
 
