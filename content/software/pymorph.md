@@ -91,18 +91,6 @@ New contributions are welcome. At best, start from the
 it or just email me a patch. Right now, good test bug reports are a
 needed contribution.
 
-TODO
-----
-
--   Write more tests.
--   Re-format the documentation. The previous documentation was a bit
-    too verbose for my taste and not in any standard format. I am slowly
-    re-writing some of it in restructured text.
--   Do something about the demos. They don\'t work. I need to either fix
-    them or delete them.
-
-Once these are done, I will release this as 1.0
-
 History
 -------
 

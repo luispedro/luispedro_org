@@ -53,7 +53,8 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
     Ph.D. Program in Computational Biology (2007).
 - Academic Excellency
     Diploma of Merit from Instituto Superior Técnico for academic excellency in
-    the academic year 1999/2000. Award for Academy Excellence in the Joint
+    the academic year 1999/2000.
+- Award for Academic Excellence in the Joint
     CMU-University of Pittsburgh Ph.D. Program in Computational Biology (2007).
 - **Fulbright Fellowship** for Ph.D. Study in the US, 2006/07.
 - Portugal's Science and Research Foundation research scholarship from December

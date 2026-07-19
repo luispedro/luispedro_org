@@ -158,6 +158,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 ## 2026
 
+**May 18** Talk at the [55th Annual Meeting of SBBq](https://www.sbbq.org.br/) in Águas de Lindóia, SP, Brazil. "Big data and small genes. The small proteins of the global microbiome"
+
 **Feb 25** Talk at [BRISJAMS](https://jams.org.au/index.php/jams-brisbane/) in Brisbane, Australia. "AI and big data in microbiology: the hype, the promise, and the disappointments"
 
 ## 2025
@@ -168,16 +170,15 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 **Oct 13-15** I was in Houston for the [SMBE Satellite Meeting: Evolutionary Biochemistry of Insect Antimicrobial Peptides](https://uh.edu/nsm/biology-biochemistry/news-events/smbe-meeting/).
 
-**Sep 16-19** I will be at the [EMBL Human Microbiome Symposium](https://www.embl.org/about/info/course-and-conference-office/events/ees25-08/).
+**Sep 16-19** I was at the [EMBL Human Microbiome Symposium](https://www.embl.org/about/info/course-and-conference-office/events/ees25-08/).
 
 **Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
 
+**Jul 15-24** I was in London and then in Liverpool for the [ISMB/ECCB 2025 – Intelligent Systems for Molecular Biology & European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025)
+
+**Apr 15-18** I was at the [Pakistan Society for Microbiology Conference](https://qau.edu.pk/events/15th-biennial-conference-organized-by-the-pakistan-society-for-microbiology/).
 
 **Apr 15** [argNorm published at Bioinformatics](https://doi.org/10.1093/bioinformatics/btaf173)
-
-**Apr 15-18** I will be at the [Pakistan Society for Microbiology Conference](https://qau.edu.pk/events/15th-biennial-conference-organized-by-the-pakistan-society-for-microbiology/).
-
-**Jul 16-24** I was in London July 15-20 and then in Liverpool for the [ISMB/ECCB 2025 – Intelligent Systems for Molecular Biology & European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025)
 
 ## 2024
 
@@ -190,7 +191,7 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 - **Nov  3-6** I will be in Sydney. On the 4th, I will present at the [Symposium on Bioinformatics Excellence and Innovation](https://www.abacbs.org/conference2024/home) which is part of the ABACBS conference.
 - **Oct 14-24** I will be in Shanghai
-- **Sep 24** I will be presenting online at [APBioNet](https://www.apbionet.org/news/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) on using machine learning to find antimicrobial peptides in the global microbiome. The talk will be on September 24, 2024 at 5am UTC (1pm SGT). [Learn more and register](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/)]
+- **Sep 24** I will be presenting online at [APBioNet](https://www.apbionet.org/news/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) on using machine learning to find antimicrobial peptides in the global microbiome. The talk will be on September 24, 2024 at 5am UTC (1pm SGT). [Learn more and register](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/)
 - **Aug 18-23** I was in Cape Town, South Africa for [ISME19](https://isme19.isme-microbes.org/). I will present at the [Night of the Microbes event](https://www.sun.ac.za/english/Lists/Events/DispForm.aspx?ID=5882&RootFolder=%2Fenglish%2FLists%2FEvents&Source=http%3A%2F%2Fwww%2Esun%2Eac%2Eza%2Fenglish%2FPages%2Fdefault%2Easpx%3Ftid%3D23).
 - **July 19-22**: I was in San Francisco
 - **July 12-17**: [ISMB2024, followed by the Quest for Orthologs meeting](https://www.iscb.org/ismb2024/) in Montreal, Canada. I presented a talk on [AMPSphere](https://doi.org/10.1016/j.cell.2024.05.013) and on [long term sustainable research software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920) ([YouTube version](https://youtu.be/yCgvvVQJE9I)).
