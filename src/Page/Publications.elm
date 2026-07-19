@@ -1,5 +1,6 @@
 module Page.Publications exposing (..)
 import Dict
+import Set
 
 import Http
 import Json.Decode as D
@@ -64,10 +65,12 @@ type alias Model =
     , expandAllDetails : Bool
     , activeDOI : Maybe String
     , dimensionsData : Dict.Dict String DimensionsCitations
+    , requested : Set.Set String
     }
 
 type Msg =
     NoOp
+    | FetchDimensions String
     | DimensionsDataReceived (Result Http.Error DimensionsCitations)
     | ActivatePeriodFilter PeriodFilter
     | DeactivatePeriodFilter
@@ -126,19 +129,30 @@ init papers =
       , expandAllDetails = False
       , activeDOI = Nothing
       , dimensionsData = Dict.empty
+      , requested = Set.empty
       }
-    , Cmd.batch (List.map queryDimensions papers)
+    -- Citation data is fetched lazily as each badge scrolls into view (see the
+    -- "lazy-visible" custom element in public/index.js), rather than firing one
+    -- request per paper on page load.
+    , Cmd.none
     )
 
-queryDimensions : Pub.Publication -> Cmd Msg
-queryDimensions p =
+queryDimensions : String -> Cmd Msg
+queryDimensions doi =
     Http.get
-        { url = "https://metrics-api.dimensions.ai/doi/" ++ p.doi
+        { url = "https://metrics-api.dimensions.ai/doi/" ++ doi
         , expect = Http.expectJson DimensionsDataReceived decodeDimensionsCitations
         }
 
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model = case msg of
+    FetchDimensions doi ->
+        let key = String.toLower doi
+        in if Set.member key model.requested
+            then ( model, Cmd.none )
+            else ( { model | requested = Set.insert key model.requested }
+                 , queryDimensions doi
+                 )
     DeactivatePeriodFilter -> ( { model | activePeriod = Nothing } , Cmd.none )
     ActivatePeriodFilter pf -> ( { model | activePeriod = Just pf } , Cmd.none )
     SetIsLastFilter f -> ( { model | onlyFirstLast = f } , Cmd.none )
@@ -386,6 +400,8 @@ showPaper model n ix p =
                 Nothing -> Html.text ""
                 Just c -> SiteMarkdown.mdToInlineHtml (", " ++ c)
             ,Html.text "."
-            ,addDimensionsBadge model p.doi
+            ,Html.node "lazy-visible"
+                [ Html.Events.on "visible" (D.succeed (FetchDimensions p.doi)) ]
+                [ addDimensionsBadge model p.doi ]
             ]
 

@@ -1,5 +1,22 @@
 /** @typedef {{load: (Promise<unknown>); flags: (unknown)}} ElmPagesInit */
 
+// <lazy-visible> fires a "visible" event the first time it scrolls near the
+// viewport, then stops observing. Publications.elm uses this to fetch each
+// paper's Dimensions citation data on demand instead of all at once on load.
+if (!customElements.get('lazy-visible')) {
+  customElements.define('lazy-visible', class extends HTMLElement {
+    connectedCallback() {
+      const obs = new IntersectionObserver((entries) => {
+        if (entries.some((e) => e.isIntersecting)) {
+          obs.disconnect();
+          this.dispatchEvent(new CustomEvent('visible'));
+        }
+      }, { rootMargin: '200px' });
+      obs.observe(this);
+    }
+  });
+}
+
 /** @type ElmPagesInit */
 export default {
   load: async function (elmLoaded) {
