@@ -1,3 +1,5 @@
+@import 'https://badge.dimensions.ai/badge.css';
+
 @media only screen and (max-width: 400px) {
   #leftbar {
     display: none;
@@ -71,7 +73,3 @@ nav h6 {
     font-weight: bold;
     color: #7570b3;
 }
-
-
-@import 'https://badge.dimensions.ai/badge.css';
-
