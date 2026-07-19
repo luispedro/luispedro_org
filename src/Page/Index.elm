@@ -8,17 +8,11 @@ import Pages.PageUrl exposing (PageUrl)
 import View exposing (View)
 import DataSource.File
 
-import String
-
 import Bootstrap.Grid as Grid
-import Bootstrap.Grid.Col as Col
-import Bootstrap.Alert as Alert
-import Bootstrap.Button as Button
 
 import Html
 import Html.Attributes as HtmlAttr
 import Pages.Url
-import Yaml.Decode as Decode
 
 
 import SiteMarkdown

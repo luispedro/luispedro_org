@@ -37,7 +37,7 @@ The `Publications.elm` module decodes the YAML and highlights papers where Luis 
 
 ### Key modules
 
-- `src/SiteMarkdown.elm` — Markdown rendering helpers; also strips legacy `{{ site.baseurl }}` Jekyll placeholders.
+- `src/SiteMarkdown.elm` — Markdown rendering helpers (`mdFiles` glob, `mdToHtml`, `mdToInlineHtml`).
 - `src/Shared.elm` — Site-wide layout (navbar, Bootstrap CDN, analytics).
 - `src/Publications.elm` — YAML decoder and HTML rendering for publications.
 
