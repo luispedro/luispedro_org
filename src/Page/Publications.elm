@@ -98,10 +98,10 @@ head static =
         { canonicalUrlOverride = Nothing
         , siteName = "Luis Pedro Coelho"
         , image =
-            { url = Pages.Url.external "TODO"
-            , alt = "elm-pages logo"
+            { url = Pages.Url.external "https://luispedro.org/files/photos/2019-09-22/LuisPedroCoelho.jpeg"
+            , alt = "Luis Pedro Coelho"
             , dimensions = Nothing
-            , mimeType = Nothing
+            , mimeType = Just "image/jpeg"
             }
         , description = "Interactive list of the papers published by Luis Pedro Coelho"
         , locale = Nothing

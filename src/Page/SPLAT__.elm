@@ -24,6 +24,7 @@ type alias RouteParams =
 type alias MDPage =
     { body : String
     , title : String
+    , description : String
     , fileInfo : SiteMarkdown.MarkdownFile
     }
 
@@ -46,8 +47,16 @@ mdpages =
 
 mdDecoder : SiteMarkdown.MarkdownFile -> String -> Decoder MDPage
 mdDecoder finfo body =
-    Decode.map (\title -> { fileInfo = finfo, title = title, body = body })
+    Decode.map2
+        (\title description ->
+            { fileInfo = finfo
+            , title = title
+            , description = Maybe.withDefault title description
+            , body = body
+            }
+        )
         (Decode.field "title" Decode.string)
+        (Decode.maybe (Decode.field "meta" Decode.string))
 
 page : Page RouteParams Data
 page =
@@ -75,6 +84,7 @@ data routeParams =
                 Nothing ->
                     { body = ""
                     , title = "Inner bug!"
+                    , description = "Luis Pedro Coelho"
                     , fileInfo =
                         { path = "/"
                         , slug = ""
@@ -91,12 +101,12 @@ head static =
         { canonicalUrlOverride = Nothing
         , siteName = "Luis Pedro Coelho"
         , image =
-            { url = Pages.Url.external "TODO"
-            , alt = "elm-pages logo"
+            { url = Pages.Url.external "https://luispedro.org/files/photos/2019-09-22/LuisPedroCoelho.jpeg"
+            , alt = "Luis Pedro Coelho"
             , dimensions = Nothing
-            , mimeType = Nothing
+            , mimeType = Just "image/jpeg"
             }
-        , description = "Luispedro"
+        , description = static.data.description
         , locale = Nothing
         , title = static.data.title
         }
