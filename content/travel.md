@@ -9,6 +9,7 @@ meta: Travel
 ## 2026
 
 - **Oct 8–11, 2026** [Progress Conference 2026](https://rootsofprogress.org/conference/) (Berkeley, CA, USA)
+- **Aug 26, 2026** [AusBiotech QLD BioBriefing: AI and Quantum Technologies in Biotech Discovery and Translation](https://www.ausbiotech.org/ABT/iCore/Events/Event_display.aspx?EventKey=2608QLDBB) (Brisbane, Australia)
 - **Aug 16–21, 2026** [20th International Symposium on Microbial Ecology (ISME20)](https://isme-microbes.org/events/isme20-in-auckland/) (Auckland, New Zealand)
 - **Aug 2–7, 2026** [Environmental Dimensions of Antimicrobial Resistance (EDAR8)](https://www.crcsaafe.com.au/environmental-dimensions-of-amr-conference) (Brisbane, Australia)
 
