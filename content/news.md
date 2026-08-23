@@ -88,7 +88,7 @@ permalink: news/
 - **June 15-18**: [Vibecamp](https://vibe.camp/)
 - **May 31-June 2**: [microProteins 2023](https://plen.ku.dk/english/calendar/2022/microproteins-2023-unraveling-the-universe-of-microproteins---from-discovery-to-physiology-and-application/) (Copenhagen, Denmark)
 - **April 2-6**: Paris (France) for EMBARK and visiting INRAE
-**Jan 9-13** At the University of Warwick
+- **Jan 9-13**: At the University of Warwick
 
 ## 2022
 
