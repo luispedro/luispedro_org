@@ -48,3 +48,10 @@ There are **two** travel-related files that must be kept in sync:
 - `src/Page/Index.elm` (around line 111) — The "Upcoming Travels & Talks" section on the front page.
 
 When adding or removing events, update **both**.
+
+### News archive mirrors the front page
+
+`content/news.md` (the `/news` page) is a **mirror** of the "Past News & Travels"
+section of `src/Page/Index.elm`, plus the older years that have scrolled off the
+front page. When adding a news item (an event, a paper, a preprint), add it to
+`src/Page/Index.elm` and copy the same year sections into `content/news.md`.

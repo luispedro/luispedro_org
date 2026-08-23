@@ -6,13 +6,89 @@ permalink: news/
 
 ## 2026
 
+**Aug 16-21** [20th International Symposium on Microbial Ecology (ISME20)](https://isme-microbes.org/events/isme20-in-auckland/) in Auckland, New Zealand
+
+**Aug 4** Our paper [Milk osteopontin alters the infant microbiome to drive DC hematopoiesis and disease tolerance](https://doi.org/10.1016/j.cell.2026.07.022) is published in *Cell*.
+
+**Aug 2-7** [Environmental Dimensions of Antimicrobial Resistance (EDAR8)](https://www.crcsaafe.com.au/environmental-dimensions-of-amr-conference) in Brisbane, Australia
+
+**May 18** Talk at the [55th Annual Meeting of SBBq](https://www.sbbq.org.br/) in Águas de Lindóia, SP, Brazil. "Big data and small genes. The small proteins of the global microbiome"
+
+**May 12** Our preprint [The elusive resistome: a global comparison reveals large discrepancies among detection pipelines](https://doi.org/10.64898/2026.05.11.724158) is posted on bioRxiv.
+
 **Apr 3** Our paper [Unbinned contigs expand known diversity in the global microbiome](https://doi.org/10.1038/s41564-026-02314-6) is published in *Nature Microbiology*.
+
+**Apr 1** Our paper [Storage and soil depth, in addition to wastewater treatment, govern microbiota, and mobile genetic element and antibiotic resistance markers during reclaimed water irrigation](https://doi.org/10.1016/j.watres.2026.125889) is published in *Water Research*.
+
+**Mar 21** Our preprint [Long-read metagenomic sequencing reveals novel lineages and functional diversity in urban soil microbiome](https://doi.org/10.64898/2026.03.20.713087) is posted on bioRxiv.
+
+**Mar 5** Our paper [A gut microbiome-kidney-heart axis predictive of future cardiovascular diseases](https://doi.org/10.1038/s41467-026-69405-0) is published in *Nature Communications*.
+
+**Mar 1** Our paper [Persistence of high-risk antimicrobial resistance genes in extracellular DNA along an urban wastewater-river continuum](https://doi.org/10.1016/j.celrep.2026.117128) is published in *Cell Reports*.
 
 **Feb 25** Talk at [BRISJAMS](https://jams.org.au/index.php/jams-brisbane/) in Brisbane, Australia. "AI and big data in microbiology: the hype, the promise, and the disappointments"
 
 ## 2025
 
 **Dec 15-18** Keynote at the [19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO 2025)](https://dtmbio.net/) in Muju, Republic of Korea.
+
+**Nov 20** Our paper [proGenomes4: providing 2 million accurately and consistently annotated high-quality prokaryotic genomes](https://doi.org/10.1093/nar/gkaf1208) is published in *Nucleic Acids Research*.
+
+**Oct 23-24** I attended the [Queensland Immunology Networking Symposium](https://www.qirc.com.au/qins25)
+
+**Oct 13-15** I was in Houston for the [SMBE Satellite Meeting: Evolutionary Biochemistry of Insect Antimicrobial Peptides](https://uh.edu/nsm/biology-biochemistry/news-events/smbe-meeting/).
+
+**Sep 17** Our preprint [Capturing global pet dog gut microbial diversity and hundreds of near-finished bacterial genomes by using long-read metagenomics in a Shanghai cohort](https://doi.org/10.1101/2025.09.17.676595) is posted on bioRxiv.
+
+**Sep 16-19** I was at the [EMBL Human Microbiome Symposium](https://www.embl.org/about/info/course-and-conference-office/events/ees25-08/).
+
+**Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
+
+**Aug 1** Our preprint [AEMB: a computationally efficient abundance estimation method for metagenomic binning](https://doi.org/10.1101/2025.07.30.667338) is posted on bioRxiv.
+
+**Jul 15-24** I was in London and then in Liverpool for the [ISMB/ECCB 2025 – Intelligent Systems for Molecular Biology & European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025)
+
+**Jun 3** Our review [AI-Driven Antimicrobial Peptide Discovery: Mining and Generation](https://doi.org/10.1021/acs.accounts.0c00594) is published in *Accounts of Chemical Research*.
+
+**Apr 15-18** I was at the [Pakistan Society for Microbiology Conference](https://qau.edu.pk/events/15th-biennial-conference-organized-by-the-pakistan-society-for-microbiology/).
+
+**Apr 15** [argNorm published at Bioinformatics](https://doi.org/10.1093/bioinformatics/btaf173)
+
+## 2024
+
+
+**Dec 10 & 12**: _Open office hours_. Two sessions at different times of the day, so it works for all timezones. Attendance is free, but registration is required:
+- Dec 10 @ 9.30am UTC ([find your local time](https://everytimezone.com/s/af68ee61)): [Register now](https://qut.zoom.us/meeting/register/tZYpduitqjwtGdZydsw8CieA_UNn_5oDeaLB)
+- Dec 12 @ 9.30pm UTC ([find your local time](https://everytimezone.com/s/d4dac6a1)): [Register now](https://qut.zoom.us/meeting/register/tZwof-mrpzMvHNe7ljcCtSidpzoxkZMGjO2E)
+
+**Nov 11-15** I co-taught a 1 week course on state-of-the-art bioinformatic approaches to analyze metagenomic data. Click [here](https://www.physalia-courses.org/courses-workshops/environmental-metagenomics/) to learn more and register.
+
+- **Nov  3-6** I will be in Sydney. On the 4th, I will present at the [Symposium on Bioinformatics Excellence and Innovation](https://www.abacbs.org/conference2024/home) which is part of the ABACBS conference.
+- **Oct 14-24** I will be in Shanghai
+- **Sep 24** I will be presenting online at [APBioNet](https://www.apbionet.org/news/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) on using machine learning to find antimicrobial peptides in the global microbiome. The talk will be on September 24, 2024 at 5am UTC (1pm SGT). [Learn more and register](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/)
+- **Aug 18-23** I was in Cape Town, South Africa for [ISME19](https://isme19.isme-microbes.org/). I will present at the [Night of the Microbes event](https://www.sun.ac.za/english/Lists/Events/DispForm.aspx?ID=5882&RootFolder=%2Fenglish%2FLists%2FEvents&Source=http%3A%2F%2Fwww%2Esun%2Eac%2Eza%2Fenglish%2FPages%2Fdefault%2Easpx%3Ftid%3D23).
+- **July 19-22**: I was in San Francisco
+- **July 12-17**: [ISMB2024, followed by the Quest for Orthologs meeting](https://www.iscb.org/ismb2024/) in Montreal, Canada. I presented a talk on [AMPSphere](https://doi.org/10.1016/j.cell.2024.05.013) and on [long term sustainable research software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920) ([YouTube version](https://youtu.be/yCgvvVQJE9I)).
+- **July 4**: [ASM (the Australian one)](https://asmicro-2024.p.asnevents.com.au/days/2024-07-04), in Brisbane, QLD, Australia
+- **Jun 11** The [AMPSphere manuscript](https://doi.org/10.1016/j.cell.2024.05.013) was featured in several news outlets, including the BBC ([*Science in Action*](https://www.bbc.co.uk/sounds/play/w3ct5vct)), [*Deutsche Welle*](https://www.dw.com/en/are-scientists-finally-beating-antimicrobial-resistance/a-69275675), [*Guardian*](https://www.theguardian.com/society/article/2024/jun/05/ai-antibiotic-resistance), [*El País*](https://elpais.com/ciencia/2024-06-05/desvelado-el-mayor-catalogo-de-nuevas-moleculas-antibioticas-casi-un-millon-de-compuestos-desconocidos.html), [*Folha de São Paulo*](https://www1.folha.uol.com.br/equilibrioesaude/2024/06/estudo-identifica-quase-1-milhao-de-substancias-potenciais-contra-bacterias-resistentes.shtml) as well as mentions as a [Nature Research Highlight](https://www.nature.com/articles/d41586-024-01654-9) and in the [Science Adviser](https://www.science.org/content/article/scienceadviser-kicking-trump-twitter-helped-reduce-fake-news).
+- **Jun 5** AMPSphere manuscript [published in Cell](https://doi.org/10.1016/j.cell.2024.05.013)
+- **May 14** New Season of [Extremely Open Science](/extremely-open-science/). See [episode 1](https://youtu.be/N-O3n63-fcY?si=LgNx5cabFEots3jA) and the [sardyne github repository](https://github.com/BigDataBiology/sardyne)
+- **Apr 27** [argNorm](https://github.com/BigDataBiology/argNorm) v0.3.0 has been released
+- **9 May** [open office hours](/office-hours) (Zoom)
+- **24 April** [open office hours](/office-hours) (Zoom)
+- **23-25 January (2024)** Berlin, Germany
+
+## 2023
+
+- **Nov 12-15**: [The 22nd International Conference on Bioinformatics (InCoB 2023)](https://incob.apbionet.org/incob23/) in Brisbane. I presented a highlight talk on [SemiBin](https://doi.org/10.1038/s41467-022-29843-y) (including [SemiBin2](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i21/7210480)).
+- **Oct 15-20**: [International Peptide Symposium 2023](https://www.peptides2023.org/) in Brisbane. I presented the talk _A survey of antimicrobial peptides from the global microbiome_.
+- **Aug 21-24**: [Quadram Institute](https://quadram.ac.uk/) in Norwich (UK).
+- **July 27**: I was awarded an [ARC Future Fellowship](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/249) to work on small proteins of the global microbiome at QUT.
+- **July 23-27**: [ISMB](https://www.iscb.org/ismbeccb2023) (Lyon, France) - [talk](https://2023-07-25-talk-semibin.big-data-biology.org)
+- **June 15-18**: [Vibecamp](https://vibe.camp/)
+- **May 31-June 2**: [microProteins 2023](https://plen.ku.dk/english/calendar/2022/microproteins-2023-unraveling-the-universe-of-microproteins---from-discovery-to-physiology-and-application/) (Copenhagen, Denmark)
+- **April 2-6**: Paris (France) for EMBARK and visiting INRAE
+**Jan 9-13** At the University of Warwick
 
 ## 2022
 

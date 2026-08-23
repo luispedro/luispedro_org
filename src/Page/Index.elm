@@ -157,15 +157,19 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 **Aug 16-21** [20th International Symposium on Microbial Ecology (ISME20)](https://isme-microbes.org/events/isme20-in-auckland/) in Auckland, New Zealand
 
+**Aug 4** Our paper [Milk osteopontin alters the infant microbiome to drive DC hematopoiesis and disease tolerance](https://doi.org/10.1016/j.cell.2026.07.022) is published in *Cell*.
+
 **Aug 2-7** [Environmental Dimensions of Antimicrobial Resistance (EDAR8)](https://www.crcsaafe.com.au/environmental-dimensions-of-amr-conference) in Brisbane, Australia
 
-**Aug 1** Our paper [Milk osteopontin alters the infant microbiome to drive DC hematopoiesis and disease tolerance](https://doi.org/10.1016/j.cell.2026.07.022) is published in *Cell*.
-
 **May 18** Talk at the [55th Annual Meeting of SBBq](https://www.sbbq.org.br/) in Águas de Lindóia, SP, Brazil. "Big data and small genes. The small proteins of the global microbiome"
+
+**May 12** Our preprint [The elusive resistome: a global comparison reveals large discrepancies among detection pipelines](https://doi.org/10.64898/2026.05.11.724158) is posted on bioRxiv.
 
 **Apr 3** Our paper [Unbinned contigs expand known diversity in the global microbiome](https://doi.org/10.1038/s41564-026-02314-6) is published in *Nature Microbiology*.
 
 **Apr 1** Our paper [Storage and soil depth, in addition to wastewater treatment, govern microbiota, and mobile genetic element and antibiotic resistance markers during reclaimed water irrigation](https://doi.org/10.1016/j.watres.2026.125889) is published in *Water Research*.
+
+**Mar 21** Our preprint [Long-read metagenomic sequencing reveals novel lineages and functional diversity in urban soil microbiome](https://doi.org/10.64898/2026.03.20.713087) is posted on bioRxiv.
 
 **Mar 5** Our paper [A gut microbiome-kidney-heart axis predictive of future cardiovascular diseases](https://doi.org/10.1038/s41467-026-69405-0) is published in *Nature Communications*.
 
@@ -183,9 +187,13 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 **Oct 13-15** I was in Houston for the [SMBE Satellite Meeting: Evolutionary Biochemistry of Insect Antimicrobial Peptides](https://uh.edu/nsm/biology-biochemistry/news-events/smbe-meeting/).
 
+**Sep 17** Our preprint [Capturing global pet dog gut microbial diversity and hundreds of near-finished bacterial genomes by using long-read metagenomics in a Shanghai cohort](https://doi.org/10.1101/2025.09.17.676595) is posted on bioRxiv.
+
 **Sep 16-19** I was at the [EMBL Human Microbiome Symposium](https://www.embl.org/about/info/course-and-conference-office/events/ees25-08/).
 
 **Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
+
+**Aug 1** Our preprint [AEMB: a computationally efficient abundance estimation method for metagenomic binning](https://doi.org/10.1101/2025.07.30.667338) is posted on bioRxiv.
 
 **Jul 15-24** I was in London and then in Liverpool for the [ISMB/ECCB 2025 – Intelligent Systems for Molecular Biology & European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025)
 
