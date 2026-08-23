@@ -159,13 +159,25 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 **Aug 2-7** [Environmental Dimensions of Antimicrobial Resistance (EDAR8)](https://www.crcsaafe.com.au/environmental-dimensions-of-amr-conference) in Brisbane, Australia
 
+**Aug 1** Our paper [Milk osteopontin alters the infant microbiome to drive DC hematopoiesis and disease tolerance](https://doi.org/10.1016/j.cell.2026.07.022) is published in *Cell*.
+
 **May 18** Talk at the [55th Annual Meeting of SBBq](https://www.sbbq.org.br/) in Águas de Lindóia, SP, Brazil. "Big data and small genes. The small proteins of the global microbiome"
+
+**Apr 3** Our paper [Unbinned contigs expand known diversity in the global microbiome](https://doi.org/10.1038/s41564-026-02314-6) is published in *Nature Microbiology*.
+
+**Apr 1** Our paper [Storage and soil depth, in addition to wastewater treatment, govern microbiota, and mobile genetic element and antibiotic resistance markers during reclaimed water irrigation](https://doi.org/10.1016/j.watres.2026.125889) is published in *Water Research*.
+
+**Mar 5** Our paper [A gut microbiome-kidney-heart axis predictive of future cardiovascular diseases](https://doi.org/10.1038/s41467-026-69405-0) is published in *Nature Communications*.
+
+**Mar 1** Our paper [Persistence of high-risk antimicrobial resistance genes in extracellular DNA along an urban wastewater-river continuum](https://doi.org/10.1016/j.celrep.2026.117128) is published in *Cell Reports*.
 
 **Feb 25** Talk at [BRISJAMS](https://jams.org.au/index.php/jams-brisbane/) in Brisbane, Australia. "AI and big data in microbiology: the hype, the promise, and the disappointments"
 
 ## 2025
 
 **Dec 15-18** Keynote at the [19th International Conference on Data and Text Mining in Biomedical Informatics (DTMBIO 2025)](https://dtmbio.net/) in Muju, Republic of Korea.
+
+**Nov 20** Our paper [proGenomes4: providing 2 million accurately and consistently annotated high-quality prokaryotic genomes](https://doi.org/10.1093/nar/gkaf1208) is published in *Nucleic Acids Research*.
 
 **Oct 23-24** I attended the [Queensland Immunology Networking Symposium](https://www.qirc.com.au/qins25)
 
@@ -176,6 +188,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 **Aug 17-22, 2025** [Decoding Microproteins Across Evolution and Disease GRC](https://www.grc.org/decoding-microproteins-across-evolution-and-disease-conference/2025/) in Barcelona, Spain
 
 **Jul 15-24** I was in London and then in Liverpool for the [ISMB/ECCB 2025 – Intelligent Systems for Molecular Biology & European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025)
+
+**Jun 3** Our review [AI-Driven Antimicrobial Peptide Discovery: Mining and Generation](https://doi.org/10.1021/acs.accounts.0c00594) is published in *Accounts of Chemical Research*.
 
 **Apr 15-18** I was at the [Pakistan Society for Microbiology Conference](https://qau.edu.pk/events/15th-biennial-conference-organized-by-the-pakistan-society-for-microbiology/).
 
