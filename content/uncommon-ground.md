@@ -12,8 +12,8 @@ other teams pounce if they share them too.
 
 We have all played some silly ice-breaker game at work or school. A few years
 ago, I played a decent one, but halfway through I realised that there was a
-better way to do it. I implemented it and we ran it as part of a SEARCHER
-consortium event.
+better way to do it. I implemented it and we ran it as part of a [SEARCHER
+consortium](https://antimicrobialresistance.eu/) event in early August 2026.
 
 You can [run it yourself](https://uncommon-ground.xyz/). You need a projector or
 a big screen and an MC to run the game, and every team needs one person with a
