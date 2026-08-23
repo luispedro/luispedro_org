@@ -185,6 +185,7 @@ navigation =
             ,("/derivations", "Some useful derivations")
             ,("/fimdetarde", "Award-winning short story (in Portuguese)")
             ,("/shmoo-video/", "Yeast Mating Claymation")
+            ,("/uncommon-ground", "Uncommon Ground (a party game)")
             ]
         --,liSection "Older Projects"
         --    [("/projects/gen-classification", "Generalization of Subcellular Location")

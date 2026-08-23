@@ -100,6 +100,11 @@ Murphy](https://murphylab.web.cmu.edu/).
 
 My [Erdös-Bacon number is 7](/erdos-bacon).
 
+Outside of research, I made [Uncommon Ground](/uncommon-ground), a party game
+for teams where each team finds what they secretly have in common and the other
+teams pounce if they share it too. You can [play it in your
+browser](https://uncommon-ground.xyz/).
+
 [Publication list](/publications)
 
 # Upcoming Travels & Talks
