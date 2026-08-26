@@ -185,14 +185,14 @@ intro =
         [SiteMarkdown.mdToHtml """
 # Full List of Publications
 
-Updated: **4 Aug 2026**
+Updated: **26 Aug 2026**
 
 [My google scholar
 profile](http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 
-Google Scholar total citations: 26,954; h-index: 55 ([Web of
+Google Scholar total citations: 27,297; h-index: 55 ([Web of
 science](https://www.webofscience.com/wos/author/record/1798261):
-16,682 citations; h-index: 48)
+16,905 citations; h-index: 48)
 
 # Selected Publications
 
