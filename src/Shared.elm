@@ -174,7 +174,7 @@ navigation =
             ,("/erdos-bacon", "My Erdös Bacon Number")
             ]
         ,liSection "Software"
-            [("https://ngless.embl.de/", "NGLess")
+            [("https://www.big-data-biology.org/software/ngless/", "NGLess")
             ,("/software/semibin", "SemiBin: Semi-supervised binning of metagenomic data")
             ,("/software/mahotas", "Image processing with Python")
             ,("/software/imread", "Loading images in Python")

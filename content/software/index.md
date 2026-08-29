@@ -14,7 +14,7 @@ part of my research.
 NGLess is a domain specific language for Next-Generation Sequencing (NGS)
 processing, with a focus on metagenomics.
 
-More information: [https://ngless.embl.de](https://ngless.embl.de)
+More information: [https://www.big-data-biology.org/software/ngless/](https://www.big-data-biology.org/software/ngless/)
 
 License: MIT.
 

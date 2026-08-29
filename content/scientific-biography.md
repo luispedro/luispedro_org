@@ -150,7 +150,7 @@ ones and it is a finding that should be tested in humans ([Coelho et al.,
 2018](https://doi.org/10.1186/s40168-018-0450-3)).
 
 To analyse these datasets, I have developed a tool, called NGLess (see
-[https://ngless.embl.de](https://ngless.embl.de)) which is based on a new
+[https://www.big-data-biology.org/software/ngless/](https://www.big-data-biology.org/software/ngless/)) which is based on a new
 approach (a domain specific language for sequence processing) to ensure
 reproducibility of the processing pipelines. In addition to building upon the
 afore-mentioned MOCAT/MOCAT2 tools, this work incorporates ideas from a generic

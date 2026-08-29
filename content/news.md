@@ -140,10 +140,10 @@ Biology\"](http://www.sib.swiss/training/upcoming-training-events/2017-11-autumn
 I also visited the University of Bern and presented my scientific work.
 
 **Oct 24-26 2017** I was in Copenhagen teaching people how to use
-[ngless](https://ngless.embl.de) at the [Microbiome data interpretation
+[ngless](https://www.big-data-biology.org/software/ngless/) at the [Microbiome data interpretation
 workshop](https://www.eventbrite.com/e/workshop-microbiome-data-interpretation-tickets-34791984763)
-(slides
-[here](https://ngless.embl.de/_static/gut-metagenomics-tutorial-presentation/gut_specI_tutorial.html))
+(slides no longer
+online)
 and giving a scientific talk on my work.
 
 **Sept 12-13 2017** I was in Delft for a [workshop on
@@ -152,7 +152,7 @@ design](https://www.eventbrite.com/e/hands-on-introduction-to-data-driven-cell-f
 
 **July 21-25 2017** I was in Prague for [ECCB/ISMB
 2017](https://www.iscb.org/ismbeccb2017) with a poster on
-[NGLess](https://ngless.embl.de)
+[NGLess](https://www.big-data-biology.org/software/ngless/)
 
 
 **July 20 2017** I was in Lisbon on **July 20** for [LxMLS
@@ -197,7 +197,7 @@ work](https://agu.confex.com/agu/os16/meetingapp.cgi/Paper/92480)
 **22-25 August 2015** Visiting Tallinn (Estonia)
 
 **17 August 2015** The project [ngless is now open
-source](https://ngless.embl.de/)
+source](https://www.big-data-biology.org/software/ngless/)
 
 **16 July 2015** I taught at the [Lisbon Machine Learning
 School](https://lxmls.it.pt/2015/)
