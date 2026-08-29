@@ -400,7 +400,7 @@
   Year: 2015
   isFirstLast: false
   type: Journal Article
-- Accession: 0028-0836
+- Title: Plankton networks driving carbon export in the oligotrophic ocean
   Authors:
   - Lionel Guidi
   - Samuel Chaffron
@@ -411,14 +411,42 @@
   - Youssef Darzi
   - Stephane Audic
   - Léo Berline
-  - Jennifer Brum
+  - Jennifer R. Brum
+  - Luis Pedro Coelho
+  - Julio Cesar Ignacio Espinoza
+  - Shruti Malviya
+  - Shinichi Sunagawa
+  - Céline Dimier
+  - Stefanie Kandels-Lewis
+  - Marc Picheral
+  - Julie Poulain
+  - Sarah Searson
+  - Tara Oceans Consortium Coordinators
+  - Lars Stemmann
+  - Fabrice Not
+  - Pascal Hingamp
+  - Sabrina Speich
+  - Mick Follows
+  - Lee Karp-Boss
+  - Emmanuel Boss
+  - Hiroyuki Ogata
+  - Stephane Pesant
+  - Jean Weissenbach
+  - Patrick Wincker
+  - Silvia G. Acinas
+  - Peer Bork
+  - Colomban de Vargas
+  - Daniele Iudicone
+  - Matthew B. Sullivan
+  - Jeroen Raes
+  - Eric Karsenti
+  - Chris Bowler
+  - Gabriel Gorsky
   Journal: Nature
-  Publisher: Nature Publishing Group
-  Title: Plankton networks driving carbon export in the oligotrophic ocean
   Doi: 10.1038/nature16942
   Year: 2016
+  Date: '2016-04-28'
   isFirstLast: false
-  type: Journal Article
 - Accession: 1367-4803
   Authors:
   - Jens Roat Kultima
