@@ -113,8 +113,6 @@ browser](https://uncommon-ground.xyz/).
 
 **Oct 8–11, 2026** [Progress Conference 2026](https://rootsofprogress.org/conference/) in Berkeley, CA, USA
 
-**Aug 26, 2026** [AusBiotech QLD BioBriefing: AI and Quantum Technologies in Biotech Discovery and Translation](https://www.ausbiotech.org/ABT/iCore/Events/Event_display.aspx?EventKey=2608QLDBB) in Brisbane, Australia
-
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities).
 
 If you want to chat with me about science and such, you can use [my cal.com
@@ -154,6 +152,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 # Past News & Travels
 
 ## 2026
+
+**Aug 26** [AusBiotech QLD BioBriefing: AI and Quantum Technologies in Biotech Discovery and Translation](https://www.ausbiotech.org/ABT/iCore/Events/Event_display.aspx?EventKey=2608QLDBB) in Brisbane, Australia
 
 **Aug 16-21** [20th International Symposium on Microbial Ecology (ISME20)](https://isme-microbes.org/events/isme20-in-auckland/) in Auckland, New Zealand
 

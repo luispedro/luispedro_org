@@ -6,6 +6,8 @@ permalink: news/
 
 ## 2026
 
+**Aug 26** [AusBiotech QLD BioBriefing: AI and Quantum Technologies in Biotech Discovery and Translation](https://www.ausbiotech.org/ABT/iCore/Events/Event_display.aspx?EventKey=2608QLDBB) in Brisbane, Australia
+
 **Aug 16-21** [20th International Symposium on Microbial Ecology (ISME20)](https://isme-microbes.org/events/isme20-in-auckland/) in Auckland, New Zealand
 
 **Aug 4** Our paper [Milk osteopontin alters the infant microbiome to drive DC hematopoiesis and disease tolerance](https://doi.org/10.1016/j.cell.2026.07.022) is published in *Cell*.
