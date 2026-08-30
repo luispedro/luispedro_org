@@ -34,7 +34,7 @@ Outside academia, Luis has been involved in theatre (having produced the
 student group at IST and starred in several productions), as well as received a
 prize in a short story competition. He has taught computer usage in
 underprivileged neighbourhoods and designed Webpages for nonprofits. In Summer
-2010, was in Mozambique, volunteering with local organisations there
+2010, he was in Mozambique, volunteering with local organisations there
 [beiraproject.org](http://beiraproject.org).
 
 Luis can be found at [luispedro.org](https://luispedro.org) and blogs
@@ -57,7 +57,7 @@ continues to work on [computational methods for fluorescence microscopy
 analysis](https://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
 
 Luis holds a PhD in computational biology from Carnegie Mellon University. His
-doctoral research consisted of modeling images from fluorescent microsocpy. The
+doctoral research consisted of modeling images from fluorescent microscopy. The
 models he developed integrate several sources of image and non-image
 information into a single model. Also at CMU, he was involved in the [Structure
 Literature Image Finder
@@ -104,7 +104,7 @@ impact.
 Reminded always of Mark Twain's advice to not let schooling interfere with
 one's education, Luis has taken care to participate in a mix of side projects
 and hobbies. He has participated in the university's theatre group with which
-he travelled to international festivals to play. He has received one a prize in
+he travelled to international festivals to play. He has received a prize in
 a short story competition and also written open source software for the KDE
 project. He has taught computer usage in underprivileged neighbourhoods and
 designed webpages for nonprofits.

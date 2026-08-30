@@ -27,7 +27,7 @@ License: MIT.
 
 ### [Jug](/software/jug)
 
-Jug is a task based framework for running embarassingly parallel code in Python.
+Jug is a task based framework for running embarrassingly parallel code in Python.
 You can also think of it as a light-weight python-based map-reduce environment.
 
 License: MIT.

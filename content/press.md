@@ -22,7 +22,7 @@ Also, in several outlets not caught by Altmetric, in particular non-English site
 
 - [Observador (PT)](https://observador.pt/2018/04/26/caes-e-humanos-tem-bacterias-intestinais-muito-parecidas/)
 - [Science Post (FR)](https://sciencepost.fr/2018/05/le-meilleur-ami-de-lhomme-aurait-pratiquement-la-meme-flore-intestinale-que-nous/)
-- [El Pais (YU)](https://www.elpais.com.uy/vida-actual/estudios-perros-ayudar-predecir-reaccion-humana-cambio-dieta.html)
+- [El País (UY)](https://www.elpais.com.uy/vida-actual/estudios-perros-ayudar-predecir-reaccion-humana-cambio-dieta.html)
 
 
 

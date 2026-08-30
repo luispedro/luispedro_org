@@ -21,7 +21,7 @@ Neither, it is part of my given name. "Luis Pedro" is my given name and
 
 In some online applications which do not allow spaces in First Names, I just
 hyphenate: Luis-Pedro Coelho, but it is not the natural way to write it. Last
-time I was in Canada, the custom's form had two fields: *First Given Name* and
+time I was in Canada, the customs form had two fields: *First Given Name* and
 *Second Given Name*. This is probably because many French names are similar
 (Jean-Paul, Jean-Pierre,...).
 

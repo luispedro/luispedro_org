@@ -51,8 +51,8 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
 - Outstanding Research Accomplishment
     Award for Research Excellence in the Joint CMU-University of Pittsburgh
     Ph.D. Program in Computational Biology (2007).
-- Academic Excellency
-    Diploma of Merit from Instituto Superior Técnico for academic excellency in
+- Academic Excellence
+    Diploma of Merit from Instituto Superior Técnico for academic excellence in
     the academic year 1999/2000.
 - Award for Academic Excellence in the Joint
     CMU-University of Pittsburgh Ph.D. Program in Computational Biology (2007).
@@ -114,7 +114,7 @@ length CV](/vita.pdf).
 
 - Bilingual: **Portuguese** and **English**
 - Fluent oral and good written **German** (attended a German-speaking school,
-  grades 5 through 12; spent a year at the Technical University of Austria).
+  grades 5 through 12; spent a year at the Technical University of Vienna).
 - Fluent oral and good written **French**
 - Basic knowledge of **Spanish** and **Luxembourgish**
 

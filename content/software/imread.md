@@ -18,7 +18,7 @@ not, currently, have its own paper):
 > <https://dx.doi.org/10.5334/jors.ac>
 
 This project is a spin off of mahotas (for reasons of maintainability, I
-felt it was better to not emcumber mahotas with all the IO code that
+felt it was better to not encumber mahotas with all the IO code that
 imread contains).
 
 This is a simple module, which has two main functions

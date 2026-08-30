@@ -24,10 +24,10 @@ each chromosome) or diploid (two copies \-\-- like humans).
 In the mating of yeast, two cells of different \"sexes\" (one of which
 is called *a* and the other *alpha* ) fuse to make a single cell. Note
 that the mating process does not involve reproduction. In fact, we have
-less cells than we started out with.
+fewer cells than we started out with.
 
 Cells advertise themselves as available for mating by sending out
-pherormones. Each sex sends its own pherormones.
+pheromones. Each sex sends its own pheromones.
 
 # Stop animation video
 
@@ -76,7 +76,7 @@ top to bottom, left to right \-\-- like a book). Each object is moved in
 the direction of the arrow and that arrow is crossed out. This simulates
 Brownian motion.
 
-I particular, it struck me how often this random process generated
+In particular, it struck me how often this random process generated
 seemingly ordered patterns where the rice would congregate at a certain
 area of the field. Had I done this \"by hand\", I would probably not
 have allowed those effects as *not random enough* .

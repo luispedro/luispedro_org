@@ -32,7 +32,7 @@ press](https://dx.doi.org/10.1093/bioinformatics/btt392) (as of July
 # Unsupervised Subcellular Pattern Unmixing
 
 The goal is to handle mixed subcellular location patterns (the result of
-having a protein or marker simmultaneously present in multiple
+having a protein or marker simultaneously present in multiple
 organelles) in an unsupervised manner (without requiring that basic
 organelles be specified).
 

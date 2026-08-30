@@ -32,5 +32,5 @@ This is code for reproducing results in some of my published papers:
     Includes data.
 4.  [Dotted Suffix Trees](https://github.com/luispedro/dot-link) for the
     paper *Dotted suffix trees a structure for approximate text
-    indexing* by **Luis Pedro Coelho** and Arlindo L. Olveira, SPIRE
+    indexing* by **Luis Pedro Coelho** and Arlindo L. Oliveira, SPIRE
     2006 \[[DOI Link](https://dx.doi.org/10.1007/11880561_27)\]

@@ -50,13 +50,13 @@ given protein. However, as I showed in ([Coelho et al.,
 2013](https://dx.doi.org/10.1093/bioinformatics/btt392)) this leads to an
 over-inflated measure of performance when the real task
 is to extrapolate from the patterns exhibited by known proteins to proteins of
-unknown. In fact, the algorithm can obtain high accuracy by learning to
+unknown localization. In fact, the algorithm can obtain high accuracy by learning to
 recognize artifactual information (e.g., how bright the tagging is). I adapted
 the SURF method ([Bay et al.,
 2006](https://link.springer.com/chapter/10.1007/11744023_32)) to work in the
 subcellular domain and showed that they perform significantly better in
 generalization. The image data used to validate this dataset was collected by
-myself and annotated by a 3 different experts, including myself.
+myself and annotated by 3 different experts, including myself.
 
 Another domain where I successfully developed machine learning techniques for
 bioimage analysis is that of quantifying neutrophil extracellular traps (NETs)
