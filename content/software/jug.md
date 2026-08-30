@@ -97,7 +97,7 @@ Here are the [full API docs](https://jug.readthedocs.org/en/latest/),
 which include several
 [worked](https://jug.readthedocs.org/en/latest/decrypt-example.html)
 [out](https://jug.readthedocs.org/en/latest/text-example.html)
-[examples](https://packages.python.org/Jug/text-example.html). There is
+[examples](https://jug.readthedocs.io/en/latest/text-example.html). There is
 also a *video* ([vimeo](https://vimeo.com/8972696) or
 [showmedo](https://showmedo.com/videotutorials/video?name=9750000;fromSeriesID=975)),
 and a [presentation](/files/jug-decrypt-presentation.pdf).
@@ -130,5 +130,5 @@ You should be able to use `pip`:
 -   You can check up on the status of the computation at any time ([jug
     status]{.title-ref})
 -   Two backends: file-based if all the processors share a filesystem
-    (works over NFS too) or [redis](https://code.google.com/p/redis/)
+    (works over NFS too) or [redis](https://redis.io/)
     based if they can all connect to the same redis server.

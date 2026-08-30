@@ -84,7 +84,7 @@ Make sure you check out the [documentation](https://mahotas.rtfd.org/).
 
 The official forum for discussion of mahotas issues is the [pythonvision
 mailing list](https://groups.google.com/group/pythonvision). Also, check
-out [pythonvision.org](http://pythonvision.org) while you\'re at it.
+out [pythonvision.org](https://pythonvision.org) while you\'re at it.
 
 For bug reports and fixes use the [github issue
 tracker](https://github.com/luispedro/mahotas/issues). If you report a

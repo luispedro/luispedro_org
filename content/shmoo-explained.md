@@ -8,7 +8,7 @@ and then come back. Or read this before seeing it to understand.
 
 This was a small project for my Cell Biology course at CMU. The goals
 are, according to the class
-[website](http://www.andrew.cmu.edu/course/03-240/Grading.htm) :
+[website](https://www.andrew.cmu.edu/course/03-240/Grading.htm) :
 
 > JM Cell Bio Fair is a final project (in honor of Dr. Jon Minden) for
 > the class in which groups of up to three students will construct and
@@ -17,7 +17,7 @@ are, according to the class
 > to a play or song to a computer simulation.
 
 I decided to model yeast mating. For more information, consult the
-[Wikipedia article](http://en.wikipedia.org/wiki/Mating_of_yeast) , but
+[Wikipedia article](https://en.wikipedia.org/wiki/Mating_of_yeast) , but
 the gist of it is that yeast can live as either haploid (one copy of
 each chromosome) or diploid (two copies \-\-- like humans).
 
@@ -37,7 +37,7 @@ presence of other pheromones. Once they have acquired sufficient
 pheromones of the other sex to both be confident in their prediction
 that another cell is present and know where it is, it changes shape,
 into a *shmoo* shape (this is named after an [old
-cartoon](http://en.wikipedia.org/wiki/Shmoo) ).
+cartoon](https://en.wikipedia.org/wiki/Shmoo) ).
 
 Once the cells have found each other, they merge into one.
 
@@ -105,7 +105,7 @@ enough for 3 lines of code. I also used ImageMagick to normalize all the
 frames before encoding the film.
 
 To use [Cortado](http://www.flumotion.net/cortado/) and to spread open
-source software, I wanted to encode to [theora](http://www.theora.org) .
+source software, I wanted to encode to [theora](https://www.theora.org) .
 This was harder than I expected as the regular tools don\'t yet support
 it very well. Thus, I used a combination of
 mencoder+mplayer+theora_encoder generated the final output:
@@ -120,7 +120,7 @@ loses information, which is what one wants.
 
 # The Music
 
-The music is by [Rodrigo Leão](http://www.rodrigoleao.pt/) , a
+The music is by [Rodrigo Leão](https://www.rodrigoleao.pt/) , a
 Portuguese composer. It is called *Rua da Atalaia* and it\'s a part of
 the album
-[Mundo](http://www.amazon.com/Mundo-Best-Rodrigo-Leao/dp/B000MTP8CO/ref=sr_1_9/105-9613674-9933228?ie=UTF8&s=music&qid=1180036550&sr=8-9).
+[Mundo](https://www.amazon.com/Mundo-Best-Rodrigo-Leao/dp/B000MTP8CO/ref=sr_1_9/105-9613674-9933228?ie=UTF8&s=music&qid=1180036550&sr=8-9).

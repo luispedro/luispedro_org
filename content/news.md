@@ -104,7 +104,7 @@ permalink: news/
 ## 2020
 
 **Jan 6-7** I was in Gotenburg, Sweden for the first meeting of the
-[EMBARK project](http://antimicrobialresistance.eu/)
+[EMBARK project](https://antimicrobialresistance.eu/)
 
 ## 2019
 
@@ -185,7 +185,7 @@ in Chicago.
 Sette](https://www.pycon.it/en/)
 
 **7 March 2016** I am now an Associate Editor of the [Journal of Open
-Research Software](http://openresearchsoftware.metajnl.com/)
+Research Software](https://openresearchsoftware.metajnl.com/)
 
 **21-26 February 2016** I was New Orleans for the [2016 Ocean Sciences
 Meeting](https://osm.agu.org/2016/). I presented a poster on our
@@ -242,7 +242,7 @@ talk](/files/talks/2014/09-pyss/pyss14.html)\]
 
 **July 2014** Progression (in which I played the character *Luis*) has
 been released at New Filmmakers in NYC. See the film at the [Big Bear
-Film festival](http://www.bigbearfilmfestival.com/progression/)
+Film festival](https://www.bigbearfilmfestival.com/progression/)
 
 **July 2014** Speaking at Lisbon Machine Learning School (LxMLS) 2014.
 
@@ -329,7 +329,7 @@ School](https://lxmls.it.pt/2013/)
 [arXiv](https://arxiv.org/abs/1211.4907) on my [computer vision software,
 mahotas](/software/mahotas/) \[Update in 2013: this is now a
 [peer-reviewed journal
-paper](https://openresearchsoftware.metajnl.com/article/view/4)\]
+paper](https://doi.org/10.5334/jors.ac)\]
 
 **September 2012** I am teaching two session of a [Programming for
 Scientists Course](/projects/pfs-09-2012) at IMM.

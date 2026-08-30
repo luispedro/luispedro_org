@@ -41,7 +41,7 @@ License: MIT.
 
 ### [conduit-algorithms](/software/conduit-algorithms)
 
-A series of [conduit](http://hackage.haskell.org/package/conduit) based
+A series of [conduit](https://hackage.haskell.org/package/conduit) based
 algorithms in Haskell.
 
 License: MIT

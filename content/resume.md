@@ -16,7 +16,7 @@ A narrative version is available as [my scientific biography](scientific-biograp
 
 Dissertation topic: *Modeling the Space of Subcellular Location Patterns Using
 Images and Other Sources of Information*, advised by [Prof. Robert F.
-Murphy](http://murphylab.web.cmu.edu/).
+Murphy](https://murphylab.cbd.cmu.edu/).
 
 **MS in computer science, Instituto Superior Técnico (Technical University Lisbon), 2006**
 
@@ -103,9 +103,9 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
     Fabrice Not, Hiroyuki Ogata, Stephane Pesant, Sabrina Speich, Lars
     Stemmann, Matthew B. Sullivan, Jean Weissenbach, Patrick Wincker,
     Eric Karsenti, Jeroen Raes, Silvia G. Acinas, Peer Bork, [Structure
-    and function of the global ocean microbiome](http://doi.org/10.1126/science.1261359)
+    and function of the global ocean microbiome](https://doi.org/10.1126/science.1261359)
     in _Science_ (2015)
-    \[[DOI](http://doi.org/10.1126/science.1261359)\]
+    \[[DOI](https://doi.org/10.1126/science.1261359)\]
     \[[PDF](http://www.bork.embl.de/publication/pdf/25999513.pdf)\]
 
 See also my [full annotated list of publications](/publications) or my [full
@@ -147,7 +147,7 @@ I publish and maintain many open source projects of interest to my research,
 such as image processing or machine learning code. In particular
 [mahotas](https://github.com/luispedro/mahotas) (ca. 6,000 downloads per month)
 is a [computer vision library in
-Python](https://openresearchsoftware.metajnl.com/article/view/jors.ac).
+Python](https://doi.org/10.5334/jors.ac).
 
 See the full list of projects in my [github
 page](https://www.github.com/luispedro).

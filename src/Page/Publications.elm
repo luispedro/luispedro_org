@@ -188,7 +188,7 @@ intro =
 Updated: **26 Aug 2026**
 
 [My google scholar
-profile](http://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
+profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 
 Google Scholar total citations: 27,297; h-index: 55 ([Web of
 science](https://www.webofscience.com/wos/author/record/1798261):
@@ -239,9 +239,9 @@ science](https://www.webofscience.com/wos/author/record/1798261):
     Fabrice Not, Hiroyuki Ogata, Stephane Pesant, Sabrina Speich, Lars
     Stemmann, Matthew B. Sullivan, Jean Weissenbach, Patrick Wincker,
     Eric Karsenti, Jeroen Raes, Silvia G. Acinas, Peer Bork, [Structure
-    and function of the global ocean microbiome](http://doi.org/10.1126/science.1261359)
+    and function of the global ocean microbiome](https://doi.org/10.1126/science.1261359)
     in _Science_ (2015)
-    \\[[DOI](http://doi.org/10.1126/science.1261359)\\]
+    \\[[DOI](https://doi.org/10.1126/science.1261359)\\]
     \\[[PDF](http://www.bork.embl.de/publication/pdf/25999513.pdf)\\]
 """]
 

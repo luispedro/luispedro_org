@@ -31,10 +31,10 @@ We generated two datasets, *U2OS* and *NIH3T3*, named after the cell type that w
 
 
 A model based method developed by B. Roysam's group (`Lin et al., 2003
-<http://www.ncbi.nlm.nih.gov/pubmed/14566936>`__) was the best of the methods
+<https://www.ncbi.nlm.nih.gov/pubmed/14566936>`__) was the best of the methods
 we evaluated at the time. In the meanwhile, however, other groups have reported
 better results on our dataset (`list of citations at Google Scholar
-<http://scholar.google.com/scholar?oi=bibs&hl=en&cites=738266029844352763>`__).
+<https://scholar.google.com/scholar?oi=bibs&hl=en&cites=738266029844352763>`__).
 
 
 Code & Data
@@ -57,9 +57,9 @@ comparison of algorithms* by Luis Pedro Coelho, Aabid Shariff, and Robert F.
 Murphy
 
 Digital Object Identifier: `10.1109/ISBI.2009.5193098
-<http://dx.doi.org/10.1109/ISBI.2009.5193098>`__
+<https://dx.doi.org/10.1109/ISBI.2009.5193098>`__
 
-Open access `PubMed Central version <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901896/>`__.
+Open access `PubMed Central version <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901896/>`__.
 
 Full citation (use this if you use this code/dataset in a paper)::
 
@@ -73,6 +73,6 @@ Full citation (use this if you use this code/dataset in a paper)::
         pages = {518--521},
         year = {2009},
         publisher = {IEEE},
-        url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5193098}
+        url = {https://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5193098}
     }
 

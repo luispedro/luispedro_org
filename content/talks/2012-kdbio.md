@@ -12,22 +12,22 @@ permalink: talks/2012/kdbio/
     the distribution of probes between subcellular locations using
     unsupervised pattern unmixing* in Bioinformatics, vol. 26(12), pp.
     i7-i12 \[[online
-    version](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7)\]
+    version](https://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/12/i7)\]
 2.  **Luis Pedro Coelho**, Aabid Shariff, and Robert F. Murphy; *Nuclear
     segmentation in microscope cell images: A hand-segmented dataset and
     comparison of algorithms* ISBI 2009
-    \[[DOI](http://dx.doi.org/10.1109/ISBI.2009.5193098/)\]
+    \[[DOI](https://doi.org/10.1109/ISBI.2009.5193098)\]
 3.  *Determining the distribution of probes between different
     subcellular locations through automated unmixing of subcellular
     patterns* by Tao Peng, Ghislain M. C. Bonamy, Estelle Glory-Afshar,
     Daniel R. Rines, Sumit K. Chanda, and Robert F. Murphy
-    \[[link](http://www.pnas.org/content/early/2010/01/21/0912090107)\]
+    \[[link](https://www.pnas.org/content/early/2010/01/21/0912090107)\]
 4.  M. V. Boland, M. K. Markey and R. F. Murphy (1998) Automated
     Recognition of Patterns Characteristic of Subcellular Structures in
     Fluorescence Microscopy Images. Cytometry 33: 366-375. \[[online
-    version](http://murphylab.web.cmu.edu/publications/69-boland1998.pdf)\]
+    version](https://murphylab.cbd.cmu.edu/publications/69-boland1998.pdf)\]
 5.  Latent Dirichlet Allocation, Blei et al ., JMLR (3), 2003 \[[online
-    version](http://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf)\]
+    version](https://www.cs.columbia.edu/~blei/papers/BleiNgJordan2003.pdf)\]
 
 ## Reviews
 
@@ -42,4 +42,4 @@ you should follow the references.
 2.  Aabid Shariff, Joshua Kangas, **Luis Pedro Coelho**, Shannon Quinn,
     and Robert F. Murphy; *Automated Image Analysis for High Content
     Screening and Analysis*, Journal Biomolecular Screening (2010)
-    \[[online version](http://dx.doi.org/10.1177/1087057110370894)\]
+    \[[online version](https://dx.doi.org/10.1177/1087057110370894)\]

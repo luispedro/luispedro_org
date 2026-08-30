@@ -96,7 +96,7 @@ PhD from [Carnegie Mellon University](https://www.compbio.cmu.edu/) (2011),
 where I worked on [bioimage
 informatics](https://en.wikipedia.org/wiki/Bioimage_informatics) for
 subcellular location analysis with [Bob
-Murphy](https://murphylab.web.cmu.edu/).
+Murphy](https://murphylab.cbd.cmu.edu/).
 
 My [Erdös-Bacon number is 7](/erdos-bacon).
 

@@ -11,7 +11,7 @@ code as one of their primary activities (at least as defined on time
 spent) without a proper formal background for it.
 
 As I was looking for similar courses, I found [Software
-Carpentry](http://software-carpentry.org/) by Greg Wilson in Toronto
+Carpentry](https://software-carpentry.org/) by Greg Wilson in Toronto
 whose aims are very similar. So, my course not only has a *software
 carpentry* section, but the whole project was heavily inspired by
 Greg\'s work.
@@ -25,7 +25,7 @@ like to have more opportunities to teach it.
 -   [Autumn 2012](/projects/pfs-09-2012) website for the course
 -   [Spring 2009](/pfs) website for the course
 -   [Github
-    repository](http://github.com/luispedro/Programming-for-Scientists)
+    repository](https://github.com/luispedro/Programming-for-Scientists)
     for my course materials
--   [Software Carpentry](http://software-carpentry.org/)
--   [Software Carpentry Blog](http://softwarecarpentry.wordpress.com/)
+-   [Software Carpentry](https://software-carpentry.org/)
+-   [Software Carpentry Blog](https://softwarecarpentry.wordpress.com/)

@@ -68,7 +68,7 @@ Support
 
 The official forum for discussion of pymorph issues is the [pythonvision
 mailing list](https://groups.google.com/group/pythonvision). Also, check
-out [pythonvision.org](http://pythonvision.org) while you\'re at it.
+out [pythonvision.org](https://pythonvision.org) while you\'re at it.
 
 For bug reports, [mail me](mailto:luis@luispedro.org). If you report a
 bug, I will try to fix it. If it has a unit test, I **promise** to fix
@@ -109,7 +109,7 @@ display** *have been removed*. The reason is that
 [matplotlib](https://matplotlib.org/) is a much better implementation of this.
 I see no point in going through the effort of maintaining thin wrappers around
 its functionality. For plotting, use matplotlib (it also has a *imread*
-function based on [PIL](http://www.pythonware.com/products/pil/)).
+function based on [PIL](https://www.pythonware.com/products/pil/)).
 
 I removed the *mm* prefix from function names. Function name prefixes
 are needed in Matlab, which does not have namespaces, but they\'re

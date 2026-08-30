@@ -53,7 +53,7 @@ everything is on one page.
 Right now, it is only interesting if you care to get involved in development.
 
 **Sounds great! Where do I get this fabulous code?** Github, both for the
-`cutting edge <http://github.com/luispedro/hex>`_ and `stable releases
+`cutting edge <https://github.com/luispedro/hex>`_ and `stable releases
 <https://github.com/luispedro/hex/archives/master>`_.
 
 What needs to be better in TeX?

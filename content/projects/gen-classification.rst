@@ -31,18 +31,18 @@ The paper describing this work has been published in Bioinformatics:
    using local features* by **Luis Pedro Coelho**, Joshua D. Kangas, Armaghan
    Naik, Elvira Osuna-Highley, Estelle Glory-Afshar, Margaret Fuhrman, Ramanuja
    Simha, Peter B. Berget, Jonathan W. Jarvik, and Robert F.  Murphy (2013).
-   Bioinformatics, [`DOI <http://dx.doi.org/10.1093/bioinformatics/btt392>`__]
+   Bioinformatics, [`DOI <https://dx.doi.org/10.1093/bioinformatics/btt392>`__]
    [`open access version
-   <http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/>`__]
+   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3753569/>`__]
 
 (For BibTeX citation_, see below.)
 
-`Download from Data Dryad <http://datadryad.org/resource/doi:10.5061/dryad.2vm70>`__
+`Download from Data Dryad <https://datadryad.org/resource/doi:10.5061/dryad.2vm70>`__
 
 Local Features for Bioimage Analysis
 ------------------------------------
 
-We also show that using `SURF <http://en.wikipedia.org/wiki/SURF>`__ (a form of
+We also show that using `SURF <https://en.wikipedia.org/wiki/SURF>`__ (a form of
 local features which achieves excellent results in subcellular classification
 and we recommend it for bioimage analysis).
 
@@ -50,7 +50,7 @@ Open source code is available as part of my computer vision package, `mahotas
 </software/mahotas>`__, to implement these features.
 
 We have a step-by-step tutorial on how to `apply SURF to your own research
-<http://mahotas.readthedocs.org/en/latest/surfref.html>`__. Feel free to `email
+<https://mahotas.readthedocs.org/en/latest/surfref.html>`__. Feel free to `email
 me <mailto:luis@luispedro.org>`__ if you run into trouble.
 
 We also made available the code `to reproduce the paper exactly
@@ -65,10 +65,10 @@ This is a video abstract which includes the main results of the paper:
 
 .. raw:: html
 
-   <iframe src="http://wl.figshare.com/articles/744842/embed?show_title=1" width="568" height="502" frameborder="0"></iframe>
+   <iframe src="https://wl.figshare.com/articles/744842/embed?show_title=1" width="568" height="502" frameborder="0"></iframe>
 
 You can also read `several blog posts related to this paper
-<http://metarabbit.wordpress.com/tag/coelho2013_bioinformatics/>`__.
+<https://metarabbit.wordpress.com/tag/coelho2013_bioinformatics/>`__.
 
 Citation
 --------
@@ -114,9 +114,9 @@ Here is the full bibtex citation::
         previously studied datasets.
 
         Availability: The datasets are available for download at
-        http://murphylab.web.cmu.edu/data/. The software was written in Python
+        https://murphylab.cbd.cmu.edu/data/. The software was written in Python
         and C++ and is available under an open-source license at
-        http://murphylab.web.cmu.edu/software/. The code is split into a
+        https://murphylab.cbd.cmu.edu/software/. The code is split into a
         library which can be easily reused for other data and a small driver
         script for reproducing all results presented here. A step-by-step
         tutorial on applying the methods to new datasets is also available at
@@ -124,8 +124,8 @@ Here is the full bibtex citation::
 
         Contact: murphy@cmu.edu},
 
-    URL = {http://bioinformatics.oxfordjournals.org/content/early/2013/07/07/bioinformatics.btt392.abstract},
-    eprint = {http://bioinformatics.oxfordjournals.org/content/early/2013/07/07/bioinformatics.btt392.full.pdf+html},
+    URL = {https://bioinformatics.oxfordjournals.org/content/early/2013/07/07/bioinformatics.btt392.abstract},
+    eprint = {https://bioinformatics.oxfordjournals.org/content/early/2013/07/07/bioinformatics.btt392.full.pdf+html},
     journal = {Bioinformatics}
     }
 

@@ -21,7 +21,7 @@ unused. Here are some of the places where you can find me on the web:
 -   [github resume](https://resume.github.com/?luispedro)
 -   [Substack](https://luispedro.substack.com/)
 -   [Researchgate](https://www.researchgate.net/profile/Luis_Pedro_Coelho/)
--   [DBLP](https://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Lu=iacute=s_Pedro.html) :   This is very incomplete. And [this entry](https://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html) is also me!
+-   [DBLP](https://dblp.org/pid/30/4575.html) :   This is very incomplete. And [this entry](https://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html) is also me!
 -   [IMDB](https://www.imdb.com/name/nm5460142/)
 -   [Stackoverflow](https://stackoverflow.com/users/248279/luispedro)
 -   [LinkedIn](https://www.linkedin.com/in/luispedrocoelho)

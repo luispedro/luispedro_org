@@ -21,6 +21,6 @@ permalink: talks/2014/sesame/
 6.  [Unit Testing in Python](/files/talks/2014/06-sesame/testing.pdf)
 
 The Make materials were from [software
-carpentry](http://software-carpentry.org/v4/make/index.html)
+carpentry](https://software-carpentry.org/v4/make/index.html)
 
 I\'m releasing them as CC-BY.
