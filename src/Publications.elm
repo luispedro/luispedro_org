@@ -14,7 +14,7 @@ type alias Publication =
     --, short_description : String
     --, abstract : String
     , journal : String
-    --, date : String
+    , date : String
     , year : Int
     , doi : String
     , authors : List String
@@ -23,9 +23,10 @@ type alias Publication =
     }
 
 readPublication =
-    Decode.map7 Publication
+    Decode.map8 Publication
         (Decode.field "Title" Decode.string)
         (Decode.field "Journal" Decode.string)
+        (Decode.field "Date" Decode.string)
         (Decode.field "Year" Decode.int)
         (Decode.field "Doi" Decode.string)
         (Decode.field "Authors" (Decode.list Decode.string))
@@ -42,7 +43,9 @@ papersLPC =
                                         Decode.Parsing s -> "Parse error: " ++ s
                                         Decode.Decoding s -> "Decode error: " ++ s)
                 |> DataSource.fromResult)
-        |> DataSource.map List.reverse
+        -- The list is displayed in reverse chronological order. Sort here so
+        -- that it does not depend on the insertion order in papers.yaml.
+        |> DataSource.map (List.sortBy (\p -> (p.year, p.date)) >> List.reverse)
 
 
 isLPC : String -> Bool

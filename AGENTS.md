@@ -35,6 +35,8 @@ Publications are stored in `papers.yaml` (one YAML list). To add a new paper:
 
 The `Publications.elm` module decodes the YAML and highlights papers where Luis is first or last author (`isFirstLast: true`). An optional `comment` field renders a note below the citation.
 
+Every entry **must** carry a `Date` (`'YYYY-MM-DD'`, quoted) alongside `Year`; the build fails otherwise. `papersLPC` sorts on `(Year, Date)` and reverses, so the displayed order does not depend on where the entry is pasted into the file — but keep the file itself in ascending date order anyway, so that diffs stay readable. `add-paper-stub.py` emits `Date` already.
+
 ### Key modules
 
 - `src/SiteMarkdown.elm` — Markdown rendering helpers (`mdFiles` glob, `mdToHtml`, `mdToInlineHtml`).
