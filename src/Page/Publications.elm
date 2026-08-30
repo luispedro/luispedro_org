@@ -242,7 +242,6 @@ science](https://www.webofscience.com/wos/author/record/1798261):
     and function of the global ocean microbiome](https://doi.org/10.1126/science.1261359)
     in _Science_ (2015)
     \\[[DOI](https://doi.org/10.1126/science.1261359)\\]
-    \\[[PDF](http://www.bork.embl.de/publication/pdf/25999513.pdf)\\]
 """]
 
 

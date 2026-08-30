@@ -106,7 +106,6 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
     and function of the global ocean microbiome](https://doi.org/10.1126/science.1261359)
     in _Science_ (2015)
     \[[DOI](https://doi.org/10.1126/science.1261359)\]
-    \[[PDF](http://www.bork.embl.de/publication/pdf/25999513.pdf)\]
 
 See also my [full annotated list of publications](/publications) or my [full
 length CV](/vita.pdf).

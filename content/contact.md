@@ -18,15 +18,11 @@ unused. Here are some of the places where you can find me on the web:
     page](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 -   [github](https://www.github.com/luispedro)
 -   [Twitter](https://www.twitter.com/luispedrocoelho)
--   [github resume](https://resume.github.com/?luispedro)
 -   [Substack](https://luispedro.substack.com/)
 -   [Researchgate](https://www.researchgate.net/profile/Luis_Pedro_Coelho/)
--   [DBLP](https://dblp.org/pid/30/4575.html) :   This is very incomplete. And [this entry](https://www.informatik.uni-trier.de/~ley/db/indices/a-tree/c/Coelho:Luis_P=.html) is also me!
+-   [DBLP](https://dblp.org/pid/30/4575.html) :   This is very incomplete.
 -   [IMDB](https://www.imdb.com/name/nm5460142/)
 -   [Stackoverflow](https://stackoverflow.com/users/248279/luispedro)
 -   [LinkedIn](https://www.linkedin.com/in/luispedrocoelho)
--   [Mendeley
-    Profile](https://www.mendeley.com/profiles/luis-pedro-coelho/)
--   [my old blog](https://blog.luispedro.org)
 -   [my older blog](https://www.mutualinformation.org)
 -   [kiva](https://www.kiva.org/) [lender page](https://www.kiva.org/lender/luispedro).  Also, I started a [CMU kiva team](https://www.kiva.org/community/viewTeam?team_id=414)
