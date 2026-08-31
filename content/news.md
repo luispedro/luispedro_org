@@ -14,6 +14,8 @@ permalink: news/
 
 **Aug 2-7** [Environmental Dimensions of Antimicrobial Resistance (EDAR8)](https://www.crcsaafe.com.au/environmental-dimensions-of-amr-conference) in Brisbane, Australia
 
+**Aug 1** Our paper [Micropollutants and the Restructuring of Microbial Resilience in the Anthropocene](https://doi.org/10.1111/gcb.71073) is published in *Global Change Biology*.
+
 **May 18** Talk at the [55th Annual Meeting of SBBq](https://www.sbbq.org.br/) in Águas de Lindóia, SP, Brazil. "Big data and small genes. The small proteins of the global microbiome"
 
 **May 12** Our preprint [The elusive resistome: a global comparison reveals large discrepancies among detection pipelines](https://doi.org/10.64898/2026.05.11.724158) is posted on bioRxiv.
@@ -67,7 +69,9 @@ permalink: news/
 
 - **Nov  3-6** I will be in Sydney. On the 4th, I will present at the [Symposium on Bioinformatics Excellence and Innovation](https://www.abacbs.org/conference2024/home) which is part of the ABACBS conference.
 - **Oct 14-24** I will be in Shanghai
+- **Oct 15** Our paper [Quest for Orthologs in the Era of Biodiversity Genomics](https://doi.org/10.1093/gbe/evae224) is published in *Genome Biology and Evolution*.
 - **Sep 24** I will be presenting online at [APBioNet](https://www.apbionet.org/news/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) on using machine learning to find antimicrobial peptides in the global microbiome. The talk will be on September 24, 2024 at 5am UTC (1pm SGT). [Learn more and register](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/)
+- **Aug 31** Our paper [A catalog of small proteins from the global microbiome](https://doi.org/10.1038/s41467-024-51894-6) is published in *Nature Communications*.
 - **Aug 18-23** I was in Cape Town, South Africa for [ISME19](https://isme19.isme-microbes.org/). I will present at the [Night of the Microbes event](https://www.sun.ac.za/english/Lists/Events/DispForm.aspx?ID=5882&RootFolder=%2Fenglish%2FLists%2FEvents&Source=http%3A%2F%2Fwww%2Esun%2Eac%2Eza%2Fenglish%2FPages%2Fdefault%2Easpx%3Ftid%3D23).
 - **July 19-22**: I was in San Francisco
 - **July 12-17**: [ISMB2024, followed by the Quest for Orthologs meeting](https://www.iscb.org/ismb2024/) in Montreal, Canada. I presented a talk on [AMPSphere](https://doi.org/10.1016/j.cell.2024.05.013) and on [long term sustainable research software](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011920) ([YouTube version](https://youtu.be/yCgvvVQJE9I)).
@@ -78,6 +82,9 @@ permalink: news/
 - **Apr 27** [argNorm](https://github.com/BigDataBiology/argNorm) v0.3.0 has been released
 - **9 May** [open office hours](/office-hours) (Zoom)
 - **24 April** [open office hours](/office-hours) (Zoom)
+- **Mar 8** Our review [Challenges in computational discovery of bioactive peptides in ’omics data](https://doi.org/10.1002/pmic.202300105) is published in *PROTEOMICS*.
+- **Mar 5** Our paper [A global survey of prokaryotic genomes reveals the eco-evolutionary pressures driving horizontal gene transfer](https://doi.org/10.1038/s41559-024-02357-0) is published in *Nature Ecology & Evolution*.
+- **Feb 12** Our preprint [Ubiquity of inverted ’gelatinous’ ecosystem pyramids in the global ocean](https://doi.org/10.1101/2024.02.09.579612) is posted on bioRxiv.
 - **23-25 January (2024)** Berlin, Germany
 
 ## 2023
