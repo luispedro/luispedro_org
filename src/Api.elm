@@ -4,6 +4,7 @@ import ApiRoute
 import Sitemap
 import DataSource exposing (DataSource)
 import Html exposing (Html)
+import NotFound
 import Route exposing (Route)
 
 
@@ -29,5 +30,9 @@ routes getStaticRoutes htmlToString =
                 )
         )
         |> ApiRoute.literal "sitemap.xml"
+        |> ApiRoute.single
+    , ApiRoute.succeed
+        (DataSource.succeed { body = NotFound.document htmlToString })
+        |> ApiRoute.literal "404.html"
         |> ApiRoute.single
     ]
