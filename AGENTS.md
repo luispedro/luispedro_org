@@ -30,8 +30,8 @@ This is a personal website ([luispedro.org](https://luispedro.org)) built with *
 ### Publications workflow
 
 Publications are stored in `papers.yaml` (one YAML list). To add a new paper:
-1. Run `python add-paper-stub.py <DOI>` — fetches metadata from CrossRef and writes a stub to `PAPER_OUT.md`
-2. Manually verify the output, then paste the entry into `papers.yaml`
+1. Run `python add-paper-stub.py <DOI>` — fetches metadata from CrossRef and appends the entry to the end of `papers.yaml`
+2. Manually verify the appended entry, moving it up if needed to keep the file in ascending date order
 
 The `Publications.elm` module decodes the YAML and highlights papers where Luis is first or last author (`isFirstLast: true`). An optional `comment` field renders a note below the citation.
 

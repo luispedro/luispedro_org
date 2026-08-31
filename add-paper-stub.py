@@ -90,13 +90,17 @@ def main(argv):
 
     meta = get_doi_meta(doi)
     remeta = reformat_meta(meta)
-    ofile = 'PAPER_OUT.md'
-    with open(ofile, 'wt') as out:
+    ofile = 'papers.yaml'
+    prev = open(ofile, 'rt').read()
+    with open(ofile, 'at') as out:
+        if prev and not prev.endswith('\n'):
+            out.write('\n')
         out.write(yaml.dump([remeta], sort_keys=False, allow_unicode=True))
 
-    print(f'Wrote output to {ofile}')
+    print(f'Appended entry for {remeta["Doi"]} to {ofile}')
     print('Please do the following')
-    print('    1. Manually check the content therein')
+    print('    1. Manually check the newly appended entry at the end of the file')
+    print('    2. Move it so that the file stays in ascending date order')
 
 if __name__ == '__main__':
     main(sys.argv)

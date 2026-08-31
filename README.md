@@ -75,9 +75,10 @@ Publications live in `papers.yaml` as a single YAML list. To add one:
 python add-paper-stub.py <DOI>   # needs `requests` and `pyyaml`
 ```
 
-This fetches metadata from [CrossRef](https://www.crossref.org/) and writes a
-stub to `PAPER_OUT.md`. Check it by hand (journal names and author lists from
-CrossRef are often imperfect), then paste the entry into `papers.yaml`.
+This fetches metadata from [CrossRef](https://www.crossref.org/) and appends the
+entry directly to the end of `papers.yaml`. Check it by hand (journal names and
+author lists from CrossRef are often imperfect) and move it up if needed to keep
+the file in ascending date order.
 
 Fields of note: `isFirstLast: true` marks papers where I am first or last
 author, which the site highlights; it is set automatically by the script but
