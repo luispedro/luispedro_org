@@ -79,13 +79,13 @@ permalink: news/
 - **Jun 11** The [AMPSphere manuscript](https://doi.org/10.1016/j.cell.2024.05.013) was featured in several news outlets, including the BBC ([*Science in Action*](https://www.bbc.co.uk/sounds/play/w3ct5vct)), [*Deutsche Welle*](https://www.dw.com/en/are-scientists-finally-beating-antimicrobial-resistance/a-69275675), [*Guardian*](https://www.theguardian.com/society/article/2024/jun/05/ai-antibiotic-resistance), [*El País*](https://elpais.com/ciencia/2024-06-05/desvelado-el-mayor-catalogo-de-nuevas-moleculas-antibioticas-casi-un-millon-de-compuestos-desconocidos.html), [*Folha de São Paulo*](https://www1.folha.uol.com.br/equilibrioesaude/2024/06/estudo-identifica-quase-1-milhao-de-substancias-potenciais-contra-bacterias-resistentes.shtml) as well as mentions as a [Nature Research Highlight](https://www.nature.com/articles/d41586-024-01654-9) and in the [Science Adviser](https://www.science.org/content/article/scienceadviser-kicking-trump-twitter-helped-reduce-fake-news).
 - **Jun 5** AMPSphere manuscript [published in Cell](https://doi.org/10.1016/j.cell.2024.05.013)
 - **May 14** New Season of [Extremely Open Science](/extremely-open-science/). See [episode 1](https://youtu.be/N-O3n63-fcY?si=LgNx5cabFEots3jA) and the [sardyne github repository](https://github.com/BigDataBiology/sardyne)
-- **9 May** [open office hours](/office-hours) (Zoom)
+- **May 9** [open office hours](/office-hours) (Zoom)
 - **Apr 27** [argNorm](https://github.com/BigDataBiology/argNorm) v0.3.0 has been released
-- **24 April** [open office hours](/office-hours) (Zoom)
+- **Apr 24** [open office hours](/office-hours) (Zoom)
 - **Mar 8** Our review [Challenges in computational discovery of bioactive peptides in ’omics data](https://doi.org/10.1002/pmic.202300105) is published in *PROTEOMICS*.
 - **Mar 5** Our paper [A global survey of prokaryotic genomes reveals the eco-evolutionary pressures driving horizontal gene transfer](https://doi.org/10.1038/s41559-024-02357-0) is published in *Nature Ecology & Evolution*.
 - **Feb 12** Our preprint [Ubiquity of inverted ’gelatinous’ ecosystem pyramids in the global ocean](https://doi.org/10.1101/2024.02.09.579612) is posted on bioRxiv.
-- **23-25 January (2024)** Berlin, Germany
+- **Jan 23-25** Berlin, Germany
 
 ## 2023
 
