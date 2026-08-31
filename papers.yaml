@@ -22,7 +22,7 @@
   - Philipp Cuadra
   - Charles Jackson
   - Markus Püschel
-  Journal: Image Processing, 2007. ICIP 2007. IEEE International Conference on
+  Journal: IEEE International Conference on Image Processing (ICIP 2007)
   Pages: I-457-I-460
   Publisher: IEEE
   Title: An adaptive multiresolution approach to fingerprint recognition
@@ -49,7 +49,7 @@
   - Luis Pedro Coelho
   - Aabid Shariff
   - Robert F Murphy
-  Journal: 'Biomedical Imaging: From Nano to Macro, 2009. ISBI09. IEEE International Symposium on'
+  Journal: IEEE International Symposium on Biomedical Imaging (ISBI 2009)
   Pages: 518-521
   Publisher: IEEE
   Title: 'Nuclear segmentation in microscope cell images: a hand-segmented dataset and comparison of algorithms'
@@ -156,7 +156,7 @@
   - Luis Pedro Coelho
   - Shannon Quinn
   - Robert F Murphy
-  Journal: Journal of biomolecular screening
+  Journal: Journal of Biomolecular Screening
   Number: '7'
   Pages: 726-734
   Publisher: SAGE Publications
@@ -225,7 +225,7 @@
   - S Dusko Ehrlich
   - Alexandros Stamatakis
   - Peer Bork
-  Journal: Nature methods
+  Journal: Nature Methods
   Number: '12'
   Pages: 1196-1199
   Publisher: Nature Publishing Group
@@ -264,7 +264,7 @@
   - Katherine A Fitzgerald
   - Winfried Barchet
   - Maria M Mota
-  Journal: Nature medicine
+  Journal: Nature Medicine
   Number: '1'
   Pages: 47-53
   Publisher: Nature Publishing Group
@@ -305,7 +305,7 @@
   - Maria Carmo‐Fonseca
   - Nuno L. Barbosa-Morais
   - Luisa M. Figueiredo
-  Journal: Molecular microbiology
+  Journal: Molecular Microbiology
   Number: '4'
   Pages: 645-663
   Title: Trypanosoma brucei histone H1 inhibits RNA polymerase I transcription and is important for parasite fitness in vivo
@@ -407,7 +407,7 @@
   - Virgilio Do Rosario
   - José De La Fuente
   - Ana Domingos
-  Journal: Parasites & vectors
+  Journal: Parasites & Vectors
   Number: '1'
   Pages: 1-15
   Publisher: BioMed Central
@@ -498,7 +498,7 @@
   - Felix Goeser
   - Peer Bork
   - Ullrich Wüllner
-  Journal: Genome medicine
+  Journal: Genome Medicine
   Number: '1'
   Pages: 1-13
   Publisher: BioMed Central
@@ -517,7 +517,7 @@
   - Lucas Paoli
   - Shinichi Sunagawa
   - Peer Bork
-  Journal: PloS one
+  Journal: PLOS ONE
   Number: '7'
   Pages: e0182392
   Publisher: Public Library of Science San Francisco, CA USA
@@ -536,7 +536,7 @@
   - Lars Juhl Jensen
   - Christian von Mering
   - Peer Bork
-  Journal: Mol Biol Evol
+  Journal: Molecular Biology and Evolution
   Pages: msx148
   Publisher: Oxford University Press
   Title: Fast genome-wide functional annotation through orthology assignment by eggNOG-mapper
@@ -605,7 +605,7 @@
   - S Dusko Ehrlich
   - Joel Dore
   - Peer Bork
-  Journal: Nature biotechnology
+  Journal: Nature Biotechnology
   Title: Towards standards for human fecal sample processing in metagenomic studies
   Doi: 10.1038/nbt.3960
   Year: 2017
@@ -773,7 +773,7 @@
   - Filip K. Knop
   - Manimozhiyan Arumugam
   - Oluf Pedersen
-  Journal: Nature microbiology
+  Journal: Nature Microbiology
   Number: '11'
   Pages: 1255-1265
   Publisher: Nature Publishing Group
@@ -979,7 +979,7 @@
   - Manimozhiyan Arumugam
   - Peer Bork
   - Georg Zeller
-  Journal: Nature medicine
+  Journal: Nature Medicine
   Number: '4'
   Pages: 679-689
   Publisher: Nature Publishing Group
@@ -1105,7 +1105,7 @@
   - Jaime Huerta-Cepas
   - Luis Pedro Coelho
   - Peer Bork
-  Journal: Nucleic acids research
+  Journal: Nucleic Acids Research
   Number: D1
   Pages: D621-D625
   Publisher: Oxford University Press
@@ -1933,7 +1933,7 @@
   - Karsenti Eric
   - Gorsky Gabriel
   - Tara Oceans Coordinators
-  Journal: biorXiv (PREPRINT)
+  Journal: bioRxiv (PREPRINT)
   Doi: 10.1101/2024.02.09.579612
   Year: 2024
   Date: '2024-02-12'
@@ -2072,7 +2072,7 @@
   - Marcel Martin
   - Xing-Ming Zhao
   - Luis Pedro Coelho
-  Journal: biorXiv (PREPRINT)
+  Journal: bioRxiv (PREPRINT)
   Doi: 10.1101/2025.07.30.667338
   Year: 2025
   Date: '2025-08-01'
@@ -2090,7 +2090,7 @@
   - Ulrike Löber
   - Xing-Ming Zhao
   - Luis Pedro Coelho
-  Journal: biorXiv (PREPRINT)
+  Journal: bioRxiv (PREPRINT)
   Doi: 10.1101/2025.09.17.676595
   Year: 2025
   Date: '2025-09-17'
