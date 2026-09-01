@@ -3,9 +3,12 @@ title: Yeast Mating
 categories: work art
 ---
 
-<video src="/files/videos/shmoo/shmoo-v0-a-1-small.ogg" width="352" height="288" />
+<video controls preload="metadata" width="370" height="268" poster="/files/videos/shmoo/shmoo-v0-a-1-small.jpg"><source src="/files/videos/shmoo/shmoo-v0-a-1-small.mp4" type="video/mp4"><source src="/files/videos/shmoo/shmoo-v0-a-1-small.ogg" type="video/ogg"></video>
 
-Problems viewing the video? [Download the file](/files/videos/shmoo/shmoo-v0-a-1-small.ogg) and play it with your favorite viewer.
+Problems viewing the video? Download it as
+[MP4](/files/videos/shmoo/shmoo-v0-a-1-small.mp4) or
+[Ogg Theora](/files/videos/shmoo/shmoo-v0-a-1-small.ogg) and play it with your
+favorite viewer.
 
 # What is this?
 

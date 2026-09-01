@@ -37,8 +37,16 @@ mdToHtml body =
     let
         defaultSanitizeOptions = Markdown.defaultSanitizeOptions
         sanitizeOptions =
-            { allowedHtmlAttributes = "alt" :: "src" :: "style" :: defaultSanitizeOptions.allowedHtmlAttributes
-            , allowedHtmlElements = "a" :: "img" :: defaultSanitizeOptions.allowedHtmlElements
+            { allowedHtmlAttributes =
+                [ "alt", "src", "style"
+                , "width", "height"
+                , "controls", "poster", "preload", "loop", "muted", "playsinline"
+                , "type"
+                ] ++ defaultSanitizeOptions.allowedHtmlAttributes
+            , allowedHtmlElements =
+                [ "a", "img"
+                , "video", "audio", "source"
+                ] ++ defaultSanitizeOptions.allowedHtmlElements
             }
         options = Just {
             softAsHardLineBreak = False
