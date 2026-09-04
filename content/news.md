@@ -87,7 +87,7 @@ categories: about-me
 
 **Jun 5** AMPSphere manuscript [published in Cell](https://doi.org/10.1016/j.cell.2024.05.013)
 
-**May 14** New Season of [Extremely Open Science](/extremely-open-science/). See [episode 1](https://youtu.be/N-O3n63-fcY?si=LgNx5cabFEots3jA) and the [sardyne github repository](https://github.com/BigDataBiology/sardyne)
+**May 14** New Season of *Extremely Open Science*. See [episode 1](https://youtu.be/N-O3n63-fcY?si=LgNx5cabFEots3jA) and the [sardyne github repository](https://github.com/BigDataBiology/sardyne)
 
 **May 9** [open office hours](/office-hours) (Zoom)
 
@@ -105,9 +105,15 @@ categories: about-me
 
 ## 2023
 
+**Dec 18** Our paper [Functional and evolutionary significance of unknown genes from uncultivated taxa](https://doi.org/10.1038/s41586-023-06955-z) is published in *Nature*.
+
 **Nov 12-15**: [The 22nd International Conference on Bioinformatics (InCoB 2023)](https://incob.apbionet.org/incob23/) in Brisbane. I presented a highlight talk on [SemiBin](https://doi.org/10.1038/s41467-022-29843-y) (including [SemiBin2](https://academic.oup.com/bioinformatics/article/39/Supplement_1/i21/7210480)).
 
+**Oct 28** Our paper [SPIRE: a Searchable, Planetary-scale mIcrobiome REsource](https://doi.org/10.1093/nar/gkad943) is published in *Nucleic Acids Research*.
+
 **Oct 15-20**: [International Peptide Symposium 2023](https://www.peptides2023.org/) in Brisbane. I presented the talk _A survey of antimicrobial peptides from the global microbiome_.
+
+**Sep 20** Our paper [Evidence of a causal and modifiable relationship between kidney function and circulating trimethylamine N-oxide](https://doi.org/10.1038/s41467-023-39824-4) is published in *Nature Communications*.
 
 **Aug 21-24**: [Quadram Institute](https://quadram.ac.uk/) in Norwich (UK).
 
@@ -115,9 +121,15 @@ categories: about-me
 
 **July 23-27**: [ISMB](https://www.iscb.org/ismbeccb2023) (Lyon, France) - [talk](https://2023-07-25-talk-semibin.big-data-biology.org)
 
+**Jul 1** Our paper [Towards Monitoring of Antimicrobial Resistance in the Environment: For what Reasons, How to Implement It, and What Are the Data Needs?](https://doi.org/10.1016/j.envint.2023.108089) is published in *Environment International*.
+
+**Jun 30** Our paper [SemiBin2: self-supervised contrastive learning leads to better MAGs for short- and long-read sequencing](https://doi.org/10.1093/bioinformatics/btad209) is published in *Bioinformatics*.
+
 **June 15-18**: [Vibecamp](https://vibe.camp/)
 
 **May 31-June 2**: [microProteins 2023](https://plen.ku.dk/english/calendar/2022/microproteins-2023-unraveling-the-universe-of-microproteins---from-discovery-to-physiology-and-application/) (Copenhagen, Denmark)
+
+**May 19** Our paper [ResFinderFG v2.0: a database of antibiotic resistance genes obtained by functional metagenomics](https://doi.org/10.1093/nar/gkad384) is published in *Nucleic Acids Research*.
 
 **April 2-6**: Paris (France) for EMBARK and visiting INRAE
 
@@ -344,7 +356,7 @@ Access](https://dx.doi.org/10.1093/bioinformatics/btt392)\]
 
 **May 2013** My talk submission for
 [BOSC](https://www.open-bio.org/wiki/BOSC_2013) (Bioinformatics Open
-Source Conference) about [jug](/projects/software/jug) was accepted (it
+Source Conference) about [jug](/software/jug) was accepted (it
 will be a lightning talk)
 
 **April 2013** I moved to EMBL, where I joined [Peer Bork\'s
@@ -363,7 +375,7 @@ mahotas](/software/mahotas/) \[Update in 2013: this is now a
 paper](https://doi.org/10.5334/jors.ac)\]
 
 **September 2012** I am teaching two session of a [Programming for
-Scientists Course](/projects/pfs-09-2012) at IMM.
+Scientists Course](/projects/pfs) at IMM.
 
 **May 2012** I am [writing a book](/projects/libertarian-welfare)
 
