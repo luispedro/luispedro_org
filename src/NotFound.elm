@@ -65,7 +65,6 @@ page =
     -- returns a `View msg` for the elm-pages runtime.
     Html.div []
         [ CDN.stylesheet
-        , CDN.fontAwesome
         , Shared.skipLink
         , Grid.containerFluid []
             [ Grid.simpleRow

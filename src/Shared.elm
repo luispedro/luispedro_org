@@ -105,7 +105,6 @@ view :
 view sharedData page model toMsg pageView =
     { body = Html.div []
         [ CDN.stylesheet
-        , CDN.fontAwesome
         , skipLink
         , Grid.containerFluid []
             [ Grid.simpleRow
