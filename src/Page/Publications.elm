@@ -174,10 +174,22 @@ view :
 view maybeUrl sharedModel model static =
     { title = "Luis Pedro Coelho Papers"
     , body =
-        [Grid.simpleRow
+        [dimensionsStylesheet
+        ,Grid.simpleRow
             [showPapers static.data model
             ]]
     }
+
+-- The Dimensions badge CSS styles the citation badges, which only exist on this
+-- page, so it is pulled in here as a <link> in the body (the same trick
+-- Bootstrap.CDN uses) instead of being @imported by the site-wide style.css.
+dimensionsStylesheet : Html.Html msg
+dimensionsStylesheet =
+    Html.node "link"
+        [ HtmlAttr.rel "stylesheet"
+        , HtmlAttr.href "https://badge.dimensions.ai/badge.css"
+        ]
+        []
 
 intro =
     Html.div
