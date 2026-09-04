@@ -66,6 +66,7 @@ page =
     Html.div []
         [ CDN.stylesheet
         , CDN.fontAwesome
+        , Shared.skipLink
         , Grid.containerFluid []
             [ Grid.simpleRow
                 [ Grid.col []
@@ -75,7 +76,7 @@ page =
                         [ Grid.col [Col.xs3, Col.attrs [HtmlAttr.id "leftbar"]]
                             [Shared.navigation]
                         , Grid.col [Col.xs9]
-                            [body]
+                            [Html.main_ [HtmlAttr.id "main-content", HtmlAttr.tabindex -1] [body]]
                         ]
                     , Html.hr [] []
                     , Shared.footer

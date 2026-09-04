@@ -1,4 +1,4 @@
-module Shared exposing (Data, Model, Msg(..), SharedMsg(..), footer, header, navigation, template)
+module Shared exposing (Data, Model, Msg(..), SharedMsg(..), footer, header, navigation, skipLink, template)
 
 import Bootstrap.CDN as CDN
 import Bootstrap.Grid as Grid
@@ -106,6 +106,7 @@ view sharedData page model toMsg pageView =
     { body = Html.div []
         [ CDN.stylesheet
         , CDN.fontAwesome
+        , skipLink
         , Grid.containerFluid []
             [ Grid.simpleRow
                 [ Grid.col []
@@ -116,7 +117,7 @@ view sharedData page model toMsg pageView =
                             [navigation
                             ]
                         , Grid.col [Col.xs9]
-                            [Html.div [] pageView.body]
+                            [Html.main_ [HtmlAttr.id "main-content", HtmlAttr.tabindex -1] pageView.body]
                         ]
                     , Html.hr [] []
                     , footer
@@ -127,20 +128,30 @@ view sharedData page model toMsg pageView =
     , title = pageView.title
     }
 
+skipLink =
+    -- First focusable element on the page: it is off-screen until focused (see
+    -- `.skip-link` in `style.css`) and jumps past the top bar and the sidebar.
+    Html.a
+        [HtmlAttr.href "#main-content", HtmlAttr.class "skip-link"]
+        [Html.text "Skip to main content"]
+
+
 header =
     let
         link target name =
             Grid.col []
                 [Html.a [HtmlAttr.href target] [Html.text name]]
-    in Html.div
+    in Html.header
         [HtmlAttr.id "topbar"]
-        [Grid.simpleRow
-            [ link "/index" "Home"
-            , link "https://big-data-biology.org" "Lab Website"
-            , link "/publications/" "Publications"
-            , link "/vita.pdf" "CV"
-            ]]
-footer = Html.div []
+        [Html.nav
+            [HtmlAttr.attribute "aria-label" "Main"]
+            [Grid.simpleRow
+                [ link "/index" "Home"
+                , link "https://big-data-biology.org" "Lab Website"
+                , link "/publications/" "Publications"
+                , link "/vita.pdf" "CV"
+                ]]]
+footer = Html.footer []
             [Html.p []
                 [Html.text "Copyright (c) 2009-2026. Luis Pedro Coelho. All rights reserved."]
             ,Html.div [HtmlAttr.id "google-injection-site"] []
@@ -162,7 +173,7 @@ navigation =
                                         [Html.a [HtmlAttr.href target] [Html.text text]]))
                 ]
     in Html.nav
-        []
+        [HtmlAttr.attribute "aria-label" "Sections of this site"]
         [liSection "About Me"
             [("https://big-data-biology.org/", "Big Data Biology Lab Website")
             ,("/resume", "CV")

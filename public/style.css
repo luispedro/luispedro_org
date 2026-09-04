@@ -18,11 +18,11 @@ img {
     max-width : 90%
 }
 
-div#topbar a {
+#topbar a {
     color: #7570b3;
 }
 
-div#topbar {
+#topbar {
     padding-top: 2px;
     padding-bottom: 0px;
     margin: 0px;
@@ -33,7 +33,7 @@ div#topbar {
     margin-bottom: 3em;
 }
 
-div#topbar a {
+#topbar a {
     font-weight: bold;
     padding: 2em;
 }
@@ -72,4 +72,25 @@ nav h6 {
 .citation-info {
     font-weight: bold;
     color: #7570b3;
+}
+
+/* Skip-to-content link: off-screen until it takes keyboard focus. */
+.skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    z-index: 100;
+    background: #fff;
+    color: #7570b3;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border: solid 2px #e6ab02;
+}
+
+.skip-link:focus {
+    left: 0;
+}
+
+main:focus {
+    outline: none;
 }
