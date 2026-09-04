@@ -35,7 +35,7 @@ coverage). It has **no known bugs** (if you email me a bug report with a
 clear test case, I will typically fix it in less than 24 hours).
 
 [Slide deck about mahotas and Python for bioimage
-informatics](/files/talks/2013/mahotas.html).
+informatics](/files/talks/2013/EuBIAS/mahotas.html).
 
 # Algorithms
 
@@ -57,10 +57,6 @@ the cutting edge from [github](https://www.github.com/luispedro/mahotas).
 Installation should be possible using:
 
     pip install mahotas
-
-or:
-
-    easy_install mahotas
 
 You can also find Windows packages
 [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/) by Christoph Gohlke

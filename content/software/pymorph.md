@@ -3,9 +3,6 @@ title: Python Morphology Toolbox
 categories: work software
 ---
 
-Python Morphology Toolbox
-=========================
-
 Pymorph is a collection of pure python implementations of many image
 morphology functions.
 
@@ -29,9 +26,8 @@ have).
 Download & Install
 ------------------
 
-You can use `easy_install` or `pip`:
+You can use `pip`:
 
-    easy_install pymorph
     pip install pymorph
 
 If you want the code, it can be downloaded as a [source
@@ -54,8 +50,7 @@ Releases
 
 Since there is feature stability, I release on
 [PyPI](https://pypi.python.org/pypi/pymorph) whenever I have fixed a new
-bug (to make it easy for people who use `easy_install` or
-`pip` to keep up).
+bug (to make it easy for people who use `pip` to keep up).
 
 For more minor fixes (documentation reformatting), you can check the
 continuous release on [github](https://github.com/luispedro/pymorph/).
