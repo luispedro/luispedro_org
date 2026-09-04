@@ -1,0 +1,29 @@
+# Netlify reads this file from the publish directory (dist/), which elm-pages
+# populates from public/ -- so it must live here, not at the repo root. It sat
+# at the root from 2021 to 2026 and was copied in by a `cp` in netlify.toml's
+# build command; b2dd130 rewrote that command and dropped the cp, leaving every
+# rule below silently inert for two years.
+
+# Old-site URLs
+/pymorph                   /software/pymorph
+/work/pymorph              /software/pymorph
+/textos/fim-de-tarde       /fimdetarde
+/jug                       /software/jug
+/software/merge            /software/mergedirs
+
+# URLs advertised by a `permalink:` in the front matter, which SPLAT__.elm does
+# not honour -- it routes on the filename instead. These are the URLs the old
+# site served, so they are live inbound links and search results.
+/biography/scientific      /scientific-biography
+/software/reproducible     /software/reproducible-research
+/software/suffix-trees     /suffixtree
+/talks/2011/embo           /talks/2011-embo
+/talks/2012/igc            /talks/2012-igc
+/talks/2012/imm            /talks/2012-imm
+/talks/2012/kdbio          /talks/2012-kdbio
+/talks/2013/jug-meetup     /talks/2013-jug-meetup
+/talks/2014/sesame         /talks/2014-amman
+/talks/2014/cyi            /talks/2014-cyi
+/talks/2014/11-swc-embl    /talks/2014-embl
+/talks/2014/sdu            /talks/2014-sdu
+/talks/2015/06-swc-donostia /talks/2015-swc-donostia
