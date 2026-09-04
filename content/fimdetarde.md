@@ -1,5 +1,6 @@
 ---
 title: Fim de Tarde
+lang: pt
 categories: art
 permalink: fimdetarde/
 ---

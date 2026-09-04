@@ -12,6 +12,7 @@ import View exposing (View)
 import DataSource.File
 import OptimizedDecoder as Decode exposing (Decoder)
 import Html
+import LanguageTag
 
 import SiteMarkdown
 
@@ -25,6 +26,7 @@ type alias MDPage =
     { body : String
     , title : String
     , description : String
+    , lang : Maybe String
     , fileInfo : SiteMarkdown.MarkdownFile
     }
 
@@ -47,9 +49,10 @@ mdpages =
 
 mdDecoder : SiteMarkdown.MarkdownFile -> String -> Decoder MDPage
 mdDecoder finfo body =
-    Decode.map2
-        (\title description ->
+    Decode.map3
+        (\title description lang ->
             { fileInfo = finfo
+            , lang = lang
             , title = title
             , description =
                 case description of
@@ -64,6 +67,7 @@ mdDecoder finfo body =
         )
         (Decode.field "title" Decode.string)
         (Decode.maybe (Decode.field "meta" Decode.string))
+        (Decode.maybe (Decode.field "lang" Decode.string))
 
 page : Page RouteParams Data
 page =
@@ -92,6 +96,7 @@ data routeParams =
                     { body = ""
                     , title = "Inner bug!"
                     , description = "Luis Pedro Coelho"
+                    , lang = Nothing
                     , fileInfo =
                         { path = "/"
                         , slug = ""
@@ -104,7 +109,14 @@ head :
     StaticPayload Data RouteParams
     -> List Head.Tag
 head static =
-    Seo.summary
+    (case static.data.lang of
+        Just lang ->
+            [ Head.rootLanguage (LanguageTag.custom lang) ]
+
+        Nothing ->
+            []
+    )
+        ++ (Seo.summary
         { canonicalUrlOverride = Nothing
         , siteName = "Luis Pedro Coelho"
         , image =
@@ -118,6 +130,7 @@ head static =
         , title = static.data.title
         }
         |> Seo.website
+           )
 
 
 view :
