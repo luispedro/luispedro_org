@@ -1,11 +1,8 @@
 ---
-title: Hex
+title: "Hex: Reimplementing TeX in Haskell"
 categories: software
+meta: Hex is a reimplementation of TeX in Haskell, written to learn both TeX and Haskell
 ---
-
-==================================
-Hex: Reimplementing TeX in Haskell
-==================================
 
 Hex is a reimplementation of TeX in Haskell. It is not very functional yet. It
 just does macro expansion. The main goals are for me to learn TeX and Haskell
@@ -18,31 +15,28 @@ error messages).
 The plan is to first write a faithful reimplementation of TeX and then, *make
 it better*.
 
-Current status
---------------
+## Current status
 
-Version 0.0.5
-~~~~~~~~~~~~~
+### Version 0.0.5
+
 Implements very basic Math typesetting.
 
-Version 0.0.4
-~~~~~~~~~~~~~
+### Version 0.0.4
 
-Added font capabilities (\font etc). Also, improve macro expansion (delimited macros, \if).
+Added font capabilities (`\font` etc). Also, improve macro expansion (delimited
+macros, `\if`).
 
-Version 0.0.3
-~~~~~~~~~~~~~
-TeX-like line breaking. Added \input and \message.
+### Version 0.0.3
 
-version 0.0.2
-~~~~~~~~~~~~~
+TeX-like line breaking. Added `\input` and `\message`.
+
+### Version 0.0.2
 
 Implements character codes and macro namespaces. I think we have the basic
 machinery to read input and covert it into a stream of TeX commands (except for
-\input). Now, it is the backend which needs the most work.
+`\input`). Now, it is the backend which needs the most work.
 
-version 0.0.1
-~~~~~~~~~~~~~
+### Version 0.0.1
 
 Pre-pre-pre-pre-...-alpha. It can take an input file and output a DVI file of
 text with badly broken lines. It does it slowly and with a lot of hardcoded
@@ -51,12 +45,10 @@ everything is on one page.
 
 Right now, it is only interesting if you care to get involved in development.
 
-**Sounds great! Where do I get this fabulous code?** Github, both for the
-`cutting edge <https://github.com/luispedro/hex>`_ and `stable releases
-<https://github.com/luispedro/hex/archives/master>`_.
+**Sounds great! Where do I get this fabulous code?** On
+[github](https://github.com/luispedro/hex).
 
-What needs to be better in TeX?
--------------------------------
+## What needs to be better in TeX?
 
 Here are my ideas for improving TeX:
 
@@ -78,14 +70,12 @@ While that is a good way to do some things, it also means that the results are
 not as good as they should be. There is no reason to not have the handling of
 floats at the TeX level, for example.
 
-What needs to stay the same?
-----------------------------
+## What needs to stay the same?
 
 Good quality output.
 
-Meta-Information
-----------------
+## Meta-Information
 
-Author: Luis Pedro Coelho <luis@luispedro.org>
+Author: Luis Pedro Coelho &lt;luis@luispedro.org&gt;
 
 License: GPLv3 or later

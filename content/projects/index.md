@@ -1,12 +1,16 @@
 ---
 title: Projects
 categories: work
-meta: Research projects by Luis Pedro Coelho on subcellular location analysis, bioimage informatics and computational biology (page is out of date)
+meta: Research projects by Luis Pedro Coelho on subcellular location analysis, bioimage informatics and computational biology
 ---
 
-(Out of date)
+These are the projects from my PhD and early postdoctoral years (2008–2013), on
+bioimage informatics and subcellular location analysis. For my current work on
+microbiomes, see the [Big Data Biology Lab](https://big-data-biology.org)
+website, my [scientific biography](/scientific-biography), or my
+[publications](/publications).
 
-# Generalisable Subcellular Location Analysis
+## Generalisable Subcellular Location Analysis
 
 Most of subcellular location analysis in the past has been pursued using
 datasets that contain multiple copies of the same *representative*
@@ -23,13 +27,12 @@ The algorithms we were using previously performed significantly worse in
 this new dataset and we thus employed new methods to achieve better
 results.
 
-A manuscript describing this project and its results [is in
-press](https://dx.doi.org/10.1093/bioinformatics/btt392) (as of July
-2013).
+The manuscript describing this project and its results was [published in
+*Bioinformatics*](https://dx.doi.org/10.1093/bioinformatics/btt392) in 2013.
 
 [Read more](/projects/gen-classification)
 
-# Unsupervised Subcellular Pattern Unmixing
+## Unsupervised Subcellular Pattern Unmixing
 
 The goal is to handle mixed subcellular location patterns (the result of
 having a protein or marker simultaneously present in multiple
@@ -39,9 +42,12 @@ organelles be specified).
 This was work with Tao Peng and Bob Murphy and the main result was that
 unsupervised unmixing could work as well as the supervised version.
 
-[More info on Unsupervised Unmixing](/projects/unsupervised-unmixing)
+This work was published as [Quantifying the distribution of probes between
+subcellular locations using unsupervised pattern
+unmixing](https://doi.org/10.1093/bioinformatics/btq220) in *Bioinformatics*
+(2010).
 
-# Nuclear Segmentation
+## Nuclear Segmentation
 
 The goal of this project was to quantitatively evaluate a series of
 nuclear segmentation algorithms for use in our work. We hand-segmented
@@ -52,7 +58,7 @@ evaluate methods.
 
 [More info on Nuclear Segmentation](/projects/nuclear-segmentation)
 
-# SLIF
+## SLIF
 
 SLIF is the `structured literature image finder`
 (previously, `subcellular location image finder`).
@@ -60,9 +66,12 @@ SLIF is the `structured literature image finder`
 It searches through scientific journals, looking for images, which it
 categorises, makes available, and (in some cases, at least) analyses.
 
-[More info on SLIF](/projects/slif)
+SLIF was one of the four finalists in the Elsevier Grand Challenge. It is
+described in [Structured literature image finder: extracting information from
+text and images in biomedical
+literature](https://doi.org/10.1007/978-3-642-13131-8_4) (2010).
 
-# Programming for Scientists
+## Programming for Scientists
 
 Programming for Scientists is a course I designed for scientists who
 write code. The project grew out of informal discussions with others,
