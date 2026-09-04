@@ -1,4 +1,4 @@
-module SiteMarkdown exposing (MarkdownFile, mdFiles, mdToHtml, mdToInlineHtml)
+module SiteMarkdown exposing (MarkdownFile, firstParagraph, mdFiles, mdToHtml, mdToInlineHtml)
 
 import Markdown
 import Markdown.Inline
@@ -49,6 +49,42 @@ commentRegex =
 
 stripComments : String -> String
 stripComments = Regex.replace commentRegex (always "")
+
+
+{-| The text of the first paragraph of a document, for use as a meta
+description when the front matter does not set one. Leading headings (which
+most pages open with) are skipped, as are paragraphs of raw HTML, whitespace is
+collapsed and the result is truncated on a word boundary.
+-}
+firstParagraph : String -> Maybe String
+firstParagraph body =
+    Markdown.Block.parse Nothing (stripComments body)
+        |> List.filterMap
+            (\block ->
+                case block of
+                    Markdown.Block.Paragraph _ inlines ->
+                        Just (Markdown.Inline.extractText inlines)
+
+                    _ ->
+                        Nothing
+            )
+        |> List.filter (\text -> not (String.startsWith "<" (String.trimLeft text)))
+        |> List.head
+        |> Maybe.map (String.words >> truncateWords 155 [] 0)
+
+
+truncateWords : Int -> List String -> Int -> List String -> String
+truncateWords budget acc len words =
+    case words of
+        [] ->
+            String.join " " (List.reverse acc)
+
+        w :: rest ->
+            if len + String.length w > budget then
+                String.join " " (List.reverse acc) ++ "\u{2026}"
+
+            else
+                truncateWords budget (w :: acc) (len + String.length w + 1) rest
 
 
 mdToHtml body_ =

@@ -1,6 +1,7 @@
 ---
 title: Imread
 categories: software python
+meta: Mahotas-imread reads images into numpy arrays. A small Python package for image input and output, spun off from mahotas
 ---
 
 # Mahotas-imread: Reads images into numpy arrays

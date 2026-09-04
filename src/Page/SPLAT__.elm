@@ -51,7 +51,14 @@ mdDecoder finfo body =
         (\title description ->
             { fileInfo = finfo
             , title = title
-            , description = Maybe.withDefault title description
+            , description =
+                case description of
+                    Just meta ->
+                        meta
+
+                    Nothing ->
+                        SiteMarkdown.firstParagraph body
+                            |> Maybe.withDefault title
             , body = body
             }
         )

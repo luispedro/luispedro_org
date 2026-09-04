@@ -1,6 +1,7 @@
 ---
 title: "SemiBin: Metagenomic Binning Using Siamese Neural Networks for short and long reads"
 categories: software python
+meta: SemiBin is a metagenomic binning tool using self-supervised siamese neural networks, handling both short and long reads
 ---
 
 A dedicated semibin page with documentation is available at

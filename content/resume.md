@@ -2,6 +2,7 @@
 title: Resumé
 categories: about-me
 permalink: resume/
+meta: Resume of Luis Pedro Coelho — education, positions, publications, software and awards. A long-form CV is also available as a PDF
 ---
 
 A long-form CV is available as a [PDF Version](/vita.pdf).

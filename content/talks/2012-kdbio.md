@@ -2,6 +2,7 @@
 title: KDBIO Talk
 categories: talks work
 permalink: talks/2012/kdbio/
+meta: Reference list for the KDBIO talk on bioimage informatics and subcellular location analysis, 2012
 ---
 
 # References

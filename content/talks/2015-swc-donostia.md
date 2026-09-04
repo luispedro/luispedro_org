@@ -2,6 +2,7 @@
 title: Software Carpentry in San Sebastian/Donostia
 categories: talks work
 permalink: talks/2015/06-swc-donostia/
+meta: Slides from the Software Carpentry workshop in San Sebastian/Donostia, June 2015, released as CC-BY
 ---
 
 # Software Carpentry Workshop in San Sebastian/Donostia

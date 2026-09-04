@@ -1,5 +1,6 @@
 ---
 title: "NGLess: NGS Processing with Less Work"
+meta: NGLess is a domain-specific language for next-generation sequencing data processing — preprocessing, mapping and counting in short, reproducible scripts
 ---
 
 Source code: [github.com/ngless-toolkit/ngless](https://github.com/ngless-toolkit/ngless).

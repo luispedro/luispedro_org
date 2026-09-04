@@ -47,12 +47,7 @@ head static =
 
 
 websiteDescription : String
-websiteDescription = """
-Luis Pedro Coelho is a computational biologist focusing on the global microbiome.
-
-He is currently the principal investigator of the Big Data Biology Lab at the Centre for Microbiome Research at QUT (Brisbane, Australia).
-
-"""
+websiteDescription = "Luis Pedro Coelho is a computational biologist focusing on the global microbiome. He is the principal investigator of the Big Data Biology Lab at the Centre for Microbiome Research at QUT (Brisbane, Australia)."
 page = Page.prerender
         { head = head
         , routes = DataSource.succeed [{}]

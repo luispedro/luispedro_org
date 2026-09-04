@@ -1,6 +1,7 @@
 ---
 title: Yeast Mating
 categories: work art
+meta: A claymation video of two yeast cells mating, made by Luis Pedro Coelho
 ---
 
 <video controls preload="metadata" width="370" height="268" poster="/files/videos/shmoo/shmoo-v0-a-1-small.jpg"><source src="/files/videos/shmoo/shmoo-v0-a-1-small.mp4" type="video/mp4"><source src="/files/videos/shmoo/shmoo-v0-a-1-small.ogg" type="video/ogg"></video>

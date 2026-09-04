@@ -1,6 +1,7 @@
 ---
 title: "Mahotas: computer vision in Python"
 categories: software python
+meta: Mahotas is a computer vision and image processing library for Python, implemented in C++ for speed and originally designed for bioimage informatics
 ---
 
 A dedicated mahotas page with documentation is available at

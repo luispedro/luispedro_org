@@ -2,6 +2,7 @@
 title: Projects
 categories: work
 permalink: projects/
+meta: Research projects by Luis Pedro Coelho on subcellular location analysis, bioimage informatics and computational biology (page is out of date)
 ---
 
 (Out of date)

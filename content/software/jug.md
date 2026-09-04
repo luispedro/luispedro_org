@@ -1,5 +1,6 @@
 ---
 title: Jug
+meta: Jug is a task-based parallelization framework for Python. Write your computation as tasks and run it across multiple processes or cluster nodes
 ---
 
 A dedicated page with documentation is available at
