@@ -8,6 +8,37 @@ part of my research.
 
 ## Currently Active Projects
 
+### [SemiBin](/software/semibin)
+
+SemiBin is a metagenomic binning tool which uses self-supervised deep learning
+to reconstruct genomes (MAGs) from short- and long-read data.
+
+More information: [https://semibin.rtfd.io](https://semibin.rtfd.io)
+
+License: MIT.
+
+### Macrel
+
+Macrel screens genomes and metagenomes for antimicrobial peptides:
+[https://github.com/BigDataBiology/macrel](https://github.com/BigDataBiology/macrel)
+
+Described in [MACREL: antimicrobial peptide screening in genomes and
+metagenomes](https://doi.org/10.7717/peerj.10555) (*PeerJ*, 2020).
+
+### argNorm
+
+argNorm normalizes the output of antibiotic resistance gene annotation tools to
+the Antibiotic Resistance Ontology (ARO), so that results from different tools
+can be compared:
+[https://github.com/BigDataBiology/argNorm](https://github.com/BigDataBiology/argNorm)
+
+Described in [argNorm: normalization of antibiotic resistance gene annotations
+to the Antibiotic Resistance Ontology
+(ARO)](https://doi.org/10.1093/bioinformatics/btaf173) (*Bioinformatics*,
+2025).
+
+License: MIT.
+
 ### [NGLess](/software/ngless)
 
 NGLess is a domain specific language for Next-Generation Sequencing (NGS)
@@ -57,10 +88,23 @@ Uses diskhash to index a FASTA file making it very fast to retrieve a sequence:
 
 [https://github.com/luispedro/fasta\_reader](https://github.com/luispedro/fasta_reader)
 
+## Data Resources
+
+Large datasets produced by the lab, browsable online:
+
+- [AMPSphere](https://ampsphere.big-data-biology.org/): a catalogue of
+  candidate antimicrobial peptides from the global microbiome
+  ([paper](https://doi.org/10.1016/j.cell.2024.05.013)).
+- [GMSC](https://gmsc.big-data-biology.org/): the Global Microbial smORF
+  Catalogue, of small proteins
+  ([paper](https://doi.org/10.1038/s41467-024-51894-6)).
+- [GMGC](https://gmgc.embl.de/): the Global Microbial Gene Catalog
+  ([paper](https://doi.org/10.1038/s41586-021-04233-4)).
+
 ## Reproducible Research
 
 I have also made some [code available for reproducible research of published
-papers](/software/reproducible).
+papers](/software/reproducible-research).
 
 
 ## Dormant Projects
@@ -68,7 +112,7 @@ papers](/software/reproducible).
 These are projects that work but which I am not too interested in pursuing
 right now, but which I might revive in the future.
 
-### [Pymorph](software/pymorph): Python Morphology Toolbox
+### [Pymorph](/software/pymorph): Python Morphology Toolbox
 
 This is a *Python image morphology* toolbox which I have adopted (i.e., taken
 over maintaining). This works, but I am not adding any more functionality.
