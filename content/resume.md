@@ -6,7 +6,7 @@ meta: Resume of Luis Pedro Coelho — education, positions, publications, softwa
 
 A long-form CV is available as a [PDF Version](/vita.pdf).
 
-A narrative version is available as [my scientific biography](scientific-biography).
+A narrative version is available as [my scientific biography](/scientific-biography).
 
 ## Luis Pedro Coelho
 
@@ -32,7 +32,9 @@ exchange student.
 
 ### Postgraduate Experience
 
-**Currently (since 2023)** Group Leader at Queensland University of Technology
+**Currently (since 2023)** Associate Professor and group leader at the
+[Centre for Microbiome Research](https://research.qut.edu.au/cmr/), Queensland
+University of Technology
 
 **2018-2023** Junior Principal Investigator at Fudan University
 
@@ -45,7 +47,12 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
 
 ### Scholarships & Awards
 
-- Highly Cited Researcher (_Cross-field_ category)
+- QUT Faculty of Health Researcher of the Year (2024)
+- [ARC Future
+  Fellowship](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/249)
+  (2023), to work on the small proteins of the global microbiome
+- Highly Cited Researcher (_Cross-field_ category), since 2022
+- Zhicheng Teaching Award, first prize (Fudan University, 2021)
 - [Siebel Scholar 2012](https://www.siebelscholars.com/scholars/785).
 - Portugal's Science and Research Foundation Ph.D. scholarship 2007-2011
 - Outstanding Research Accomplishment
@@ -62,7 +69,19 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
 
 # Selected Publications
 
-1.  **Luis Pedro Coelho**, Renato Alves, Álvaro Rodríguez del Río, Pernille
+1.  Célio Dias Santos-Júnior\*, Marcelo D.T. Torres\*, Yiqian Duan, Álvaro
+    Rodríguez del Río, Thomas S.B. Schmidt, Hui Chong, Anthony Fullam, Michael
+    Kuhn, Chengkai Zhu, Amy Houseman, Jelena Somborski, Anna Vines, Xing-Ming
+    Zhao, Peer Bork, Jaime Huerta-Cepas, Cesar de la Fuente-Nunez⁺, **Luis
+    Pedro Coelho**⁺ [Discovery of antimicrobial peptides in the global
+    microbiome with machine
+    learning](https://doi.org/10.1016/j.cell.2024.05.013) in _Cell_ (2024).
+2.  Yiqian Duan, Célio Dias Santos-Júnior, Thomas Sebastian Schmidt, Anthony
+    Fullam, Breno L. S. de Almeida, Chengkai Zhu, Michael Kuhn, Xing-Ming
+    Zhao⁺, Peer Bork, **Luis Pedro Coelho**⁺ [A catalog of small proteins from
+    the global microbiome](https://doi.org/10.1038/s41467-024-51894-6) in
+    _Nature Communications_ (2024).
+3.  **Luis Pedro Coelho**, Renato Alves, Álvaro Rodríguez del Río, Pernille
     Neve Myers, Carlos P. Cantalapiedra, Joaquín Giner-Lamia, Thomas Sebastian
     Schmidt, Daniel R. Mende, Askarbek Orakov, Ivica Letunic, Falk Hildebrand,
     Thea Van Rossum, Sofia K. Forslund, Supriya Khedkar, Oleksandr M.
@@ -71,17 +90,17 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
     [Towards the biogeography of prokaryotic genes
     ](https://doi.org/10.1038/s41586-021-04233-4) in _Nature_ (2022) [[Open
     Access version](https://europepmc.org/article/med/34912116)].
-2.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
+4.  Shaojun Pan, Chengkai Zhu, Xing-Ming Zhao⁺, and **Luis Pedro
     Coelho** ⁺ [A deep siamese neural network improves metagenome-assembled
     genomes in microbiome datasets across different
     environments](https://doi.org/10.1038/s41467-022-29843-y) in _Nature
     Communications_ (2022).
-3.  **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
+5.  **Luis Pedro Coelho**, Renato Alves, Paulo Monteiro, Jaime
     Huerta-Cepas, Ana Teresa Freitas, and Peer Bork [NG-meta-profiler:
     fast processing of metagenomes using NGLess, a domain-specific
     language](https://doi.org/10.1186/s40168-019-0684-8) in
     _Microbiome_ (2019)
-4.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
+6.  **Luis Pedro Coelho**, Jens Kultima, Paul Costea, Coralie Fournier,
     Yuanlong Pan, Gail Czarnecki-Maulden, Matthew Hayward, Sofia K.
     Forslund, Patrick Descombes, Janet Jackson, Qinghong Li, and Peer
     Bork [Similarity of the dog and human gut microbiomes in gene
@@ -89,7 +108,7 @@ Lisbon, with [Musa Mhlanga](http://mhlangalab.synbio.csir.co.za/).
     diet](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0450-3)
     in _Microbiome_ (2018)
     \[[DOI](https://doi.org/10.1186/s40168-018-0450-3)\]
-5.  Shinichi Sunagawa,\* **Luis Pedro Coelho**\*, Samuel Chaffron\*,
+7.  Shinichi Sunagawa,\* **Luis Pedro Coelho**\*, Samuel Chaffron\*,
     Jens Roat Kultima, Karine Labadie, Guillem Salazar, Bardya
     Djahanschiri, Georg Zeller, Daniel R. Mende, Adriana Alberti,
     Francisco M. Cornejo-Castillo, Paul I. Costea, Corinne Cruaud,
@@ -121,11 +140,11 @@ length CV](/vita.pdf).
 ### Teaching
 
 **Designed and taught** a course in computer programming for the sciences
-([Programming for Scientists](/pfs)). This was a semester-long course taught
+([Programming for Scientists](/projects/pfs)). This was a semester-long course taught
 at Carnegie Mellon University in Spring 2009 (as a student-taught course). In
 2012, I taught a shortened version of this at IMM as a two-and-a-half day
-workshop. I am a certified [software carpentry
-instructor](https://software-carpentry.org/pages/team.html)
+workshop. I am a certified [Software Carpentry
+instructor](https://carpentries.org/instructors/)
 
 **Teaching Assistant** for Decision Support Systems at Technical University of
 Lisbon (Spring 2005). Co-designed and co-taught a Computer Initiation Course for
@@ -143,11 +162,12 @@ participants from all around the US.
 ### Open Source Programming
 
 I publish and maintain many open source projects of interest to my research,
-such as image processing or machine learning code. In particular
-[mahotas](https://github.com/luispedro/mahotas) (ca. 6,000 downloads per month)
-is a [computer vision library in
+including [SemiBin](/software/semibin) (metagenomic binning),
+[NGLess](/software/ngless) (a domain-specific language for sequence
+processing), [Jug](/software/jug) (parallel reproducible computation), and
+[mahotas](https://github.com/luispedro/mahotas), a [computer vision library in
 Python](https://doi.org/10.5334/jors.ac).
 
-See the full list of projects in my [github
-page](https://www.github.com/luispedro).
+See my [software page](/software) for a summary, or the full list of projects
+in my [github page](https://www.github.com/luispedro).
 
