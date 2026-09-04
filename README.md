@@ -80,6 +80,12 @@ entry directly to the end of `papers.yaml`. Check it by hand (journal names and
 author lists from CrossRef are often imperfect) and move it up if needed to keep
 the file in ascending date order.
 
+Then announce it in the news feed, which is **not** generated from
+`papers.yaml`: add a dated line to both `src/Page/Index.elm` and
+`content/news.md` (these two mirror each other), in the form
+`**Aug 1** Our paper [Title](https://doi.org/DOI) is published in *Journal*.`
+— or `Our preprint … is posted on bioRxiv.` for a preprint.
+
 Fields of note: `isFirstLast: true` marks papers where I am first or last
 author, which the site highlights; it is set automatically by the script but
 worth verifying. An optional `comment` field renders a note below the citation.

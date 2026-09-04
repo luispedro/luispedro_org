@@ -101,6 +101,9 @@ def main(argv):
     print('Please do the following')
     print('    1. Manually check the newly appended entry at the end of the file')
     print('    2. Move it so that the file stays in ascending date order')
+    print('    3. Announce it in the news feed: add a dated line to BOTH')
+    print('       src/Page/Index.elm and content/news.md, e.g.')
+    print(f'       **Aug 1** Our paper [Title](https://doi.org/{remeta["Doi"]}) is published in *Journal*.')
 
 if __name__ == '__main__':
     main(sys.argv)

@@ -32,6 +32,14 @@ This is a personal website ([luispedro.org](https://luispedro.org)) built with *
 Publications are stored in `papers.yaml` (one YAML list). To add a new paper:
 1. Run `python add-paper-stub.py <DOI>` — fetches metadata from CrossRef and appends the entry to the end of `papers.yaml`
 2. Manually verify the appended entry, moving it up if needed to keep the file in ascending date order
+3. Announce it in the news feed: add a dated line to **both** `src/Page/Index.elm` and `content/news.md` (see the mirror rule below). `papers.yaml` does not feed the news feed, so this step is easy to forget — six papers were once missed this way. The house format is:
+
+   ```
+   **Aug 1** Our paper [Title](https://doi.org/DOI) is published in *Journal*.
+   **May 12** Our preprint [Title](https://doi.org/DOI) is posted on bioRxiv.
+   ```
+
+   Use `Our review` for reviews. Entries within a year run in descending date order.
 
 The `Publications.elm` module decodes the YAML and highlights papers where Luis is first or last author (`isFirstLast: true`). An optional `comment` field renders a note below the citation.
 
