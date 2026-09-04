@@ -75,12 +75,13 @@ This is a *Python image morphology* toolbox which I have adopted (i.e., taken
 over maintaining). This works, but I am not adding any more functionality.
 
 Includes basic operations such as
-    - erode
-    - dilate
-    - open
-    - tophat opening
-    - watershed
-    - ...
+
+- erode
+- dilate
+- open
+- tophat opening
+- watershed
+- ...
 
 License: BSD.
 

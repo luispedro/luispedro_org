@@ -54,8 +54,8 @@ evaluate methods.
 
 # SLIF
 
-SLIF is the [structured literature image finder]{.title-ref}
-(previously, [subcellular location image finder]{.title-ref}).
+SLIF is the `structured literature image finder`
+(previously, `subcellular location image finder`).
 
 It searches through scientific journals, looking for images, which it
 categorises, makes available, and (in some cases, at least) analyses.

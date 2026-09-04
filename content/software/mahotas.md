@@ -53,7 +53,7 @@ informatics](/files/talks/2013/mahotas.html).
 
 You can get the code from [pypi](https://pypi.python.org/pypi/mahotas) or
 the cutting edge from [github](https://www.github.com/luispedro/mahotas).
-Installation should be possible using::
+Installation should be possible using:
 
     pip install mahotas
 

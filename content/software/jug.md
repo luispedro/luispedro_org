@@ -82,9 +82,9 @@ status again (with `jug status primes.py`):
 Now you have 32 tasks finished, 4 running, and 63 still ready.
 Eventually, they will all finish and you can inspect the results with
 `jug shell primes.py`. This will give you an `ipython` shell. The
-[primes100]{.title-ref} variable is available, but it is an ugly list of
-[jug.Task]{.title-ref} objects. To get the actual value, you call the
-[value]{.title-ref} function:
+`primes100` variable is available, but it is an ugly list of
+`jug.Task` objects. To get the actual value, you call the
+`value` function:
 
     In [1]: primes100 = value(primes100)
 
@@ -127,8 +127,7 @@ You should be able to use `pip`:
 -   Supports concurrency with a very flexible system: CPUs can join the
     computation at any time. This allows it to be used in batch
     processing systems.
--   You can check up on the status of the computation at any time ([jug
-    status]{.title-ref})
+-   You can check up on the status of the computation at any time (`jug status`)
 -   Two backends: file-based if all the processors share a filesystem
     (works over NFS too) or [redis](https://redis.io/)
     based if they can all connect to the same redis server.

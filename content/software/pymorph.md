@@ -29,7 +29,7 @@ have).
 Download & Install
 ------------------
 
-You can use [easy\_install]{.title-ref} or \`pip\`::
+You can use `easy_install` or `pip`:
 
     easy_install pymorph
     pip install pymorph
@@ -54,8 +54,8 @@ Releases
 
 Since there is feature stability, I release on
 [PyPI](https://pypi.python.org/pypi/pymorph) whenever I have fixed a new
-bug (to make it easy for people who use [easy\_install]{.title-ref} or
-[pip]{.title-ref} to keep up).
+bug (to make it easy for people who use `easy_install` or
+`pip` to keep up).
 
 For more minor fixes (documentation reformatting), you can check the
 continuous release on [github](https://github.com/luispedro/pymorph/).
@@ -120,11 +120,11 @@ which were superfluous. See the CHANGES\_SINCE\_08 file in the
 distribution. A module called pymorph.compat contains old function names
 as well as all the functions that were removed. If you have code which
 depends on the old names, use this. Otherwise, I recommend you use the
-new names. I will remove [compat]{.title-ref} for version 1.0 as I would
+new names. I will remove `compat` for version 1.0 as I would
 like that version to be a clean one. Argument names have changed (and
 are becoming standartised across the package). These changes should only
 affect you if you call functions using argument name syntax
-([f(arg=2)]{.title-ref} instead of [f(2)]{.title-ref}).
+(`f(arg=2)` instead of `f(2)`).
 
 I have also implemented a couple of missing functions (like
 *watershed*).
