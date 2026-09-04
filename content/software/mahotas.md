@@ -71,12 +71,6 @@ section](https://www.freshports.org/graphics/mahotas).
 
 # Development
 
-
-<iframe
-src="https://ghbtns.com/github-btn.html?user=luispedro&repo=mahotas&type=watch&count=true&size=large"
-allowtransparency="true" frameborder="0" scrolling="0" width="152px"
-height="30px"></iframe>
-
 Development happens on [github](https://github.com/luispedro/mahotas)
 
 # Support

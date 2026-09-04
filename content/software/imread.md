@@ -32,9 +32,4 @@ variations such as STK or LSM).
 
 ## Where can I get it?
 
-<iframe
-src="https://ghbtns.com/github-btn.html?user=luispedro&repo=imread&type=watch&count=true&size=large"
-allowtransparency="true" frameborder="0" scrolling="0" width="152px"
-height="30px"></iframe>
-
 [Github](https://github.com/luispedro/imread) as usual.
