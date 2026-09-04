@@ -7,6 +7,10 @@ My work/institutional email is
 [luispedro@big-data-biology.org](mailto:luispedro@big-data-biology.org), while
 personal email is [luis@luispedro.org](mailto:luis@luispedro.org).
 
+My group's website is [big-data-biology.org](https://big-data-biology.org). If
+you want to chat about science, you can also book a slot using [my cal.com
+link](https://cal.com/luis-pedro-coelho/zoom-15).
+
 # Find Me On the Web
 
 It is a modern curse that profiles in disparate websites multiply, often
@@ -17,11 +21,12 @@ unused. Here are some of the places where you can find me on the web:
     page](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en)
 -   [github](https://www.github.com/luispedro)
 -   [Twitter](https://www.twitter.com/luispedrocoelho)
--   [Substack](https://luispedro.substack.com/)
+-   [Substack](https://luispedro.substack.com/), where I currently blog
 -   [Researchgate](https://www.researchgate.net/profile/Luis_Pedro_Coelho/)
 -   [DBLP](https://dblp.org/pid/30/4575.html) :   This is very incomplete.
 -   [IMDB](https://www.imdb.com/name/nm5460142/)
 -   [Stackoverflow](https://stackoverflow.com/users/248279/luispedro)
 -   [LinkedIn](https://www.linkedin.com/in/luispedrocoelho)
+-   [Metarabbit](https://metarabbit.wordpress.com), my research blog
 -   [my older blog](https://www.mutualinformation.org)
 -   [kiva](https://www.kiva.org/) [lender page](https://www.kiva.org/lender/luispedro).  Also, I started a [CMU kiva team](https://www.kiva.org/community/viewTeam?team_id=414)

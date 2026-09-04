@@ -5,7 +5,7 @@ meta: Biography of Luis Pedro Coelho
 ---
 
 Also see my [resume](/resume) and [CV (PDF format)](/vita.pdf) or my
-[scientific biography](/biography/scientific) which is a longer document
+[scientific biography](/scientific-biography) which is a longer document
 with a focus on the scientific work performed.
 
 Luis Pedro Coelho is the principal investigator (PI) of the [Big Data Biology
@@ -18,16 +18,20 @@ Prior to becoming a group leader, Luis worked as a postdoctoral researcher in
 Peer Bork's group at the European Molecular Biology Laboratory (EMBL). He has a
 PhD from Carnegie Mellon University where he worked under the supervision of
 Prof. Bob Murphy and a MSc from Instituto Superior Técnico in Lisbon, where he
-worked with Prof Arlindo Oliveira. He currently works on the analysis of
-microbial communities in different environments, such as the [marine
-environment](https://www.sciencemag.org/content/348/6237/1261359.full) or the
-[human gut](https://onlinelibrary.wiley.com/doi/10.1002/bies.201300143/full)
-using computational methods, namely [metagenomic
-analysis](https://www.nature.com/nmeth/journal/v10/n12/abs/nmeth.2693.html) and
-[fluorescence microscopy
-analysis](https://bioinformatics.oxfordjournals.org/content/early/2015/03/19/bioinformatics.btv156.short).
-Luis is a Fulbright Scholar, a Siebel Scholar, and has won multiple awards for
-academic and research excellence.
+worked with Prof Arlindo Oliveira. He works on the analysis of microbial
+communities in different environments, such as the [marine
+environment](https://doi.org/10.1126/science.1261359), the [human
+gut](https://doi.org/10.1002/bies.201300143) or the soil, using computational
+methods. His current interests include the [small proteins of the global
+microbiome](https://doi.org/10.1038/s41467-024-51894-6) (among them
+[antimicrobial peptides](https://doi.org/10.1016/j.cell.2024.05.013)),
+machine-learning methods for [metagenomic
+binning](https://doi.org/10.1038/s41467-022-29843-y), and antimicrobial
+resistance. Earlier in his career, he worked on [bioimage
+informatics](https://doi.org/10.1093/bioinformatics/btv156), the application of
+computer vision to biological images. Luis is a Fulbright Scholar, a Siebel
+Scholar, an ARC Future Fellow, and has won multiple awards for academic and
+research excellence.
 
 Outside academia, Luis has been involved in theatre (having produced the
 student group at IST and starred in several productions), as well as received a
@@ -36,8 +40,9 @@ underprivileged neighbourhoods and designed Webpages for nonprofits. In Summer
 2010, he was in Mozambique, volunteering with local organisations there
 [beiraproject.org](http://beiraproject.org).
 
-Luis can be found at [luispedro.org](https://luispedro.org) and blogs
-at [luispedro.substack.com](https://luispedro.substack.com)
+Luis can be found at [luispedro.org](https://luispedro.org) and blogs at
+[luispedro.substack.com](https://luispedro.substack.com). See also his [contact
+details](/contact) and [press mentions](/press).
 
 <!--
 ## Longer Version (Academic)
