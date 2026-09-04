@@ -5,6 +5,7 @@ import Markdown.Inline
 import Markdown.Config as Markdown
 import Markdown.Block
 import Html
+import Regex exposing (Regex)
 import DataSource exposing (DataSource)
 import DataSource.Glob as Glob
 
@@ -33,8 +34,26 @@ mdFiles root =
         |> DataSource.map (List.filter (\f -> f.slug /= "README"))
 
 
-mdToHtml body =
+{-| HTML comments are not understood by the markdown parser: with
+`Markdown.Sanitize`, a `<!-- ... -->` block is escaped and printed as visible
+text. Strip comments out before parsing so that they behave as comments.
+
+Following CommonMark, an unterminated `<!--` comments out the rest of the
+document.
+-}
+commentRegex : Regex
+commentRegex =
+    Regex.fromString "<!--(?:[\\s\\S]*?-->|[\\s\\S]*$)"
+        |> Maybe.withDefault Regex.never
+
+
+stripComments : String -> String
+stripComments = Regex.replace commentRegex (always "")
+
+
+mdToHtml body_ =
     let
+        body = stripComments body_
         defaultSanitizeOptions = Markdown.defaultSanitizeOptions
         sanitizeOptions =
             { allowedHtmlAttributes =
