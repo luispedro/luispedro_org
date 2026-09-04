@@ -113,10 +113,10 @@ view sharedData page model toMsg pageView =
                     [ Html.div [HtmlAttr.style "padding-top" "1em"] []
                     , header
                     , Grid.simpleRow
-                        [ Grid.col [Col.xs3, Col.attrs [HtmlAttr.id "leftbar"]]
+                        [ Grid.col [Col.md3, Col.attrs [HtmlAttr.id "leftbar"]]
                             [navigation
                             ]
-                        , Grid.col [Col.xs9]
+                        , Grid.col [Col.md9]
                             [Html.main_ [HtmlAttr.id "main-content", HtmlAttr.tabindex -1] pageView.body]
                         ]
                     , Html.hr [] []
