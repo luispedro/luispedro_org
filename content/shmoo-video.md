@@ -14,4 +14,4 @@ favorite viewer.
 # What is this?
 
 This is a claymation representation of two yeast cells mating. A
-separate document [gives more detail](/work/shmoo-video/explanation).
+separate document [gives more detail](/shmoo-explained).

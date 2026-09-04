@@ -21,8 +21,6 @@ like to have more opportunities to teach it.
 
 # Related Links
 
--   [Autumn 2012](/projects/pfs-09-2012) website for the course
--   [Spring 2009](/pfs) website for the course
 -   [Github
     repository](https://github.com/luispedro/Programming-for-Scientists)
     for my course materials

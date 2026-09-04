@@ -22,8 +22,7 @@ of fluorescently tagged proteins in NIH 3T3 cells.
 > and Robert F. Murphy (2013). Bioinformatics,
 > \[[DOI](https://dx.doi.org/10.1093/bioinformatics/btt392)\]
 
-[Download from Data
-Dryad](https://datadryad.org/resource/doi:10.5061/dryad.2vm70)
+[Download from Data Dryad](https://doi.org/10.5061/dryad.2vm70)
 
 ## Nuclear segmentation
 

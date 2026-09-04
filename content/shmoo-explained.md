@@ -3,7 +3,7 @@ title: Yeast Mating
 categories: work art
 ---
 
-This is an explanation of my [yeast video](/work/shmoo-video) . See it
+This is an explanation of my [yeast video](/shmoo-video) . See it
 and then come back. Or read this before seeing it to understand.
 
 This was a small project for my Cell Biology course at CMU. The goals

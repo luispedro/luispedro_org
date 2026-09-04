@@ -114,7 +114,7 @@ both McCreight's and Weiner's algorithms. Ukkonnen\'s algorithm can be shown
 to be just a variation of McCreight\'s (see Kurtz's paper, link below), so you
 can consider that that one is implemented as well.
 
-This code is used as the basis of my [dotted tree](dotted-tree) software, but
+This code is used as the basis of my [dotted tree](https://github.com/luispedro/dot-link) software, but
 independent of it.
 
 It *does not support* strings with the NUL character (\'0\' in C/C++).  As
