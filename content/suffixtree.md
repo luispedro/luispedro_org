@@ -1,7 +1,6 @@
 ---
 title: Suffix Trees
 categories: software work
-permalink: software/suffix-trees/
 ---
 
 # What are suffix trees?

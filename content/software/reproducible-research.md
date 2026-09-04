@@ -1,7 +1,6 @@
 ---
 title: Reproducible Research
 categories: software python
-permalink: software/reproducible/
 meta: Code and data for reproducing the results in published papers by Luis Pedro Coelho
 ---
 

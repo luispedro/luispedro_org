@@ -1,7 +1,6 @@
 ---
 title: Hex
 categories: software
-permalink: software/hex/
 ---
 
 ==================================

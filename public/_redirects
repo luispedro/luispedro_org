@@ -11,9 +11,10 @@
 /jug                       /software/jug
 /software/merge            /software/mergedirs
 
-# URLs advertised by a `permalink:` in the front matter, which SPLAT__.elm does
-# not honour -- it routes on the filename instead. These are the URLs the old
-# site served, so they are live inbound links and search results.
+# URLs that the old site served, advertised until Sep 2026 by a `permalink:` key
+# in the front matter that SPLAT__.elm never honoured -- it routes on the
+# filename instead. The key has been deleted; this table is now the only record
+# of those URLs, and they are live inbound links and search results.
 /biography/scientific      /scientific-biography
 /software/reproducible     /software/reproducible-research
 /software/suffix-trees     /suffixtree

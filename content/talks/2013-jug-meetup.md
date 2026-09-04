@@ -1,7 +1,6 @@
 ---
 title: Jug
 categories: talks work software
-permalink: talks/2013/jug-meetup/
 meta: Slides and demo code for Parallel Processing With Python and Jug, given to the Heidelberg Python Meetup Group in May 2013
 ---
 

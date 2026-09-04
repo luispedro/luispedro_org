@@ -1,6 +1,5 @@
 ---
 title: Scientific Biography
-permalink: biography/scientific
 categories: about-me
 meta: Biography of Luis Pedro Coelho, a group leader at the Centre for Microbiome Research (QUT)
 ---

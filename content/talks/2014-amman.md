@@ -1,7 +1,6 @@
 ---
 title: Software Carpentry at Cyprus Institute
 categories: talks work
-permalink: talks/2014/sesame/
 meta: Slides from the Software Carpentry workshop at Sesame in Amman, June 2014, released as CC-BY
 ---
 

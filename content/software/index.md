@@ -1,7 +1,6 @@
 ---
 title: Software
 categories: work software
-permalink: software/
 ---
 
 I have written some open-source software, some to scratch an itch, and some as

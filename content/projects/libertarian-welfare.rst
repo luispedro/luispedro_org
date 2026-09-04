@@ -1,7 +1,6 @@
 ---
 title: Libertarian Welfare State
 categories: work
-permalink: projects/libertarian-welfare/
 ---
 
 This is a book which will be called *The Libertarian Welfare State.* The major
