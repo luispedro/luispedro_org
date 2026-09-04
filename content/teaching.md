@@ -1,6 +1,5 @@
 ---
 title: Teaching
-permalink: teaching/
 categories: about-me
 meta: Courses taught by Luis Pedro Coelho, including science communication and programming for scientists, with slides and course materials
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Open Office Hours"
-permalink: office-hours/
 categories: about-me
 meta: Open office hours
 ---

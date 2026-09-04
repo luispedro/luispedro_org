@@ -1,7 +1,6 @@
 ---
 title: Frequently Asked Questions
 categories: about-me
-permalink: faq/
 ---
 
 ## What is Computational Biology?

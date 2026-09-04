@@ -1,7 +1,6 @@
 ---
 title: Luis Pedro Coelho's Contact Information
 categories: None
-permalink: contact/
 ---
 
 My work/institutional email is

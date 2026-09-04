@@ -1,7 +1,6 @@
 ---
 title: My Erdös-Bacon Number
 categories: about-me
-permalink: erdos-bacon/
 ---
 
 My Erdös-Bacon number is **7**.

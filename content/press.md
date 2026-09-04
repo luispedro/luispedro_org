@@ -1,6 +1,5 @@
 ---
 title: Press mentions
-permalink: press
 categories: about-me
 meta: Press mentioning Luis Pedro Coelho
 ---

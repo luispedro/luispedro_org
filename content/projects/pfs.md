@@ -1,7 +1,6 @@
 ---
 title: Programming for Scientists
 categories: work
-permalink: projects/pfs/
 ---
 
 Programming for Scientists is a course I designed for scientists who

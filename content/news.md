@@ -1,7 +1,6 @@
 ---
 title: News Archive
 categories: about-me
-permalink: news/
 ---
 
 ## 2026

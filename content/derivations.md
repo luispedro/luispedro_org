@@ -1,7 +1,6 @@
 ---
 title: Some Derivations
 categories: work
-permalink: derivations/
 meta: Derivations I use often, written down instead of re-derived every time — products and convolutions of Gaussians and other small results, with LaTeX sources
 ---
 

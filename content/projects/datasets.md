@@ -1,7 +1,6 @@
 ---
 title: Datasets
 categories: work
-permalink: projects/datasets/
 ---
 
 # Bioimage Informatics Datasets

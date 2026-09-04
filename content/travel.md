@@ -1,6 +1,5 @@
 ---
 title: "Upcoming Travels & Talks"
-permalink: travel
 categories: about-me
 meta: Upcoming and past conferences, talks and visits by Luis Pedro Coelho
 ---

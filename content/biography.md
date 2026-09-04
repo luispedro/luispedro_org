@@ -1,6 +1,5 @@
 ---
 title: Biography
-permalink: biography/
 categories: about-me
 meta: Biography of Luis Pedro Coelho
 ---

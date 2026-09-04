@@ -2,7 +2,6 @@
 meta: List of talks with slides & more information
 title: Talks
 categories: talks work
-permalink: talks/
 ---
 
 # Recent
