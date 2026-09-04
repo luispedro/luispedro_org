@@ -4,10 +4,12 @@ categories: about-me
 meta: Biography of Luis Pedro Coelho, a group leader at the Centre for Microbiome Research (QUT)
 ---
 
-*This is out of date*
-
 My work spans two subfields of computational biology: bioimage informatics and
-metagenomics-based microbial ecology.
+metagenomics-based microbial ecology. I started in the first and, since 2013,
+have worked mostly in the second; since 2018, I have led my own group, first at
+Fudan University (Shanghai) and, since 2023, at the [Centre for Microbiome
+Research](https://research.qut.edu.au/cmr/) at the Queensland University of
+Technology (Brisbane).
 
 ## Bioimage informatics (fluorescence microscopy image analysis)
 
@@ -77,7 +79,7 @@ computer vision](https://mahotas.readthedocs.io) ([Coelho,
 general-purpose algorithms for image processing and it has been used by others
 in bioimage analysis as well as in other domains.
 
-Recently, I have applied some of the same techniques in the context of
+I later applied some of the same techniques in the context of
 identifying protists in high-throughput fluorescence microscopy ([Colin\*,
 Coelho\*, et al., 2017](https://doi.org/10.7554/eLife.26066.001)). In this work,
 I developed the computational pipeline for processing fluorescence microscopy
@@ -90,15 +92,15 @@ dataset (>300,000 objects), when compared to the tissue culture problems on
 which I had worked on before, environmental samples exhibit higher variability
 in the morphology and brightness of the different objects.
 
-## Microbial ecology using metagenomics.
+## Microbial ecology using metagenomics (EMBL, 2013–2018)
 
-Since 2013, I have worked with [Peer
+From 2013 to 2018, I worked with [Peer
 Bork](https://www.embl.de/research/units/scb/bork/), at EMBL (Heidelberg). In
 his lab, I continued to work on bioimage analysis problems (resulting in the
-recent publication of our protist pipeline). However, in parallel, I have also
-extended my expertise to the analysis of metagenomics data to answer microbial
-ecology questions. In this context, I have worked on both method development
-(including implementing new tools) and applications.
+publication of our protist pipeline). However, in parallel, I also extended my
+expertise to the analysis of metagenomics data to answer microbial ecology
+questions. In this context, I worked on both method development (including
+implementing new tools) and applications.
 
 Early on in the Bork lab, I was involved in developing the mOTUs tool
 (metagenomic OTUs), an approach for taxonomic quantification of metagenomic
@@ -127,7 +129,7 @@ process the Tara oceans dataset in a reasonable timeframe). That work was later
 included in the next version of the tool, namely MOCAT2 ([Kultima et al.,
 2016](https://doi.org/10.1093/bioinformatics/btw183)).
 
-More recently, I built a gene catalog of the dog gut microbiome as part of the
+I also built a gene catalog of the dog gut microbiome as part of the
 analysis of a randomized diet study of dogs (high-protein low-carbohydrate vs.
 low-protein high-carbohydrate diets). This gene catalog contains 1.24 million
 genes. We compared it to existing mammal gut catalogs (for human, pig, and
@@ -171,3 +173,100 @@ there is a natural structure to the bacterial world below species level, what
 we termed subspecies ([Costea et al.,
 2017](https://doi.org/10.15252/msb.20177589)).
 
+## Leading a group: Fudan University (2018–2023) and QUT (2023–present)
+
+Since 2018, I have led my own group (the Big Data Biology Lab), first at Fudan
+University in Shanghai and, since 2023, at the Centre for Microbiome Research
+at the Queensland University of Technology in Brisbane. The group works on the
+global microbiome: what genes and proteins are out there, how they are
+distributed across habitats, and what computational methods are needed to find
+them.
+
+### Global gene and protein catalogs
+
+The organizing idea of much of this work is that publicly available metagenomes,
+taken together, cover a large fraction of the microbial world and can be
+analysed as a single object. Building on the gene catalogs I had worked on
+earlier, and in work that started at EMBL, we built the *Global Microbial Gene
+Catalog* (GMGC), which unifies genes predicted from metagenomes spanning
+marine, soil, and host-associated habitats ([Coelho et al.,
+2022](https://doi.org/10.1038/s41586-021-04233-4); browsable at
+[gmgc.embl.de](https://gmgc.embl.de/)). Analysing it showed that
+most genes are rare and specific to a single habitat, so that gene-level
+diversity is much less shared across environments than species-level
+comparisons would suggest.
+
+Standard gene prediction discards short open reading frames, so small proteins
+(fewer than 100 amino acids) are systematically missing from catalogs of this
+sort, even though they include many bioactive molecules. We therefore built the
+*Global Microbial smORF Catalogue* (GMSC), which recovers these small proteins
+from the same data ([Duan et al.,
+2024](https://doi.org/10.1038/s41467-024-51894-6); browsable at
+[gmsc.big-data-biology.org](https://gmsc.big-data-biology.org/)). Small
+proteins have since become the main focus of my research and are the subject of
+the [ARC Future
+Fellowship](https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/249)
+I was awarded in 2023.
+
+### Antimicrobial peptides
+
+One class of small proteins with obvious practical interest is that of
+antimicrobial peptides (AMPs). We first built Macrel, a machine-learning
+pipeline that screens genomes and metagenomes for AMPs ([Santos-Júnior et al.,
+2020](https://doi.org/10.7717/peerj.10555)), and then applied it at the scale
+of the global microbiome to produce
+[AMPSphere](https://ampsphere.big-data-biology.org/), a resource of candidate
+AMPs ([Santos-Júnior\*, Torres\*, et al.,
+2024](https://doi.org/10.1016/j.cell.2024.05.013), work carried out together
+with Cesar de la Fuente-Nunez's group). A subset of the candidates was
+chemically synthesized and tested experimentally, both *in vitro* and in mouse
+infection models, confirming that computational prediction at this scale
+recovers molecules with real antibacterial activity. This work was widely
+covered in the [press](/press).
+
+### Methods for metagenomics
+
+Assembling and binning metagenomes is the step that turns raw sequencing data
+into genomes, and it remained a bottleneck. We developed SemiBin, which uses a
+siamese neural network to learn, from a small amount of taxonomic annotation,
+how to group contigs into genomes ([Pan et al.,
+2022](https://doi.org/10.1038/s41467-022-29843-y)). Its successor, SemiBin2,
+replaces this with self-supervised contrastive learning, removing the
+dependence on annotation and extending the method to long reads ([Pan et al.,
+2023](https://doi.org/10.1093/bioinformatics/btad209)). SemiBin is [freely available](/software/semibin). In a
+related line of work, we developed metaMIC, which identifies and corrects
+misassemblies without a reference ([Lai et al.,
+2022](https://doi.org/10.1186/s13059-022-02810-y)).
+
+Earlier, I had developed NGLess, a domain-specific language for sequence
+processing, and NG-meta-profiler, a set of metagenomic profiling pipelines
+built with it ([Coelho et al.,
+2019](https://doi.org/10.1186/s40168-019-0684-8)). Making research software
+that outlives the project that produced it is a long-standing interest of mine,
+which I have also argued for explicitly ([Coelho,
+2024](https://doi.org/10.1371/journal.pcbi.1011920)).
+
+### Antimicrobial resistance
+
+Through the EMBARK project and, more recently, the SEARCHER project in
+Australia, the group also works on antimicrobial resistance in the
+environment. A recurring problem
+is that the available tools disagree with each other, in part because they use
+incompatible vocabularies. We built argNorm, which normalizes the output of
+different antibiotic resistance gene annotation tools to the Antibiotic
+Resistance Ontology ([Ugarcina Perovic et al.,
+2025](https://doi.org/10.1093/bioinformatics/btaf173)), and then used a
+normalized comparison to quantify how much the pipelines actually disagree
+([Inda-Díaz et al., 2026](https://doi.org/10.64898/2026.05.11.724158)).
+
+### Evolution and ecology of prokaryotic genomes
+
+Alongside the method development, we have used these resources to ask
+ecological and evolutionary questions, such as which pressures drive horizontal
+gene transfer across prokaryotic genomes ([Dmitrijeva et al.,
+2024](https://doi.org/10.1038/s41559-024-02357-0), with Christian von Mering's
+group).
+
+A full list is available on my [publications page](/publications).
+
+*Last updated: September 2026.*
