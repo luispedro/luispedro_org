@@ -108,8 +108,9 @@ he travelled to international festivals to play. He has received a prize in
 a short story competition and also written open source software for the KDE
 project. He has taught computer usage in underprivileged neighbourhoods and
 designed webpages for nonprofits.
+-->
 
-### Photos
+## Photos
 
 If you need photos of me (for press purposes &c), please check [this
 page](/photos).
