@@ -5,6 +5,8 @@ categories: about-me
 
 ## 2026
 
+**Sep 22** [mahotas](/software/mahotas/) 1.4.19 is released, the first release in about two years. It supports Python 3.10–3.14 and NumPy 2.x, builds with meson-python, and fixes several correctness bugs (some change numerical results, see the [ChangeLog](https://github.com/luispedro/mahotas/blob/main/ChangeLog)).
+
 **Aug 26** [AusBiotech QLD BioBriefing: AI and Quantum Technologies in Biotech Discovery and Translation](https://www.ausbiotech.org/ABT/iCore/Events/Event_display.aspx?EventKey=2608QLDBB) in Brisbane, Australia
 
 **Aug 16-21** [20th International Symposium on Microbial Ecology (ISME20)](https://isme-microbes.org/events/isme20-in-auckland/) in Auckland, New Zealand
