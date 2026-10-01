@@ -62,6 +62,16 @@ You can also think of it as a light-weight python-based map-reduce environment.
 
 License: MIT.
 
+### [luish](/software/luish)
+
+luish is a shell for Linux, written in Rust. It runs scripts as fast as dash,
+while interactive use is as full-featured as zsh, and it has a modern plugin
+architecture.
+
+More information: [https://luish.rtfd.io](https://luish.readthedocs.io/en/latest/)
+
+License: MIT.
+
 ### [mahotas-imread](/software/imread)
 
 Imread serves to read and save image files to and from numpy arrays.
