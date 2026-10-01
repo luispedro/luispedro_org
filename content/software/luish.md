@@ -10,28 +10,27 @@ just a summary.
 
 # luish: a shell for Linux, written in Rust
 
-luish can replace zsh or bash as your interactive shell, and dash or bash as
-the shell that runs scripts. It is fast, and full featured: tab completion,
-history, line editing, globbing, and a modern plugin architecture.
+luish is intended to replace zsh or bash as your interactive shell, while being
+very very fast and more modern.
+
 
 ## Highlights
 
 - **As fast as dash, with zsh's features.** Scripts run as fast as under dash
   ([benchmarks](https://luish.readthedocs.io/en/latest/performance.html)),
   while interactive use is intended to be as full-featured as zsh.
-- **A modern plugin architecture.** Plugins package configuration and shell
-  files, and can include an extension written in [Rhai](https://rhai.rs) (a
-  small embedded language) for hooks, prompt variables, Tab completion, and
-  commands. They can be automatically fetched from github or other git
-  repositories and pinned to specific commits.
+- **A modern plugin architecture.** Plugins can include shell scripts and
+  extensions written in [Rhai](https://rhai.rs) (a small embedded language) for
+  hooks, prompt variables, Tab completion, and commands. They can be
+  automatically fetched from github and pinned to specific versions. This is
+  builtin functionality.
 - **bash's and zsh's scripting extensions.** Arrays and associative arrays,
   `[[ ... ]]`, `${x/pattern/replacement}`, `typeset`, zsh's parameter flags,
-  and `pipefail` work in scripts and interactively, without slowing down
-  scripts that don't use them.
+  and `pipefail` work in scripts and interactively.
 - **Instant startup through caching.** luish caches the *effect* of your
-  startup files, so a new shell starts in under 20ms, even if you are using
-  `conda`, `nvm` and the like (which can take several seconds in a normal
-  shell).
+    startup files. A new shell starts instantaneously, even if you are using
+    `conda`, `nvm` and the like (which can take several seconds in a normal
+    shell).
 - **Modern configuration.** Options, aliases, and plugins are set in a
   [TOML](https://toml.io) file (`~/.config/luish/config.toml`), with options
   grouped in meaningful categories.
@@ -55,10 +54,16 @@ and configure it in `~/.config/luish/config.toml`:
     [plugins.enabled]
     std.completion = "*"         # completion for common commands, and git
 
-Plugins can also set options, so you can keep a [personal
-plugin](https://luish.readthedocs.io/en/latest/personal-plugin.html) on github
-with your favorite options, aliases, plugins, and functions, and enable it on
-every machine you use.
+To configure many machines, you can use a [personal
+plugin](https://luish.readthedocs.io/en/latest/personal-plugin.html) posted to
+github or on a shared drive (Dropbox, for example). This allows you to keep
+your configuration in a single place, and have it automatically fetched and
+enabled on every machine you use while having machine-specific configuration
+run on top of it.
+
+Since plugins can depend on other plugins, your personal plugin can enable a
+set of plugins that you use, and they will be automatically fetched and
+enabled.
 
 ## Where can I get it?
 
