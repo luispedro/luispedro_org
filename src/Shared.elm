@@ -186,9 +186,10 @@ navigation =
         ,liSection "Software"
             [("https://www.big-data-biology.org/software/ngless/", "NGLess")
             ,("/software/semibin", "SemiBin: Semi-supervised binning of metagenomic data")
-            ,("/software/mahotas", "Image processing with Python")
+            ,("/software/mahotas", "Mahotas: Image processing with Python")
+            ,("/software/luish", "Luish: A better shell than bash")
             ,("/software/imread", "Loading images in Python")
-            ,("/software/jug", "Task based parallelization framework for Python")
+            ,("/software/jug", "Jug: Task based parallelization framework for Python")
             ]
         ,liSection "Other Stuff"
             [("/faq", "Frequently Asked Questions")
