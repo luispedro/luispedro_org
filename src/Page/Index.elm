@@ -106,7 +106,7 @@ browser](https://uncommon-ground.xyz/).
 
 ## 2026
 
-**Oct 8–11, 2026** [Progress Conference 2026](https://rootsofprogress.org/conference/) in Berkeley, CA, USA
+**Nov 28, 2026** [Microbiology in Metro South 2026](https://www.trybooking.com/au/event/1665141) in Brisbane, Australia
 
 [Email me](mailto:luis@luispedro.org) if you want to set up meetings at any of these opportunities (or to invite me for other opportunities). Past and upcoming events are also listed on the [travel page](/travel).
 
@@ -147,6 +147,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 # Past News & Travels
 
 ## 2026
+
+**Oct 8-11** [Progress Conference 2026](https://rootsofprogress.org/conference/) in Berkeley, CA, USA
 
 **Oct 1** [luish](/software/luish/) 0.3.0 is released. luish is a shell for Linux, written in Rust: it runs scripts as fast as dash, while aiming to be as full-featured as zsh for interactive use.
 
