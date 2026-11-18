@@ -5,6 +5,7 @@ meta: luish is a shell for Linux, written in Rust. It runs scripts as fast as da
 ---
 
 A dedicated page with documentation is available at
+[https://luish-shell.xyz/](https://luish-shell.xyz/) or
 [https://luish.rtfd.io](https://luish.readthedocs.io/en/latest/). This page is
 just a summary.
 

@@ -68,7 +68,7 @@ luish is a shell for Linux, written in Rust. It runs scripts as fast as dash,
 while interactive use is as full-featured as zsh, and it has a modern plugin
 architecture.
 
-More information: [https://luish.rtfd.io](https://luish.readthedocs.io/en/latest/)
+More information: [https://luish-shell.xyz/](https://luish-shell.xyz/)
 
 License: MIT.
 
