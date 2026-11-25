@@ -148,6 +148,8 @@ profile](https://scholar.google.com/citations?user=qTYua0cAAAAJ&hl=en))
 
 ## 2026
 
+**Nov 25** Our paper [A long-read metagenomic catalog of near-finished bacterial genomes from Shanghai pet dogs captures gut microbial diversity across geographically distinct cohorts](https://doi.org/10.1186/s13059-026-04360-z) is published in *Genome Biology*.
+
 **Oct 8-11** [Progress Conference 2026](https://rootsofprogress.org/conference/) in Berkeley, CA, USA
 
 **Oct 1** [luish](/software/luish/) 0.3.0 is released. luish is a shell for Linux, written in Rust: it runs scripts as fast as dash, while aiming to be as full-featured as zsh for interactive use.

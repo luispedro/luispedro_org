@@ -2077,23 +2077,6 @@
   Year: 2025
   Date: '2025-08-01'
   isFirstLast: true
-- Title: Capturing global pet dog gut microbial diversity and hundreds of near-finished bacterial genomes by using long-read metagenomics in a Shanghai cohort
-  Authors:
-  - Anna Cuscó
-  - Yiqian Duan
-  - Fernando Gil
-  - Alexei Chklovski
-  - Nithya Kruthi
-  - Shaojun Pan
-  - Sofia Forslund
-  - Susanne Lau
-  - Ulrike Löber
-  - Xing-Ming Zhao
-  - Luis Pedro Coelho
-  Journal: bioRxiv (PREPRINT)
-  Doi: 10.1101/2025.09.17.676595
-  Year: 2025
-  Date: '2025-09-17'
   isFirstLast: true
 - Title: 'proGenomes4: providing 2 million accurately and consistently annotated high-quality prokaryotic genomes'
   Authors:
@@ -2387,3 +2370,22 @@
   Year: 2026
   Date: '2026-08-04'
   isFirstLast: false
+- Title: A long-read metagenomic catalog of near-finished bacterial genomes from Shanghai
+    pet dogs captures gut microbial diversity across geographically distinct cohorts
+  Authors:
+  - Anna Cuscó
+  - Yiqian Duan
+  - Fernando Gil
+  - Alex Chklovski
+  - Nithya Kruthi
+  - Shaojun Pan
+  - Sofia Forslund
+  - Susanne Lau
+  - Ulrike Löber
+  - Xing-Ming Zhao
+  - Luis Pedro Coelho
+  Journal: Genome Biology
+  Doi: 10.1186/s13059-026-04360-z
+  Year: 2026
+  Date: '2026-11-25'
+  isFirstLast: true
