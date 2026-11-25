@@ -29,7 +29,7 @@ This is a personal website ([luispedro.org](https://luispedro.org)) built with *
 
 ### Publications workflow
 
-Publications are stored in `papers.yaml` (one YAML list). To add a new paper:
+Publications are stored in `papers.yaml` (one YAML list). The `/update-papers <DOI>...` skill (`.claude/skills/update-papers/`) automates the steps below and also refreshes the citation counts on `/publications`. To add a new paper:
 1. Run `python add-paper-stub.py <DOI>` — fetches metadata from CrossRef and appends the entry to the end of `papers.yaml`
 2. Manually verify the appended entry, moving it up if needed to keep the file in ascending date order
 3. Announce it in the news feed: add a dated line to **both** `src/Page/Index.elm` and `content/news.md` (see the mirror rule below). `papers.yaml` does not feed the news feed, so this step is easy to forget — six papers were once missed this way. The house format is:
